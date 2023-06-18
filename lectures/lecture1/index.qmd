@@ -1,6 +1,6 @@
 ---
 title: "Lecture 1 Introduction"
-description-meta: "Introduction to energy and climate policy"
+description-meta: "Introduction to energy, climate, and society"
 author: "Gang He"
 date: Aug 22, 2023
 date-format: long
