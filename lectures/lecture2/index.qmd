@@ -1,0 +1,80 @@
+---
+title: "Lecture 1 Climate Fundamentals"
+description-meta: "Discuss the fundamentals of climate change"
+author: "Gang He"
+date: Aug 31, 2023
+date-format: long
+image: "/lectures/images/2/co2_trend_all_gl_202308.jpeg"
+format:
+  revealjs:
+    theme: white
+ #   embed-resources: true
+    slide-number: true
+    preview-links: auto
+    link-external-newwindow: true
+    citations-hover: true
+    auto-stretch: true
+    r-fit-text: true
+    center: true
+    scrollable: true
+    css: /custom.css
+    footer: <https://drganghe.github.io/energy-climate-society/>
+draft: true    
+---
+
+## A five points "climate haiku"
+
+::: columns
+::: {.column width="50%"}
+1.  **It's warming**
+2.  It's us
+3.  We're sure
+4.  It's bad
+5.  We can fix it
+:::
+
+::: {.column width="50%"}
+![](../images/2/climate-curriculum.png){fig-align="center"}
+:::
+:::
+
+::: footer
+Source: [Kimberly A Nicholas](https://www.kimnicholas.com/climate-change-curriculum.html)
+:::
+
+
+## Climate and Weather
+
+::: columns
+::: {.column width="50%"}
+>Climate is the average weather conditions of a region over a long period of time, usually at least 30 years. 
+Weather refers to short-term atmospheric conditions. Climate change refers to long-term changes.
+:::
+
+::: {.column width="50%"}
+>Weather refers to short-term atmospheric conditions. Climate change refers to long-term changes.
+:::
+
+::: footer
+Source: [National Geographic](https://education.nationalgeographic.org/resource/all-about-climate/)
+:::
+
+
+## Warmer and Warmer
+
+![](../images/2/temp-anomaly-1850-1900.png){fig-align="center"}
+
+::: footer
+Source: @koomey_solving_2022
+:::
+
+------------------------------------------------------------------------
+
+### References
+
+::: {#refs}
+:::
+
+::: footer
+Back to Title [Slide](https://drganghe.github.io/energy-climate-society/lectures/lecture1/#/title-slide), All [Lectures](https://drganghe.github.io/energy-climate-society/lectures.html), Course [Home](https://drganghe.github.io/energy-climate-society/), or Learn More About [Gang He](https://drganghe.github.io)
+:::

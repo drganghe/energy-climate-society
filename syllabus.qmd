@@ -6,15 +6,15 @@ title: Syllabus
 
 **Marxe School of Public and International Affairs**
 
-**Course Name**: EST 603 (#96063), Energy, Climate, and Society
+**Course Name**: PAF 4199 (54476), Energy, Climate, and Society
 
 **Instructor**: Gang He
 
-**Email**: <gang.he@stonybrook.edu>	
+**Email**: <gang.he@baruch.cuny.edu>	
 
-**Office Hours**: Wed 11am-1pm
+**Office Hours**: Thu 1-3pm
 
-**Office Location**: Online <https://goo.gl/oMjKuj> 
+**Office Location**: Online 
 
 
 {{< include /files/includes/_coursedescription.qmd >}}
@@ -22,16 +22,16 @@ title: Syllabus
 
 ## Learning Objectives 
 
-- Develop comprehensive understanding of energy systems, i.e. the interaction of technological, social, economic, and regulatory forces that shaping energy production, conversion, and consumption; 
-- Gain an understanding of main data sources and key methods used to analyze energy systems and their strengths and weaknesses; 
-- Get introduced to major analytical concepts and modeling tools used in energy systems and policy analysis; 
-- Develop basic analytical skills to translate energy systems analysis into effective policy discussion and debate.
+- Develop comprehensive understanding the scientific foundation, economic rational, systems complexity, and policy implications of climate change, energy transtion, and human society;
+- Gain a system understanding of the energy root of climate challenges, and the technology, economic, societal, behavral transformation needed to enable an energy transition; 
+- Get introduced to major analytical concepts and case studies in energy and climate systems and policy analysis; 
+- Develop basic analytical skills to understand and contribute effective policy discussion and debate.
 
 ## Class Readings
 
-This is a restricted list of various interesting and useful books that will be touched during the course. You need to consult them occasionally, but they are optional.
+This is a restricted list of various interesting and useful books that will be discussed during the course. You need to consult them occasionally, but they are optional.
 
-- Masters, Gilbert M. 2013. Renewable and Efficient Electric Power Systems. 2 edition. Hoboken, New Jersey: Wiley.
+- Koomey, Jonathan, and Ian Monroe. 2022. Solving Climate Change: A Guide for Learners and Leaders. IOP Publishing. <https://iopscience.iop.org/book/mono/978-0-7503-4032-8>.
 - MacKay, David JC. 2008. Sustainable Energy without the Hot Air. UIT Cambridge Ltd.
 - Readings and materials will be posted online.
 
@@ -42,10 +42,11 @@ Final grades will be calculated as follows:
 <div style="width:550px">
 Item                           | Weight | Notes
 -------------------------------|--------|-------------------------------------
-Homework                       | 40 %   | 4 homeworks
-Final Project: Proposal        | 10 %   | 
-Final Project: Presentation    | 20 %   |
-Final Project: Report          | 30 %   |
+Weekly policy response         | 20 %   | 10 responses
+Assignments                    | 30 %   | 5 assignments
+Project: Proposal              | 10 %   | 
+Project: Presentation          | 20 %   |
+Project: Policy memo           | 20 %   |
 
 </div>
 
@@ -64,7 +65,6 @@ B-     | 80 - 82.99% | D-    | 60 - 62.99%
 C+     | 77 - 79.99% | F     | < 60%
 </div>
 
-We do NOT offer extra credit or bump up grade. Please do your work to bump up your grade. No grade bump requests will be responded.
 
 
 

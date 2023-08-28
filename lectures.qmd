@@ -12,6 +12,7 @@ listing:
 #page-layout: full
 page-navigation: true
 title-block-banner: false
+repo-actions: false
 ---
 
 

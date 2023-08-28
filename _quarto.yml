@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Energy, Climate, and Society"
-  description: "An open course on Energy, Climate, and Society developed by Dr. Gang He."
+  description: "Energy, Climate, and Society class developed by Dr. Gang He."
   navbar:
     background: light
     left:
@@ -16,34 +16,34 @@ website:
         href: lectures.qmd
       - text: Assignments
         href: assignments.qmd    
-      - text: Project
-        href: project.qmd
+      - text: Policy Memo
+        href: policymemo.qmd        
       - text: Resources
         href: resources.qmd
       - text: Dr. Gang He
         href: http://drganghe.github.io        
     right: 
       - icon: github
-        href: https://github.com/drganghe/energy-climate-society-2023
+        href: https://github.com/drganghe/energy-climate-society
   page-navigation: true
   page-footer: 
     left: "&copy; 2023 [Gang He](http://drganghe.github.io)" 
     right: 
       - icon: github
-        href: https://github.com/drganghe/energy-climate-society-2023
+        href: https://github.com/drganghe/energy-climate-society
       - icon: twitter 
         href: https://twitter.com/DrGangHe
   search:
     location: navbar
     type: textbox
   reader-mode: true
-  repo-url: https://github.com/drganghe/energy-climate-society-2023
+  repo-url: https://github.com/drganghe/energy-climate-society
   repo-actions: [edit, issue, source]
   open-graph: true
   twitter-card: true
   #  creator: "@DrGangHe"
   #  image: "/files/images/hex-Energy-Climate-Society.png"
-  site-url: "https://drganghe.github.io/energy-climate-society-2023"
+  site-url: "https://drganghe.github.io/energy-climate-society"
   google-analytics:
     tracking-id: "G-9ZBRZBEKDN"
     anonymize-ip: true

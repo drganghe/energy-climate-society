@@ -1,20 +1,11 @@
 ---
-title: "Energy and Climate Policy (Fall 2023)"
+title: "Energy, Climate, and Society (Fall 2023)"
 image: "/files/images/hex-Energy-Climate-Society.png"
 sidebar: false
 toc: false
 css: /custom.css
+repo-actions: false
 ---
-
-<!--
-**Department**: [Department of Technology and Society](https://www.stonybrook.edu/est/) @ [Stony Brook University](https://www.stonybrook.edu/)
-
-
-**Instructor**: Gang He
-
-**Credits**: 3
-
--->
 
 {{< include /files/includes/_coursedescription.qmd >}}
 
@@ -36,6 +27,8 @@ This class benefits from many similar classes and I cannot credit them enough be
 - Daniel Kammen, [Energy and Society](http://kammen.berkeley.edu/)  
 
 - Jon Koomey and Ian Monroe, [Solving Climate Change: A guide for learners and leaders](https://iopscience.iop.org/book/mono/978-0-7503-4032-8)  
+
+- Paul Shepson, Michael Rubenstein, Christine Gilbert, et al. [Energy, Climate and Society](https://news.stonybrook.edu/university/new-course-on-energy-climate-and-society-is-a-cross-college-collaboration/)
 
 
 ## Reuse of material
