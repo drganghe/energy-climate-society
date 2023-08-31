@@ -2,11 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://drganghe.github.io/energy-climate-society/schedule.html</loc>
-    <lastmod>2023-08-28T16:03:43.258Z</lastmod>
+    <lastmod>2023-08-31T13:45:37.051Z</lastmod>
   </url>
   <url>
-    <loc>https://drganghe.github.io/energy-climate-society/lectures/lecture1/index.html</loc>
-    <lastmod>2023-08-28T15:59:57.239Z</lastmod>
+    <loc>https://drganghe.github.io/energy-climate-society/lectures/lecture2.html</loc>
+    <lastmod>2023-08-31T11:06:31.742Z</lastmod>
+  </url>
+  <url>
+    <loc>https://drganghe.github.io/energy-climate-society/lectures/lecture1.html</loc>
+    <lastmod>2023-08-30T18:04:11.624Z</lastmod>
   </url>
   <url>
     <loc>https://drganghe.github.io/energy-climate-society/syllabus.html</loc>
@@ -18,7 +22,7 @@
   </url>
   <url>
     <loc>https://drganghe.github.io/energy-climate-society/assignments.html</loc>
-    <lastmod>2023-08-28T15:58:19.197Z</lastmod>
+    <lastmod>2023-08-31T18:22:31.200Z</lastmod>
   </url>
   <url>
     <loc>https://drganghe.github.io/energy-climate-society/policymemo.html</loc>
@@ -29,7 +33,15 @@
     <lastmod>2023-08-28T15:57:49.856Z</lastmod>
   </url>
   <url>
+    <loc>https://drganghe.github.io/energy-climate-society/lectures/index.html</loc>
+    <lastmod>2023-01-19T21:18:50.100Z</lastmod>
+  </url>
+  <url>
     <loc>https://drganghe.github.io/energy-climate-society/resources.html</loc>
-    <lastmod>2023-08-27T14:03:20.631Z</lastmod>
+    <lastmod>2023-08-29T14:18:39.908Z</lastmod>
+  </url>
+  <url>
+    <loc>https://drganghe.github.io/energy-climate-society/assignments/hw1.html</loc>
+    <lastmod>2023-08-31T18:20:30.200Z</lastmod>
   </url>
 </urlset>

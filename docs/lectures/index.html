@@ -1,23 +1,23 @@
 <!DOCTYPE html>
 <html lang="en"><head>
-<script src="../../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../../site_libs/quarto-html/tabby.min.js"></script>
-<script src="../../site_libs/quarto-html/popper.min.js"></script>
-<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
-<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/light-border.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-html.min.css" rel="stylesheet" data-mode="light">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-html/tabby.min.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/light-border.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-html.min.css" rel="stylesheet" data-mode="light">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
   <meta name="generator" content="quarto-1.4.330">
 
   <meta name="author" content="Gang He">
-  <meta name="dcterms.date" content="2023-08-31">
-  <title>Energy, Climate, and Society - Lecture 1 Climate Fundamentals</title>
+  <meta name="dcterms.date" content="2022-08-29">
+  <title>Energy, Climate, and Society - Lecture 2 Make Sense of Energy Numbers</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
-  <link rel="stylesheet" href="../../site_libs/revealjs/dist/reset.css">
-  <link rel="stylesheet" href="../../site_libs/revealjs/dist/reveal.css">
+  <link rel="stylesheet" href="../site_libs/revealjs/dist/reset.css">
+  <link rel="stylesheet" href="../site_libs/revealjs/dist/reveal.css">
   <style>
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
@@ -50,8 +50,8 @@
     div.csl-indent {
       margin-left: 2em;
     }  </style>
-  <link rel="stylesheet" href="../../site_libs/revealjs/dist/theme/quarto.css">
-  <link rel="stylesheet" href="../../custom.css">
+  <link rel="stylesheet" href="../site_libs/revealjs/dist/theme/quarto.css">
+  <link rel="stylesheet" href="../custom.css">
   <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-9ZBRZBEKDN"></script>
 
   <script type="text/javascript">
@@ -61,10 +61,10 @@
   gtag('js', new Date());
   gtag('config', 'G-9ZBRZBEKDN', { 'anonymize_ip': true});
   </script>
-  <link href="../../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
-  <link href="../../site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
-  <link href="../../site_libs/revealjs/plugin/reveal-menu/quarto-menu.css" rel="stylesheet">
-  <link href="../../site_libs/revealjs/plugin/quarto-support/footer.css" rel="stylesheet">
+  <link href="../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
+  <link href="../site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
+  <link href="../site_libs/revealjs/plugin/reveal-menu/quarto-menu.css" rel="stylesheet">
+  <link href="../site_libs/revealjs/plugin/quarto-support/footer.css" rel="stylesheet">
   <style type="text/css">
 
   .callout {
@@ -351,11 +351,11 @@
       margin-right: 0; 
     }
   </style>
-<meta property="og:title" content="Energy, Climate, and Society - Lecture 1 Climate Fundamentals">
-<meta property="og:image" content="https://drganghe.github.io/energy-climate-society/lectures/images/2/co2_trend_all_gl_202308.jpeg">
+<meta property="og:title" content="Energy, Climate, and Society - Lecture 2 Make Sense of Energy Numbers">
+<meta property="og:image" content="https://drganghe.github.io/energy-climate-society/lectures/images/boe-equations.png">
 <meta property="og:site_name" content="Energy, Climate, and Society">
-<meta name="twitter:title" content="Energy, Climate, and Society - Lecture 1 Climate Fundamentals">
-<meta name="twitter:image" content="https://drganghe.github.io/energy-climate-society/lectures/images/2/co2_trend_all_gl_202308.jpeg">
+<meta name="twitter:title" content="Energy, Climate, and Society - Lecture 2 Make Sense of Energy Numbers">
+<meta name="twitter:image" content="https://drganghe.github.io/energy-climate-society/lectures/images/boe-equations.png">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 <body class="quarto-light">
@@ -363,7 +363,7 @@
     <div class="slides">
 
 <section id="title-slide" class="quarto-title-block center">
-  <h1 class="title">Lecture 1 Climate Fundamentals</h1>
+  <h1 class="title">Lecture 2 Make Sense of Energy Numbers</h1>
 
 <div class="quarto-title-authors">
 <div class="quarto-title-author">
@@ -373,83 +373,223 @@ Gang He
 </div>
 </div>
 
-  <p class="date">August 31, 2023</p>
+  <p class="date">August 29, 2022</p>
 </section>
-<section id="a-five-points-climate-haiku" class="slide level2 center">
-<h2>A five points “climate haiku”</h2>
+<section id="section" class="slide level2 center" data-background-color="black" data-background-image="./images/one-ton-co2.jpg">
+<h2></h2>
+<div class="footer">
+<p>Photo by Gang He on the train to UNFCCC CoP15 conference, Dec 6, 2009.</p>
+</div>
+</section>
+<section id="nycs-daily-carbon-dioxide-emissions-as-one-tonne-spheres" class="slide level2 center">
+<h2>NYC’s daily carbon dioxide emissions as one-tonne spheres</h2>
+
+<img data-src="images/nyc-daily-carbon-emission.jpeg" class="r-stretch quarto-figure-center"><div class="footer">
+<p>Source: <a href="https://www.flickr.com/photos/carbonquilt/8112404383">Carbon Visuals</a></p>
+</div>
+</section>
+<section id="climate-stripes" class="slide level2 center">
+<h2>Climate stripes</h2>
+
+<img data-src="images/GLOBE-1850-2021-MO-barslabel.png" class="r-stretch quarto-figure-center"><div class="footer">
+<p>Source: <a href="https://showyourstripes.info/c/globe">Ed Hawkins</a></p>
+</div>
+</section>
+<section id="carbon-budget" class="slide level2 center">
+<h2>Carbon budget</h2>
+
+<img data-src="images/system-carbon-budget.png" class="r-stretch quarto-figure-center"><div class="footer">
+<p>Source: <a href="https://www.globalcarbonaproject.org/global/images/carbonbudget/Infographic_Emissions2021.pdf">Global Carbon Project</a></p>
+</div>
+</section>
+<section id="emission-and-concentration" class="slide level2 center">
+<h2>Emission and concentration</h2>
+
+<img data-src="images/emissions_vs_concentrations_1751-2021.png" class="r-stretch quarto-figure-center"><div class="footer">
+<p>Source:Rebecca Lindsey, <a href="https://www.climate.gov/news-features/understanding-climate/climate-change-atmospheric-carbon-dioxide">climate.gov</a></p>
+</div>
+</section>
+<section id="get-comfortable-with-units" class="slide level2 center">
+<h2>Get comfortable with units</h2>
+
+<img data-src="images/energy-units.png" class="r-stretch quarto-figure-center"><div class="footer">
+<p>Source: <a href="https://www.metricmethods.com/SIcharts/energy.pdf">MetricMethods</a></p>
+</div>
+</section>
+<section id="scale-of-numbers" class="slide level2 center">
+<h2>Scale of numbers</h2>
+
+<img data-src="images/energy-units-scale.png" class="r-stretch quarto-figure-center"><div class="footer">
+<p>Source: IIASA, <a href="https://previous.iiasa.ac.at/web/home/research/Flagship-Projects/Global-Energy-Assessment/GEA_Chapter1.pdf">Energy Primier</a></p>
+</div>
+</section>
+<section id="comparing-the-worlds-energy-resources" class="slide level2 center">
+<h2>Comparing the world’s energy resources</h2>
+
+<img data-src="images/perez-planetary-energy.png" class="r-stretch quarto-figure-center"><div class="footer">
+<p>Source: <a href="http://asrc.albany.edu/people/faculty/perez/">Richard Perez</a></p>
+</div>
+</section>
+<section id="energy-stock-and-flow" class="slide level2 center">
+<h2>Energy stock and flow</h2>
+
+<img data-src="images/energy-stock-flow.png" class="r-stretch quarto-figure-center"><div class="footer">
+<p>Source: <span class="citation" data-cites="hermann2006quantifying">Hermann (<a href="#/references" role="doc-biblioref" onclick="">2006</a>)</span></p>
+</div>
+</section>
+<section id="energy-vs.-power" class="slide level2 center">
+<h2>Energy vs.&nbsp;power</h2>
+
+<img data-src="images/Power-vs-Energy.png" class="r-stretch quarto-figure-center"><div class="footer">
+<p>Source: <a href="https://www.ourdailyplanet.com/story/explain-it-to-me-energy-vs-power/">ODP</a></p>
+</div>
+</section>
+<section id="energy-vs-power" class="slide level2 center">
+<h2>Energy vs power</h2>
 <div class="columns">
 <div class="column" style="width:50%;">
-<ol type="1">
-<li><strong>It’s warming</strong></li>
-<li>It’s us</li>
-<li>We’re sure</li>
-<li>It’s bad</li>
-<li>We can fix it</li>
-</ol>
+<ul>
+<li>Energy is the ability to do work. Energy is power integrated over <strong>time</strong>.</li>
+<li>Basic unit: joule = watt<span>·</span>second</li>
+</ul>
 </div><div class="column" style="width:50%;">
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="../images/2/climate-curriculum.png"></p>
-</figure>
+<ul>
+<li>Power is the <strong>rate</strong> at which work is done, or energy is transmitted.</li>
+<li>Basic unit: watt = jourle/second</li>
+</ul>
 </div>
 </div>
-</div>
-<div class="footer">
-<p>Source: <a href="https://www.kimnicholas.com/climate-change-curriculum.html">Kimberly A Nicholas</a></p>
-</div>
+<p>We need to know what we are talking about!</p>
 </section>
-<section id="climate-and-weather" class="slide level2 center">
-<h2>Climate and Weather</h2>
-<p>::: columns ::: {.column width=“50%”} &gt;Climate is the average weather conditions of a region over a long period of time, usually at least 30 years. Weather refers to short-term atmospheric conditions. Climate change refers to long-term changes. :::</p>
-<div class="column" style="width:50%;">
-<blockquote>
-<p>Weather refers to short-term atmospheric conditions. Climate change refers to long-term changes.</p>
-</blockquote>
-</div>
-<div class="footer">
-<p>Source: <a href="https://education.nationalgeographic.org/resource/all-about-climate/">National Geographic</a></p>
-</div>
-</section>
-<section id="warmer-and-warmer" class="slide level2 center">
-<h2>Warmer and Warmer</h2>
+<section id="back-of-the-envelope-estimation" class="slide level2 center">
+<h2>Back-of-the-envelope estimation</h2>
 
-<img data-src="../images/2/temp-anomaly-1850-1900.png" class="r-stretch quarto-figure-center"><div class="footer">
-<p>Source: <span class="citation" data-cites="koomey_solving_2022">Koomey and Monroe (<a href="#/references" role="doc-biblioref" onclick="">2022</a>)</span></p>
+<img data-src="images/boe-equations.png" class="r-stretch quarto-figure-center"><div class="footer">
+<p>Source: Gang He</p>
 </div>
+</section>
+<section id="art-rosenfeld" class="slide level2 center">
+<h2>Art Rosenfeld</h2>
+
+<img data-src="images/art-rosenfeld.jpeg" class="r-stretch quarto-figure-center"><div class="footer">
+<p>Source: <a href="https://artrosenfeld.lbl.gov/">LBL</a></p>
+</div>
+</section>
+<section id="rosenfeld-effect" class="slide level2 center">
+<h2>Rosenfeld Effect</h2>
+
+<img data-src="images/art-rosenfeld-effect.png" class="r-stretch quarto-figure-center"><div class="footer">
+<p>Source: <a href="https://newscenter.lbl.gov/2017/01/27/art-rosenfeld-californias-godfather-energy-efficiency-90/">LBL</a>, <span class="citation" data-cites="koomey2010defining">Koomey et al. (<a href="#/references" role="doc-biblioref" onclick="">2010</a>)</span></p>
+</div>
+</section>
+<section id="comparing-with-the-three-gorges-dam" class="slide level2 center">
+<h2>Comparing with the Three Gorges Dam</h2>
+
+<img data-src="images/AnnualElectricitySavingsfrom2010-2013MEPS.png" class="r-stretch quarto-figure-center"><div class="footer">
+<p>Source: <span class="citation" data-cites="fridley2016impacts">Fridley et al. (<a href="#/references" role="doc-biblioref" onclick="">2016</a>)</span></p>
+</div>
+</section>
+<section id="common-sources-of-energy-and-climate-data" class="slide level2 smaller center">
+<h2>Common sources of energy and climate data</h2>
+<div class="columns">
+<div class="column" style="width:33%;">
+<p><strong>Energy</strong>:<br>
+- IEA (OECD)<br>
+- EIA<br>
+- UN<br>
+- WB<br>
+- BP Statistical Review of World Energy</p>
+</div><div class="column" style="width:33%;">
+<p><strong>Climate</strong>:<br>
+- NASA<br>
+- NCAR<br>
+- EUCCI<br>
+- UNEP<br>
+- NOAA</p>
+</div><div class="column" style="width:33%;">
+<p><strong>Carbon</strong>:<br>
+- CDIAC (Carbon Dioxide Information Analysis Center)<br>
+- EDGAR (emissions database for global atmospheric research system)<br>
+- Carbon Budget Project<br>
+- Carbon Monitor</p>
+</div>
+</div>
+<div class="footer">
+<p>Source: <span class="citation" data-cites="macknick_energy_2011">Macknick (<a href="#/references" role="doc-biblioref" onclick="">2011</a>)</span></p>
+</div>
+</section>
+<section id="data-quality" class="slide level2 center">
+<h2>Data quality</h2>
+<ul>
+<li>Availability<br>
+</li>
+<li>Accessibility<br>
+</li>
+<li>Credibility</li>
+</ul>
+<p>Comparison, Validation, Verification</p>
+</section>
+<section id="use-data-tools" class="slide level2 center">
+<h2>Use data tools</h2>
+<ul>
+<li>API<br>
+</li>
+<li>Packages<br>
+</li>
+<li>Open-souce tools</li>
+</ul>
+</section>
+<section id="big-data-and-ai-era" class="slide level2 center">
+<h2>Big data and AI era</h2>
+<ul>
+<li>Big climate, earth, energy data available due to satellite, use-generated data, devices, sensors, smart meters</li>
+<li>Data driven approches</li>
+</ul>
+<p>Big data doesnot necessarily mean big picture</p>
+<p>AI doesnot necessarily mean better insights</p>
 </section>
 <section class="slide level2 smaller scrollable" id="references">
 
 <h3 id="references">References</h3>
 <div id="refs" class="references csl-bib-body hanging-indent" role="list">
-<div id="ref-koomey_solving_2022" class="csl-entry" role="listitem">
-Koomey, Jonathan, and Ian Monroe. 2022. <em>Solving <span>Climate</span> <span>Change</span>: <span>A</span> Guide for Learners and Leaders</em>. IOP Publishing. <a href="https://iopscience.iop.org/book/mono/978-0-7503-4032-8">https://iopscience.iop.org/book/mono/978-0-7503-4032-8</a>.
+<div id="ref-fridley2016impacts" class="csl-entry" role="listitem">
+Fridley, David, Nina Z Khanna, Nan Zhou, and Michael McNeil. 2016. <span>“Impacts of China’s 2010 to 2013 Mandatory Product Energy Efficiency Standards: A Retrospective and Prospective Look.”</span> In. ACEEE. <a href="https://www.aceee.org/files/proceedings/2016/data/papers/5_131.pdf">https://www.aceee.org/files/proceedings/2016/data/papers/5_131.pdf</a>.
+</div>
+<div id="ref-hermann2006quantifying" class="csl-entry" role="listitem">
+Hermann, Weston A. 2006. <span>“Quantifying Global Exergy Resources.”</span> <em>Energy</em> 31 (12): 1685–1702. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0360544205001805">https://www.sciencedirect.com/science/article/abs/pii/S0360544205001805</a>.
+</div>
+<div id="ref-koomey2010defining" class="csl-entry" role="listitem">
+Koomey, Jonathan, Hashem Akbari, Carl Blumstein, Marilyn Brown, Richard Brown, Chris Calwell, Sheryl Carter, et al. 2010. <span>“Defining a Standard Metric for Electricity Savings.”</span> <em>Environmental Research Letters</em> 5 (1): 014017. <a href="https://iopscience.iop.org/article/10.1088/1748-9326/5/1/014017">https://iopscience.iop.org/article/10.1088/1748-9326/5/1/014017</a>.
+</div>
+<div id="ref-macknick_energy_2011" class="csl-entry" role="listitem">
+Macknick, Jordan. 2011. <span>“Energy and <span>CO</span>2 Emission Data Uncertainties.”</span> <em>Carbon Management</em> 2 (2): 189–205. <a href="https://doi.org/10.4155/cmt.11.10">https://doi.org/10.4155/cmt.11.10</a>.
 </div>
 </div>
 <div class="footer">
-<p>Back to Title <a href="https://drganghe.github.io/energy-climate-society/lectures/lecture1/#/title-slide">Slide</a>, All <a href="https://drganghe.github.io/energy-climate-society/lectures.html">Lectures</a>, Course <a href="https://drganghe.github.io/energy-climate-society/">Home</a>, or Learn More About <a href="https://drganghe.github.io">Gang He</a></p>
+<p>Back to Title <a href="https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/lectures/lecture2/#/title-slide">Slide</a>, All <a href="https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/lectures.html">Lectures</a>, Course <a href="https://drganghe.github.io/est603-energy-systems-analysis-2022-fall">Home</a>, or Learn More About <a href="https://drganghe.github.io">Gang He</a></p>
 </div>
 
 <div class="footer footer-default">
-<p><a href="https://drganghe.github.io/energy-climate-society/" class="uri">https://drganghe.github.io/energy-climate-society/</a></p>
+<p><a href="https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/" class="uri">https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/</a></p>
 </div>
 </section>
     </div>
   </div>
 
   <script>window.backupDefine = window.define; window.define = undefined;</script>
-  <script src="../../site_libs/revealjs/dist/reveal.js"></script>
+  <script src="../site_libs/revealjs/dist/reveal.js"></script>
   <!-- reveal.js plugins -->
-  <script src="../../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.js"></script>
-  <script src="../../site_libs/revealjs/plugin/pdf-export/pdfexport.js"></script>
-  <script src="../../site_libs/revealjs/plugin/reveal-menu/menu.js"></script>
-  <script src="../../site_libs/revealjs/plugin/reveal-menu/quarto-menu.js"></script>
-  <script src="../../site_libs/revealjs/plugin/quarto-support/support.js"></script>
+  <script src="../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.js"></script>
+  <script src="../site_libs/revealjs/plugin/pdf-export/pdfexport.js"></script>
+  <script src="../site_libs/revealjs/plugin/reveal-menu/menu.js"></script>
+  <script src="../site_libs/revealjs/plugin/reveal-menu/quarto-menu.js"></script>
+  <script src="../site_libs/revealjs/plugin/quarto-support/support.js"></script>
   
 
-  <script src="../../site_libs/revealjs/plugin/notes/notes.js"></script>
-  <script src="../../site_libs/revealjs/plugin/search/search.js"></script>
-  <script src="../../site_libs/revealjs/plugin/zoom/zoom.js"></script>
-  <script src="../../site_libs/revealjs/plugin/math/math.js"></script>
+  <script src="../site_libs/revealjs/plugin/notes/notes.js"></script>
+  <script src="../site_libs/revealjs/plugin/search/search.js"></script>
+  <script src="../site_libs/revealjs/plugin/zoom/zoom.js"></script>
+  <script src="../site_libs/revealjs/plugin/math/math.js"></script>
   <script>window.define = window.backupDefine; window.backupDefine = undefined;</script>
 
   <script>

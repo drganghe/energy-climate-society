@@ -4,7 +4,7 @@ description-meta: "Introduction to energy, climate, and society"
 author: "Gang He"
 date: Aug 29, 2023
 date-format: long
-image: "/lectures/images/1/economy-environment-energy.jpeg"
+image: "/lectures/images/1/420ppm.png"
 format:
   revealjs:
     theme: white
@@ -21,7 +21,7 @@ format:
     footer: <https://drganghe.github.io/energy-climate-society/>
 ---
 
-![](../images/1/420ppm.png)
+![](/lectures/images/1/420ppm.png)
 
 ::: footer
 Source: [NOAA](https://gml.noaa.gov/ccgg/trends/gl_trend.html)
@@ -47,11 +47,11 @@ How to evaluate its impact to the emission reduction?
 
 ::: columns
 ::: {.column width="50%"}
-![](../images/1/biden-sign.jpeg){fig-align="center"}
+![](/lectures/images/1/biden-sign.jpeg){fig-align="center"}
 :::
 
 ::: {.column width="50%"}
-![](../images/1/ira1year.jpeg){fig-align="center"}
+![](/lectures/images/1/ira1year.jpeg){fig-align="center"}
 :::
 :::
 
@@ -116,7 +116,7 @@ Source: Source: [Secretory Jennifer Granholm](https://twitter.com/SecGranholm/st
 :::
 
 ::: {.column width="50%"}
-![](../images/1/climate-curriculum.png){fig-align="center"}
+![](/lectures/images/1/climate-curriculum.png){fig-align="center"}
 :::
 :::
 
@@ -127,7 +127,7 @@ Source: [Kimberly A Nicholas](https://www.kimnicholas.com/climate-change-curricu
 
 ## Climate and energy systems are both complicated
 
-![](../images/1/us-energy-infrastructure.png){fig-align="center"}
+![](/lectures/images/1/us-energy-infrastructure.png){fig-align="center"}
 
 ::: footer
 Source: [EIA](https://www.eia.gov/state/maps.php)
@@ -137,7 +137,7 @@ Source: [EIA](https://www.eia.gov/state/maps.php)
 
 ::: columns
 ::: {.column width="50%"}
-![](../images/world-energy-trilemma-2021.png){fig-align="center"}
+![](/lectures/images/1/world-energy-trilemma-2021.png){fig-align="center"}
 :::
 
 ::: {.column width="50%"}
@@ -161,7 +161,7 @@ Source: [World Energy Council](https://www.worldenergy.org/transition-toolkit/wo
 
 ::: columns
 ::: {.column width="50%"}
-![](../images/1/economy-environment-energy.jpeg){fig-align="center"}
+![](/lectures/images/1/economy-environment-energy.jpeg){fig-align="center"}
 :::
 
 ::: {.column width="50%"}
@@ -179,7 +179,7 @@ Source: [ICMA](https://icma.org/articles/article/growing-green-economy)
 
 ## Energy great achievements
 
-![](../images/1/energy-great-achievement.png){fig-align="center"}
+![](/lectures/images/1/energy-great-achievement.png){fig-align="center"}
 
 ::: footer
 Source: [National Academies](http://www.greatachievements.org/)
@@ -187,7 +187,7 @@ Source: [National Academies](http://www.greatachievements.org/)
 
 ## Energy grand challenges: SDGs
 
-![](../images/1/un-sdg.png){fig-align="center"}
+![](/lectures/images/1/un-sdg.png){fig-align="center"}
 
 ::: footer
 Source: [UN](https://www.un.org/sustainabledevelopment/sustainable-development-goals/)
@@ -195,7 +195,7 @@ Source: [UN](https://www.un.org/sustainabledevelopment/sustainable-development-g
 
 ## Energy grand challenges: net-zero
 
-![](../images/1/iea-net-zero.png){fig-align="center"}
+![](/lectures/images/1/iea-net-zero.png){fig-align="center"}
 
 ::: footer
 Source: @iea_net_2021
@@ -204,7 +204,7 @@ Source: @iea_net_2021
 
 ## Renewables are achieving grid parity
 
-![](../images/1/irena-re-costs-2021.png){fig-align="center"}
+![](/lectures/images/1/irena-re-costs-2021.png){fig-align="center"}
 
 ::: footer
 Source: @irena_renewable_2021
@@ -214,11 +214,11 @@ Source: @irena_renewable_2021
 
 ::: columns
 ::: {.column width="50%"}
-<br> ![](../images/1/accelerate-re-china.png){fig-align="center"}
+<br> ![](/lectures/images/1/accelerate-re-china.png){fig-align="center"}
 :::
 
 ::: {.column width="50%"}
-![](../images/1/re-costs-and-ccs.jpg){fig-align="center"}
+![](/lectures/images/1/re-costs-and-ccs.jpg){fig-align="center"}
 :::
 :::
 
@@ -235,5 +235,5 @@ Source: @he_rapid_2020, @grant_cost_2021
 :::
 
 ::: footer
-Back to Title [Slide](https://drganghe.github.io/energy-climate-society/lectures/lecture1/#/title-slide), All [Lectures](https://drganghe.github.io/energy-climate-society/lectures.html), Course [Home](https://drganghe.github.io/energy-climate-society/), or Learn More About [Gang He](https://drganghe.github.io)
+Back to Title [Slide](https://drganghe.github.io/energy-climate-society/lectures/lecture1.html#title-slide), All [Lectures](https://drganghe.github.io/energy-climate-society/lectures.html), Course [Home](https://drganghe.github.io/energy-climate-society/), or Learn More About [Gang He](https://drganghe.github.io)
 :::

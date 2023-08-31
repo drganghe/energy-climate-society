@@ -2,7 +2,7 @@
 title: Resources
 ---
 
-Keep updating ...
+Under updating
 
 ## Baruch/CUNY climate resources
 
@@ -13,8 +13,12 @@ CUNY [Climate Scholars](https://blogs.baruch.cuny.edu/climateaction/)
 
 ## NYC/NYS resources
 
+[NYSERDA](https://www.nyserda.ny.gov/Impact-Greenhouse-Gas-Emissions-Reduction)
+
 
 ## Climate jobs
+
+IISD [Climate Change Jobs](https://jobs.iisd.net/)
 
 
 ## Energy and climate news
@@ -28,6 +32,10 @@ E&E [News](https://www.eenews.net/)
 [Carbon Brief](https://www.carbonbrief.org/)
 
 [Climate Central](https://www.climatecentral.org/)
+
+EIA [Today in Energy](https://www.eia.gov/todayinenergy/)
+
+[Our World in Data](https://ourworldindata.org/)
 
 
 ## Energy, climate, and carbon data and analysis

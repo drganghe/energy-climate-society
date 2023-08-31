@@ -1,0 +1,49 @@
+---
+title: Assignment 1 Carbon footprint calculation
+
+format: 
+  html: 
+    theme: cosmo
+#    css: styles.css
+    toc: true
+    link-external-icon: false
+    link-external-newwindow: true
+  pdf: 
+    documentclass: article
+    #classoption: [landscape]
+    lof: false
+    lot: false
+    geometry:
+      - top=1in
+      - bottom=1in
+      - left=1in
+      - right=1in
+      - heightrounded
+    #fontfamily: xelatex
+    colorlinks: true
+#draft: true
+---
+
+Knowing your carbon footprint is the first step to mitigate it. This assignment is designed for you to work out the carbon emissions of your daily life, understand your energy consuming and carbon emitting activities, the factors that drive your emissions, and relate those to the global climate change in a larger context.
+
+
+## Questions
+
+- Please create an inventory of your energy consuming activities, as complete as possilble. You may categorize your activities by travel, home (lighting, cooking, heating, cooling), food, shopping, etc. (1pts)   
+- Calculate your energy consumption by item (1pts)  
+- Find appropriate emission factors for your itemlized energy consumpiton, and make reasonable assumption if such data is not available, calculate your daily and annual carbon footprint (2pts)   
+- Discuss where and how can you reduce your carbon footprint, and what factors may block you from doing that? (2pts)
+
+
+## Carbon footprint calculators
+
+- Cool Climate Network [household calculator](https://coolclimate.org/calculator)  
+- EPA [carbon footprint calculator](https://www3.epa.gov/carbon-footprint-calculator/)
+
+
+## Further readings
+
+- Jones, Christopher M., and Daniel M. Kammen. 2011. “Quantifying Carbon Footprint Reduction Opportunities for U.S. Households and Communities.” Environmental Science & Technology 45 (9): 4088–95. <https://doi.org/10.1021/es102221h>.  
+
+
+

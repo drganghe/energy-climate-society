@@ -3,10 +3,11 @@ title: Assignments
 repo-actions: false
 ---
 
-<!--
+
 | # | Topic | pdf | Due Date |
 |-----------------|-----------------|---------------------|---------------------|
-| 0    | [IRA emission reduction assessment](assignments/hw0.qmd) | [hw0](assignments/hw0.pdf) | N/A    |
+| 1    | [Carbon footprint calculation](assignments/hw1.qmd) | [hw1](assignments/hw1.pdf) | 9/7    |
+<!--
 | 1    | [Air quality in China and India](assignments/hw1.qmd) | [hw1](assignments/hw1.pdf)  | 9/12 |
 | 2    | [Energy project economics](assignments/hw2.qmd) | [hw2](assignments/hw2.pdf)  |  9/26      |
 | 3    | [Energy technology and impacts](assignments/hw3.qmd) | [hw3](assignments/hw3.pdf)  | 10/24 |

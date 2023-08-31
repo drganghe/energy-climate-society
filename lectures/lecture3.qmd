@@ -1,10 +1,10 @@
 ---
-title: "Lecture 1 Climate Fundamentals"
+title: "Lecture 3 Climate Fundamentals"
 description-meta: "Discuss the fundamentals of climate change"
 author: "Gang He"
-date: Aug 31, 2023
+date: September 5, 2023
 date-format: long
-image: "/lectures/images/2/co2_trend_all_gl_202308.jpeg"
+image: "/lectures/images/3/co2_trend_all_gl_202308.png"
 format:
   revealjs:
     theme: white
@@ -34,7 +34,7 @@ draft: true
 :::
 
 ::: {.column width="50%"}
-![](../images/2/climate-curriculum.png){fig-align="center"}
+![](/lectures/images/1/climate-curriculum.png){fig-align="center"}
 :::
 :::
 
@@ -54,19 +54,55 @@ Weather refers to short-term atmospheric conditions. Climate change refers to lo
 ::: {.column width="50%"}
 >Weather refers to short-term atmospheric conditions. Climate change refers to long-term changes.
 :::
+:::
 
 ::: footer
 Source: [National Geographic](https://education.nationalgeographic.org/resource/all-about-climate/)
 :::
 
 
+## Greenhouse Gases(GHG)
+
+
+
+## GHG effect
+
+![](/lectures/images/3/ghg-effect.png){fig-align="center"}
+
+::: footer
+Source: [IPCC](https://archive.ipcc.ch/publications_and_data/ar4/wg1/en/faq-1-3.html)
+:::
+
+
+## Warming since measurement
+
+![](/lectures/images/3/co2-1958-2022.png){fig-align="center"}
+
+::: footer
+Source: [NASA](https://climate.nasa.gov/vital-signs/carbon-dioxide/)
+:::
+
+
+## Warming in context of geological history
+
+![](/lectures/images/3/co2_historical.gif){fig-align="center"}
+
+::: footer
+Source: [NASA](https://climate.nasa.gov/vital-signs/carbon-dioxide/)
+:::
+
+
 ## Warmer and Warmer
 
-![](../images/2/temp-anomaly-1850-1900.png){fig-align="center"}
+![](/lectures/images/3/temp-anomaly-1850-1900.png){fig-align="center"}
 
 ::: footer
 Source: @koomey_solving_2022
 :::
+
+
+
+
 
 ------------------------------------------------------------------------
 
