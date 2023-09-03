@@ -4,7 +4,7 @@
     "href": "schedule.html",
     "title": "Course Schedule",
     "section": "",
-    "text": "Week\nTuesday\nThursday\nAssignment\n\n\n\n\n1\n8/29, Introduction\n8/31, Make sense of numbers"
+    "text": "Week\nTuesday\nThursday\nAssignment\n\n\n\n\n1\n8/29, Introduction\n8/31, Make sense of numbers\nHW1 assigned\n\n\n1\n9/5, Climate Foudamentals"
   },
   {
     "objectID": "lectures/lecture2.html#section",
@@ -333,7 +333,7 @@
     "href": "index.html#acknowledgment",
     "title": "Energy, Climate, and Society (Fall 2023)",
     "section": "Acknowledgment",
-    "text": "Acknowledgment\nThis class benefits from many similar classes and I cannot credit them enough below:\n\nTom Brown, Energy Systems\nDaniel Kammen, Energy and Society\nJon Koomey and Ian Monroe, Solving Climate Change: A guide for learners and leaders\nPaul Shepson, Michael Rubenstein, Christine Gilbert, et al. Energy, Climate and Society"
+    "text": "Acknowledgment\nThis class benefits from many similar classes and I cannot credit them enough below:\n\nDaniel Kammen, Energy and Society\nJon Koomey and Ian Monroe, Solving Climate Change: A guide for learners and leaders\nPaul Shepson, Michael Rubenstein, Christine Gilbert, et al. Energy, Climate and Society"
   },
   {
     "objectID": "index.html#reuse-of-material",
@@ -354,7 +354,7 @@
     "href": "assignments.html",
     "title": "Assignments",
     "section": "",
-    "text": "#\nTopic\npdf\nDue Date\n\n\n\n\n1\nCarbon footprint calculation\nhw1\n9/7"
+    "text": "#\nTopic\npdf\nDue Date\n\n\n\n\n1\nCarbon footprint calculation\nhw1\n9/14"
   },
   {
     "objectID": "policymemo.html",
@@ -403,7 +403,7 @@
     "href": "lectures.html",
     "title": "Lectures",
     "section": "",
-    "text": "Lecture 1 Introduction\n\n\n\n\n\n\nGang He\n\n\nAug 29, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 2 Make Sense of Numbers\n\n\n\n\n\n\nGang He\n\n\nAug 31, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Lecture 1 Introduction\n\n\n\n\n\n\nGang He\n\n\nAug 29, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 2 Make Sense of Numbers\n\n\n\n\n\n\nGang He\n\n\nAug 31, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 3 Climate Fundamentals\n\n\n\n\n\n\nGang He\n\n\nSep 5, 2023\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "lectures/index.html#section",
@@ -614,5 +614,117 @@
     "title": "Assignment 1 Carbon footprint calculation",
     "section": "Further readings",
     "text": "Further readings\n\nJones, Christopher M., and Daniel M. Kammen. 2011. “Quantifying Carbon Footprint Reduction Opportunities for U.S. Households and Communities.” Environmental Science & Technology 45 (9): 4088–95. https://doi.org/10.1021/es102221h."
+  },
+  {
+    "objectID": "lectures/lecture3.html#climate-and-weather",
+    "href": "lectures/lecture3.html#climate-and-weather",
+    "title": "Lecture 3 Climate Fundamentals",
+    "section": "Climate and Weather",
+    "text": "Climate and Weather\n\n\n\nClimate is the average weather conditions of a region over a long period of time, usually at least 30 years. Weather refers to short-term atmospheric conditions. Climate change refers to long-term changes.\n\n\n\nWeather refers to short-term atmospheric conditions. Climate change refers to long-term changes.\n\n\n\n\nSource: National Geographic"
+  },
+  {
+    "objectID": "lectures/lecture3.html#ghg-effect",
+    "href": "lectures/lecture3.html#ghg-effect",
+    "title": "Lecture 3 Climate Fundamentals",
+    "section": "GHG effect",
+    "text": "GHG effect\n\n\nSource: IPCC"
+  },
+  {
+    "objectID": "lectures/lecture3.html#greenhouse-gasesghg",
+    "href": "lectures/lecture3.html#greenhouse-gasesghg",
+    "title": "Lecture 3 Climate Fundamentals",
+    "section": "Greenhouse Gases(GHG)",
+    "text": "Greenhouse Gases(GHG)\n\n\n\nGHG\nGWP-100\nLifetime (Years)\n\n\n\n\nCarbon Dioxide (CO2)\n1\nhundreds\n\n\nMethane (CH4)\n29.8±11\n11.8 ± 1.8\n\n\nNitrous Oxide (N2O)\n273 ± 130\n109 ± 10\n\n\nHydrofluorocarbon-32 (HFC-32)\n771 ± 292\n5.4 ± 1.1\n\n\n\nOther:\n\nSulphur hexafluoride (SF6)\nPFC-14 (CF4)\nWater vapour\n\n\nSource: Table 7.15 in the IPCC AR6 WG-I Report."
+  },
+  {
+    "objectID": "lectures/lecture3.html#from-emissions-to-warming",
+    "href": "lectures/lecture3.html#from-emissions-to-warming",
+    "title": "Lecture 3 Climate Fundamentals",
+    "section": "From emissions to warming",
+    "text": "From emissions to warming\n\n\nSource: IPCC AR6"
+  },
+  {
+    "objectID": "lectures/lecture3.html#warming-since-measurement",
+    "href": "lectures/lecture3.html#warming-since-measurement",
+    "title": "Lecture 3 Climate Fundamentals",
+    "section": "Warming since measurement",
+    "text": "Warming since measurement\n\n\nSource: NASA"
+  },
+  {
+    "objectID": "lectures/lecture3.html#warming-in-context-of-geological-history",
+    "href": "lectures/lecture3.html#warming-in-context-of-geological-history",
+    "title": "Lecture 3 Climate Fundamentals",
+    "section": "Warming in context of geological history",
+    "text": "Warming in context of geological history\n\n\nSource: NASA"
+  },
+  {
+    "objectID": "lectures/lecture3.html#warmer-and-warmer",
+    "href": "lectures/lecture3.html#warmer-and-warmer",
+    "title": "Lecture 3 Climate Fundamentals",
+    "section": "Warmer and Warmer",
+    "text": "Warmer and Warmer\n\n\nSource: Koomey and Monroe (2022)"
+  },
+  {
+    "objectID": "lectures/lecture3.html#climate-spireal",
+    "href": "lectures/lecture3.html#climate-spireal",
+    "title": "Lecture 3 Climate Fundamentals",
+    "section": "Climate spireal",
+    "text": "Climate spireal\n\n\nSource: NASA Scientific Visulization Studio"
+  },
+  {
+    "objectID": "lectures/lecture3.html#human-vs-nature",
+    "href": "lectures/lecture3.html#human-vs-nature",
+    "title": "Lecture 3 Climate Fundamentals",
+    "section": "Human vs nature",
+    "text": "Human vs nature\n\n\nSource: Chapter 3 of the Fourth National Climate Assessment (NCA4)"
+  },
+  {
+    "objectID": "lectures/lecture3.html#human-component-is-the-major-driver-of-warming",
+    "href": "lectures/lecture3.html#human-component-is-the-major-driver-of-warming",
+    "title": "Lecture 3 Climate Fundamentals",
+    "section": "Human component is the major driver of warming",
+    "text": "Human component is the major driver of warming\n\n\nSource: Chapter 3 of the Fourth National Climate Assessment (NCA4)"
+  },
+  {
+    "objectID": "lectures/lecture3.html#scientific-understanding-climate-systems",
+    "href": "lectures/lecture3.html#scientific-understanding-climate-systems",
+    "title": "Lecture 3 Climate Fundamentals",
+    "section": "Scientific understanding: climate systems",
+    "text": "Scientific understanding: climate systems\n\n\nSource: Figure 2.2 of the Fourth National Climate Assessment (NCA4)"
+  },
+  {
+    "objectID": "lectures/lecture3.html#scientific-community-and-process",
+    "href": "lectures/lecture3.html#scientific-community-and-process",
+    "title": "Lecture 3 Climate Fundamentals",
+    "section": "Scientific community and process",
+    "text": "Scientific community and process\n\nWhat is the IPCC?\nHow does the IPCC select its authors?\nWhat literature does the IPCC assess?\nHow does the IPCC review process work?\nHow does the IPCC approve reports?\nHow does the IPCC deal with alleged errors?\nWhat is an Expert Reviewer of IPCC?\n\n\nSource: Learn more about IPCC"
+  },
+  {
+    "objectID": "lectures/lecture3.html#five-stages-of-climate-denial",
+    "href": "lectures/lecture3.html#five-stages-of-climate-denial",
+    "title": "Lecture 3 Climate Fundamentals",
+    "section": "Five stages of climate denial",
+    "text": "Five stages of climate denial\n\nStage 1: Deny the Problem Exists\nStage 2: Deny We’re the Cause\n\nStage 2b: Consensus Denial Stage 3: Deny It’s a Problem Stage 4: Deny We can Solve It Stage 5: It’s too Late\n\n\n\nSource: Dana Nuccitelli, The Guardian, The 5 stages of climate denial are on display ahead of the IPCC report"
+  },
+  {
+    "objectID": "lectures/lecture3.html#a-five-points-climate-haiku",
+    "href": "lectures/lecture3.html#a-five-points-climate-haiku",
+    "title": "Lecture 3 Climate Fundamentals",
+    "section": "A five points “climate haiku”",
+    "text": "A five points “climate haiku”\n\n\n\nIt’s warming\nIt’s us\nWe’re sure\nIt’s bad\nWe can fix it\n\n\n\n\n\n\n\n\n\n\nSource: Kimberly A Nicholas"
+  },
+  {
+    "objectID": "lectures/lecture3.html#references",
+    "href": "lectures/lecture3.html#references",
+    "title": "Lecture 3 Climate Fundamentals",
+    "section": "",
+    "text": "References\n\n\nHansen, James, Makiko Sato, and Reto Ruedy. 2012. “Perception of Climate Change.” Proceedings of the National Academy of Sciences 109 (37): E2415–23. https://doi.org/10.1073/pnas.1205276109.\n\n\nKoomey, Jonathan, and Ian Monroe. 2022. Solving Climate Change: A Guide for Learners and Leaders. IOP Publishing. https://iopscience.iop.org/book/mono/978-0-7503-4032-8.\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He\n\n\n\nhttps://drganghe.github.io/energy-climate-society/"
+  },
+  {
+    "objectID": "lectures/lecture3.html#temprature-anomaly-distribution",
+    "href": "lectures/lecture3.html#temprature-anomaly-distribution",
+    "title": "Lecture 3 Climate Fundamentals",
+    "section": "Temprature anomaly distribution",
+    "text": "Temprature anomaly distribution\n\n\nSource: Hansen, Sato, and Ruedy (2012)"
   }
 ]

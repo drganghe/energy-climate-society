@@ -19,8 +19,153 @@ format:
     scrollable: true
     css: /custom.css
     footer: <https://drganghe.github.io/energy-climate-society/>
-draft: true    
+#draft: true    
 ---
+
+## Climate and Weather
+
+::: columns
+::: {.column width="50%"}
+> Climate is the average weather conditions of a region over a long period of time, usually at least 30 years. Weather refers to short-term atmospheric conditions. Climate change refers to long-term changes.
+:::
+
+::: {.column width="50%"}
+> Weather refers to short-term atmospheric conditions. Climate change refers to long-term changes.
+:::
+:::
+
+::: footer
+Source: [National Geographic](https://education.nationalgeographic.org/resource/all-about-climate/)
+:::
+
+## GHG effect
+
+![](/lectures/images/3/ghg-effect.png){fig-align="center"}
+
+::: footer
+Source: [IPCC](https://archive.ipcc.ch/publications_and_data/ar4/wg1/en/faq-1-3.html)
+:::
+
+## Greenhouse Gases(GHG){.smaller}
+
+| GHG                           | GWP-100   | Lifetime (Years) |
+|-------------------------------|-----------|------------------|
+| Carbon Dioxide (CO2)          | 1         | hundreds         |
+| Methane (CH4)                 | 29.8±11   | 11.8 ± 1.8       |
+| Nitrous Oxide (N2O)           | 273 ± 130 | 109 ± 10         |
+| Hydrofluorocarbon-32 (HFC-32) | 771 ± 292 | 5.4 ± 1.1        |
+
+Other:  
+
+- Sulphur hexafluoride (SF6) 
+- PFC-14 (CF4) 
+- Water vapour 
+
+::: footer
+Source: [Table 7.15](https://report.ipcc.ch/ar6/wg1/IPCC_AR6_WGI_FullReport.pdf) in the IPCC AR6 WG-I Report.
+:::
+
+## From emissions to warming
+
+![](/lectures/images/3/emission-co2-warming.png){fig-align="center"}
+
+::: footer
+Source: [IPCC AR6](https://www.ipcc.ch/report/ar6/syr/figures/figure-2-1)
+:::
+
+
+## Warming since measurement
+
+![](/lectures/images/3/co2-1958-2022.png){fig-align="center"}
+
+::: footer
+Source: [NASA](https://climate.nasa.gov/vital-signs/carbon-dioxide/)
+:::
+
+## Warming in context of geological history
+
+![](/lectures/images/3/co2_historical.jpeg){fig-align="center"}
+
+::: footer
+Source: [NASA](https://climate.nasa.gov/evidence/)
+:::
+
+## Warmer and Warmer
+
+![](/lectures/images/3/temp-anomaly-1850-1900.png){fig-align="center"}
+
+::: footer
+Source: @koomey_solving_2022
+:::
+
+## Climate spireal
+
+![](/lectures/images/3/climate-spiral-1880-2022-circle.png){fig-align="center"}
+
+::: footer
+Source: NASA [Scientific Visulization Studio](https://svs.gsfc.nasa.gov/5057)
+:::
+
+
+## Temprature anomaly distribution
+
+![](/lectures/images/3/temp-anomaly-distribution.jpeg){fig-align="center"}
+
+::: footer
+Source: @hansen_perception_2012
+:::
+
+## Human vs nature
+
+![](/lectures/images/3/human-vs-nature.png){fig-align="center"}
+
+::: footer
+Source: [Chapter 3](https://science2017.globalchange.gov/chapter/3/) of the Fourth National Climate Assessment (NCA4)
+:::
+
+## Human component is the major driver of warming
+
+![](/lectures/images/3/drivers-of-warming.png){fig-align="center"}
+
+::: footer
+Source: [Chapter 3](https://science2017.globalchange.gov/chapter/3/) of the Fourth National Climate Assessment (NCA4)
+:::
+
+## Scientific understanding: climate systems
+
+![](/lectures/images/3/climate-system-framework.png){fig-align="center"}
+
+::: footer
+Source: [Figure 2.2](https://science2017.globalchange.gov/chapter/2/) of the Fourth National Climate Assessment (NCA4)
+:::
+
+
+## Scientific community and process
+
+- What is the IPCC?
+- How does the IPCC select its authors?
+- What literature does the IPCC assess?
+- How does the IPCC review process work?
+- How does the IPCC approve reports?
+- How does the IPCC deal with alleged errors?
+- What is an Expert Reviewer of IPCC?
+
+::: footer
+Source: Learn more about [IPCC](https://www.ipcc.ch/about/)
+:::
+
+## Five stages of climate denial
+
+- Stage 1: Deny the Problem Exists
+- Stage 2: Deny We're the Cause
+  - Stage 2b: Consensus Denial
+Stage 3: Deny It's a Problem
+Stage 4: Deny We can Solve It
+Stage 5: It's too Late
+
+::: footer
+Source: Dana Nuccitelli, The Guardian, [The 5 stages of climate denial are on display ahead of the IPCC report](https://www.theguardian.com/environment/climate-consensus-97-per-cent/2013/sep/16/climate-change-contrarians-5-stages-denial)
+:::
 
 ## A five points "climate haiku"
 
@@ -41,68 +186,6 @@ draft: true
 ::: footer
 Source: [Kimberly A Nicholas](https://www.kimnicholas.com/climate-change-curriculum.html)
 :::
-
-
-## Climate and Weather
-
-::: columns
-::: {.column width="50%"}
->Climate is the average weather conditions of a region over a long period of time, usually at least 30 years. 
-Weather refers to short-term atmospheric conditions. Climate change refers to long-term changes.
-:::
-
-::: {.column width="50%"}
->Weather refers to short-term atmospheric conditions. Climate change refers to long-term changes.
-:::
-:::
-
-::: footer
-Source: [National Geographic](https://education.nationalgeographic.org/resource/all-about-climate/)
-:::
-
-
-## Greenhouse Gases(GHG)
-
-
-
-## GHG effect
-
-![](/lectures/images/3/ghg-effect.png){fig-align="center"}
-
-::: footer
-Source: [IPCC](https://archive.ipcc.ch/publications_and_data/ar4/wg1/en/faq-1-3.html)
-:::
-
-
-## Warming since measurement
-
-![](/lectures/images/3/co2-1958-2022.png){fig-align="center"}
-
-::: footer
-Source: [NASA](https://climate.nasa.gov/vital-signs/carbon-dioxide/)
-:::
-
-
-## Warming in context of geological history
-
-![](/lectures/images/3/co2_historical.gif){fig-align="center"}
-
-::: footer
-Source: [NASA](https://climate.nasa.gov/vital-signs/carbon-dioxide/)
-:::
-
-
-## Warmer and Warmer
-
-![](/lectures/images/3/temp-anomaly-1850-1900.png){fig-align="center"}
-
-::: footer
-Source: @koomey_solving_2022
-:::
-
-
-
-
 
 ------------------------------------------------------------------------
 

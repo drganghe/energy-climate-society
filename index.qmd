@@ -22,8 +22,6 @@ repo-actions: false
 
 This class benefits from many similar classes and I cannot credit them enough below:  
 
-- Tom Brown, [Energy Systems](https://nworbmot.org/teaching.html)  
-
 - Daniel Kammen, [Energy and Society](http://kammen.berkeley.edu/)  
 
 - Jon Koomey and Ian Monroe, [Solving Climate Change: A guide for learners and leaders](https://iopscience.iop.org/book/mono/978-0-7503-4032-8)  
