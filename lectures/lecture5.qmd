@@ -1,0 +1,58 @@
+---
+title: "Lecture 5 Climate Mitigation"
+description-meta: "Discuss the mitigation of climate change"
+author: "Gang He"
+date: September 12, 2023
+date-format: long
+image: "/lectures/images/5/3generation-climate-change.png"
+format:
+  revealjs:
+    theme: white
+ #   embed-resources: true
+    slide-number: true
+    preview-links: auto
+    link-external-newwindow: true
+    citations-hover: true
+    auto-stretch: true
+    r-fit-text: true
+    center: true
+    scrollable: true
+    css: /custom.css
+    footer: <https://drganghe.github.io/energy-climate-society/>
+draft: true    
+---
+
+## A five points "climate haiku"
+
+::: columns
+::: {.column width="50%"}
+1.  It's warming
+2.  It's us
+3.  We're sure
+4.  It's bad
+5.  **We can fix it**
+:::
+
+::: {.column width="50%"}
+![](/lectures/images/1/climate-curriculum.png){fig-align="center"}
+:::
+:::
+
+::: footer
+Source: [Kimberly A Nicholas](https://www.kimnicholas.com/climate-change-curriculum.html)
+:::
+
+
+
+
+
+------------------------------------------------------------------------
+
+### References
+
+::: {#refs}
+:::
+
+::: footer
+Back to Title [Slide](https://drganghe.github.io/energy-climate-society/lectures/lecture1/#/title-slide), All [Lectures](https://drganghe.github.io/energy-climate-society/lectures.html), Course [Home](https://drganghe.github.io/energy-climate-society/), or Learn More About [Gang He](https://drganghe.github.io)
+:::

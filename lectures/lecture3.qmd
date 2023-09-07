@@ -157,11 +157,11 @@ Source: Learn more about [IPCC](https://www.ipcc.ch/about/)
 ## Five stages of climate denial
 
 - Stage 1: Deny the Problem Exists
-- Stage 2: Deny We're the Cause
-  - Stage 2b: Consensus Denial
-Stage 3: Deny It's a Problem
-Stage 4: Deny We can Solve It
-Stage 5: It's too Late
+- Stage 2: Deny We're the Cause 
+  - Stage 2b: Consensus Denial 
+- Stage 3: Deny It's a Problem  
+- Stage 4: Deny We can Solve It  
+- Stage 5: It's too Late  
 
 ::: footer
 Source: Dana Nuccitelli, The Guardian, [The 5 stages of climate denial are on display ahead of the IPCC report](https://www.theguardian.com/environment/climate-consensus-97-per-cent/2013/sep/16/climate-change-contrarians-5-stages-denial)

@@ -4,7 +4,7 @@ description-meta: "Discuss the impacts of climate change"
 author: "Gang He"
 date: September 7, 2023
 date-format: long
-image: "/lectures/images/3/co2_trend_all_gl_202308.png"
+image: "/lectures/images/4/3generation-climate-change.png"
 format:
   revealjs:
     theme: white
@@ -19,7 +19,7 @@ format:
     scrollable: true
     css: /custom.css
     footer: <https://drganghe.github.io/energy-climate-society/>
-draft: true    
+#draft: true    
 ---
 
 ## A five points "climate haiku"
@@ -43,7 +43,163 @@ Source: [Kimberly A Nicholas](https://www.kimnicholas.com/climate-change-curricu
 :::
 
 
+## Adverse impacts of climate change 
 
+![](/lectures/images/4/adverse-impact-climate-change.png){fig-align="center"}
+
+::: footer
+Source: IPCC AR6 Synthesis Repoort [Figure 1](https://www.ipcc.ch/report/ar6/syr/figures/summary-for-policymakers/figure-spm-1)
+:::
+
+
+## The impacts are global 
+
+![](/lectures/images/4/IPCC_AR6_SYR_Figure_2_3_1.png){fig-align="center"}
+
+::: footer
+Source: IPCC AR6 Synthesis Repoort [Figure 2.3.1](https://www.ipcc.ch/report/ar6/syr/figures/summary-for-policymakers/figure-spm-1)
+:::
+
+## Vulnerable population suffers more 
+
+![](/lectures/images/4/IPCC_AR6_SYR_Figure_2_3_2.png){fig-align="center"}
+
+::: footer
+Source: IPCC AR6 Synthesis Repoort [Figure 2.3.2](https://www.ipcc.ch/report/ar6/syr/figures/summary-for-policymakers/figure-spm-1)
+:::
+
+
+## Conventional focues
+
+- Ice melting
+- Sea level rising
+- Extreme weathers
+  - Floods
+  - Droughts
+
+## Damages to include{.smaller}
+
+- agriculture 
+- mortality 
+- energy 
+- low-risk labor 
+- high-risk labor 
+- coastal damages 
+- property crime 
+- violent crime 
+
+What other damages to include?
+
+## Social economic impacts
+
+![](/lectures/images/4/social-economic-impacts.png){fig-align="center"}
+
+::: footer
+Source: @carleton2016social
+:::
+
+
+## Social cost of carbon{.smaller}
+
+- Marginal cost of carbon\
+- Cost included:\
+  - Net agricultural productivity\
+  - Human health\
+  - Property damage\
+  - Energy system costs\
+- Cost not included:\
+  - Unknown impact: physical, ecological, economic\
+  - Unknown cost: information\
+
+
+## U.S. southern states suffer more
+
+![](/lectures/images/4/damages_total_2080_to_2090.jpeg){fig-align="center"}
+
+::: footer
+Source: @hsiang_estimating_2017
+:::
+
+## The poor will get damages more
+
+![](/lectures/images/4/damage-distribution.png){fig-align="center"}
+
+::: footer
+Source: @hsiang_estimating_2017
+:::
+
+## Climate damage function
+
+$Economic\ Damage=f(\Delta temperature)$
+
+- It could be negative or positive
+- Integrated Assessment Models/Economic models
+  - DICE/RICE
+  - FUND
+  - PAGE
+
+::: footer
+Read more: @neumann_climate_2020, @updating_scc_2017
+:::  
+
+
+## Climate change and conflicts
+
+![](/lectures/images/4/climate-and-conflict.jpeg){fig-align="center"}
+
+::: footer
+Read more: @hsiang_quantifying_2013
+::: 
+
+## Climate change affects energy system
+
+![](/lectures/images/4/climate-impact-on-energy.webp){fig-align="center"}
+
+::: footer
+Source: @yalew2020impacts
+:::
+
+
+## Climate impact to renewable supply-demand match
+
+![](/lectures/images/4/climate-change-solar-wind-sdm.png){fig-align="center"}
+
+::: footer
+Source: @liu_climate_2023
+:::
+
+
+## NYS climate impacts assessment{.smaller}
+
+::: columns
+::: {.column width="80%"}
+- Up-to-date projections of future climate conditions in New York State 
+- Sector-based literature reviews 
+- In-depth economic impact assessments 
+- A peer-reviewed technical report that conveys scientific findings 
+- Summaries and syntheses for a wider audience 
+- Adaptation strategies and case studies 
+- Links and references to primary sources for full transparency 
+:::
+
+::: {.column width="20%"}
+![](/lectures/images/4/nys-climate-impact-report.png){fig-align="center"}
+:::
+:::
+
+An ongoing effort, anything missing?
+
+::: footer
+Source: New York State Climate Impacts [Assessment](https://nysclimateimpacts.org/about/what-will-the-assessment-include/)
+:::
+
+## Fuel for thoughts: grand challenges, huge progress, and grand opportunities
+
+![](/lectures/images/4/Two-centuries-World-as-100-people.png){fig-align="center"}
+
+::: footer
+Source: [Our World in Data](https://ourworldindata.org/a-history-of-global-living-conditions)
+:::
 
 ------------------------------------------------------------------------
 

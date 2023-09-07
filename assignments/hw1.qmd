@@ -43,7 +43,7 @@ Knowing your carbon footprint is the first step to mitigate it. This assignment 
 
 ## Further readings
 
-- Jones, Christopher M., and Daniel M. Kammen. 2011. “Quantifying Carbon Footprint Reduction Opportunities for U.S. Households and Communities.” Environmental Science & Technology 45 (9): 4088–95. <https://doi.org/10.1021/es102221h>.  
+- Jones, Christopher M., and Daniel M. Kammen. 2011. “Quantifying Carbon Footprint Reduction Opportunities for U.S. Households and Communities.” *Environmental Science & Technology* 45 (9): 4088–95. <https://doi.org/10.1021/es102221h>.  
 
 
 

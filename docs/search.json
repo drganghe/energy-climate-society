@@ -4,7 +4,7 @@
     "href": "schedule.html",
     "title": "Course Schedule",
     "section": "",
-    "text": "Week\nTuesday\nThursday\nAssignment\n\n\n\n\n1\n8/29, Introduction\n8/31, Make sense of numbers\nHW1 assigned\n\n\n1\n9/5, Climate Foudamentals"
+    "text": "Week\nTuesday\nThursday\nAssignment\n\n\n\n\n1\n8/29, Introduction\n8/31, Make sense of numbers\nHW1 assigned\n\n\n2\n9/5, Climate foudamentals\n9/7, Climate impacts"
   },
   {
     "objectID": "lectures/lecture2.html#section",
@@ -347,7 +347,7 @@
     "href": "index.html#how-to-help",
     "title": "Energy, Climate, and Society (Fall 2023)",
     "section": "How to help",
-    "text": "How to help\nIf you find any issue, please use the “Report an issue” on the right side of a specific page. Any comments and suggestions are very welcome. If you like this work, you can help more people to access the open-source course by spreading the word."
+    "text": "How to help\nIf you like this course, please Star the course repository. If you find any issue, please use the “Report an issue” on the right side of a specific page. You can help more people to access the open-source course by spreading the word. Comments and suggestions are very welcome."
   },
   {
     "objectID": "assignments.html",
@@ -403,7 +403,7 @@
     "href": "lectures.html",
     "title": "Lectures",
     "section": "",
-    "text": "Lecture 1 Introduction\n\n\n\n\n\n\nGang He\n\n\nAug 29, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 2 Make Sense of Numbers\n\n\n\n\n\n\nGang He\n\n\nAug 31, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 3 Climate Fundamentals\n\n\n\n\n\n\nGang He\n\n\nSep 5, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Lecture 1 Introduction\n\n\n\n\n\n\nGang He\n\n\nAug 29, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 2 Make Sense of Numbers\n\n\n\n\n\n\nGang He\n\n\nAug 31, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 3 Climate Fundamentals\n\n\n\n\n\n\nGang He\n\n\nSep 5, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 4 Climate Impacts\n\n\n\n\n\n\nGang He\n\n\nSep 7, 2023\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "lectures/index.html#section",
@@ -704,7 +704,7 @@
     "href": "lectures/lecture3.html#five-stages-of-climate-denial",
     "title": "Lecture 3 Climate Fundamentals",
     "section": "Five stages of climate denial",
-    "text": "Five stages of climate denial\n\nStage 1: Deny the Problem Exists\nStage 2: Deny We’re the Cause\n\nStage 2b: Consensus Denial Stage 3: Deny It’s a Problem Stage 4: Deny We can Solve It Stage 5: It’s too Late\n\n\n\nSource: Dana Nuccitelli, The Guardian, The 5 stages of climate denial are on display ahead of the IPCC report"
+    "text": "Five stages of climate denial\n\nStage 1: Deny the Problem Exists\nStage 2: Deny We’re the Cause\n\nStage 2b: Consensus Denial\n\nStage 3: Deny It’s a Problem\n\nStage 4: Deny We can Solve It\n\nStage 5: It’s too Late\n\n\nSource: Dana Nuccitelli, The Guardian, The 5 stages of climate denial are on display ahead of the IPCC report"
   },
   {
     "objectID": "lectures/lecture3.html#a-five-points-climate-haiku",
@@ -726,5 +726,124 @@
     "title": "Lecture 3 Climate Fundamentals",
     "section": "Temprature anomaly distribution",
     "text": "Temprature anomaly distribution\n\n\nSource: Hansen, Sato, and Ruedy (2012)"
+  },
+  {
+    "objectID": "lectures/lecture4.html#a-five-points-climate-haiku",
+    "href": "lectures/lecture4.html#a-five-points-climate-haiku",
+    "title": "Lecture 4 Climate Impacts",
+    "section": "A five points “climate haiku”",
+    "text": "A five points “climate haiku”\n\n\n\nIt’s warming\nIt’s us\nWe’re sure\nIt’s bad\nWe can fix it\n\n\n\n\n\n\n\n\n\n\nSource: Kimberly A Nicholas"
+  },
+  {
+    "objectID": "lectures/lecture4.html#adverse-impacts-of-climate-change",
+    "href": "lectures/lecture4.html#adverse-impacts-of-climate-change",
+    "title": "Lecture 4 Climate Impacts",
+    "section": "Adverse impacts of climate change",
+    "text": "Adverse impacts of climate change\n\n\nSource: IPCC AR6 Synthesis Repoort Figure 1"
+  },
+  {
+    "objectID": "lectures/lecture4.html#the-impacts-are-global",
+    "href": "lectures/lecture4.html#the-impacts-are-global",
+    "title": "Lecture 4 Climate Impacts",
+    "section": "The impacts are global",
+    "text": "The impacts are global\n\n\nSource: IPCC AR6 Synthesis Repoort Figure 2.3.1"
+  },
+  {
+    "objectID": "lectures/lecture4.html#vulnerable-population-suffers-more",
+    "href": "lectures/lecture4.html#vulnerable-population-suffers-more",
+    "title": "Lecture 4 Climate Impacts",
+    "section": "Vulnerable population suffers more",
+    "text": "Vulnerable population suffers more\n\n\nSource: IPCC AR6 Synthesis Repoort Figure 2.3.2"
+  },
+  {
+    "objectID": "lectures/lecture4.html#conventional-focues",
+    "href": "lectures/lecture4.html#conventional-focues",
+    "title": "Lecture 4 Climate Impacts",
+    "section": "Conventional focues",
+    "text": "Conventional focues\n\nIce melting\nSea level rising\nExtreme weathers\n\nFloods\nDroughts"
+  },
+  {
+    "objectID": "lectures/lecture4.html#damages-to-include",
+    "href": "lectures/lecture4.html#damages-to-include",
+    "title": "Lecture 4 Climate Impacts",
+    "section": "Damages to include",
+    "text": "Damages to include\n\nagriculture\nmortality\nenergy\nlow-risk labor\nhigh-risk labor\ncoastal damages\nproperty crime\nviolent crime\n\nWhat other damages to include?"
+  },
+  {
+    "objectID": "lectures/lecture4.html#social-economic-impacts",
+    "href": "lectures/lecture4.html#social-economic-impacts",
+    "title": "Lecture 4 Climate Impacts",
+    "section": "Social economic impacts",
+    "text": "Social economic impacts\n\n\nSource: Carleton and Hsiang (2016)"
+  },
+  {
+    "objectID": "lectures/lecture4.html#social-cost-of-carbon",
+    "href": "lectures/lecture4.html#social-cost-of-carbon",
+    "title": "Lecture 4 Climate Impacts",
+    "section": "Social cost of carbon",
+    "text": "Social cost of carbon\n\nMarginal cost of carbon\n\nCost included:\n\n\nNet agricultural productivity\n\nHuman health\n\nProperty damage\n\nEnergy system costs\n\n\nCost not included:\n\n\nUnknown impact: physical, ecological, economic\n\nUnknown cost: information"
+  },
+  {
+    "objectID": "lectures/lecture4.html#u.s.-southern-states-suffer-more",
+    "href": "lectures/lecture4.html#u.s.-southern-states-suffer-more",
+    "title": "Lecture 4 Climate Impacts",
+    "section": "U.S. southern states suffer more",
+    "text": "U.S. southern states suffer more\n\n\nSource: S. Hsiang et al. (2017)"
+  },
+  {
+    "objectID": "lectures/lecture4.html#the-poor-will-get-damages-more",
+    "href": "lectures/lecture4.html#the-poor-will-get-damages-more",
+    "title": "Lecture 4 Climate Impacts",
+    "section": "The poor will get damages more",
+    "text": "The poor will get damages more\n\n\nSource: S. Hsiang et al. (2017)"
+  },
+  {
+    "objectID": "lectures/lecture4.html#climate-damage-function",
+    "href": "lectures/lecture4.html#climate-damage-function",
+    "title": "Lecture 4 Climate Impacts",
+    "section": "Climate damage function",
+    "text": "Climate damage function\n\\(Economic\\ Damage=f(\\Delta temperature)\\)\n\nIt could be negative or positive\nIntegrated Assessment Models/Economic models\n\nDICE/RICE\nFUND\nPAGE\n\n\n\nRead more: Neumann et al. (2020), Valuing Climate Changes: Updating Estimation of the Social Cost of Carbon Dioxide (2017)"
+  },
+  {
+    "objectID": "lectures/lecture4.html#climate-change-and-conflicts",
+    "href": "lectures/lecture4.html#climate-change-and-conflicts",
+    "title": "Lecture 4 Climate Impacts",
+    "section": "Climate change and conflicts",
+    "text": "Climate change and conflicts\n\n\nRead more: S. M. Hsiang, Burke, and Miguel (2013)"
+  },
+  {
+    "objectID": "lectures/lecture4.html#climate-change-affects-energy-system",
+    "href": "lectures/lecture4.html#climate-change-affects-energy-system",
+    "title": "Lecture 4 Climate Impacts",
+    "section": "Climate change affects energy system",
+    "text": "Climate change affects energy system\n\n\nSource: Yalew et al. (2020)"
+  },
+  {
+    "objectID": "lectures/lecture4.html#climate-impact-to-renewable-supply-demand-match",
+    "href": "lectures/lecture4.html#climate-impact-to-renewable-supply-demand-match",
+    "title": "Lecture 4 Climate Impacts",
+    "section": "Climate impact to renewable supply-demand match",
+    "text": "Climate impact to renewable supply-demand match\n\n\nSource: Liu et al. (2023)"
+  },
+  {
+    "objectID": "lectures/lecture4.html#nys-climate-impacts-assessment",
+    "href": "lectures/lecture4.html#nys-climate-impacts-assessment",
+    "title": "Lecture 4 Climate Impacts",
+    "section": "NYS climate impacts assessment",
+    "text": "NYS climate impacts assessment\n\n\n\nUp-to-date projections of future climate conditions in New York State\nSector-based literature reviews\nIn-depth economic impact assessments\nA peer-reviewed technical report that conveys scientific findings\nSummaries and syntheses for a wider audience\nAdaptation strategies and case studies\nLinks and references to primary sources for full transparency\n\n\n\n\n\n\n\n\n\nAn ongoing effort, anything missing?\n\nSource: New York State Climate Impacts Assessment"
+  },
+  {
+    "objectID": "lectures/lecture4.html#fuel-for-thoughts-grand-challenges-huge-progress-and-grand-opportunities",
+    "href": "lectures/lecture4.html#fuel-for-thoughts-grand-challenges-huge-progress-and-grand-opportunities",
+    "title": "Lecture 4 Climate Impacts",
+    "section": "Fuel for thoughts: grand challenges, huge progress, and grand opportunities",
+    "text": "Fuel for thoughts: grand challenges, huge progress, and grand opportunities\n\n\nSource: Our World in Data"
+  },
+  {
+    "objectID": "lectures/lecture4.html#references",
+    "href": "lectures/lecture4.html#references",
+    "title": "Lecture 4 Climate Impacts",
+    "section": "",
+    "text": "References\n\n\nCarleton, Tamma A, and Solomon M Hsiang. 2016. “Social and Economic Impacts of Climate.” Science 353 (6304): aad9837. https://doi.org/10.1126/science.aad9837.\n\n\nHsiang, Solomon M., Marshall Burke, and Edward Miguel. 2013. “Quantifying the Influence of Climate on Human Conflict.” Science, August. https://doi.org/10.1126/science.1235367.\n\n\nHsiang, Solomon, Robert Kopp, Amir Jina, James Rising, Michael Delgado, Shashank Mohan, D. J. Rasmussen, et al. 2017. “Estimating Economic Damage from Climate Change in the United States.” Science 356 (6345): 1362–69. https://doi.org/10.1126/science.aal4369.\n\n\nLiu, Laibao, Gang He, Mengxi Wu, Gang Liu, Haoran Zhang, Ying Chen, Jiashu Shen, and Shuangcheng Li. 2023. “Climate Change Impacts on Planned Supply–Demand Match in Global Wind and Solar Energy Systems.” Nature Energy 8 (8): 870–80. https://doi.org/10.1038/s41560-023-01304-w.\n\n\nNeumann, James E., Jacqueline Willwerth, Jeremy Martinich, James McFarland, Marcus C. Sarofim, and Gary Yohe. 2020. “Climate Damage Functions for Estimating the Economic Impacts of Climate Change in the United States.” Review of Environmental Economics and Policy 14 (1): 25–43. https://doi.org/10.1093/reep/rez021.\n\n\nValuing Climate Changes: Updating Estimation of the Social Cost of Carbon Dioxide. 2017. Washington, D.C.: National Academies Press. https://doi.org/10.17226/24651.\n\n\nYalew, Seleshi G, Michelle TH van Vliet, David EHJ Gernaat, Fulco Ludwig, Ariel Miara, Chan Park, Edward Byers, et al. 2020. “Impacts of Climate Change on Energy Systems in Global and Regional Scenarios.” Nature Energy 5 (10): 794–802. https://doi.org/10.1038/s41560-020-0664-z.\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He\n\n\n\nhttps://drganghe.github.io/energy-climate-society/"
   }
 ]
