@@ -209,5 +209,5 @@ Source: [Our World in Data](https://ourworldindata.org/a-history-of-global-livin
 :::
 
 ::: footer
-Back to Title [Slide](https://drganghe.github.io/energy-climate-society/lectures/lecture1/#/title-slide), All [Lectures](https://drganghe.github.io/energy-climate-society/lectures.html), Course [Home](https://drganghe.github.io/energy-climate-society/), or Learn More About [Gang He](https://drganghe.github.io)
+Back to Title [Slide](https://drganghe.github.io/energy-climate-society/lectures/lecture4.html#title-slide), All [Lectures](https://drganghe.github.io/energy-climate-society/lectures.html), Course [Home](https://drganghe.github.io/energy-climate-society/), or Learn More About [Gang He](https://drganghe.github.io)
 :::

@@ -42,9 +42,45 @@ draft: true
 Source: [Kimberly A Nicholas](https://www.kimnicholas.com/climate-change-curriculum.html)
 :::
 
+## Gagia identify
 
 
+## IPAT
 
+$I(mpact) = P(opulation) \times A(ffluence) \times T(echnology)$
+
+$I(mpact) = \frac{P(opulation) \times A(ffluence)}{T(echnology)}$
+
+- Technology: renewable energy, energy efficiency, innovations
+
+
+## Climate wedges
+
+
+::: footer
+Source: @pacala2004stabilization
+:::
+
+## Power sector
+
+
+## Transport
+
+$E = vehicles \times \frac{Miles}{vehicle} \times \frac{gallon}{mile} \times \frac{carbon}{gallon}$
+
+## Building
+
+## Industry
+
+## Non-CO2
+
+## Carbon remove technologies
+
+## Carbon capture, utilization, and sequestration
+
+## Geoengineering
+
+##
 
 ------------------------------------------------------------------------
 
@@ -54,5 +90,5 @@ Source: [Kimberly A Nicholas](https://www.kimnicholas.com/climate-change-curricu
 :::
 
 ::: footer
-Back to Title [Slide](https://drganghe.github.io/energy-climate-society/lectures/lecture1/#/title-slide), All [Lectures](https://drganghe.github.io/energy-climate-society/lectures.html), Course [Home](https://drganghe.github.io/energy-climate-society/), or Learn More About [Gang He](https://drganghe.github.io)
+Back to Title [Slide](https://drganghe.github.io/energy-climate-society/lectures/lecture5.html#title-slide), All [Lectures](https://drganghe.github.io/energy-climate-society/lectures.html), Course [Home](https://drganghe.github.io/energy-climate-society/), or Learn More About [Gang He](https://drganghe.github.io)
 :::
