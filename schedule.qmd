@@ -8,7 +8,7 @@ repo-actions: false
 |-----------------|-----------------|---------------------|-----------------|
 | 1    | 8/29, [Introduction](lectures/lecture1.qmd) |8/31, [Make sense of numbers](lectures/lecture2.qmd) | [HW1](assignments/hw1.qmd) assigned |
 | 2    | 9/5, [Climate foudamentals](lectures/lecture3.qmd) | 9/7, [Climate impacts](lectures/lecture4.qmd)| |
-| 3    | 9/12, [Social cost of carbon](tools/1scc.qmd) | 9/14, [Climate mitigation](lectures/lecture5.qmd)| |
+| 3    | 9/12, [Tool: Social cost of carbon](tools/1scc.qmd) | 9/14, [Climate mitigation](lectures/lecture5.qmd)| |
 <!--
 | 2    | 8/29  | [Make sense of energy numbers](lectures/lecture2/index.qmd)  | [HW1](assignments/hw1.qmd) assigned  |
 | 3    | 9/5   | [Energy systems overview](lectures/lecture3/index.qmd)  |       |

@@ -2,9 +2,9 @@
 title: "Lecture 5 Climate Mitigation"
 description-meta: "Discuss the mitigation of climate change"
 author: "Gang He"
-date: September 12, 2023
+date: September 14, 2023
 date-format: long
-image: "/lectures/images/5/3generation-climate-change.png"
+image: "/lectures/images/5/kaya-identity-co2.png"
 format:
   revealjs:
     theme: white
@@ -19,7 +19,7 @@ format:
     scrollable: true
     css: /custom.css
     footer: <https://drganghe.github.io/energy-climate-society/>
-draft: true    
+#draft: true    
 ---
 
 ## A five points "climate haiku"
@@ -42,8 +42,6 @@ draft: true
 Source: [Kimberly A Nicholas](https://www.kimnicholas.com/climate-change-curriculum.html)
 :::
 
-## Gagia identify
-
 
 ## IPAT
 
@@ -53,34 +51,151 @@ $I(mpact) = \frac{P(opulation) \times A(ffluence)}{T(echnology)}$
 
 - Technology: renewable energy, energy efficiency, innovations
 
+::: footer
+Source: @ehrlich_impact_1971
+:::
+
+
+## Kaya identify{.smaller}
+
+::: columns
+::: {.column width="50%"}
+$F=P \times \frac{G}{P} \times \frac{E}{G} \times \frac{F}{E}$
+
+<p style="font-size:10pt">
+Where:
+
+- F: global CO2 emissions from human sources
+- P: global population
+- G: world GDP
+- E: global energy consumption
+
+And:
+
+- G/P: GDP per capita
+- E/G: energy intensity of the GDP
+- F/E: emission intensity of energy
+</p>
+
+:::
+
+::: {.column width="50%"}
+
+![](/lectures/images/5/kaya-identity-co2.png){fig-align="center"}
+:::
+
+:::
+
+::: footer
+Source: @kaya_environment_1808, [Kaya Identity: drivers of CO₂ emissions in the World](https://ourworldindata.org/grapher/kaya-identity-co2)
+:::
+
+
+## Emissions gap
+
+![](/lectures/images/5/emission-gap-2022.png){fig-align="center"}
+
+::: footer
+Source: UNEP, [Emissions Gap Report 2022](https://wedocs.unep.org/bitstream/handle/20.500.11822/40932/EGR2022_ESEN.pdf)
+:::
+
+
+## Not on the right trajectory
+
+![](/lectures/images/5/emission-trojectories-ndc.png){fig-align="center"}
+
+::: footer
+Source: UNEP, [Emissions Gap Report 2022](https://wedocs.unep.org/bitstream/handle/20.500.11822/40932/EGR2022_ESEN.pdf)
+:::
+
 
 ## Climate wedges
 
+![](/lectures/images/5/pacala-socolow-wedges.png){fig-align="center"}
 
 ::: footer
 Source: @pacala2004stabilization
 :::
 
-## Power sector
+
+## Energy sector emissions
+
+![](/lectures/images/5/energy-emissions.png){fig-align="center"}
+
+::: footer
+Source: IPCC, [WG3](https://www.ipcc.ch/report/ar6/wg3/downloads/report/IPCC_AR6_WGIII_Chapter06.pdf)
+:::
 
 
-## Transport
+## Energy sector mitigation factors
 
+![](/lectures/images/5/energy-mitigation-factors.png){fig-align="center"}
+
+::: footer
+Source: IPCC, [WG3](https://www.ipcc.ch/report/ar6/wg3/downloads/report/IPCC_AR6_WGIII_Chapter06.pdf)
+:::
+
+
+## Renewables are getting cheap
+
+![](/lectures/images/5/ipcc-re-costs.png){fig-align="center"}
+
+::: footer
+Source: IPCC, [WG3](https://www.ipcc.ch/report/ar6/wg3/downloads/report/IPCC_AR6_WGIII_Chapter06.pdf)
+:::
+
+
+## Transport sector
+
+![](/lectures/images/5/energy-pathway-low-carbon-transport.png){fig-align="center"}
+
+::: footer
+Source: IPCC, [WG3](https://www.ipcc.ch/report/ar6/wg3/downloads/report/IPCC_AR6_WGIII_Chapter10.pdf)
+:::
+
+
+## Transport emission mitigation
+
+</center>
 $E = vehicles \times \frac{Miles}{vehicle} \times \frac{gallon}{mile} \times \frac{carbon}{gallon}$
+<center>
 
-## Building
 
-## Industry
+## Non-CO2 by gas
 
-## Non-CO2
+![](/lectures/images/5/carbon-removal-technologies.png){fig-align="center"}
+
+::: footer
+Source: EPA, [Global Non-CO2 Greenhouse Gas Emission Projections & Mitigation Potential: 2015-2050](https://www.epa.gov/sites/default/files/2019-09/documents/epa_non-co2_greenhouse_gases_rpt-epa430r19010.pdf)
+:::
+
+
+## Non-CO2 by gas
+
+![](/lectures/images/5/non-cos2-sources.png){fig-align="center"}
+
+::: footer
+Source: EPA, [Global Non-CO2 Greenhouse Gas Emission Projections & Mitigation Potential: 2015-2050](https://www.epa.gov/sites/default/files/2019-09/documents/epa_non-co2_greenhouse_gases_rpt-epa430r19010.pdf)
+:::
+
 
 ## Carbon remove technologies
 
-## Carbon capture, utilization, and sequestration
+![](/lectures/images/5/carbon-removal-technologies.png){fig-align="center"}
 
-## Geoengineering
+::: footer
+Source: IPCC, [WG3](https://www.ipcc.ch/report/ar6/wg3/downloads/report/IPCC_AR6_WGIII_Chapter12.pdf)
+:::
 
-##
+
+## Role of CDR
+
+![](/lectures/images/5/role-of-cdr.png){fig-align="center"}
+
+::: footer
+Source: IPCC, [WG3](https://www.ipcc.ch/report/ar6/wg3/downloads/report/IPCC_AR6_WGIII_Chapter12.pdf)
+:::
+
 
 ------------------------------------------------------------------------
 
