@@ -2,7 +2,7 @@
 title: "Lecture 6 Climate Adaptation"
 description-meta: "Discuss the adaptation of climate change"
 author: "Gang He"
-date: September 18, 2023
+date: September 19, 2023
 date-format: long
 image: "/lectures/images/6/risk-and-resilience.png"
 format:
@@ -19,7 +19,7 @@ format:
     scrollable: true
     css: /custom.css
     footer: <https://drganghe.github.io/energy-climate-society/>
-draft: true    
+#draft: true    
 ---
 
 ## A five points "climate haiku"
@@ -139,6 +139,15 @@ What elese can we do?
 
 ::: footer
 More resources: [New York City Assesses Extreme Heat Climate Risk](https://www.epa.gov/arc-x/new-york-city-assesses-extreme-heat-climate-risk)
+:::
+
+
+## Mekong River Basin
+
+![](/lectures/images/6/mekong-river-basin-adaptation.png){fig-align="center"}
+
+::: footer
+More resources: UNEP, [Case Studies](https://wedocs.unep.org/handle/20.500.11822/41111;jsessionid=3717F47150FAD2349607FC3904051EB7)
 :::
 
 ------------------------------------------------------------------------

@@ -18,17 +18,6 @@ repo-actions: false
 - Develop basic analytical skills to translate energy systems analysis into effective policy discussion and debate.
 
 
-## Acknowledgment
-
-This class benefits from many similar classes and I cannot credit them enough below:  
-
-- Daniel Kammen, [Energy and Society](http://kammen.berkeley.edu/)  
-
-- Jon Koomey and Ian Monroe, [Solving Climate Change: A guide for learners and leaders](https://iopscience.iop.org/book/mono/978-0-7503-4032-8)  
-
-- Paul Shepson, Michael Rubenstein, Christine Gilbert, et al. [Energy, Climate and Society](https://news.stonybrook.edu/university/new-course-on-energy-climate-and-society-is-a-cross-college-collaboration/)
-
-
 ## Reuse of material
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>. 

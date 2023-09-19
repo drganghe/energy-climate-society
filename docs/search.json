@@ -4,7 +4,7 @@
     "href": "schedule.html",
     "title": "Course Schedule",
     "section": "",
-    "text": "Week\nTuesday\nThursday\nAssignment\n\n\n\n\n1\n8/29, Introduction\n8/31, Make sense of numbers\nHW1 assigned\n\n\n2\n9/5, Climate foudamentals\n9/7, Climate impacts\n\n\n\n3\n9/12, Tool: Social cost of carbon\n9/14, Climate mitigation"
+    "text": "Week\nTuesday\nThursday\nAssignment\n\n\n\n\n1\n8/29, Introduction\n8/31, Make sense of numbers\nHW1 assigned\n\n\n2\n9/5, Climate foudamentals\n9/7, Climate impacts\n\n\n\n3\n9/12, Tool: Social cost of carbon\n9/14, Climate mitigation\n\n\n\n3\n9/19, Climate adaptation\n9/21, Energy systems"
   },
   {
     "objectID": "lectures/lecture4.html#a-five-points-climate-haiku",
@@ -242,14 +242,14 @@
     "href": "syllabus.html",
     "title": "Syllabus",
     "section": "",
-    "text": "Marxe School of Public and International Affairs\nCourse Name: PAF 4199 (54476), Energy, Climate, and Society\nInstructor: Gang He\nEmail: gang.he@baruch.cuny.edu\nOffice Hours: Thu 1-3pm\nOffice Location: Online"
+    "text": "Marxe School of Public and International Affairs\nCourse Name: PAF 4199 (54476), Energy, Climate, and Society\nInstructor: Gang He\nEmail: gang.he@baruch.cuny.edu\nOffice Hours: Thu 1-3pm\nLocation: Online"
   },
   {
     "objectID": "syllabus.html#course-information",
     "href": "syllabus.html#course-information",
     "title": "Syllabus",
     "section": "",
-    "text": "Marxe School of Public and International Affairs\nCourse Name: PAF 4199 (54476), Energy, Climate, and Society\nInstructor: Gang He\nEmail: gang.he@baruch.cuny.edu\nOffice Hours: Thu 1-3pm\nOffice Location: Online"
+    "text": "Marxe School of Public and International Affairs\nCourse Name: PAF 4199 (54476), Energy, Climate, and Society\nInstructor: Gang He\nEmail: gang.he@baruch.cuny.edu\nOffice Hours: Thu 1-3pm\nLocation: Online"
   },
   {
     "objectID": "syllabus.html#course-description",
@@ -410,7 +410,7 @@
     "href": "lectures.html",
     "title": "Lectures",
     "section": "",
-    "text": "Lecture 1 Introduction\n\n\n\nGang He\n\n\nAug 29, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 2 Make Sense of Numbers\n\n\n\nGang He\n\n\nAug 31, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 3 Climate Fundamentals\n\n\n\nGang He\n\n\nSep 5, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 4 Climate Impacts\n\n\n\nGang He\n\n\nSep 7, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 5 Climate Mitigation\n\n\n\nGang He\n\n\nSep 14, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Lecture 1 Introduction\n\n\n\nGang He\n\n\nAug 29, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 2 Make Sense of Numbers\n\n\n\nGang He\n\n\nAug 31, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 3 Climate Fundamentals\n\n\n\nGang He\n\n\nSep 5, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 4 Climate Impacts\n\n\n\nGang He\n\n\nSep 7, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 5 Climate Mitigation\n\n\n\nGang He\n\n\nSep 14, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 6 Climate Adaptation\n\n\n\nGang He\n\n\nSep 19, 2023\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "lectures/lecture1.html#welcome-and-icebreaker",
@@ -669,21 +669,21 @@
     "href": "resources.html",
     "title": "Resources",
     "section": "",
-    "text": "Under updating"
+    "text": "CUNY Climate Action Collaborative (CCAC)\nCUNY Climate Scholars"
   },
   {
     "objectID": "resources.html#baruchcuny-climate-resources",
     "href": "resources.html#baruchcuny-climate-resources",
     "title": "Resources",
-    "section": "Baruch/CUNY climate resources",
-    "text": "Baruch/CUNY climate resources\nCUNY Climate Action Collaborative (CCAC)\nCUNY Climate Scholars"
+    "section": "",
+    "text": "CUNY Climate Action Collaborative (CCAC)\nCUNY Climate Scholars"
   },
   {
     "objectID": "resources.html#nycnys-resources",
     "href": "resources.html#nycnys-resources",
     "title": "Resources",
     "section": "NYC/NYS resources",
-    "text": "NYC/NYS resources\nNYSERDA"
+    "text": "NYC/NYS resources\nNYSERDA\nClimate Week NYC"
   },
   {
     "objectID": "resources.html#climate-jobs",
@@ -816,6 +816,118 @@
     "href": "lectures/lecture5.html#references",
     "title": "Lecture 5 Climate Mitigation",
     "section": "",
-    "text": "References\n\n\nEhrlich, Paul R., and John P. Holdren. 1971. “Impact of Population Growth: Complacency Concerning This Component of Man’s Predicament Is Unjustified and Counterproductive.” Science 171 (3977): 1212–17. https://doi.org/10.1126/science.171.3977.1212.\n\n\nKaya, Yoichi, and Keiichi Yokobori, eds. 1808. Environment, Energy, and Economy: Strategies for Sustainable. Tokyo: United Nations Univ. https://archive.unu.edu/unupress/unupbooks/uu17ee/uu17ee00.htm.\n\n\nPacala, Stephen, and Robert Socolow. 2004. “Stabilization Wedges: Solving the Climate Problem for the Next 50 Years with Current Technologies.” Science 305 (5686): 968–72. https://doi.org/10.1126/science.1100103.\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He\n\n\n\nhttps://drganghe.github.io/energy-climate-society/"
+    "text": "References\n\n\nEhrlich, Paul R., and John P. Holdren. 1971. “Impact of Population Growth: Complacency Concerning This Component of Man’s Predicament Is Unjustified and Counterproductive.” Science 171 (3977): 1212–17. https://doi.org/10.1126/science.171.3977.1212.\n\n\nFridley, David, Nina Z Khanna, Nan Zhou, and Michael McNeil. 2016. “Impacts of China’s 2010 to 2013 Mandatory Product Energy Efficiency Standards: A Retrospective and Prospective Look.” In. ACEEE. https://www.aceee.org/files/proceedings/2016/data/papers/5_131.pdf.\n\n\nKaya, Yoichi, and Keiichi Yokobori, eds. 1808. Environment, Energy, and Economy: Strategies for Sustainable. Tokyo: United Nations Univ. https://archive.unu.edu/unupress/unupbooks/uu17ee/uu17ee00.htm.\n\n\nPacala, Stephen, and Robert Socolow. 2004. “Stabilization Wedges: Solving the Climate Problem for the Next 50 Years with Current Technologies.” Science 305 (5686): 968–72. https://doi.org/10.1126/science.1100103.\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He\n\n\n\nhttps://drganghe.github.io/energy-climate-society/"
+  },
+  {
+    "objectID": "tools.html",
+    "href": "tools.html",
+    "title": "Tools of the trade",
+    "section": "",
+    "text": "#\nTool\npdf\n\n\n\n\n1\nSocial cost of carbon\nscc"
+  },
+  {
+    "objectID": "lectures/lecture5.html#case-study-high-appliance-efficiency-standards",
+    "href": "lectures/lecture5.html#case-study-high-appliance-efficiency-standards",
+    "title": "Lecture 5 Climate Mitigation",
+    "section": "Case study: high appliance efficiency standards",
+    "text": "Case study: high appliance efficiency standards\n\n\nSource: Fridley et al. (2016)"
+  },
+  {
+    "objectID": "lectures/lecture5.html#case-study-empire-state-building-retrofit",
+    "href": "lectures/lecture5.html#case-study-empire-state-building-retrofit",
+    "title": "Lecture 5 Climate Mitigation",
+    "section": "Case study: Empire State Building retrofit",
+    "text": "Case study: Empire State Building retrofit\n\n\n\nSave 38% of energy use with a 3-year payback\nRemanufacturing 6,500 windows onsite into super windows\nInstalling better lights and equipment\nEnvelope improvements and reduced internal loads allowed for a smaller cooling system\n\n\n\n\n\n\n\n\n\n\nSource: Read more from RMI case study."
+  },
+  {
+    "objectID": "lectures/lecture6.html#a-five-points-climate-haiku",
+    "href": "lectures/lecture6.html#a-five-points-climate-haiku",
+    "title": "Lecture 6 Climate Adaptation",
+    "section": "A five points “climate haiku”",
+    "text": "A five points “climate haiku”\n\n\n\nIt’s warming\nIt’s us\nWe’re sure\nIt’s bad\nWe can fix it\n\n\n\n\n\n\n\n\n\n\n\n\nSource: Kimberly A Nicholas"
+  },
+  {
+    "objectID": "lectures/lecture6.html#risks-and-resilience",
+    "href": "lectures/lecture6.html#risks-and-resilience",
+    "title": "Lecture 6 Climate Adaptation",
+    "section": "Risks and resilience",
+    "text": "Risks and resilience\n\n\nSource: IPCC, WG2"
+  },
+  {
+    "objectID": "lectures/lecture6.html#adaptation-options",
+    "href": "lectures/lecture6.html#adaptation-options",
+    "title": "Lecture 6 Climate Adaptation",
+    "section": "Adaptation options",
+    "text": "Adaptation options\n\n\nSource: IPCC, WG2"
+  },
+  {
+    "objectID": "lectures/lecture6.html#adaptation-potential",
+    "href": "lectures/lecture6.html#adaptation-potential",
+    "title": "Lecture 6 Climate Adaptation",
+    "section": "Adaptation potential",
+    "text": "Adaptation potential\n\n\nSource: IPCC, WG2"
+  },
+  {
+    "objectID": "lectures/lecture6.html#ecosystem-health",
+    "href": "lectures/lecture6.html#ecosystem-health",
+    "title": "Lecture 6 Climate Adaptation",
+    "section": "Ecosystem health",
+    "text": "Ecosystem health\n\n\nSource: IPCC, WG2"
+  },
+  {
+    "objectID": "lectures/lecture6.html#ecosystem-adaptation",
+    "href": "lectures/lecture6.html#ecosystem-adaptation",
+    "title": "Lecture 6 Climate Adaptation",
+    "section": "Ecosystem adaptation",
+    "text": "Ecosystem adaptation\n\n\nSource: IPCC, WG2"
+  },
+  {
+    "objectID": "lectures/lecture6.html#food-security",
+    "href": "lectures/lecture6.html#food-security",
+    "title": "Lecture 6 Climate Adaptation",
+    "section": "Food security",
+    "text": "Food security\n\n\nSource: IPCC, WG2"
+  },
+  {
+    "objectID": "lectures/lecture6.html#vulnerable-groups",
+    "href": "lectures/lecture6.html#vulnerable-groups",
+    "title": "Lecture 6 Climate Adaptation",
+    "section": "Vulnerable groups",
+    "text": "Vulnerable groups\n\n\nSource: IPCC, WG2"
+  },
+  {
+    "objectID": "lectures/lecture6.html#synthetic-adaptation",
+    "href": "lectures/lecture6.html#synthetic-adaptation",
+    "title": "Lecture 6 Climate Adaptation",
+    "section": "Synthetic adaptation",
+    "text": "Synthetic adaptation\n\n\nSource: IPCC, WG2"
+  },
+  {
+    "objectID": "lectures/lecture6.html#steps-to-resilence",
+    "href": "lectures/lecture6.html#steps-to-resilence",
+    "title": "Lecture 6 Climate Adaptation",
+    "section": "Steps to resilence",
+    "text": "Steps to resilence\n\nUnderstand Exposure\nAssess Vulnerability & Risk\nInvestigate Options\nPrioritize & Plan\nTake Action\n\n\nMore resources: U.S. Climate Resilience Toolkit"
+  },
+  {
+    "objectID": "lectures/lecture6.html#nyc-heat-plan-case",
+    "href": "lectures/lecture6.html#nyc-heat-plan-case",
+    "title": "Lecture 6 Climate Adaptation",
+    "section": "NYC heat plan case",
+    "text": "NYC heat plan case\n\nAssess climate risks\nIncoporate climate risks in adaptation and response plan\nEducate residents on the threats\nRe-assing vulnerability\n\nWhat elese can we do?\n\nMore resources: New York City Assesses Extreme Heat Climate Risk"
+  },
+  {
+    "objectID": "lectures/lecture6.html#mekong-river-basin",
+    "href": "lectures/lecture6.html#mekong-river-basin",
+    "title": "Lecture 6 Climate Adaptation",
+    "section": "Mekong River Basin",
+    "text": "Mekong River Basin\n\n\nMore resources: UNEP, Case Studies"
+  },
+  {
+    "objectID": "lectures/lecture6.html#references",
+    "href": "lectures/lecture6.html#references",
+    "title": "Lecture 6 Climate Adaptation",
+    "section": "",
+    "text": "References\n\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He\n\n\n\nhttps://drganghe.github.io/energy-climate-society/"
   }
 ]

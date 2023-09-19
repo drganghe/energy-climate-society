@@ -157,26 +157,10 @@ Source: IPCC, [WG3](https://www.ipcc.ch/report/ar6/wg3/downloads/report/IPCC_AR6
 ## Transport emission mitigation
 
 </center>
+
 $E = vehicles \times \frac{Miles}{vehicle} \times \frac{gallon}{mile} \times \frac{carbon}{gallon}$
+
 <center>
-
-
-## Non-CO2 by gas
-
-![](/lectures/images/5/carbon-removal-technologies.png){fig-align="center"}
-
-::: footer
-Source: EPA, [Global Non-CO2 Greenhouse Gas Emission Projections & Mitigation Potential: 2015-2050](https://www.epa.gov/sites/default/files/2019-09/documents/epa_non-co2_greenhouse_gases_rpt-epa430r19010.pdf)
-:::
-
-
-## Non-CO2 by gas
-
-![](/lectures/images/5/non-cos2-sources.png){fig-align="center"}
-
-::: footer
-Source: EPA, [Global Non-CO2 Greenhouse Gas Emission Projections & Mitigation Potential: 2015-2050](https://www.epa.gov/sites/default/files/2019-09/documents/epa_non-co2_greenhouse_gases_rpt-epa430r19010.pdf)
-:::
 
 
 ## Carbon remove technologies
@@ -196,6 +180,45 @@ Source: IPCC, [WG3](https://www.ipcc.ch/report/ar6/wg3/downloads/report/IPCC_AR6
 Source: IPCC, [WG3](https://www.ipcc.ch/report/ar6/wg3/downloads/report/IPCC_AR6_WGIII_Chapter12.pdf)
 :::
 
+
+
+## Non-CO2 by gas
+
+![](/lectures/images/5/non-cos2-sources.png){fig-align="center"}
+
+::: footer
+Source: EPA, [Global Non-CO2 Greenhouse Gas Emission Projections & Mitigation Potential: 2015-2050](https://www.epa.gov/sites/default/files/2019-09/documents/epa_non-co2_greenhouse_gases_rpt-epa430r19010.pdf)
+:::
+
+
+## Case study: high appliance efficiency standards
+
+![](/lectures/images/2/AnnualElectricitySavingsfrom2010-2013MEPS.png){fig-align="center"}
+
+::: footer
+Source: @fridley2016impacts 
+:::
+
+
+## Case study: Empire State Building retrofit{.smaller}
+
+::: columns
+::: {.column width="50%"}
+- Save 38% of energy use with a 3-year payback
+- Remanufacturing 6,500 windows onsite into super windows
+- Installing better lights and equipment
+- Envelope improvements and reduced internal loads allowed for a smaller cooling system
+:::
+
+::: {.column width="50%"}
+![](/lectures/images/5/ESB_CaseStudy_2009.jpg){fig-align="center"}
+:::
+
+:::
+
+::: footer
+Source: Read more from RMI [case study](https://rmi.org/wp-content/uploads/2017/04/Buildings_Retrofit_EmpireStateBuilding_CaseStudy_2009.pdf). 
+:::
 
 ------------------------------------------------------------------------
 

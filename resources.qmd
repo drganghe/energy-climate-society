@@ -2,8 +2,6 @@
 title: Resources
 ---
 
-Under updating
-
 ## Baruch/CUNY climate resources
 
 CUNY Climate Action Collaborative ([CCAC](https://blogs.baruch.cuny.edu/climateaction/))
@@ -14,6 +12,8 @@ CUNY [Climate Scholars](https://blogs.baruch.cuny.edu/climateaction/)
 ## NYC/NYS resources
 
 [NYSERDA](https://www.nyserda.ny.gov/Impact-Greenhouse-Gas-Emissions-Reduction)
+
+[Climate Week NYC](https://www.climateweeknyc.org/)
 
 
 ## Climate jobs
@@ -55,7 +55,6 @@ IEA, [CO₂ Emissions from Fuel Combustion](http://www.iea.org)
 [Energy and Carbon Emission Harmonized Database](http://webarchive.iiasa.ac.at), IIASA
 
 [Carbon Monitor](https://www.carbonmonitor.org)
-
 
 
 <!--Include social share buttons-->
