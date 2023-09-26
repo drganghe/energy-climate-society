@@ -19,7 +19,7 @@ format:
     scrollable: true
     css: /custom.css
     footer: <https://drganghe.github.io/energy-climate-society/>
-draft: true    
+#draft: true    
 ---
 
 ## Energy systems
