@@ -4,7 +4,7 @@
     "href": "schedule.html",
     "title": "Course Schedule",
     "section": "",
-    "text": "Week\nTuesday\nThursday\nAssignment\n\n\n\n\n1\n8/29, Introduction\n8/31, Make sense of numbers\nHW1 assigned\n\n\n2\n9/5, Climate foudamentals\n9/7, Climate impacts\n\n\n\n3\n9/12, Tool: Social cost of carbon\n9/14, Climate mitigation\n\n\n\n4\n9/19, Climate adaptation\n9/21, Energy systems\n\n\n\n5\n9/26, Energy project economics\n9/28, Fossil technologies"
+    "text": "Week\nTuesday\nThursday\nAssignment\n\n\n\n\n1\n8/29, Introduction\n8/31, Make sense of numbers\nHW1 assigned\n\n\n2\n9/5, Climate foudamentals\n9/7, Climate impacts\n\n\n\n3\n9/12, Tool: Social cost of carbon\n9/14, Climate mitigation\n\n\n\n4\n9/19, Climate adaptation\n9/21, Energy systems\n\n\n\n5\n9/26, Energy project economics\n9/28, Fossil technologies\nHW2 assigned"
   },
   {
     "objectID": "lectures/lecture4.html#a-five-points-climate-haiku",
@@ -494,7 +494,7 @@
     "href": "assignments.html",
     "title": "Assignments",
     "section": "",
-    "text": "#\nTopic\npdf\nDue Date\n\n\n\n\n1\nCarbon footprint calculation\nhw1\n9/14"
+    "text": "#\nTopic\npdf\nDue Date\n\n\n\n\n1\nCarbon footprint calculation\nhw1\n9/14\n\n\n2\nUpdating Rosenfeld Plant and power plant efficiency\nhw2\n10/12"
   },
   {
     "objectID": "tools.html",
@@ -920,50 +920,50 @@
     "objectID": "lectures/lecture7.html#energy-systems",
     "href": "lectures/lecture7.html#energy-systems",
     "title": "Lecture 7 Energy Systems Overview",
-    "section": "Energy systems",
-    "text": "Energy systems\n\n\nSource: IIASA, Energy Primier"
+    "section": "",
+    "text": "Source: IIASA, Energy Primier"
   },
   {
     "objectID": "lectures/lecture7.html#resources-vs-reserves",
     "href": "lectures/lecture7.html#resources-vs-reserves",
     "title": "Lecture 7 Energy Systems Overview",
     "section": "Resources vs reserves",
-    "text": "Resources vs reserves\n\n\nSource: IIASA, Energy Primier"
+    "text": "Resources vs reserves\n\n\n\n\n\n\n\n\nSource: IIASA, Energy Primier"
   },
   {
     "objectID": "lectures/lecture7.html#energy-and-their-conversions",
     "href": "lectures/lecture7.html#energy-and-their-conversions",
     "title": "Lecture 7 Energy Systems Overview",
     "section": "Energy and their conversions",
-    "text": "Energy and their conversions\n\n\nSource: Smil (2017)"
+    "text": "Energy and their conversions\n\n\n\n\n\n\n\n\nSource: Smil (2017)"
   },
   {
     "objectID": "lectures/lecture7.html#global-energy-flow",
     "href": "lectures/lecture7.html#global-energy-flow",
     "title": "Lecture 7 Energy Systems Overview",
     "section": "Global energy flow",
-    "text": "Global energy flow\n\n\nSource: IEA"
+    "text": "Global energy flow\n\n\n\n\n\n\n\n\nSource: IEA"
   },
   {
     "objectID": "lectures/lecture7.html#u.s.-energy-flow",
     "href": "lectures/lecture7.html#u.s.-energy-flow",
     "title": "Lecture 7 Energy Systems Overview",
     "section": "U.S. energy flow",
-    "text": "U.S. energy flow\n\n\nSource: LLNL"
+    "text": "U.S. energy flow\n\n\n\n\n\n\n\n\nSource: LLNL"
   },
   {
     "objectID": "lectures/lecture7.html#energy-by-supply",
     "href": "lectures/lecture7.html#energy-by-supply",
     "title": "Lecture 7 Energy Systems Overview",
     "section": "Energy by supply",
-    "text": "Energy by supply\n\n\nSource: IIASA, Energy Primier"
+    "text": "Energy by supply\n\n\n\n\n\n\n\n\nSource: IIASA, Energy Primier"
   },
   {
     "objectID": "lectures/lecture7.html#energy-end-use-by-sector",
     "href": "lectures/lecture7.html#energy-end-use-by-sector",
     "title": "Lecture 7 Energy Systems Overview",
     "section": "Energy end-use by sector",
-    "text": "Energy end-use by sector\n\n\nSource: IIASA, Energy Primier"
+    "text": "Energy end-use by sector\n\n\n\n\n\n\n\n\nSource: IIASA, Energy Primier"
   },
   {
     "objectID": "lectures/lecture7.html#matching-supply-and-demand",
@@ -977,7 +977,7 @@
     "href": "lectures/lecture7.html#electrify-eveything-where-are-we-now",
     "title": "Lecture 7 Energy Systems Overview",
     "section": "Electrify eveything, where are we now",
-    "text": "Electrify eveything, where are we now\n\n\nSource: IEA"
+    "text": "Electrify eveything, where are we now\n\n\n\n\n\n\n\n\nSource: IEA"
   },
   {
     "objectID": "lectures/lecture7.html#electrify-eveything-net-zero",
@@ -991,49 +991,49 @@
     "href": "lectures/lecture7.html#energy-efficiency",
     "title": "Lecture 7 Energy Systems Overview",
     "section": "Energy efficiency",
-    "text": "Energy efficiency\n\n\nSource: IIASA, Energy Primier"
+    "text": "Energy efficiency\n\n\n\n\n\n\n\n\nSource: IIASA, Energy Primier"
   },
   {
     "objectID": "lectures/lecture7.html#electric-efficiency-vs-fossil-efficiency",
     "href": "lectures/lecture7.html#electric-efficiency-vs-fossil-efficiency",
     "title": "Lecture 7 Energy Systems Overview",
     "section": "Electric efficiency vs fossil efficiency",
-    "text": "Electric efficiency vs fossil efficiency\n\n\nSource: BMWi (2015)"
+    "text": "Electric efficiency vs fossil efficiency\n\n\n\n\n\n\n\n\nSource: BMWi (2015)"
   },
   {
     "objectID": "lectures/lecture7.html#milestones-for-long-term-energy-transition",
     "href": "lectures/lecture7.html#milestones-for-long-term-energy-transition",
     "title": "Lecture 7 Energy Systems Overview",
     "section": "Milestones for long-term energy transition",
-    "text": "Milestones for long-term energy transition\n\n\nSource: IEA (2021)"
+    "text": "Milestones for long-term energy transition\n\n\n\n\n\n\n\n\nSource: IEA (2021)"
   },
   {
     "objectID": "lectures/lecture7.html#nys-climate-leadership-and-community-protection-act",
     "href": "lectures/lecture7.html#nys-climate-leadership-and-community-protection-act",
     "title": "Lecture 7 Energy Systems Overview",
     "section": "NYS Climate Leadership and Community Protection Act",
-    "text": "NYS Climate Leadership and Community Protection Act\n\n\nSource: Climate Action Council Draft Scoping Plan\n\n35%-40% of the benefits of NY CLCPA investments must flow to disadvantaged communities"
+    "text": "NYS Climate Leadership and Community Protection Act\n\n\n\n\n\n\n\n\nSource: Climate Action Council Draft Scoping Plan\n\n35%-40% of the benefits of NY CLCPA investments must flow to disadvantaged communities"
   },
   {
     "objectID": "lectures/lecture7.html#u.s.-shale-gas-revolution",
     "href": "lectures/lecture7.html#u.s.-shale-gas-revolution",
     "title": "Lecture 7 Energy Systems Overview",
     "section": "U.S. shale gas revolution",
-    "text": "U.S. shale gas revolution\n\n\nSource: EIA"
+    "text": "U.S. shale gas revolution\n\n\n\n\n\n\n\n\nSource: EIA"
   },
   {
     "objectID": "lectures/lecture7.html#renewable-revolution-achieving-grid-parity",
     "href": "lectures/lecture7.html#renewable-revolution-achieving-grid-parity",
     "title": "Lecture 7 Energy Systems Overview",
     "section": "Renewable revolution: achieving grid parity",
-    "text": "Renewable revolution: achieving grid parity\n\n\nSource: Our World in Data"
+    "text": "Renewable revolution: achieving grid parity\n\n\n\n\n\n\n\n\nSource: Our World in Data"
   },
   {
     "objectID": "lectures/lecture7.html#renewable-revolution-solar-and-wind-taking-off",
     "href": "lectures/lecture7.html#renewable-revolution-solar-and-wind-taking-off",
     "title": "Lecture 7 Energy Systems Overview",
     "section": "Renewable revolution: solar and wind taking off",
-    "text": "Renewable revolution: solar and wind taking off\n\n\nSource: Our World in Data"
+    "text": "Renewable revolution: solar and wind taking off\n\n\n\n\n\n\n\n\nSource: Our World in Data\n\n\n\nReferences\n\n\nBMWi. 2015. “An Electricity Market for Germany’s Energy Transition: White Paper by the Federal Ministry for Economic Affairs and Energy.” Federal Ministry for Economic Affairs; Energy. https://www.bmwk.de/Redaktion/EN/Publikationen/whitepaper-electricity-market.html.\n\n\nIEA. 2021. “Net Zero by 2050.” International Energy Agency.\n\n\nSmil, Vaclav. 2017. Energy: A Beginner’s Guide. Simon; Schuster.\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He"
   },
   {
     "objectID": "lectures/lecture7.html#references",
@@ -1046,8 +1046,8 @@
     "objectID": "lectures/lecture8.html#sample-analytic-questions",
     "href": "lectures/lecture8.html#sample-analytic-questions",
     "title": "Lecture 8 Energy Project Economics",
-    "section": "Sample analytic questions",
-    "text": "Sample analytic questions\n\nWhat’s the LCOE of a new technology?\n\nWhen to retire a nuclear/coal power plant?\n\nShould I install rooftop solar or buy an EV?\n\nHow long should the government subsidies heatpump?\n\nWhen can offshore wind achieve grid parity?"
+    "section": "",
+    "text": "What’s the LCOE of a new technology?\n\nWhen to retire a nuclear/coal power plant?\n\nShould I install rooftop solar or buy an EV?\n\nHow long should the government subsidies heatpump?\n\nWhen can offshore wind achieve grid parity?"
   },
   {
     "objectID": "lectures/lecture8.html#project-economics",
@@ -1089,14 +1089,14 @@
     "href": "lectures/lecture8.html#the-power-of-discounting",
     "title": "Lecture 8 Energy Project Economics",
     "section": "The power of discounting",
-    "text": "The power of discounting\n\n\nSource: Gang He, source data"
+    "text": "The power of discounting\n\n\n\n\n\n\n\n\nSource: Gang He, source data"
   },
   {
     "objectID": "lectures/lecture8.html#declining-discounting",
     "href": "lectures/lecture8.html#declining-discounting",
     "title": "Lecture 8 Energy Project Economics",
     "section": "Declining discounting",
-    "text": "Declining discounting\n\n\nSource: Weitzman (2001), Arrow et al. (2013)"
+    "text": "Declining discounting\n\n\n\n\n\n\n\n\nSource: Weitzman (2001), Arrow et al. (2013)"
   },
   {
     "objectID": "lectures/lecture8.html#lcoe",
@@ -1110,7 +1110,7 @@
     "href": "lectures/lecture8.html#comparing-lcoe",
     "title": "Lecture 8 Energy Project Economics",
     "section": "Comparing LCOE",
-    "text": "Comparing LCOE\n\n\nSource: 2023 Levelized Cost of Energy Plus"
+    "text": "Comparing LCOE\n\n\n\n\n\n\n\n\nSource: 2023 Levelized Cost of Energy Plus"
   },
   {
     "objectID": "lectures/lecture8.html#limitations-of-lcoe",
@@ -1131,14 +1131,14 @@
     "href": "lectures/lecture8.html#learning-of-differrent-technologies",
     "title": "Lecture 8 Energy Project Economics",
     "section": "Learning of differrent technologies",
-    "text": "Learning of differrent technologies\n\n\nSource: Grübler, Nakićenović, and Victor (1999)"
+    "text": "Learning of differrent technologies\n\n\n\n\n\n\n\n\nSource: Grübler, Nakićenović, and Victor (1999)"
   },
   {
     "objectID": "lectures/lecture8.html#drivers-of-learning",
     "href": "lectures/lecture8.html#drivers-of-learning",
     "title": "Lecture 8 Energy Project Economics",
     "section": "Drivers of learning",
-    "text": "Drivers of learning\n\n\nSource: Kavlak, McNerney, and Trancik (2018)"
+    "text": "Drivers of learning\n\n\n\n\n\n\n\n\nSource: Kavlak, McNerney, and Trancik (2018)"
   },
   {
     "objectID": "lectures/lecture8.html#source-of-learning",
@@ -1152,28 +1152,28 @@
     "href": "lectures/lecture8.html#how-renewables-are-getting-cheap",
     "title": "Lecture 8 Energy Project Economics",
     "section": "How renewables are getting cheap",
-    "text": "How renewables are getting cheap\n\n\nSource: Our World in Data"
+    "text": "How renewables are getting cheap\n\n\n\n\n\n\n\n\nSource: Our World in Data"
   },
   {
     "objectID": "lectures/lecture8.html#why-nuclear-costs-are-going-up",
     "href": "lectures/lecture8.html#why-nuclear-costs-are-going-up",
     "title": "Lecture 8 Energy Project Economics",
     "section": "Why nuclear costs are going up?",
-    "text": "Why nuclear costs are going up?\n\n\nSource: Grubler (2010)"
+    "text": "Why nuclear costs are going up?\n\n\n\n\n\n\n\n\nSource: Grubler (2010)"
   },
   {
     "objectID": "lectures/lecture8.html#role-of-global-supply-chain-in-pv",
     "href": "lectures/lecture8.html#role-of-global-supply-chain-in-pv",
     "title": "Lecture 8 Energy Project Economics",
     "section": "Role of global supply chain in PV",
-    "text": "Role of global supply chain in PV\n\n\nSource: Helveston, He, and Davidson (2022)"
+    "text": "Role of global supply chain in PV\n\n\n\n\n\n\n\n\nSource: Helveston, He, and Davidson (2022)"
   },
   {
     "objectID": "lectures/lecture8.html#summary",
     "href": "lectures/lecture8.html#summary",
     "title": "Lecture 8 Energy Project Economics",
     "section": "Summary",
-    "text": "Summary\n\nProject economics is useful for basic cost-benefit analysis\n\nGetting the price (discounting) right\n\nUnderstanding technology dynamics will help to model future projections\n\nAware of the limitations\n\n\nRead more: Grübler, Nakićenović, and Victor (1999)"
+    "text": "Summary\n\nProject economics is useful for basic cost-benefit analysis\n\nGetting the price (discounting) right\n\nUnderstanding technology dynamics will help to model future projections\n\nAware of the limitations\n\n\nRead more: Grübler, Nakićenović, and Victor (1999)\n\n\n\nReferences\n\n\nArrow, K., M. Cropper, C. Gollier, B. Groom, G. Heal, R. Newell, W. Nordhaus, et al. 2013. “Determining Benefits and Costs for Future Generations.” Science 341 (6144): 349–50. https://doi.org/10.1126/science.1235665.\n\n\nGrubler, Arnulf. 2010. “The Costs of the French Nuclear Scale-up: A Case of Negative Learning by Doing.” Energy Policy 38 (9): 5174–88. https://doi.org/10.1016/j.enpol.2010.05.003.\n\n\nGrübler, Arnulf, Nebojša Nakićenović, and David G Victor. 1999. “Dynamics of Energy Technologies and Global Change.” Energy Policy 27 (5): 247–80. https://doi.org/10.1016/S0301-4215(98)00067-6.\n\n\nHelveston, John, Gang He, and Michael Davidson. 2022. “Quantifying the Cost Savings of Global Solar Photovoltaic Supply Chains.” Nature 612 (7938): 83–87. https://doi.org/10.1038/s41586-022-05316-6.\n\n\nKavlak, Goksin, James McNerney, and Jessika E. Trancik. 2018. “Evaluating the Causes of Cost Reduction in Photovoltaic Modules.” Energy Policy 123 (December): 700–710. https://doi.org/10.1016/j.enpol.2018.08.015.\n\n\nWeitzman, Martin L. 2001. “Gamma Discounting.” American Economic Review 91 (1): 260–71. https://www.aeaweb.org/articles?id=10.1257/aer.91.1.260.\n\n\nYelle, Louis E. 1979. “The Learning Curve: Historical Review and Comprehensive Survey.” Decision Sciences 10 (2): 302–28. https://doi.org/10.1111/j.1540-5915.1979.tb00026.x.\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He"
   },
   {
     "objectID": "lectures/lecture8.html#references",
@@ -1186,8 +1186,8 @@
     "objectID": "lectures/lecture9.html#sample-analytic-questions",
     "href": "lectures/lecture9.html#sample-analytic-questions",
     "title": "Lecture 9 Fossil Technologies",
-    "section": "Sample analytic questions",
-    "text": "Sample analytic questions\n\nHow much coal can be saved/emissions can be mitigated if China’s average coal power efficiency increased by 1 percentage point?\n\nWhy combined heat and power saves energy?"
+    "section": "",
+    "text": "How much coal can be saved/emissions can be mitigated if China’s average coal power efficiency increased by 1 percentage point?\n\nWhy combined heat and power saves energy?"
   },
   {
     "objectID": "lectures/lecture9.html#thermodynamics",
@@ -1201,7 +1201,7 @@
     "href": "lectures/lecture9.html#heat-engine",
     "title": "Lecture 9 Fossil Technologies",
     "section": "Heat engine",
-    "text": "Heat engine\n\nHeat -&gt; Mechanical energy (work)\n\nSource: Wikipedia"
+    "text": "Heat engine\n\n\n\n\n\n\n\nHeat -&gt; Mechanical energy (work)\n\nSource: Wikipedia"
   },
   {
     "objectID": "lectures/lecture9.html#laws-of-thermodynamics",
@@ -1250,7 +1250,7 @@
     "href": "lectures/lecture9.html#defining-a-rosenfeld-plant",
     "title": "Lecture 9 Fossil Technologies",
     "section": "Defining a Rosenfeld Plant",
-    "text": "Defining a Rosenfeld Plant\n\n500 MW\nc.f.: 70%\nT&D losss: 7%\n\nResults:\n\n3 TWh/year\n\n3 MtCO2/year\nNYC electricity use: ~4 TWh/year\n\n\nSource: Koomey et al. (2010)"
+    "text": "Defining a Rosenfeld Plant\n\n500 MW\nc.f.: 70%\nT&D losss: 7%\n\nResults:\n\n3 TWh/year\n\n3 MtCO2/year\nNYC electricity use: ~4 TWh/year\n\n\nSource: Koomey et al. (2010)\n\n\n\nReferences\n\n\nKoomey, Jonathan, Hashem Akbari, Carl Blumstein, Marilyn Brown, Richard Brown, Chris Calwell, Sheryl Carter, et al. 2010. “Defining a Standard Metric for Electricity Savings.” Environmental Research Letters 5 (1): 014017. https://iopscience.iop.org/article/10.1088/1748-9326/5/1/014017.\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He"
   },
   {
     "objectID": "lectures/lecture9.html#references",
@@ -1264,14 +1264,14 @@
     "href": "lectures/lecture9.html#a-gas-turbine-engine",
     "title": "Lecture 9 Fossil Technologies",
     "section": "A gas turbine engine",
-    "text": "A gas turbine engine\n\n\nSource: Wikipedia"
+    "text": "A gas turbine engine\n\n\n\n\n\n\n\n\nSource: Wikipedia"
   },
   {
     "objectID": "lectures/lecture9.html#a-steam-coal-plant",
     "href": "lectures/lecture9.html#a-steam-coal-plant",
     "title": "Lecture 9 Fossil Technologies",
     "section": "A steam coal plant",
-    "text": "A steam coal plant\n\n\nSource: Wikipedia"
+    "text": "A steam coal plant\n\n\n\n\n\n\n\n\nSource: Wikipedia"
   },
   {
     "objectID": "lectures/lecture9.html#brayton-cycle-vs.-rankine-cycle-1",
@@ -1285,6 +1285,55 @@
     "href": "lectures/lecture9.html#ccgt-diagram",
     "title": "Lecture 9 Fossil Technologies",
     "section": "CCGT Diagram",
-    "text": "CCGT Diagram\n\n\nRead more: GE Power"
+    "text": "CCGT Diagram\n\n\n\n\n\n\n\n\nRead more: GE Power"
+  },
+  {
+    "objectID": "assignments/hw2.html",
+    "href": "assignments/hw2.html",
+    "title": "Assignment 2 Rosenfeld Plant and Power Plant Efficiency",
+    "section": "",
+    "text": "We discussed Defining a Rosenfeld Plant in Lecture 9. That paper was published in 2010, now more than a decade has past and let’s update the Rosenfeld Plant to 2021.\nTo define a Rosenfeld Plant, you would need to figure out the average size of U.S. coal plants, the average capacity factor of those operating plants, average emission factor of coal power plants. You may able to find those statistics on the web, however, I hope you can use plant level data to calculate those by yourself.\nThere are a few places that you may find plant level data. We will use EPA eGRID which includes emissions, emission rates, generation, heat input, resource mix, and many other attributes. Please download eGRID with 2021 data in metric units."
+  },
+  {
+    "objectID": "assignments/hw2.html#updating-the-rosenfeld-plant",
+    "href": "assignments/hw2.html#updating-the-rosenfeld-plant",
+    "title": "Assignment 2 Rosenfeld Plant and Power Plant Efficiency",
+    "section": "",
+    "text": "We discussed Defining a Rosenfeld Plant in Lecture 9. That paper was published in 2010, now more than a decade has past and let’s update the Rosenfeld Plant to 2021.\nTo define a Rosenfeld Plant, you would need to figure out the average size of U.S. coal plants, the average capacity factor of those operating plants, average emission factor of coal power plants. You may able to find those statistics on the web, however, I hope you can use plant level data to calculate those by yourself.\nThere are a few places that you may find plant level data. We will use EPA eGRID which includes emissions, emission rates, generation, heat input, resource mix, and many other attributes. Please download eGRID with 2021 data in metric units."
+  },
+  {
+    "objectID": "assignments/hw2.html#questions",
+    "href": "assignments/hw2.html#questions",
+    "title": "Assignment 2 Rosenfeld Plant and Power Plant Efficiency",
+    "section": "Questions",
+    "text": "Questions\nPlease use the eGRID data and work out the following calculation (please check data entries, and make sure you exclude missing data, 0, and abnormal values):\n\nWhat’s the average coal power plant size in the U.S. in 2021? (0.5pt)[Hint: the “PLNT21” tab shows plant level data, and you can filter data by plant primary fuel to get all COAL plants]\n\nWhat’s the average capacity factor of coal plants in 2021? (0.5 pt) [Hint: use total generation and total capacity to calculate the average capacity factor]\n\nWhat’s the average carbon emission factor of coal plants in 2021? (0.5pt) [Hint: use total carbon emission and total generation to calculate the average emission factor]\n\nUsing the updated parameters, what’s the total annual carbon emissions of an updated Rosenfeld Plant? (1 pt)\n\nWhat’s the average efficiency of coal plants in 2021? (0.5pt) [Hint: use total plant annual net generation and total plant annual heat input to calculate the average efficiency]\n\nComparing the average efficiency of combined heat and power plants and those with power only, how much differences the efficiency data shows? (1 pt)[Hint: use total plant annual net generation and total plant annual heat input to calculate the average efficiency]\n\nIf we can improve the average efficiency of coal plants by 1% (percentage point), e.g. 32% to 33%, how many new Rosenfeld Plant we can avoid building? [Hint: use the same total coal generation] (1pt)\n\nFurther explore the data, what are the top 10 carbon emitting plants in the U.S. and think about how to reduce carbon emissions for those plants (1 pt)\n\nNote: please show your process to receive partial credit.\nPlug: eGRID has rich resources and we will come back to this assignment when discuss environmental and climate justice."
+  },
+  {
+    "objectID": "assignments/hw2.html#further-readings",
+    "href": "assignments/hw2.html#further-readings",
+    "title": "Assignment 2 Rosenfeld Plant and Power Plant Efficiency",
+    "section": "Further readings",
+    "text": "Further readings\n\nKoomey, Jonathan, Hashem Akbari, Carl Blumstein, Marilyn Brown, Richard Brown, Chris Calwell, Sheryl Carter, et al. 2010. “Defining a Standard Metric for Electricity Savings.” Environmental Research Letters 5 (1): 014017. https://doi.org/10.1088/1748-9326/5/1/014017."
+  },
+  {
+    "objectID": "lectures/lecture7.html",
+    "href": "lectures/lecture7.html",
+    "title": "Lecture 7 Energy Systems Overview",
+    "section": "",
+    "text": "Source: IIASA, Energy Primier"
+  },
+  {
+    "objectID": "lectures/lecture8.html",
+    "href": "lectures/lecture8.html",
+    "title": "Lecture 8 Energy Project Economics",
+    "section": "",
+    "text": "What’s the LCOE of a new technology?\n\nWhen to retire a nuclear/coal power plant?\n\nShould I install rooftop solar or buy an EV?\n\nHow long should the government subsidies heatpump?\n\nWhen can offshore wind achieve grid parity?"
+  },
+  {
+    "objectID": "lectures/lecture9.html",
+    "href": "lectures/lecture9.html",
+    "title": "Lecture 9 Fossil Technologies",
+    "section": "",
+    "text": "How much coal can be saved/emissions can be mitigated if China’s average coal power efficiency increased by 1 percentage point?\n\nWhy combined heat and power saves energy?"
   }
 ]

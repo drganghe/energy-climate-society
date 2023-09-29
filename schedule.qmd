@@ -10,7 +10,7 @@ repo-actions: false
 | 2    | 9/5, [Climate foudamentals](lectures/lecture3.qmd) | 9/7, [Climate impacts](lectures/lecture4.qmd)| |
 | 3    | 9/12, [Tool: Social cost of carbon](tools/1scc.qmd) | 9/14, [Climate mitigation](lectures/lecture5.qmd)| |
 | 4    | 9/19, [Climate adaptation](lectures/lecture6.qmd) | 9/21, [Energy systems](lectures/lecture7.qmd)| |
-| 5    | 9/26, [Energy project economics](lectures/lecture8.qmd) | 9/28, [Fossil technologies](lectures/lecture9.qmd) | |
+| 5    | 9/26, [Energy project economics](lectures/lecture8.qmd) | 9/28, [Fossil technologies](lectures/lecture9.qmd) | [HW2](assignments/hw2.qmd) assigned |
 <!--
 | 2    | 8/29  | [Make sense of energy numbers](lectures/lecture2/index.qmd)  | [HW1](assignments/hw1.qmd) assigned  |
 | 3    | 9/5   | [Energy systems overview](lectures/lecture3/index.qmd)  |       |

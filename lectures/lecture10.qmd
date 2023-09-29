@@ -1,0 +1,62 @@
+---
+title: "Lecture 9 Energy Technologies: Solar"
+description-meta: "Solar technolgies"
+author: "Gang He"
+date: October 3, 2023
+date-format: long
+image: "/lectures/images/10/p-n-junction.png"
+format:
+  revealjs:
+    theme: white
+ #   embed-resources: true
+    slide-number: true
+    preview-links: auto
+    link-external-newwindow: true
+    citations-hover: true
+    auto-stretch: true
+    r-fit-text: true
+    center: true
+    scrollable: true
+    css: /custom.css
+    footer: <https://drganghe.github.io/energy-climate-society/>
+draft: true    
+---
+
+## Solar 
+
+![](images/p-n-junction.png){fig-align="center"}
+
+::: footer
+Read more: <https://www.energy.gov/eere/solar/how-does-solar-work>
+:::
+
+## How solar works
+<center>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/xKxrkht7CpY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+
+::: footer
+Source: <https://www.youtube.com/watch?v=xKxrkht7CpY> 
+:::
+
+## Key corrections  
+
+- Solar position at any time of day: altitude angle, latitude, zaimuth angle, hour angle   
+- Radiation: direct beam, diffusion, reflected  
+- Tracking: fixed, 1-axis, 2-axis  
+
+
+::: footer
+Read more: @masters2013renewable 
+:::
+
+------------------------------------------------------------------------
+
+### References
+
+::: {#refs}
+:::
+
+::: footer
+Back to Title [Slide](https://drganghe.github.io/energy-climate-society/lectures/lecture10.html#title-slide), All [Lectures](https://drganghe.github.io/energy-climate-society/lectures.html), Course [Home](https://drganghe.github.io/energy-climate-society/), or Learn More About [Gang He](https://drganghe.github.io)
+:::
