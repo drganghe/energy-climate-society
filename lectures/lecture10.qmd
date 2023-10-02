@@ -1,5 +1,5 @@
 ---
-title: "Lecture 9 Energy Technologies: Solar"
+title: "Lecture 10 Energy Technologies: Solar"
 description-meta: "Solar technolgies"
 author: "Gang He"
 date: October 3, 2023
