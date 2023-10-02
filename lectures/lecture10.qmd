@@ -19,16 +19,83 @@ format:
     scrollable: true
     css: /custom.css
     footer: <https://drganghe.github.io/energy-climate-society/>
-draft: true    
+#draft: true    
 ---
 
-## Solar 
+## Solar
 
-![](images/p-n-junction.png){fig-align="center"}
+![](/lectures/images/2/perez-planetary-energy.png){fig-align="center"}
+
+::: footer
+Source: [Richard Perez](http://asrc.albany.edu/people/faculty/perez/)
+:::
+
+
+## Solar spectrum
+
+![](/lectures/images/10/Solar_spectrum.png){fig-align="center"}
+
+::: footer
+Source: [Solar Spectrum](https://en.wikipedia.org/wiki/Sunlight)
+:::
+
+
+## Harvesting the sun
+
+::: columns
+::: {.column width="50%"}
+![Heqing Solar Cooker Project in Zhangye](/lectures/images/10/Heqing_Solar_Cooker_photo.webp){fig-align="center"}
+:::
+
+::: {.column width="50%"}
+![Young NaDEET students in Namibia learning to use a parabolic solar cooker](/lectures/images/10/NaDEET_solar_cooking_training.webp){fig-align="center"}
+:::
+:::
+
+::: footer
+Photo credit: [Bristol Energy](https://solarcooking.fandom.com/wiki/China?file=Heqing_Solar_Cooker_photo%2C_12-20-21.png), [Fu Ting](https://solarcooking.fandom.com/wiki/Namibia?file=NaDEET_solar_cooking_training_2012%2C_2-11-13.jpg); Source: [Solar Cooking](https://solarcooking.fandom.com/)
+:::
+
+
+## Silicon
+
+![](/lectures/images/10/silicon-atomic-structure.jpeg){fig-align="center"}
+
+::: footer
+Source: [Atomic Structure (Bohr Model) for Silicon (P)](https://youtu.be/OCTAQaubQ4o)
+:::
+
+
+## P and N type
+
+::: columns
+::: {.column width="30%"}
+![](/lectures/images/10/silicon-lattice.png){fig-align="center"}
+:::
+
+::: {.column width="30%"}
+![](/lectures/images/10/p-type-silicon.png){fig-align="center"}
+:::
+
+::: {.column width="30%"}
+![](/lectures/images/10/n-type-silicon.png){fig-align="center"}
+:::
+
+:::
+
+::: footer
+Source: [From sunlight to electricity](https://www.science.org.au/curious/technology-future/solar-pv)
+:::
+
+
+## P-N Junction 
+
+![](/lectures/images/10/p-n-junction.png){fig-align="center"}
 
 ::: footer
 Read more: <https://www.energy.gov/eere/solar/how-does-solar-work>
 :::
+
 
 ## How solar works
 <center>
@@ -38,6 +105,7 @@ Read more: <https://www.energy.gov/eere/solar/how-does-solar-work>
 ::: footer
 Source: <https://www.youtube.com/watch?v=xKxrkht7CpY> 
 :::
+
 
 ## Key corrections  
 
@@ -49,6 +117,79 @@ Source: <https://www.youtube.com/watch?v=xKxrkht7CpY>
 ::: footer
 Read more: @masters2013renewable 
 :::
+
+
+## The quest for efficiency
+
+![](/lectures/images/10/best-research-cell-efficiencies.webp){fig-align="center"}
+
+::: footer
+Read more: NREL, [Best Research-Cell Efficiency Chart](https://www.nrel.gov/pv/cell-efficiency.html)
+:::
+
+
+## Global and U.S. distribution
+
+![](/lectures/images/10/World_PVOUT_map.png){fig-align="center"}
+
+::: footer
+Source: [Global Solar Atlas](https://globalsolaratlas.info/download/world)
+:::
+
+
+## Air pollution and dust
+
+::: columns
+::: {.column width="50%"}
+![](/lectures/images/10/pm-and-solar.gif){fig-align="center"}
+:::
+
+::: {.column width="50%"}
+![](/lectures/images/10/global-pm-solar-reduction.jpeg){fig-align="center"}
+:::
+
+:::
+
+::: footer
+Source: @bergin2017large
+:::
+
+
+## Climate change impact
+
+![](/lectures/images/4/climate-change-solar-wind-sdm.png){fig-align="center"}
+
+::: footer
+Source: @liu_climate_2023
+:::
+
+
+## Prioritize solar installation
+
+![](/lectures/images/10/prioritizing-solar-deployment.png){fig-align="center"}
+
+::: footer
+Source: Chen et al., Communications Energy & Environment, 2023 (forthcoming).
+:::
+
+
+## Solar thermal: CSP
+
+![](/lectures/images/10/Concentrating-Solar-Thermal-Power-Applications.png){fig-align="center"}
+
+::: footer
+Source: [DOE](https://www.energy.gov/eere/solar/concentrating-solar-thermal-power-basics)
+:::
+
+
+## Pros and Cons
+
+| Pros | Cons |
+|------|------|
+| Renewables     | Variable & integration     |
+| Low emissions    |  Land use    |
+| Low costs     |  Distribution    |
+
 
 ------------------------------------------------------------------------
 

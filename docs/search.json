@@ -550,7 +550,7 @@
     "href": "lectures.html",
     "title": "Lectures",
     "section": "",
-    "text": "Lecture 1 Introduction\n\n\n\nGang He\n\n\nAug 29, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 2 Make Sense of Numbers\n\n\n\nGang He\n\n\nAug 31, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 3 Climate Fundamentals\n\n\n\nGang He\n\n\nSep 5, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 4 Climate Impacts\n\n\n\nGang He\n\n\nSep 7, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 5 Climate Mitigation\n\n\n\nGang He\n\n\nSep 14, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 6 Climate Adaptation\n\n\n\nGang He\n\n\nSep 19, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 7 Energy Systems Overview\n\n\n\nGang He\n\n\nSep 21, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 8 Energy Project Economics\n\n\n\nGang He\n\n\nSep 26, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 9 Fossil Technologies\n\n\n\nGang He\n\n\nSep 28, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Lecture 1 Introduction\n\n\n\nGang He\n\n\nAug 29, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 2 Make Sense of Numbers\n\n\n\nGang He\n\n\nAug 31, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 3 Climate Fundamentals\n\n\n\nGang He\n\n\nSep 5, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 4 Climate Impacts\n\n\n\nGang He\n\n\nSep 7, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 5 Climate Mitigation\n\n\n\nGang He\n\n\nSep 14, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 6 Climate Adaptation\n\n\n\nGang He\n\n\nSep 19, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 7 Energy Systems Overview\n\n\n\nGang He\n\n\nSep 21, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 8 Energy Project Economics\n\n\n\nGang He\n\n\nSep 26, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 9 Fossil Technologies\n\n\n\nGang He\n\n\nSep 28, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 9 Energy Technologies: Solar\n\n\n\nGang He\n\n\nOct 3, 2023\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "lectures/lecture3.html#climate-and-weather",
@@ -1335,5 +1335,124 @@
     "title": "Lecture 9 Fossil Technologies",
     "section": "",
     "text": "How much coal can be saved/emissions can be mitigated if China’s average coal power efficiency increased by 1 percentage point?\n\nWhy combined heat and power saves energy?"
+  },
+  {
+    "objectID": "lectures/lecture10.html#solar",
+    "href": "lectures/lecture10.html#solar",
+    "title": "Lecture 9 Energy Technologies: Solar",
+    "section": "Solar",
+    "text": "Solar\n\n\nSource: Richard Perez"
+  },
+  {
+    "objectID": "lectures/lecture10.html#solar-spectrum",
+    "href": "lectures/lecture10.html#solar-spectrum",
+    "title": "Lecture 9 Energy Technologies: Solar",
+    "section": "Solar spectrum",
+    "text": "Solar spectrum\n\n\nSource: Solar Spectrum"
+  },
+  {
+    "objectID": "lectures/lecture10.html#harvesting-the-sun",
+    "href": "lectures/lecture10.html#harvesting-the-sun",
+    "title": "Lecture 9 Energy Technologies: Solar",
+    "section": "Harvesting the sun",
+    "text": "Harvesting the sun\n\n\n\n\n\nHeqing Solar Cooker Project in Zhangye\n\n\n\n\n\n\nYoung NaDEET students in Namibia learning to use a parabolic solar cooker\n\n\n\n\n\nPhoto credit: Bristol Energy, Fu Ting; Source: Solar Cooking"
+  },
+  {
+    "objectID": "lectures/lecture10.html#silicon",
+    "href": "lectures/lecture10.html#silicon",
+    "title": "Lecture 9 Energy Technologies: Solar",
+    "section": "Silicon",
+    "text": "Silicon\n\n\nSource: Atomic Structure (Bohr Model) for Silicon (P)"
+  },
+  {
+    "objectID": "lectures/lecture10.html#p-and-n-type",
+    "href": "lectures/lecture10.html#p-and-n-type",
+    "title": "Lecture 9 Energy Technologies: Solar",
+    "section": "P and N type",
+    "text": "P and N type\n\n\n\n\n\n\n\n\n\n\nSource: From sunlight to electricity"
+  },
+  {
+    "objectID": "lectures/lecture10.html#p-n-junction",
+    "href": "lectures/lecture10.html#p-n-junction",
+    "title": "Lecture 9 Energy Technologies: Solar",
+    "section": "P-N Junction",
+    "text": "P-N Junction\n\n\nRead more: https://www.energy.gov/eere/solar/how-does-solar-work"
+  },
+  {
+    "objectID": "lectures/lecture10.html#how-solar-works",
+    "href": "lectures/lecture10.html#how-solar-works",
+    "title": "Lecture 9 Energy Technologies: Solar",
+    "section": "How solar works",
+    "text": "How solar works\n\n\n\n\n\nSource: https://www.youtube.com/watch?v=xKxrkht7CpY"
+  },
+  {
+    "objectID": "lectures/lecture10.html#key-corrections",
+    "href": "lectures/lecture10.html#key-corrections",
+    "title": "Lecture 9 Energy Technologies: Solar",
+    "section": "Key corrections",
+    "text": "Key corrections\n\nSolar position at any time of day: altitude angle, latitude, zaimuth angle, hour angle\n\nRadiation: direct beam, diffusion, reflected\n\nTracking: fixed, 1-axis, 2-axis\n\n\nRead more: Masters (2013)"
+  },
+  {
+    "objectID": "lectures/lecture10.html#the-quest-for-efficiency",
+    "href": "lectures/lecture10.html#the-quest-for-efficiency",
+    "title": "Lecture 9 Energy Technologies: Solar",
+    "section": "The quest for efficiency",
+    "text": "The quest for efficiency\n\n\nRead more: NREL, Best Research-Cell Efficiency Chart"
+  },
+  {
+    "objectID": "lectures/lecture10.html#global-and-u.s.-distribution",
+    "href": "lectures/lecture10.html#global-and-u.s.-distribution",
+    "title": "Lecture 9 Energy Technologies: Solar",
+    "section": "Global and U.S. distribution",
+    "text": "Global and U.S. distribution\n\n\nSource: Global Solar Atlas"
+  },
+  {
+    "objectID": "lectures/lecture10.html#air-pollution-and-dust",
+    "href": "lectures/lecture10.html#air-pollution-and-dust",
+    "title": "Lecture 9 Energy Technologies: Solar",
+    "section": "Air pollution and dust",
+    "text": "Air pollution and dust\n\n\n\n\n\n\n\n\nSource: Bergin et al. (2017)"
+  },
+  {
+    "objectID": "lectures/lecture10.html#climate-change-impact",
+    "href": "lectures/lecture10.html#climate-change-impact",
+    "title": "Lecture 9 Energy Technologies: Solar",
+    "section": "Climate change impact",
+    "text": "Climate change impact\n\n\nSource: Liu et al. (2023)"
+  },
+  {
+    "objectID": "lectures/lecture10.html#prioritize-solar-installation",
+    "href": "lectures/lecture10.html#prioritize-solar-installation",
+    "title": "Lecture 9 Energy Technologies: Solar",
+    "section": "Prioritize solar installation",
+    "text": "Prioritize solar installation\n\n\nSource: Chen et al., Communications Energy & Environment, 2023 (forthcoming)."
+  },
+  {
+    "objectID": "lectures/lecture10.html#pros-and-cons",
+    "href": "lectures/lecture10.html#pros-and-cons",
+    "title": "Lecture 9 Energy Technologies: Solar",
+    "section": "Pros and Cons",
+    "text": "Pros and Cons\n\n\n\nPros\nCons\n\n\n\n\nRenewables\nVariable & integration\n\n\nLow emissions\nLand use\n\n\nLow costs\nDistribution"
+  },
+  {
+    "objectID": "lectures/lecture10.html#references",
+    "href": "lectures/lecture10.html#references",
+    "title": "Lecture 9 Energy Technologies: Solar",
+    "section": "",
+    "text": "References\n\n\nBergin, Mike H, Chinmay Ghoroi, Deepa Dixit, James J Schauer, and Drew T Shindell. 2017. “Large Reductions in Solar Energy Production Due to Dust and Particulate Air Pollution.” Environmental Science & Technology Letters 4 (8): 339–44.\n\n\nLiu, Laibao, Gang He, Mengxi Wu, Gang Liu, Haoran Zhang, Ying Chen, Jiashu Shen, and Shuangcheng Li. 2023. “Climate Change Impacts on Planned Supply–Demand Match in Global Wind and Solar Energy Systems.” Nature Energy 8 (8): 870–80. https://doi.org/10.1038/s41560-023-01304-w.\n\n\nMasters, Gilbert M. 2013. Renewable and Efficient Electric Power Systems. John Wiley & Sons.\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He\n\n\n\nhttps://drganghe.github.io/energy-climate-society/"
+  },
+  {
+    "objectID": "lectures/lecture10.html#thermal-csp",
+    "href": "lectures/lecture10.html#thermal-csp",
+    "title": "Lecture 9 Energy Technologies: Solar",
+    "section": "Thermal: CSP",
+    "text": "Thermal: CSP\n\n\nSource: DOE"
+  },
+  {
+    "objectID": "lectures/lecture10.html#solar-thermal-csp",
+    "href": "lectures/lecture10.html#solar-thermal-csp",
+    "title": "Lecture 9 Energy Technologies: Solar",
+    "section": "Solar thermal: CSP",
+    "text": "Solar thermal: CSP\n\n\nSource: DOE"
   }
 ]
