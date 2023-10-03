@@ -35,6 +35,10 @@ Source: [Richard Perez](http://asrc.albany.edu/people/faculty/perez/)
 
 ![](/lectures/images/10/Solar_spectrum.png){fig-align="center"}
 
+<center>
+**Solar constant**: 1.361 kW/m2
+</center>
+
 ::: footer
 Source: [Solar Spectrum](https://en.wikipedia.org/wiki/Sunlight)
 :::
@@ -59,10 +63,23 @@ Photo credit: [Bristol Energy](https://solarcooking.fandom.com/wiki/China?file=H
 
 ## Silicon
 
-![](/lectures/images/10/silicon-atomic-structure.jpeg){fig-align="center"}
+<center>
+![](/lectures/images/10/silicon-atomic-structure.jpeg){width=50% fig-align="center"}
+
+
+::: columns
+::: {.column width="50%"}
+![](/lectures/images/10/Boron-atomic-structure.jpeg){width=80% fig-align="center"}
+:::
+
+::: {.column width="50%"}
+![](/lectures/images/10/Phosphorus-atomic-structure.jpeg){width=80% fig-align="center"}
+:::
+:::
+</center>
 
 ::: footer
-Source: [Atomic Structure (Bohr Model) for Silicon (P)](https://youtu.be/OCTAQaubQ4o)
+Source: [Atomic Structures](https://youtu.be/OCTAQaubQ4o)
 :::
 
 
@@ -106,6 +123,32 @@ Read more: <https://www.energy.gov/eere/solar/how-does-solar-work>
 Source: <https://www.youtube.com/watch?v=xKxrkht7CpY> 
 :::
 
+
+## Solar irradiance{.smaller}
+
+::: columns
+::: {.column width="50%"}
+- Direct normal irradiance (DNI)   
+- Diffuse horizontal irradiance (DHI)
+- Ground reflected irradiance (GRI)      
+- Global horizontal irradiance (GHI)   
+- Plane-of-array irradiance (POA)  
+
+GHI=DNI+DHI+GRI
+
+POA = GHI $\times \cos \theta$
+:::
+
+::: {.column width="50%"}
+![](/lectures/images/10/solar-irradiance.png){fig-align="center"}
+:::
+:::
+
+
+
+::: footer
+Source: Manajit Sengupta, Aron Habte, [NREL](https://www.nrel.gov/docs/fy20osti/75573.pdf)
+:::
 
 ## Key corrections  
 

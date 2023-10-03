@@ -1348,7 +1348,7 @@
     "href": "lectures/lecture10.html#solar-spectrum",
     "title": "Lecture 10 Energy Technologies: Solar",
     "section": "Solar spectrum",
-    "text": "Solar spectrum\n\n\nSource: Solar Spectrum"
+    "text": "Solar spectrum\n\n\nSolar constant: 1.361 kW/m2\n\n\nSource: Solar Spectrum"
   },
   {
     "objectID": "lectures/lecture10.html#harvesting-the-sun",
@@ -1362,7 +1362,7 @@
     "href": "lectures/lecture10.html#silicon",
     "title": "Lecture 10 Energy Technologies: Solar",
     "section": "Silicon",
-    "text": "Silicon\n\n\nSource: Atomic Structure (Bohr Model) for Silicon (P)"
+    "text": "Silicon\n\n\n\n\n\n\n\n\n\n\n\nSource: Atomic Structures"
   },
   {
     "objectID": "lectures/lecture10.html#p-and-n-type",
@@ -1559,5 +1559,12 @@
     "title": "Energy, Climate, and Society",
     "section": "",
     "text": "Class\n10 m (33 ft)\n\n50 m (164 ft)\n\n\n\n\n\n\nWind power density (W/m2)\nSpeed m/s (mph)\nWind power density (W/m2)\nSpeed m/s (mph)\n\n\n1\n0 - 100\n0 - 4.4 (0 - 9.8)\n0 - 200\n0 - 5.6 (0 - 12.5)\n\n\n2\n100 - 150\n4.4 - 5.1 (9.8 - 11.5)\n200 - 300\n5.6 - 6.4 (12.5 - 14.3)\n\n\n3\n150 - 200\n5.1 - 5.6 (11.5 - 12.5)\n300 - 400\n6.4 - 7.0 (14.3 - 15.7)\n\n\n4\n200 - 250\n5.6 - 6.0 (12.5 - 13.4)\n400 - 500\n7.0 - 7.5 (15.7 - 16.8)\n\n\n5\n250 - 300\n6.0 - 6.4 (13.4 - 14.3)\n500 - 600\n7.5 - 8.0 (16.8 - 17.9)\n\n\n6\n300 - 400\n6.4 - 7.0 (14.3 - 15.7)\n600 - 800\n8.0 - 8.8 (17.9 - 19.7)\n\n\n7\n400 - 1000\n7.0 - 9.4 (15.7 - 21.1)\n800 - 2000\n8.8 - 11.9 (19.7 - 26.6)"
+  },
+  {
+    "objectID": "lectures/lecture10.html#solar-irradiance",
+    "href": "lectures/lecture10.html#solar-irradiance",
+    "title": "Lecture 10 Energy Technologies: Solar",
+    "section": "Solar irradiance",
+    "text": "Solar irradiance\n\n\n\nDirect normal irradiance (DNI)\n\nDiffuse horizontal irradiance (DHI)\nGround reflected irradiance (GRI)\n\nGlobal horizontal irradiance (GHI)\n\nPlane-of-array irradiance (POA)\n\nGHI=DNI+DHI+GRI\nPOA = GHI \\(\\times \\cos \\theta\\)\n\n\n\n\n\nSource: Manajit Sengupta, Aron Habte, NREL"
   }
 ]
