@@ -4,7 +4,7 @@
     "href": "schedule.html",
     "title": "Course Schedule",
     "section": "",
-    "text": "Week\nTuesday\nThursday\nAssignment\n\n\n\n\n1\n8/29, Introduction\n8/31, Make sense of numbers\nHW1 assigned\n\n\n2\n9/5, Climate foudamentals\n9/7, Climate impacts\n\n\n\n3\n9/12, Tool: Social cost of carbon\n9/14, Climate mitigation\n\n\n\n4\n9/19, Climate adaptation\n9/21, Energy systems\n\n\n\n5\n9/26, Energy project economics\n9/28, Fossil technologies\nHW2 assigned"
+    "text": "Week\nTuesday\nThursday\nAssignment\n\n\n\n\n1\n8/29, Introduction\n8/31, Make sense of numbers\nHW1 assigned\n\n\n2\n9/5, Climate foudamentals\n9/7, Climate impacts\n\n\n\n3\n9/12, Tool: Social cost of carbon\n9/14, Climate mitigation\n\n\n\n4\n9/19, Climate adaptation\n9/21, Energy systems\n\n\n\n5\n9/26, Energy project economics\n9/28, Fossil technologies\nHW2 assigned\n\n\n6\n10/3, Solar technologies\n10/5, Wind technologies"
   },
   {
     "objectID": "lectures/lecture4.html#a-five-points-climate-haiku",
@@ -1467,7 +1467,7 @@
     "href": "lectures/lecture11.html#wind",
     "title": "Lecture 11 Energy Technologies: Wind",
     "section": "Wind",
-    "text": "Wind\n\n\n\n\n\\(P=\\frac{1}{2}\\rho \\pi r^2 v^3\\)\n\nWhere,\n\\(\\rho\\) = Density (kg/m3)\n\\(A\\) = Swept Area (m2) = \\(\\pi r^2\\)\n\\(v\\) = Wind Speed (m/s)\n\\(P\\) = Power (W)\n\n\n\n\nPhoto by Gang He"
+    "text": "Wind\n\n\n\n\n\\(P=\\frac{1}{2}\\rho \\pi r^2 v^3\\)\n\nWhere,\n\\(\\rho\\) = Air Density (\\(kg/m^3\\))\n\\(A\\) = Swept Area (m2) = \\(\\pi r^2\\)\n\\(v\\) = Wind Speed (m/s)\n\\(P\\) = Power (W)\n\n\n\n\nPhoto by Gang He, Block Island Offshore Wind Farm"
   },
   {
     "objectID": "lectures/lecture11.html#betzs-law-59.3",
@@ -1566,5 +1566,19 @@
     "title": "Lecture 10 Energy Technologies: Solar",
     "section": "Solar irradiance",
     "text": "Solar irradiance\n\n\n\nDirect normal irradiance (DNI)\n\nDiffuse horizontal irradiance (DHI)\nGround reflected irradiance (GRI)\n\nGlobal horizontal irradiance (GHI)\n\nPlane-of-array irradiance (POA)\n\nGHI=DNI+DHI+GRI\nPOA = GHI \\(\\times \\cos \\theta\\)\n\n\n\n\n\nSource: Manajit Sengupta, Aron Habte, NREL"
+  },
+  {
+    "objectID": "lectures/lecture11.html#challenges",
+    "href": "lectures/lecture11.html#challenges",
+    "title": "Lecture 11 Energy Technologies: Wind",
+    "section": "Challenges",
+    "text": "Challenges\n\n\n\n\n\n\n\n\nSource: DOE, Top 10 Things You Didn’t Know About Offshore Wind Energy; NREL, Supply Chain Road Map"
+  },
+  {
+    "objectID": "lectures/lecture11.html#unexpected-benefits",
+    "href": "lectures/lecture11.html#unexpected-benefits",
+    "title": "Lecture 11 Energy Technologies: Wind",
+    "section": "Unexpected benefits",
+    "text": "Unexpected benefits\n\n\nSource: Reddit"
   }
 ]

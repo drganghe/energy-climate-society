@@ -45,7 +45,7 @@ $P=\frac{1}{2}\rho \pi r^2 v^3$
 
 <p style="font-size:16pt; color:gray">
 Where,  
-$\rho$ = Density  (kg/m3)  
+$\rho$ = Air Density  ($kg/m^3$)  
 $A$ = Swept Area  (m2)  = $\pi r^2$  
 $v$ = Wind Speed  (m/s)  
 $P$ = Power (W)  
@@ -54,7 +54,7 @@ $P$ = Power (W)
 :::
 
 ::: footer
-Photo by Gang He 
+Photo by Gang He, Block Island Offshore Wind Farm
 :::
 
 
@@ -158,7 +158,7 @@ Source: [Global Wind Atlas](https://globalwindatlas.info/en/download/high-resolu
 :::columns
 
 ::: {.column width="50%"}
-![](/lectures/images/11/global-wind-power-density-map.webp){fig-align="center"}
+![](/lectures/images/11/turbine-hub-height-rotor-capacity.png){fig-align="center"}
 :::
 
 ::: {.column width="50%"}
@@ -178,6 +178,25 @@ Source: [Land-Based Wind Market Report 2023](https://www.energy.gov/sites/defaul
 
 ::: footer
 Source: DOE, [Offshore Wind Energy](https://windexchange.energy.gov/markets/offshore)
+:::
+
+
+## Challenges
+
+:::columns
+
+::: {.column width="50%"}
+![](/lectures/images/11/offshore-floating-turbines.png){fig-align="center"}
+:::
+
+::: {.column width="50%"}
+![](/lectures/images/11/resources-demand-offshore-us.png){width="70%" fig-align="center"}
+:::
+
+:::
+
+::: footer
+Source: DOE, [Top 10 Things You Didn’t Know About Offshore Wind Energy](https://www.energy.gov/eere/wind/articles/top-10-things-you-didnt-know-about-offshore-wind-energy); NREL, [Supply Chain Road Map](https://www.nrel.gov/wind/offshore-supply-chain-road-map.html)
 :::
 
 
@@ -203,6 +222,15 @@ Source: [Low Speed Wind Turbines](https://faculty.washington.edu/malte/OldSite/s
 | Renewables     | Variable & integration     |
 | Low emissions    |  Land use/NIMBY    |
 | Low costs     |  Distribution    |
+
+
+## Unexpected benefits
+
+![](/lectures/images/11/grazing-animals-like-sheep-enjoy-using-the-shadows-of-wind.webp){fig-align="center"}
+
+::: footer
+Source: [Reddit](https://www.reddit.com/r/interestingasfuck/comments/ubofys/grazing_animals_like_sheep_enjoy_using_the/)
+:::
 
 
 ## Hybrid power systems
