@@ -6,4 +6,5 @@ repo-actions: false
 
 | # | Tool | pdf | 
 |-----------------|-----------------|---------------------|
-| 1    | [Social cost of carbon](tools/1scc.qmd) | [scc](docs/tools/1scc.pdf) |
+| 1    | [Social cost of carbon](tools/1scc.qmd) | [tool1](docs/tools/1scc.pdf) |
+| 2    | [Solar wind assessment](tools/2sam.qmd) | [tool2](docs/tools/2sam.pdf) |

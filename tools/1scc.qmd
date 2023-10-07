@@ -21,7 +21,7 @@ format:
       - heightrounded
     #fontfamily: xelatex
     colorlinks: true
-draft: true
+#draft: true
 ---
 
 Social cost of carbon (SCC) is a very important concept in energy and climate policy. It quantifies the economic damages from one extra ton of carbon dioxide. 

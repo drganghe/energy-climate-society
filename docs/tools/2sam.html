@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.391">
+<meta name="generator" content="quarto-1.4.395">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Energy, Climate, and Society – windclasstable</title>
+<title>Energy, Climate, and Society - Tools of the Trade: Solar Wind Assessment</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -74,6 +74,12 @@ gtag('config', 'G-9ZBRZBEKDN', { 'anonymize_ip': true});
 
 
 <link rel="stylesheet" href="../styles.css">
+<meta property="og:title" content="Energy, Climate, and Society - Tools of the Trade: Solar Wind Assessment">
+<meta property="og:description" content="Energy, Climate, and Society, an undergraduate level energy and climate topic class developed by Dr.&nbsp;Gang He.">
+<meta property="og:site_name" content="Energy, Climate, and Society">
+<meta name="twitter:title" content="Energy, Climate, and Society - Tools of the Trade: Solar Wind Assessment">
+<meta name="twitter:description" content="Energy, Climate, and Society, an undergraduate level energy and climate topic class developed by Dr.&nbsp;Gang He.">
+<meta name="twitter:card" content="summary">
 </head>
 
 <body class="nav-fixed">
@@ -108,6 +114,10 @@ gtag('config', 'G-9ZBRZBEKDN', { 'anonymize_ip': true});
   <li class="nav-item">
     <a class="nav-link" href="../assignments.html"> 
 <span class="menu-text">Assignments</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../tools.html"> 
+<span class="menu-text">Tools</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="../policymemo.html"> 
@@ -145,94 +155,117 @@ gtag('config', 'G-9ZBRZBEKDN', { 'anonymize_ip': true});
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#nrel-sam-model" id="toc-nrel-sam-model" class="nav-link active" data-scroll-target="#nrel-sam-model">NREL SAM model</a></li>
+  <li><a href="#technologies" id="toc-technologies" class="nav-link" data-scroll-target="#technologies">Technologies</a>
+  <ul class="collapse">
+  <li><a href="#solar-simulation" id="toc-solar-simulation" class="nav-link" data-scroll-target="#solar-simulation">Solar simulation</a></li>
+  <li><a href="#wind-simulation" id="toc-wind-simulation" class="nav-link" data-scroll-target="#wind-simulation">Wind simulation</a></li>
+  </ul></li>
+  <li><a href="#bulk-simulation" id="toc-bulk-simulation" class="nav-link" data-scroll-target="#bulk-simulation">Bulk simulation</a></li>
+  <li><a href="#further-readings" id="toc-further-readings" class="nav-link" data-scroll-target="#further-readings">Further readings</a></li>
+  </ul>
+<div class="toc-actions"><ul><li><a href="https://github.com/drganghe/energy-climate-society/edit/main/tools/2sam.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/drganghe/energy-climate-society/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li><li><a href="https://github.com/drganghe/energy-climate-society/blob/main/tools/2sam.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li></ul></div><div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="2sam.pdf"><i class="bi bi-file-pdf"></i>PDF</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Tools of the Trade: Solar Wind Assessment</h1>
+</div>
 
 
 
-<table class="table">
-<colgroup>
-<col style="width: 6%">
-<col style="width: 24%">
-<col style="width: 22%">
-<col style="width: 24%">
-<col style="width: 23%">
-</colgroup>
-<thead>
-<tr class="header">
-<th style="text-align: center;">Class</th>
-<th style="text-align: center;">10 m (33 ft)</th>
-<th style="text-align: center;"></th>
-<th style="text-align: center;">50 m (164 ft)</th>
-<th style="text-align: center;"></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: center;"></td>
-<td style="text-align: center;">Wind power density (W/m2)</td>
-<td style="text-align: center;">Speed m/s (mph)</td>
-<td style="text-align: center;">Wind power density (W/m2)</td>
-<td style="text-align: center;">Speed m/s (mph)</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">1</td>
-<td style="text-align: center;">0 - 100</td>
-<td style="text-align: center;">0 - 4.4 (0 - 9.8)</td>
-<td style="text-align: center;">0 - 200</td>
-<td style="text-align: center;">0 - 5.6 (0 - 12.5)</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">2</td>
-<td style="text-align: center;">100 - 150</td>
-<td style="text-align: center;">4.4 - 5.1 (9.8 - 11.5)</td>
-<td style="text-align: center;">200 - 300</td>
-<td style="text-align: center;">5.6 - 6.4 (12.5 - 14.3)</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">3</td>
-<td style="text-align: center;">150 - 200</td>
-<td style="text-align: center;">5.1 - 5.6 (11.5 - 12.5)</td>
-<td style="text-align: center;">300 - 400</td>
-<td style="text-align: center;">6.4 - 7.0 (14.3 - 15.7)</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">4</td>
-<td style="text-align: center;">200 - 250</td>
-<td style="text-align: center;">5.6 - 6.0 (12.5 - 13.4)</td>
-<td style="text-align: center;">400 - 500</td>
-<td style="text-align: center;">7.0 - 7.5 (15.7 - 16.8)</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">5</td>
-<td style="text-align: center;">250 - 300</td>
-<td style="text-align: center;">6.0 - 6.4 (13.4 - 14.3)</td>
-<td style="text-align: center;">500 - 600</td>
-<td style="text-align: center;">7.5 - 8.0 (16.8 - 17.9)</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">6</td>
-<td style="text-align: center;">300 - 400</td>
-<td style="text-align: center;">6.4 - 7.0 (14.3 - 15.7)</td>
-<td style="text-align: center;">600 - 800</td>
-<td style="text-align: center;">8.0 - 8.8 (17.9 - 19.7)</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">7</td>
-<td style="text-align: center;">400 - 1000</td>
-<td style="text-align: center;">7.0 - 9.4 (15.7 - 21.1)</td>
-<td style="text-align: center;">800 - 2000</td>
-<td style="text-align: center;">8.8 - 11.9 (19.7 - 26.6)</td>
-</tr>
-</tbody>
-</table>
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
 
 
+</header>
 
-</main> <!-- /main -->
+
+<section id="nrel-sam-model" class="level2">
+<h2 class="anchored" data-anchor-id="nrel-sam-model">NREL SAM model</h2>
+<p>“The System Advisor Model (SAM) is a free techno-economic software model that facilitates decision-making for people in the renewable energy industry.”<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a></p>
+<p>Read the model description and instruction: <a href="https://samrepo.nrelcloud.org/help/index.html" class="uri">https://samrepo.nrelcloud.org/help/index.html</a></p>
+<p>Download and install the current version. It’s free, however, you need register to receive a key by email to use the software.</p>
+</section>
+<section id="technologies" class="level2">
+<h2 class="anchored" data-anchor-id="technologies">Technologies</h2>
+<p>The current version of SAM includes performance models for the following technologies:</p>
+<ul>
+<li><p>PV</p></li>
+<li><p>Battery storage</p></li>
+<li><p>Wind</p></li>
+<li><p>Concentrating Solar Power (CSP)</p></li>
+<li><p>Solar water heating</p></li>
+<li><p>Industrial process heat</p></li>
+<li><p>Fuel Cells</p></li>
+<li><p>Biomass combustion</p></li>
+<li><p>Geothermal power</p></li>
+</ul>
+<section id="solar-simulation" class="level3">
+<h3 class="anchored" data-anchor-id="solar-simulation">Solar simulation</h3>
+<ul>
+<li><p>Location and resources</p></li>
+<li><p>Module</p></li>
+<li><p>Inverter</p></li>
+<li><p>System design</p></li>
+<li><p>Shading and snow</p></li>
+<li><p>Losses</p></li>
+<li><p>Lifetime</p></li>
+<li><p>Battery</p></li>
+<li><p>System costs</p></li>
+<li><p>Financial Incentives</p></li>
+<li><p>Rates</p></li>
+<li><p>Load</p></li>
+</ul>
+</section>
+<section id="wind-simulation" class="level3">
+<h3 class="anchored" data-anchor-id="wind-simulation">Wind simulation</h3>
+<ul>
+<li><p>Wind resource: NY</p></li>
+<li><p>Wind turbine</p></li>
+<li><p>Wind farm</p></li>
+<li><p>System costs</p></li>
+<li><p>Lifetime</p></li>
+<li><p>Financial</p></li>
+<li><p>Incentives</p></li>
+<li><p>Rates</p></li>
+<li><p>Load</p></li>
+</ul>
+</section>
+</section>
+<section id="bulk-simulation" class="level2">
+<h2 class="anchored" data-anchor-id="bulk-simulation">Bulk simulation</h2>
+<p>SAM offers some code-based simulation in the samples: <a href="https://github.com/NREL/pysam/blob/main/Examples/PySAMWorkshop.ipynb" class="uri">https://github.com/NREL/pysam/blob/main/Examples/PySAMWorkshop.ipynb</a></p>
+<p>If you want to learn more about how to write pySAM: <a href="https://sam.nrel.gov/software-development-kit-sdk/pysam.html" class="uri">https://sam.nrel.gov/software-development-kit-sdk/pysam.html</a></p>
+<p>Understand the weather file: <a href="https://sam.nrel.gov/weather-data.html" class="uri">https://sam.nrel.gov/weather-data.html</a></p>
+</section>
+<section id="further-readings" class="level2">
+<h2 class="anchored" data-anchor-id="further-readings">Further readings</h2>
+<ul>
+<li>U.S. Department of Energy. 2022. <a href="https://www.energy.gov/sites/default/files/2022-03/Renewable%20Energy%20Resource%20Assessment%20Information%20for%20the%20United%20States.pdf">Renewable Energy Resource Assessment Information for the United States</a>.</li>
+</ul>
+
+
+</section>
+
+
+<div id="quarto-appendix" class="default"><aside id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>NREL, https://sam.nrel.gov/<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
+</aside></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -646,7 +679,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div>   
     <div class="nav-footer-center">
       &nbsp;
-    <div class="toc-actions"><ul><li><a href="https://github.com/drganghe/energy-climate-society/edit/main/lectures/windclasstable.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/drganghe/energy-climate-society/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li><li><a href="https://github.com/drganghe/energy-climate-society/blob/main/lectures/windclasstable.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li></ul></div></div>
+    </div>
     <div class="nav-footer-right">
       <ul class="footer-items list-unstyled">
     <li class="nav-item compact">
