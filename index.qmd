@@ -24,7 +24,7 @@ repo-actions: false
 
 Please link my [site](https://drganghe.github.io) and this [course site](https://drganghe.github.io/energy-climate-society) to use any organized material. Copyrights belong to cited authors/creators. Example language to use:
 
-> This course/class benefits from the [Energy, Climate, and Society]((https://drganghe.github.io/energy-climate-society)) class material developed by Dr. [Gang He]((https://drganghe.github.io)).
+> This course/class benefits from the [Energy, Climate, and Society](https://drganghe.github.io/energy-climate-society) class material developed by Dr. [Gang He](https://drganghe.github.io).
 
 
 ## How to help  

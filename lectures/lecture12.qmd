@@ -131,7 +131,7 @@ Photo credit: Gang He; Read more: [National Academies](https://nap.nationalacade
 :::columns
 
 ::: {.column width="60%"}
-![](/lectures/images/12/nuclear_fuel_cycle.png){fig-align="center"}
+![](/lectures/images/12/next-gen-nuclear.png){fig-align="center"}
 :::
 
 ::: {.column width="40%"}
