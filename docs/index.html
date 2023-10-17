@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.395">
+<meta name="generator" content="quarto-1.4.415">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -45,7 +45,7 @@ ul.task-list li input[type="checkbox"] {
   "collapse-after": 3,
   "panel-placement": "end",
   "type": "textbox",
-  "limit": 20,
+  "limit": 50,
   "keyboard-shortcut": [
     null
   ],
@@ -200,7 +200,10 @@ gtag('config', 'G-9ZBRZBEKDN', { 'anonymize_ip': true});
 <section id="reuse-of-material" class="level2">
 <h2 class="anchored" data-anchor-id="reuse-of-material">Reuse of material</h2>
 <p><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"></a><br>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.</p>
-<p>Please feel free to reuse any material that you find helpful. Copyrights belong to cited authors/creators. For those from myself, you can just link to my <a href="https://drganghe.github.io">site</a> or this <a href="https://drganghe.github.io/energy-climate-society">course site</a> for credit.</p>
+<p>Please link my <a href="https://drganghe.github.io">site</a> and this <a href="https://drganghe.github.io/energy-climate-society">course site</a> to use any organized material. Copyrights belong to cited authors/creators. Example language to use:</p>
+<blockquote class="blockquote">
+<p>This course/class benefits from the <a href="(https://drganghe.github.io/energy-climate-society)">Energy, Climate, and Society</a> class material developed by Dr.&nbsp;<a href="(https://drganghe.github.io)">Gang He</a>.</p>
+</blockquote>
 </section>
 <section id="how-to-help" class="level2">
 <h2 class="anchored" data-anchor-id="how-to-help">How to help</h2>
@@ -621,6 +624,9 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (!isInternal(link.href)) {
           // target, if specified
           link.setAttribute("target", "_blank");
+          if (link.getAttribute("rel") === null) {
+            link.setAttribute("rel", "noopener");
+          }
       }
     }
 });

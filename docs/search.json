@@ -865,7 +865,7 @@
     "href": "index.html#reuse-of-material",
     "title": "Energy, Climate, and Society (Fall 2023)",
     "section": "Reuse of material",
-    "text": "Reuse of material\nThis work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.\nPlease feel free to reuse any material that you find helpful. Copyrights belong to cited authors/creators. For those from myself, you can just link to my site or this course site for credit."
+    "text": "Reuse of material\nThis work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.\nPlease link my site and this course site to use any organized material. Copyrights belong to cited authors/creators. Example language to use:\n\nThis course/class benefits from the Energy, Climate, and Society class material developed by Dr. Gang He."
   },
   {
     "objectID": "index.html#how-to-help",
@@ -1488,7 +1488,7 @@
     "href": "lectures.html",
     "title": "Lectures",
     "section": "",
-    "text": "Lecture 1 Introduction\n\n\n\nGang He\n\n\nAug 29, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 2 Make Sense of Numbers\n\n\n\nGang He\n\n\nAug 31, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 3 Climate Fundamentals\n\n\n\nGang He\n\n\nSep 5, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 4 Climate Impacts\n\n\n\nGang He\n\n\nSep 7, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 5 Climate Mitigation\n\n\n\nGang He\n\n\nSep 14, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 6 Climate Adaptation\n\n\n\nGang He\n\n\nSep 19, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 7 Energy Systems Overview\n\n\n\nGang He\n\n\nSep 21, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 8 Energy Project Economics\n\n\n\nGang He\n\n\nSep 26, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 9 Fossil Technologies\n\n\n\nGang He\n\n\nSep 28, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 10 Energy Technologies: Solar\n\n\n\nGang He\n\n\nOct 3, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 11 Energy Technologies: Wind\n\n\n\nGang He\n\n\nOct 5, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Lecture 1 Introduction\n\n\n\nGang He\n\n\nAug 29, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 2 Make Sense of Numbers\n\n\n\nGang He\n\n\nAug 31, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 3 Climate Fundamentals\n\n\n\nGang He\n\n\nSep 5, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 4 Climate Impacts\n\n\n\nGang He\n\n\nSep 7, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 5 Climate Mitigation\n\n\n\nGang He\n\n\nSep 14, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 6 Climate Adaptation\n\n\n\nGang He\n\n\nSep 19, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 7 Energy Systems Overview\n\n\n\nGang He\n\n\nSep 21, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 8 Energy Project Economics\n\n\n\nGang He\n\n\nSep 26, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 9 Fossil Technologies\n\n\n\nGang He\n\n\nSep 28, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 10 Energy Technologies: Solar\n\n\n\nGang He\n\n\nOct 3, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 11 Energy Technologies: Wind\n\n\n\nGang He\n\n\nOct 5, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 12 Energy Technologies: Nuclear, Hydro, Storage, and Other\n\n\n\nGang He\n\n\nOct 16, 2023\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "resources.html",
@@ -1615,5 +1615,110 @@
     "title": "Tools of the Trade: Solar Wind Assessment",
     "section": "Further readings",
     "text": "Further readings\n\nU.S. Department of Energy. 2022. Renewable Energy Resource Assessment Information for the United States."
+  },
+  {
+    "objectID": "lectures/lecture12.html#nuclear",
+    "href": "lectures/lecture12.html#nuclear",
+    "title": "Lecture 12 Energy Technologies: Nuclear, Hydro, Storage, and Other",
+    "section": "Nuclear",
+    "text": "Nuclear\n\n\n\n\nNuclear fission\n\n\n\n\n\nNuclear fussion\n\n\n\n\nRead more: EIA, Nuclear explained; DOE, Nuclear fusion reactions"
+  },
+  {
+    "objectID": "lectures/lecture12.html#nuclear-power-plant",
+    "href": "lectures/lecture12.html#nuclear-power-plant",
+    "title": "Lecture 12 Energy Technologies: Nuclear, Hydro, Storage, and Other",
+    "section": "Nuclear power plant",
+    "text": "Nuclear power plant\n\n\n\n\nDiagram of a boiling-water nuclear reactor\n\n\n\n\n\nDiagram of a pressurized-water nuclear reactor\n\n\n\n\nRead more: EIA, Nuclear explained"
+  },
+  {
+    "objectID": "lectures/lecture12.html#nuclear-fuel-cycle",
+    "href": "lectures/lecture12.html#nuclear-fuel-cycle",
+    "title": "Lecture 12 Energy Technologies: Nuclear, Hydro, Storage, and Other",
+    "section": "Nuclear fuel cycle",
+    "text": "Nuclear fuel cycle\n\n\nRead more: EIA, Nuclear explained"
+  },
+  {
+    "objectID": "lectures/lecture12.html#social-challenges-technology-challenges",
+    "href": "lectures/lecture12.html#social-challenges-technology-challenges",
+    "title": "Lecture 12 Energy Technologies: Nuclear, Hydro, Storage, and Other",
+    "section": "Social challenges > technology challenges",
+    "text": "Social challenges &gt; technology challenges\n\n\n\n\n\nModality\n\nLower capital costs\n\nSiting flexibility\n\nHigher efficiency\n\nSafe and security\n\nIndustry and manufacture\n\nEconomic\n\n\n\n\nPhoto credit: Gang He; Read more: National Academies"
+  },
+  {
+    "objectID": "lectures/lecture12.html#next-generation-of-nuclear-technology",
+    "href": "lectures/lecture12.html#next-generation-of-nuclear-technology",
+    "title": "Lecture 12 Energy Technologies: Nuclear, Hydro, Storage, and Other",
+    "section": "Next generation of nuclear technology",
+    "text": "Next generation of nuclear technology\n\n\n\n\n\nModality\n\nLower capital costs\n\nSiting flexibility\n\nHigher efficiency\n\nSafe and security\n\nIndustry and manufacture\n\nEconomic\n\n\n\n\nRead more: DOE, Benefits of Small Modular Reactors, TerraPower"
+  },
+  {
+    "objectID": "lectures/lecture12.html#livermore-fusion-breakthrough",
+    "href": "lectures/lecture12.html#livermore-fusion-breakthrough",
+    "title": "Lecture 12 Energy Technologies: Nuclear, Hydro, Storage, and Other",
+    "section": "Livermore Fusion breakthrough",
+    "text": "Livermore Fusion breakthrough\n\n\nRead more: LLNL"
+  },
+  {
+    "objectID": "lectures/lecture12.html#hydro",
+    "href": "lectures/lecture12.html#hydro",
+    "title": "Lecture 12 Energy Technologies: Nuclear, Hydro, Storage, and Other",
+    "section": "Hydro",
+    "text": "Hydro\n\n\n\n\nHydropower\n\n\n\n\nPumped storage hydropower (PSH)\n\n\n\n\n\n\\(E=\\rho mg(h_2-h_1)\\)\n\n\nSource: TVA"
+  },
+  {
+    "objectID": "lectures/lecture12.html#summary",
+    "href": "lectures/lecture12.html#summary",
+    "title": "Lecture 12 Energy Technologies: Nuclear, Hydro, Storage, and Other",
+    "section": "Summary",
+    "text": "Summary\n\nTheory - learn and understand the physics of energy technologies:\n\nthermaldynamics (fossil)\n\nkinematics (wind)\n\nlight and semiconductor (solar)\n\ngravity (hydro, tidal)\n\natomic (nuclear)\n\n\nPractice - learn all kinds of corrections based on real-world situation\n\nThe physics doesn’t change, corrections help us to do better jobs in simulation and projections"
+  },
+  {
+    "objectID": "lectures/lecture12.html#references",
+    "href": "lectures/lecture12.html#references",
+    "title": "Lecture 12 Energy Technologies: Nuclear, Hydro, Storage, and Other",
+    "section": "",
+    "text": "References\n\n\nDowling, Jacqueline A., Katherine Z. Rinaldi, Tyler H. Ruggles, Steven J. Davis, Mengyao Yuan, Fan Tong, Nathan S. Lewis, and Ken Caldeira. 2020. “Role of Long-Duration Energy Storage in Variable Renewable Electricity Systems.” Joule 4 (9): 1907–28. https://doi.org/10.1016/j.joule.2020.07.007.\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He\n\n\n\nhttps://drganghe.github.io/energy-climate-society/"
+  },
+  {
+    "objectID": "lectures/lecture12.html#social-technology-challenges",
+    "href": "lectures/lecture12.html#social-technology-challenges",
+    "title": "Lecture 12 Energy Technologies: Nuclear, Hydro, Storage, and Other",
+    "section": "Social > technology challenges",
+    "text": "Social &gt; technology challenges\n\n\n\n\n\nPublic engagement\n\nLower capital costs\n\nSocial and decision sciences\n\nScience and technology study\n\nNuclear waste siting\n\nBest practices\n\n\n\n\nPhoto credit: Gang He; Read more: National Academies"
+  },
+  {
+    "objectID": "lectures/lecture12.html#nuclear-power-plants",
+    "href": "lectures/lecture12.html#nuclear-power-plants",
+    "title": "Lecture 12 Energy Technologies: Nuclear, Hydro, Storage, and Other",
+    "section": "Nuclear power plants",
+    "text": "Nuclear power plants\n\n\nRead more: EIA, Nuclear explained"
+  },
+  {
+    "objectID": "lectures/lecture12.html#nuclear-plant-design",
+    "href": "lectures/lecture12.html#nuclear-plant-design",
+    "title": "Lecture 12 Energy Technologies: Nuclear, Hydro, Storage, and Other",
+    "section": "Nuclear plant design",
+    "text": "Nuclear plant design\n\n\n\n\nDiagram of a boiling-water nuclear reactor\n\n\n\n\n\nDiagram of a pressurized-water nuclear reactor\n\n\n\n\nRead more: EIA, Nuclear explained"
+  },
+  {
+    "objectID": "lectures/lecture12.html#how-a-lithium-ion-battery-works",
+    "href": "lectures/lecture12.html#how-a-lithium-ion-battery-works",
+    "title": "Lecture 12 Energy Technologies: Nuclear, Hydro, Storage, and Other",
+    "section": "How a lithium-ion battery works",
+    "text": "How a lithium-ion battery works\n\n\nSource: Union of Concerned Scientists"
+  },
+  {
+    "objectID": "lectures/lecture12.html#battery-management-system",
+    "href": "lectures/lecture12.html#battery-management-system",
+    "title": "Lecture 12 Energy Technologies: Nuclear, Hydro, Storage, and Other",
+    "section": "Battery management system",
+    "text": "Battery management system\n\n\n\n\n\nRated power capacity\n\nEnergy capacity\n\nStorage duration\n\nCycle life/lifetime\n\nSelf-discharge\n\nState of charge\n\nRound-trip efficiency\n\n\n\n\nRead more: NREL, Grid-scale battery storage"
+  },
+  {
+    "objectID": "lectures/lecture12.html#long-duration-storage",
+    "href": "lectures/lecture12.html#long-duration-storage",
+    "title": "Lecture 12 Energy Technologies: Nuclear, Hydro, Storage, and Other",
+    "section": "Long duration storage",
+    "text": "Long duration storage\n\n\nSource: Dowling et al. (2020)"
   }
 ]
