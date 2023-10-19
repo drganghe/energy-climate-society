@@ -2,7 +2,7 @@
 title: "Lecture 12 Energy Technologies: Nuclear, Hydro, Storage, and Other"
 description-meta: "Nuclear and hydro technolgies"
 author: "Gang He"
-date: October 16, 2023
+date: October 17, 2023
 date-format: long
 image: "/lectures/images/12/livermore-fusion-breakthrough.jpg"
 format:

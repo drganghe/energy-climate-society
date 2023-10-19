@@ -12,12 +12,17 @@ This class benefits from many similar classes and I cannot credit them enough be
 
 - Jon Koomey and Ian Monroe, [Solving Climate Change: A guide for learners and leaders](https://doi.org/10.1088/978-0-7503-4032-8)  
 
+-  Paul Shepson, Michael Rubenstein, and  Christine Gilbert, [Energy, Climate and Society ](https://news.stonybrook.edu/university/new-course-on-energy-climate-and-society-is-a-cross-college-collaboration/)
+
 
 ## Reuse of material
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>. 
 
-Please feel free to reuse any material that you find helpful. Copyrights belong to cited authors/creators. For those from myself, you can just link to my [site](https://drganghe.github.io) or this [course site](https://drganghe.github.io/energy-climate-policy-2023) for credit.
+Please feel free to link my [site](https://drganghe.github.io) and this [course site](https://drganghe.github.io/energy-climate-society) to use any organized material. Copyrights belong to cited authors/creators. Example language to use:
+
+> This course/class benefits from the [Energy, Climate, and Society](https://drganghe.github.io/energy-climate-society) class material developed by Dr. [Gang He](https://drganghe.github.io).
+
 
 ## How to help  
 

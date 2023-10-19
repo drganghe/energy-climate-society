@@ -13,4 +13,4 @@ repo-actions: false
 | 5    | 9/26, [Energy project economics](lectures/lecture8.qmd) | 9/28, [Fossil technologies](lectures/lecture9.qmd) | [HW2](assignments/hw2.qmd) assigned |
 | 6    | 10/3, [Solar technologies](lectures/lecture10.qmd) | 10/5, [Wind technologies](lectures/lecture11.qmd) |  |
 | 7    | 10/10, Monday scheduel - No session | 10/12, [Tool: Solar wind assessment](tools/2sam.qmd)| |
-| 8    | 10/17, [Nuclear, hydro, and other](lectures/lecture12.qmd) | | |
+| 8    | 10/17, [Nuclear, hydro, and other](lectures/lecture12.qmd) | 10/19, [Energy demand](lectures/lecture13.qmd) | |

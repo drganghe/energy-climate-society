@@ -2,9 +2,14 @@ project:
   type: website
   output-dir: docs
 
+# meta
+meta-description: "Energy, Climate, and Society, an undergraduate level energy and climate topic open course developed by Dr. Gang He."
+meta-author: "Gang He"
+
+
 website:
   title: "Energy, Climate, and Society"
-  description: "Energy, Climate, and Society, an undergraduate level energy and climate topic class developed by Dr. Gang He."
+  description: "Energy, Climate, and Society, an undergraduate level energy and climate topic open course developed by Dr. Gang He."
   navbar:
     background: light
     left:
