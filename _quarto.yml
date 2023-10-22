@@ -19,8 +19,8 @@ website:
         href: schedule.qmd
       - text: Lectures
         href: lectures.qmd
-      - text: Assignments
-        href: assignments.qmd 
+#      - text: Assignments
+#        href: assignments.qmd 
       - text: Tools
         href: tools.qmd             
       - text: Policy Memo

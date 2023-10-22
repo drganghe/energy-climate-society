@@ -8,7 +8,7 @@
 <link href="../site_libs/quarto-html/light-border.css" rel="stylesheet">
 <link href="../site_libs/quarto-html/quarto-html.min.css" rel="stylesheet" data-mode="light">
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
-  <meta name="generator" content="quarto-1.4.395">
+  <meta name="generator" content="quarto-1.4.415">
 
   <meta name="author" content="Gang He">
   <meta name="dcterms.date" content="2023-09-26">
@@ -464,7 +464,7 @@ Payback: with discounting</p>
 <section id="lcoe" class="slide level2 center">
 <h2>LCOE</h2>
 <center>
-<span class="math inline">\(LCOE=\frac{\text{sum of costs over lifetime}}{\text{sum of electricity produced over life time}}=\frac{\sum_{t=1}^{n}{\frac{I_t+M_t+F_t}{(1+r)^t}}}{\sum_{t=1}^{n}{\frac{E_t}{(1+r)^t}}}\)</span>
+<span class="math inline">\(LCOE=\frac{\text{sum of costs over lifetime}}{\text{sum of electricity produced over life time}}=\frac{\sum_{t=1}^{n}{\frac{I_t+M_t+F_t}{(1+r)^t}}}{\sum_{t=1}^{n}{E_t}}\)</span>
 </center>
 <p style="font-size:20pt; color:gray; text-align:center">
 I: Investment costs<br>
@@ -983,6 +983,9 @@ Yelle, Louis E. 1979. <span>“The Learning Curve: Historical Review and Compreh
           if (!isInternal(link.href)) {
               // target, if specified
               link.setAttribute("target", "_blank");
+              if (link.getAttribute("rel") === null) {
+                link.setAttribute("rel", "noopener");
+              }
           }
         }
     });

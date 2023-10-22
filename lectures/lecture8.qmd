@@ -93,7 +93,7 @@ Source: @weitzman2001gamma, @arrow_determining_2013
 
 ## LCOE
 <center>
-$LCOE=\frac{\text{sum of costs over lifetime}}{\text{sum of electricity produced over life time}}=\frac{\sum_{t=1}^{n}{\frac{I_t+M_t+F_t}{(1+r)^t}}}{\sum_{t=1}^{n}{\frac{E_t}{(1+r)^t}}}$
+$LCOE=\frac{\text{sum of costs over lifetime}}{\text{sum of electricity produced over life time}}=\frac{\sum_{t=1}^{n}{\frac{I_t+M_t+F_t}{(1+r)^t}}}{\sum_{t=1}^{n}{E_t}}$
 </center>
 
 <p style="font-size:20pt; color:gray; text-align:center">
