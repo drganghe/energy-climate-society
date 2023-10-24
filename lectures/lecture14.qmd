@@ -1,5 +1,5 @@
 ---
-title: "Lecture 13 Energy Efficiency"
+title: "Lecture 14 Energy Efficiency"
 description-meta: "Energy efficiency, human behavior, rebound"
 author: "Gang He"
 date: October 24, 2023
@@ -233,5 +233,5 @@ Read more: [UN](https://www.un.org/sustainabledevelopment/wp-content/uploads/202
 :::
 
 ::: footer
-Back to Title [Slide](https://drganghe.github.io/energy-climate-society/lectures/lecture13.html#title-slide), All [Lectures](https://drganghe.github.io/energy-climate-society/lectures.html), Course [Home](https://drganghe.github.io/energy-climate-society/), or Learn More About [Gang He](https://drganghe.github.io)
+Back to Title [Slide](https://drganghe.github.io/energy-climate-society/lectures/lecture14.html#title-slide), All [Lectures](https://drganghe.github.io/energy-climate-society/lectures.html), Course [Home](https://drganghe.github.io/energy-climate-society/), or Learn More About [Gang He](https://drganghe.github.io)
 :::
