@@ -212,7 +212,7 @@ Source: @liu_climate_2023
 ![](/lectures/images/10/prioritizing-solar-deployment.png){fig-align="center"}
 
 ::: footer
-Source: Chen et al., Communications Energy & Environment, 2023 (forthcoming).
+Source: @chen2023deploying
 :::
 
 

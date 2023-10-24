@@ -1,6 +1,6 @@
 ---
 title: "Lecture 13 Energy Demand"
-description-meta: "Nuclear and hydro technolgies"
+description-meta: "Factors drive energy demand"
 author: "Gang He"
 date: October 19, 2023
 date-format: long
