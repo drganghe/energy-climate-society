@@ -1,6 +1,6 @@
 ---
 title: "Lecture 16 Energy, Environment, and Human Health"
-description-meta: "Energy access and development"
+description-meta: "Energy and environmetn, energy and human health"
 author: "Gang He"
 date: October 31, 2023
 date-format: long
