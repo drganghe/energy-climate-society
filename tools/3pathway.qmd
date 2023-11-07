@@ -25,13 +25,34 @@ format:
 
 ## Pathways
 
+>The Climate Action Pathways are a vital part of the Marrakech Partnership tools to enhance climate action and ambition towards fully implementing the Paris Agreement. First launched in 2019, they set out sectoral visions for achieving a 1.5° C resilient world in 2050, with overarching transformational milestones, and key impacts that need to be achieved to realize them.
+>
+>The Pathways incorporate insights about the exponential nature of the necessary systemic and technological change within sectors, but also focus on the synergies and interlinkages across the thematic and cross-cutting areas in order to assist all actors to take an integrated approach.
+>
+>The key aim of the 2021 Pathways is to further strengthen the aspects of just transition, gender-responsiveness, resilience and circular economy, deepening the alignment of actions across the Pathways.
+>
+Overall, the Pathways aim to provide a roadmap to help Parties and non-Party stakeholders alike to identify actions needed by 2021, 2025, 2030 and 2040 as steps to get to the 2050 vision. As such, they are intended as living documents, to be updated periodically with the latest information and lessons learned as the state of climate action evolves.
+>
+>The Climate Action Pathways complement the Yearbook of Global Climate Action and the [Global Climate Action Portal](https://climateaction.unfccc.int/) (GCAP), which track, report and recognize climate action, by presenting forward-looking actions towards a fully climate-resilient world.
+
+Source: <https://unfccc.int/climate-action/marrakech-partnership/reporting-and-tracking/climate_action_pathways>
+
 
 ## En-ROADS simulator
 
+>En-ROADS is a freely-available online simulator that provides policymakers, educators, businesses, the media, and the public with the ability to test and explore cross-sector climate solutions.
 
-## More sophiscated models
+Check more information here: <https://www.climateinteractive.org/en-roads/>
+
+
+## C-ROADS climate policy simulator
+
+>C-ROADS is a free, award-winning computer simulator that helps people understand the long-term climate impacts of national and regional greenhouse gas emissions reductions at the global level.
+
+Check more information here: <https://www.climateinteractive.org/c-roads/>
+
 
 
 ## Further readings
 
-- 
+- [Deep Decarbonization Pathways (DDP) project](https://ddpinitiative.org/)  

@@ -4,7 +4,7 @@
     "href": "tools.html",
     "title": "Tools of the trade",
     "section": "",
-    "text": "#\nTool\npdf\n\n\n\n\n1\nSocial cost of carbon\ntool1\n\n\n2\nSolar wind assessment\ntool2"
+    "text": "#\nTool\npdf\n\n\n\n\n1\nSocial cost of carbon\ntool1\n\n\n2\nSolar wind assessment\ntool2\n\n\n3\nPathways to net-zero\ntool3"
   },
   {
     "objectID": "tools/1scc.html",
@@ -53,7 +53,7 @@
     "href": "schedule.html",
     "title": "Course Schedule",
     "section": "",
-    "text": "Week\nTuesday\nThursday\nAssignment\n\n\n\n\n1\n8/29, Introduction\n8/31, Make sense of numbers\nHW1 assigned\n\n\n2\n9/5, Climate foudamentals\n9/7, Climate impacts\n\n\n\n3\n9/12, Tool: Social cost of carbon\n9/14, Climate mitigation\n\n\n\n4\n9/19, Climate adaptation\n9/21, Energy systems\n\n\n\n5\n9/26, Energy project economics\n9/28, Fossil technologies\nHW2 assigned\n\n\n6\n10/3, Solar technologies\n10/5, Wind technologies\n\n\n\n7\n10/10, Monday scheduel - No session\n10/12, Tool: Solar wind assessment\n\n\n\n8\n10/17, Nuclear, hydro, and other\n10/19, Energy demand\nHW3 assigned\n\n\n9\n10/24, Energy efficiency"
+    "text": "Week\nTuesday\nThursday\nAssignment\n\n\n\n\n1\n8/29, Introduction\n8/31, Make sense of numbers\nHW1 assigned\n\n\n2\n9/5, Climate foudamentals\n9/7, Climate impacts\n\n\n\n3\n9/12, Tool: Social cost of carbon\n9/14, Climate mitigation\n\n\n\n4\n9/19, Climate adaptation\n9/21, Energy systems\n\n\n\n5\n9/26, Energy project economics\n9/28, Fossil technologies\nHW2 assigned\n\n\n6\n10/3, Solar technologies\n10/5, Wind technologies\n\n\n\n7\n10/10, Monday schedule - No session\n10/12, Tool: Solar wind assessment\n\n\n\n8\n10/17, Nuclear, hydro, and other\n10/19, Energy demand\nHW3 assigned\n\n\n9\n10/24, Energy efficiency\n10/26, Energy access\n\n\n\n10\n10/31, Energy, environment, health\n11/2, Energy transition\n\n\n\n11\n11/7, Tool: Pathways to net-zero"
   },
   {
     "objectID": "policymemo.html",
@@ -858,7 +858,7 @@
     "href": "index.html#learning-objectives",
     "title": "Energy, Climate, and Society (Fall 2023)",
     "section": "Learning Objectives",
-    "text": "Learning Objectives\n\nDevelop comprehensive understanding of energy systems, i.e. the interaction of technological, social, economic, and regulatory forces that shaping energy production, conversion, and consumption;\nGain an understanding of main data sources and key methods used to analyze energy systems and their strengths and weaknesses;\nGet introduced to major analytical concepts and modeling tools used in energy systems and policy analysis;\nDevelop basic analytical skills to translate energy systems analysis into effective policy discussion and debate."
+    "text": "Learning Objectives\n\nDevelop comprehensive understanding of the scientific foundation, economic rationale, systems complexity, and policy implications of climate change, energy transition, and human society;\n\nGain a system understanding of the energy root of climate challenges, and the technology, economic, societal, behavioral transformation needed to enable an energy transition;\n\nGet introduced to major analytical concepts and case studies in energy and climate systems and policy analysis;\n\nDevelop basic analytical skills to understand and contribute to effective policy discussion and debate."
   },
   {
     "objectID": "index.html#reuse-of-material",
@@ -1558,7 +1558,7 @@
     "href": "syllabus.html#learning-objectives",
     "title": "Syllabus",
     "section": "Learning Objectives",
-    "text": "Learning Objectives\n\nDevelop comprehensive understanding the scientific foundation, economic rational, systems complexity, and policy implications of climate change, energy transtion, and human society;\nGain a system understanding of the energy root of climate challenges, and the technology, economic, societal, behavral transformation needed to enable an energy transition;\nGet introduced to major analytical concepts and case studies in energy and climate systems and policy analysis;\nDevelop basic analytical skills to understand and contribute effective policy discussion and debate."
+    "text": "Learning Objectives\n\nDevelop comprehensive understanding the scientific foundation, economic rational, systems complexity, and policy implications of climate change, energy transtion, and human society;\n\nGain a system understanding of the energy root of climate challenges, and the technology, economic, societal, behavral transformation needed to enable an energy transition;\n\nGet introduced to major analytical concepts and case studies in energy and climate systems and policy analysis;\n\nDevelop basic analytical skills to understand and contribute effective policy discussion and debate."
   },
   {
     "objectID": "syllabus.html#class-readings",
@@ -2174,7 +2174,7 @@
     "href": "tools/3pathway.html#en-roads-simulator",
     "title": "Tools of the Trade: Pathways to Net-zero",
     "section": "En-ROADS simulator",
-    "text": "En-ROADS simulator"
+    "text": "En-ROADS simulator\n\nEn-ROADS is a freely-available online simulator that provides policymakers, educators, businesses, the media, and the public with the ability to test and explore cross-sector climate solutions.\n\nCheck more information here: https://www.climateinteractive.org/en-roads/"
   },
   {
     "objectID": "tools/3pathway.html#more-sophiscated-models",
@@ -2188,7 +2188,7 @@
     "href": "tools/3pathway.html#further-readings",
     "title": "Tools of the Trade: Pathways to Net-zero",
     "section": "Further readings",
-    "text": "Further readings"
+    "text": "Further readings\n\nDeep Decarbonization Pathways (DDP) project"
   },
   {
     "objectID": "lectures/lecture16.html#sample-analytic-questions",
@@ -2476,5 +2476,26 @@
     "title": "Lecture 17 Energy Transition",
     "section": "",
     "text": "References\n\n\nClack, Christopher T. M., Staffan A. Qvist, Jay Apt, Morgan Bazilian, Adam R. Brandt, Ken Caldeira, Steven J. Davis, et al. 2017. “Evaluation of a Proposal for Reliable Low-Cost Grid Power with 100% Wind, Water, and Solar.” Proceedings of the National Academy of Sciences, June, 201610381. https://doi.org/10.1073/pnas.1610381114.\n\n\nCui, Ryna Yiyun, Nathan Hultman, Diyang Cui, Haewon McJeon, Sha Yu, Morgan R Edwards, Arijit Sen, et al. 2021. “A Plant-by-Plant Strategy for High-Ambition Coal Power Phaseout in China.” Nature Communications 12 (1): 1–10. https://doi.org/10.1038/s41467-021-21786-0.\n\n\nHe, Gang, Jiang Lin, Ying Zhang, Wenhua Zhang, Guilherme Larangeira, Chao Zhang, Wei Peng, Manzhi Liu, and Fuqiang Yang. 2020. “Enabling a Rapid and Just Transition Away from Coal in China.” One Earth 3 (2): 187–94. https://doi.org/10.1016/j.oneear.2020.07.012.\n\n\nJacobson, Mark Z., Mark A. Delucchi, Mary A. Cameron, and Bethany A. Frew. 2015. “Low-Cost Solution to the Grid Reliability Problem with 100% Penetration of Intermittent Wind, Water, and Solar for All Purposes.” Proceedings of the National Academy of Sciences 112 (49): 15060–65. https://doi.org/10.1073/pnas.1510028112.\n\n\nLovins, Amory B. 1976. “Energy Strategy: The Road Not Taken.” Foreign Affairs 55: 65. https://rmi.org/insight/energy-strategy-the-road-not-taken.\n\n\nMulugetta, Yacob, Youba Sokona, Philipp A Trotter, Samuel Fankhauser, Jessica Omukuti, Lucas Somavilla Croxatto, Bjarne Steffen, et al. 2022. “Africa Needs Context-Relevant Evidence to Shape Its Clean Energy Future.” Nature Energy, 1–8. https://doi.org/10.1038/s41560-022-01152-0.\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He\n\n\n\nhttps://drganghe.github.io/energy-climate-society/"
+  },
+  {
+    "objectID": "tools/3pathway.html",
+    "href": "tools/3pathway.html",
+    "title": "Tools of the Trade: Pathways to Net-zero",
+    "section": "",
+    "text": "The Climate Action Pathways are a vital part of the Marrakech Partnership tools to enhance climate action and ambition towards fully implementing the Paris Agreement. First launched in 2019, they set out sectoral visions for achieving a 1.5° C resilient world in 2050, with overarching transformational milestones, and key impacts that need to be achieved to realize them.\nThe Pathways incorporate insights about the exponential nature of the necessary systemic and technological change within sectors, but also focus on the synergies and interlinkages across the thematic and cross-cutting areas in order to assist all actors to take an integrated approach.\nThe key aim of the 2021 Pathways is to further strengthen the aspects of just transition, gender-responsiveness, resilience and circular economy, deepening the alignment of actions across the Pathways.\nOverall, the Pathways aim to provide a roadmap to help Parties and non-Party stakeholders alike to identify actions needed by 2021, 2025, 2030 and 2040 as steps to get to the 2050 vision. As such, they are intended as living documents, to be updated periodically with the latest information and lessons learned as the state of climate action evolves.\nThe Climate Action Pathways complement the Yearbook of Global Climate Action and the Global Climate Action Portal (GCAP), which track, report and recognize climate action, by presenting forward-looking actions towards a fully climate-resilient world.\n\nSource: https://unfccc.int/climate-action/marrakech-partnership/reporting-and-tracking/climate_action_pathways"
+  },
+  {
+    "objectID": "tools/3pathway.html#pathways",
+    "href": "tools/3pathway.html#pathways",
+    "title": "Tools of the Trade: Pathways to Net-zero",
+    "section": "",
+    "text": "The Climate Action Pathways are a vital part of the Marrakech Partnership tools to enhance climate action and ambition towards fully implementing the Paris Agreement. First launched in 2019, they set out sectoral visions for achieving a 1.5° C resilient world in 2050, with overarching transformational milestones, and key impacts that need to be achieved to realize them.\nThe Pathways incorporate insights about the exponential nature of the necessary systemic and technological change within sectors, but also focus on the synergies and interlinkages across the thematic and cross-cutting areas in order to assist all actors to take an integrated approach.\nThe key aim of the 2021 Pathways is to further strengthen the aspects of just transition, gender-responsiveness, resilience and circular economy, deepening the alignment of actions across the Pathways.\nOverall, the Pathways aim to provide a roadmap to help Parties and non-Party stakeholders alike to identify actions needed by 2021, 2025, 2030 and 2040 as steps to get to the 2050 vision. As such, they are intended as living documents, to be updated periodically with the latest information and lessons learned as the state of climate action evolves.\nThe Climate Action Pathways complement the Yearbook of Global Climate Action and the Global Climate Action Portal (GCAP), which track, report and recognize climate action, by presenting forward-looking actions towards a fully climate-resilient world.\n\nSource: https://unfccc.int/climate-action/marrakech-partnership/reporting-and-tracking/climate_action_pathways"
+  },
+  {
+    "objectID": "tools/3pathway.html#c-roads-climate-policy-simulator",
+    "href": "tools/3pathway.html#c-roads-climate-policy-simulator",
+    "title": "Tools of the Trade: Pathways to Net-zero",
+    "section": "C-ROADS climate policy simulator",
+    "text": "C-ROADS climate policy simulator\n\nC-ROADS is a free, award-winning computer simulator that helps people understand the long-term climate impacts of national and regional greenhouse gas emissions reductions at the global level.\n\nCheck more information here: https://www.climateinteractive.org/c-roads/"
   }
 ]

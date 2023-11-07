@@ -20,12 +20,9 @@ title: Syllabus
 {{< include /files/includes/_coursedescription.qmd >}}
 
 
-## Learning Objectives 
+{{< include /files/includes/_courseobjectives.qmd >}}
 
-- Develop comprehensive understanding the scientific foundation, economic rational, systems complexity, and policy implications of climate change, energy transtion, and human society;
-- Gain a system understanding of the energy root of climate challenges, and the technology, economic, societal, behavral transformation needed to enable an energy transition; 
-- Get introduced to major analytical concepts and case studies in energy and climate systems and policy analysis; 
-- Develop basic analytical skills to understand and contribute effective policy discussion and debate.
+
 
 ## Class Readings
 
