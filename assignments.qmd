@@ -8,3 +8,5 @@ repo-actions: false
 |-----------------|-----------------|---------------------|---------------------|
 | 1    | [Carbon footprint calculation](assignments/hw1.qmd) | [hw1](assignments/hw1.pdf) | 9/14    |
 | 2    | [Updating Rosenfeld Plant and power plant efficiency](assignments/hw2.qmd) | [hw2](assignments/hw2.pdf) | 10/12    |
+| 3    | [Energy project economics](assignments/hw3.qmd) | [hw3](assignments/hw3.pdf)  |  11/2      |
+| 4    | [Energy and climate justice](assignments/hw4.qmd) | [hw4](assignments/hw4.pdf)  |  11/21      |
