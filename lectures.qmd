@@ -3,6 +3,7 @@ title: "Lectures"
 image: "/files/images/hex-Energy-Climate-Society.png"
 listing:
   contents: lectures
+  page-size: 36
   sort: "date asc"
   type: grid
   categories: false
