@@ -116,7 +116,7 @@ How should drinks be provided?
 - Syrup concentrate (from fountain machines)  
 
 ::: footer
-Source:Gwen DiPietro and Scott Matthews [Life Cycle Assessment](https://guides.library.cmu.edu/c.php?g=907239); Read more: [Ecochain](https://ecochain.com/blog/sustainable-christmas-trees)
+Source:Gwen DiPietro and Scott Matthews [Life Cycle Assessment](https://guides.library.cmu.edu/c.php?g=907239)
 :::
 
 ## History of LCA
@@ -170,7 +170,7 @@ In 1991, the USA denounced the use of LCA results until further standards were i
 - Standards generally voluntary, but may be required by contract (require ISO 9000 compliant firm)  
 
 ::: footer
-Source:Gwen DiPietro and Scott Matthews [Life Cycle Assessment](https://guides.library.cmu.edu/c.php?g=907239); Read more: [Ecochain](https://ecochain.com/blog/sustainable-christmas-trees)
+Source:Gwen DiPietro and Scott Matthews [Life Cycle Assessment](https://guides.library.cmu.edu/c.php?g=907239)
 :::
 
 
@@ -213,7 +213,7 @@ Source: @iea2016energywater
 - LCA is part of the sustainability tool box
 
 ::: footer
-Source:Gwen DiPietro and Scott Matthews [Life Cycle Assessment](https://guides.library.cmu.edu/c.php?g=907239); Read more: [Ecochain](https://ecochain.com/blog/sustainable-christmas-trees)
+Source:Gwen DiPietro and Scott Matthews [Life Cycle Assessment](https://guides.library.cmu.edu/c.php?g=907239)
 :::
 
 
@@ -229,7 +229,7 @@ Source:Gwen DiPietro and Scott Matthews [Life Cycle Assessment](https://guides.l
 - LCA is a robust methodology that requires careful choice of methods and leverage of quantitative tools. 
 
 ::: footer
-Source:Gwen DiPietro and Scott Matthews [Life Cycle Assessment](https://guides.library.cmu.edu/c.php?g=907239); Read more: [Ecochain](https://ecochain.com/blog/sustainable-christmas-trees)
+Source:Gwen DiPietro and Scott Matthews [Life Cycle Assessment](https://guides.library.cmu.edu/c.php?g=907239)
 :::
 
 
