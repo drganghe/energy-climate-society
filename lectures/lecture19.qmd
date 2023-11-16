@@ -114,6 +114,7 @@ Perspective:
 - 2017: AlphaZero, Capsule Networks
 - 2018: AlphaFold 1, BERT
 - 2021: AlphaFold 2
+- 2023: ChatGPT
 :::
 :::
 

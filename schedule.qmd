@@ -17,4 +17,4 @@ repo-actions: false
 | 9    | 10/24, [Energy efficiency](lectures/lecture14.qmd) | 10/26, [Energy access](lectures/lecture15.qmd) |  |
 | 10    | 10/31, [Energy, environment, health](lectures/lecture16.qmd) | 11/2, [Energy transition](lectures/lecture17.qmd) |  |
 | 11    | 11/7, [Tool: Pathways to net-zero](tools/3pathway.qmd) | 11/9, [Power systems](lectures/lecture18.qmd) | [HW4](assignments/hw4.qmd) assigned |
-| 12    | 11/14, [Big data and AI](lectures/lecture19.qmd) |  |  |
+| 12    | 11/14, [Big data and AI](lectures/lecture19.qmd) | 11/16, [Life cycle analysis](lectures/lecture20.qmd) |  |

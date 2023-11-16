@@ -11,8 +11,8 @@
   <meta name="generator" content="quarto-1.4.471">
 
   <meta name="author" content="Gang He">
-  <meta name="dcterms.date" content="2023-11-14">
-  <title>Energy, Climate, and Society - Lecture 19 Big Data and AI for Energy and Climate</title>
+  <meta name="dcterms.date" content="2023-11-16">
+  <title>Energy, Climate, and Society - Lecture 20 Life-cycle Analysis</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
@@ -352,15 +352,15 @@
       margin-right: 0; 
     }
   </style>
-<meta property="og:title" content="Energy, Climate, and Society - Lecture 19 Big Data and AI for Energy and Climate">
-<meta property="og:image" content="https://drganghe.github.io/energy-climate-society/lectures/images/19/ai-algorithms.png">
+<meta property="og:title" content="Energy, Climate, and Society - Lecture 20 Life-cycle Analysis">
+<meta property="og:image" content="https://drganghe.github.io/energy-climate-society/lectures/images/20/Lifecycle-of-real-fake-tree.png">
 <meta property="og:site_name" content="Energy, Climate, and Society">
-<meta property="og:image:height" content="466">
-<meta property="og:image:width" content="796">
-<meta name="twitter:title" content="Energy, Climate, and Society - Lecture 19 Big Data and AI for Energy and Climate">
-<meta name="twitter:image" content="https://drganghe.github.io/energy-climate-society/lectures/images/19/ai-algorithms.png">
-<meta name="twitter:image-height" content="466">
-<meta name="twitter:image-width" content="796">
+<meta property="og:image:height" content="540">
+<meta property="og:image:width" content="706">
+<meta name="twitter:title" content="Energy, Climate, and Society - Lecture 20 Life-cycle Analysis">
+<meta name="twitter:image" content="https://drganghe.github.io/energy-climate-society/lectures/images/20/Lifecycle-of-real-fake-tree.png">
+<meta name="twitter:image-height" content="540">
+<meta name="twitter:image-width" content="706">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 <body class="quarto-light">
@@ -368,7 +368,7 @@
     <div class="slides">
 
 <section id="title-slide" class="quarto-title-block center">
-  <h1 class="title">Lecture 19 Big Data and AI for Energy and Climate</h1>
+  <h1 class="title">Lecture 20 Life-cycle Analysis</h1>
 
 <div class="quarto-title-authors">
 <div class="quarto-title-author">
@@ -378,299 +378,294 @@ Gang He
 </div>
 </div>
 
-  <p class="date">November 14, 2023</p>
+  <p class="date">November 16, 2023</p>
 </section>
 <section id="sample-analytic-questions" class="slide level2 center">
 <h2>Sample analytic questions</h2>
 <ul>
-<li>What are the new advancements in AI and big data?<br>
+<li>How to compare the emissions of energy technology fairly?<br>
 </li>
-<li>How AI and big data could be used in facilitating clean energy transition and addressing climate change?<br>
+<li>Does EV reduces or increase emissions?<br>
 </li>
-<li>Any good examples or success stories of AI for energy/climate change?<br>
+<li>Does CO2 enhanced oil recovery reduces carbon emission?<br>
 </li>
-<li>What skills are need to work in this field?<br>
+<li>GHG implications of biomass?<br>
 </li>
 </ul>
-</section>
-<section id="offshore-wind-turbine-inspection-using-drones-and-ai" class="slide level2 center">
-<h2>Offshore wind turbine inspection using drones and AI</h2>
-<center>
-<p>A local example</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l6KwFJ19u4k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
-</iframe>
-</center>
 <div class="footer">
-<p>Read more: <a href="https://www.stonybrook.edu/commcms/aertc/conference2018/conference/presentations/Passaretti_Mike_powerpoint.pdf">ULC Technologies</a></p>
+<p>This lecture benefits from the <a href="https://guides.library.cmu.edu/c.php?g=907239">Life Cycle Assessment</a> material at CMU.</p>
 </div>
 </section>
-<section id="ai-is-the-new-electricity" class="slide level2 center">
-<h2>“AI is the new electricity”</h2>
-<div class="columns">
-<div class="column" style="width:40%;">
-<p><img data-src="..\lectures/images/19/andrew-ng.png" class="quarto-figure-center"></p>
-</div><div class="column" style="width:60%;">
-<blockquote>
-<p>Just as electricity transformed almost everything 100 years ago, today I actually have a hard time thinking of an industry that I don’t think AI will transform in the next several years.</p>
-</blockquote>
-<p>–Andrew Ng</p>
-</div>
-</div>
-<div class="footer">
-<p>Read more: <a href="https://www.gsb.stanford.edu/insights/andrew-ng-why-ai-new-electricity">Andrew Ng: Why AI Is the New Electricity</a></p>
-</div>
-</section>
-<section id="milestones-in-ai" class="slide level2 center">
-<h2>Milestones in AI</h2>
-<div class="columns">
-<div class="column" style="width:30%;">
-<p><img data-src="..\lectures/images/19/pale-blut-dot.png" class="quarto-figure-center"></p>
-</div><div class="column" style="width:30%;">
-<div class="r-fit-text">
-<p>Perspective:</p>
+<section id="lca-questions" class="slide level2 center">
+<h2>LCA questions</h2>
 <ul>
-<li><p>Universe created:</p>
-<ul>
-<li>13.8 billion years ago</li>
-</ul></li>
-<li><p>Earth created:</p>
-<ul>
-<li>4.54 billion years ago</li>
-</ul></li>
-<li><p>Modern human:</p>
-<ul>
-<li>300,000 years ago</li>
-</ul></li>
-<li><p>Civilization:</p>
-<ul>
-<li>12,000 years ago</li>
-</ul></li>
-<li><p>Written record:</p>
-<ul>
-<li>5,000 years ago</li>
-</ul></li>
+<li>Paper or plastic grocery bags<br>
+</li>
+<li>Cloth or disposable diapers<br>
+</li>
+<li>Digital or hardcopy papers/books<br>
+</li>
+<li>Plastic water bottles or tap water</li>
 </ul>
-</div>
-</div><div class="column" style="width:40%;">
-<div class="r-fit-text">
+</section>
+<section id="system-thinking" class="slide level2 center">
+<h2>System thinking</h2>
 <ul>
-<li>1943: Neural networks</li>
-<li>1957: Perceptron</li>
-<li>1974-86: Backpropagation, RBM, RNN</li>
-<li>1989-98: CNN, MNIST, LSTM, Bidirectional RNN</li>
-<li>2006: “Deep Learning”, DBN</li>
-<li>2009: ImageNet</li>
-<li>2012: AlexNet, Dropout</li>
-<li>2014: GANs</li>
-<li>2014: DeepFace</li>
-<li>2016: AlphaGo</li>
-<li>2017: AlphaZero, Capsule Networks</li>
-<li>2018: AlphaFold 1, BERT</li>
-<li>2021: AlphaFold 2</li>
-<li>2023: ChatGPT</li>
+<li>Acknowledging the complex connectivity of our societies, economies and the natural environment<br>
+</li>
+<li>Understanding system behaviors and responses (positive and negative)<br>
+</li>
+<li>Modifying complex systems to achieve a more sustainable balance<br>
+</li>
+<li>Life cycle thinking, applied to products and processes, is a specific example of systems thinking</li>
 </ul>
-</div>
-</div>
-</div>
 <div class="footer">
-<p>Photo: <a href="https://www.planetary.org/worlds/pale-blue-dot">NASA</a>; Read more: <a href="https://en.wikipedia.org/wiki/Timeline_of_machine_learning">Wikipedia</a></p>
+<p>Read more: <span class="citation" data-cites="meadows_thinking_2008">Meadows (<a href="#/references" role="doc-biblioref" onclick="">2008</a>)</span></p>
 </div>
 </section>
-<section id="aartifitial-intelligence-machine-learning-and-deep-learning" class="slide level2 center">
-<h2>Aartifitial intelligence, machine learning, and deep learning</h2>
-
-<img data-src="..\lectures/images/19/ai-ml-dl.png" class="quarto-figure-center r-stretch"><div class="footer">
-<p>Read more: <span class="citation" data-cites="lee2021empirical">Lee and He (<a href="#/references" role="doc-biblioref" onclick="">2021</a>)</span></p>
-</div>
-</section>
-<section id="ai-algorithms" class="slide level2 center">
-<h2>AI Algorithms</h2>
-
-<img data-src="..\lectures/images/19/ai-algorithms.png" class="quarto-figure-center r-stretch"><div class="footer">
-<p>Read more: <span class="citation" data-cites="lee2021empirical">Lee and He (<a href="#/references" role="doc-biblioref" onclick="">2021</a>)</span></p>
-</div>
-</section>
-<section id="how-ai-has-transformed-our-society" class="slide level2 center">
-<h2>How AI has transformed our society</h2>
-
-<img data-src="..\lectures/images/19/ai-transformation.webp" class="quarto-figure-center r-stretch"><div class="footer">
-<p>Figure <a href="https://www.techbooky.com/ai-transforming-business/">source</a>, read more: <a href="https://www.gao.gov/products/gao-18-142sp">GAO</a></p>
-</div>
-</section>
-<section id="key-enabling-factors" class="slide level2 center">
-<h2>Key enabling factors</h2>
+<section id="lca" class="slide level2 center">
+<h2>LCA</h2>
+<p>The assessment of environmental impacts of products or processes from “cradle to grave”</p>
 <div class="columns">
 <div class="column" style="width:50%;">
-<ul>
-<li>Technological maturity<br>
-</li>
-<li>Availability and quality of data<br>
-</li>
-<li>Growing importance of cybersecurity<br>
-</li>
-<li>Training and re-skilling of energy sector professionals<br>
-</li>
-</ul>
+<p>“Cradle to Grave”<br>
+- Raw material extraction<br>
+- Manufacturing<br>
+- Transportation<br>
+- Usage<br>
+- Disposal</p>
 </div><div class="column" style="width:50%;">
-<p><img data-src="..\lectures/images/19/ai-re.png" class="quarto-figure-center"></p>
+<p>Environmental impacts<br>
+- Greenhouse gases<br>
+- Particulates<br>
+- Water withdrawal<br>
+- Toxics<br>
+- Land use</p>
 </div>
 </div>
 <div class="footer">
-<p>Read more: <a href="https://www.irena.org/publications/2019/Sep/Artificial-Intelligence-and-Big-Data">IRENA</a></p>
+<p>Read more from Gwen DiPietro and Scott Matthews <a href="https://guides.library.cmu.edu/c.php?g=907239">Life Cycle Assessment</a>.</p>
 </div>
 </section>
-<section id="deep-solar" class="slide level2 center">
-<h2>Deep solar</h2>
-<div class="columns">
-<div class="column" style="width:50%;">
-<p><img data-src="..\lectures/images/19/deep-solar-1.png" class="quarto-figure-center"></p>
-</div><div class="column" style="width:50%;">
-<p><img data-src="..\lectures/images/19/deep-solar-2.png" class="quarto-figure-center"></p>
+<section id="lca-thinking" class="slide level2 center">
+<h2>LCA Thinking</h2>
+
+<img data-src="..\lectures/images/20/pine-tree-life-cycle.png" class="quarto-figure-center r-stretch"><div class="footer">
+<p>Source:<a href="https://www.biographixmedia.com/biology/pine-tree-life-cycle.html" class="uri">https://www.biographixmedia.com/biology/pine-tree-life-cycle.html</a></p>
 </div>
+</section>
+<section id="lca-of-real-vs-fake-christmas-tree" class="slide level2 center">
+<h2>LCA of Real vs Fake Christmas Tree</h2>
+
+<img data-src="..\lectures/images/20/Lifecycle-of-real-fake-tree.png" class="quarto-figure-center r-stretch"><div class="footer">
+<p>Source:Gwen DiPietro and Scott Matthews <a href="https://guides.library.cmu.edu/c.php?g=907239">Life Cycle Assessment</a>; Read more: <a href="https://ecochain.com/blog/sustainable-christmas-trees">Ecochain</a></p>
 </div>
+</section>
+<section id="another-thought-experiment" class="slide level2 center">
+<h2>Another thought experiment</h2>
+<p>How should drinks be provided?<br>
+- 12 oz. aluminum (soda) cans<br>
+- 12 oz. steel (soda) cans<br>
+- 2 liter plastic (soda) bottles<br>
+- 8 oz. (fresh juice) boxes<br>
+- 32 oz. paperboard (fresh juice) boxes<br>
+- 8 oz. paperboard (concentrated and frozen juice) cans<br>
+- 10 oz. refillable glass bottles (from the 1970s)<br>
+- Syrup concentrate (from fountain machines)</p>
 <div class="footer">
-<p>Read more: <span class="citation" data-cites="yu2018deepsolar">Yu et al. (<a href="#/references" role="doc-biblioref" onclick="">2018</a>)</span></p>
+<p>Source:Gwen DiPietro and Scott Matthews <a href="https://guides.library.cmu.edu/c.php?g=907239">Life Cycle Assessment</a>; Read more: <a href="https://ecochain.com/blog/sustainable-christmas-trees">Ecochain</a></p>
 </div>
 </section>
-<section id="ai-to-improve-wind-perfomance" class="slide level2 center">
-<h2>AI to improve wind perfomance</h2>
-
-<img data-src="..\lectures/images/19/ml-and-wind.png" class="quarto-figure-center r-stretch"><div class="footer">
-<p>Read more: <a href="https://deepmind.com/blog/machine-learning-can-boost-value-wind-energy">Deepmind</a></p>
+<section id="history-of-lca" class="slide level2 center">
+<h2>History of LCA</h2>
+<p>Initial LCA work was focused on energy</p>
+<p>1969 - first multi-criteria study for Coca-Cola<br>
+- Glass versus plastic for container<br>
+- Choice between internal / external container production<br>
+- End of life options (recycling or one-way)<br>
+- Result: plastic bottle was better, contrary to expectations<br>
+- Study never published<br>
+- Questions of validity then occurred<br>
+- Led to calls by scientific community for a standardization process</p>
+<div class="footer">
+<p>Read more: <a href="https://ecochain.com/blog/coca-colas-first-lca-in-1969-a-brief-history-of-lca/">Coca Cola’s first LCA in 1969 – A brief history of LCA</a></p>
 </div>
 </section>
-<section id="ai-saves-data-center-cooling-energy" class="slide level2 center">
-<h2>AI saves data center cooling energy</h2>
-
-<img data-src="..\lectures/images/19/deepmind-data-center-control.png" class="quarto-figure-center r-stretch"><div class="footer">
-<p>Read more: <a href="https://deepmind.com/blog/deepmind-ai-reduces-google-data-centre-cooling-bill-40">Deepmind</a></p>
-</div>
+<section id="the-80s-lca-as-a-marketing-instrument" class="slide level2 center">
+<h2>The 80’s: LCA as a marketing instrument</h2>
+<p>LCA was used in the marketing claims</p>
+<p>In 1991, the USA denounced the use of LCA results until further standards were in place.</p>
 </section>
-<section id="global-inventory-of-solar-pv" class="slide level2 center">
-<h2>Global inventory of solar PV</h2>
-
-<img data-src="..\lectures/images/19/solar-pv-inventory.webp" class="quarto-figure-center r-stretch"><div class="footer">
-<p>Source: <span class="citation" data-cites="kruitwagen2021global">Kruitwagen et al. (<a href="#/references" role="doc-biblioref" onclick="">2021</a>)</span></p>
-</div>
+<section id="iso-14000-standardization" class="slide level2 smaller center">
+<h2>1997: ISO 14000 Standardization</h2>
+<table>
+<colgroup>
+<col style="width: 24%">
+<col style="width: 75%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>ISO 14000</th>
+<th>Standards of Environmental Management</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>ISO 14001</td>
+<td>Certification of Environmental Management Systems</td>
+</tr>
+<tr class="even">
+<td>ISO 14010</td>
+<td>Audit guidelines</td>
+</tr>
+<tr class="odd">
+<td>ISO 14011</td>
+<td>Audit methodology</td>
+</tr>
+<tr class="even">
+<td>ISO 14012</td>
+<td>Qualification of auditors</td>
+</tr>
+<tr class="odd">
+<td>ISO 14013-14015</td>
+<td>Audit processes</td>
+</tr>
+<tr class="even">
+<td>ISO 14020-14025</td>
+<td>Environmental labeling</td>
+</tr>
+<tr class="odd">
+<td>ISO 14031-14032</td>
+<td>Environmental performance evaluation</td>
+</tr>
+<tr class="even">
+<td>ISO 14040 / 14044</td>
+<td>Life Cycle Assessment – General principles and practices</td>
+</tr>
+<tr class="odd">
+<td>ISO 14050</td>
+<td>Terms and Definitions</td>
+</tr>
+<tr class="even">
+<td>ISO 19011</td>
+<td>Guide for management systems auditing</td>
+</tr>
+</tbody>
+</table>
 </section>
-<section id="machine-learning-for-electricity-access" class="slide level2 center">
-<h2>Machine learning for electricity access</h2>
-
-<img data-src="..\lectures/images/19/electrification-asset-wealth.webp" class="quarto-figure-center r-stretch"><div class="footer">
-<p>Source: <span class="citation" data-cites="ratledge2022using">Ratledge et al. (<a href="#/references" role="doc-biblioref" onclick="">2022</a>)</span></p>
-</div>
-</section>
-<section id="ai-for-climate-solutions" class="slide level2 center">
-<h2>AI for climate solutions</h2>
-
-<img data-src="..\lectures/images/19/climate-solution-ai-areas.png" class="quarto-figure-center r-stretch"><div class="footer">
-<p>Source: <span class="citation" data-cites="rolnick2022tackling">Rolnick et al. (<a href="#/references" role="doc-biblioref" onclick="">2022</a>)</span></p>
-</div>
-</section>
-<section id="ai-for-ghg-mitigation" class="slide level2 center">
-<h2>AI for GHG mitigation</h2>
-
-<img data-src="..\lectures/images/19/ai-ghg-mitigation.webp" class="quarto-figure-center r-stretch"><div class="footer">
-<p>Source: <span class="citation" data-cites="kaack2022aligning">Kaack et al. (<a href="#/references" role="doc-biblioref" onclick="">2022</a>)</span></p>
-</div>
-</section>
-<section id="ai-ethics-why" class="slide level2 center">
-<h2>AI ethics: why?</h2>
+<section id="rationale-for-a-standard" class="slide level2 smaller center">
+<h2>Rationale for a standard</h2>
 <ul>
-<li>Biases<br>
-</li>
-<li>Privacy<br>
-</li>
-<li>Mistakes<br>
-</li>
-<li>Environmental impacts<br>
-</li>
-<li>Other unaware impacts</li>
+<li>Want things done consistently
+<ul>
+<li>Common guidelines</li>
+</ul></li>
+<li>Want to set level playing field in a market
+<ul>
+<li>Following the standard is assessable, and determined compliant</li>
+</ul></li>
+<li>Analogous to ASTM and other “test standards”
+<ul>
+<li>e.g., consistent concrete is desired and can be specified in a construction bid request: “we want ASTM C94 concrete”</li>
+<li>LEED Green Building Standards family</li>
+</ul></li>
+<li>Standards generally voluntary, but may be required by contract (require ISO 9000 compliant firm)</li>
 </ul>
 <div class="footer">
-<p>Read more: <a href="https://en.wikipedia.org/wiki/Ethics_of_artificial_intelligence">Wikipedia</a>, <a href="https://www.forbes.com/sites/nishatalagala/2022/05/31/ai-ethics-what-it-is-and-why-it-matters">AI Ethics: What It Is And Why It Matters</a></p>
+<p>Source:Gwen DiPietro and Scott Matthews <a href="https://guides.library.cmu.edu/c.php?g=907239">Life Cycle Assessment</a>; Read more: <a href="https://ecochain.com/blog/sustainable-christmas-trees">Ecochain</a></p>
 </div>
 </section>
-<section id="ai-ethics-principles" class="slide level2 smaller center">
-<h2>AI ethics: principles</h2>
+<section id="standard-oganization" class="slide level2 center">
+<h2>Standard oganization</h2>
 <ul>
-<li>Proportionality and do no harm<br>
-</li>
-<li>Safety and security<br>
-</li>
-<li>Fariness and non-discrimination<br>
-</li>
-<li>Sustainability<br>
-</li>
-<li>Right to privacy, and data protection<br>
-</li>
-<li>Human oversight and determination<br>
-</li>
-<li>Transparency and explainability<br>
-</li>
-<li>Responsibility and accountability<br>
-</li>
-<li>Awareness and literacy<br>
-</li>
-<li>Multi-stakeholder and adaptive governance and colloboration</li>
+<li>Scope</li>
+<li>Normative references</li>
+<li>Terms and definitions</li>
+<li>General description of LCA
+<ul>
+<li>Principles; Phases; Key features; General concepts of product systems</li>
+</ul></li>
+<li>Methodological framework</li>
+<li>Reporting</li>
+<li>Critical review</li>
 </ul>
-<div class="footer">
-<p>Read more: <a href="https://unesdoc.unesco.org/ark:/48223/pf0000381137">UNESCO</a></p>
+</section>
+<section id="phase-of-an-lca" class="slide level2 center">
+<h2>Phase of an LCA</h2>
+
+<img data-src="..\lectures/images/20/phase-of-lca.png" class="quarto-figure-center r-stretch"><div class="footer">
+<p>Read more: <a href="https://www.iso.org/standard/37456.html" class="uri">https://www.iso.org/standard/37456.html</a></p>
 </div>
 </section>
-<section id="ai-ethics-how" class="slide level2 center">
-<h2>AI ethics: how?</h2>
+<section id="recall-renewables-save-water" class="slide level2 center">
+<h2>Recall renewables save water</h2>
+
+<img data-src="..\lectures/images/16/water-by-generating-technology.png" class="quarto-figure-center r-stretch"><div class="footer">
+<p>Source: <span class="citation" data-cites="iea2016energywater">IEA (<a href="#/references" role="doc-biblioref" onclick="">2016</a>)</span></p>
+</div>
+</section>
+<section id="what-lca-is-whats-not" class="slide level2 center">
+<h2>What LCA is what’s not</h2>
 <ul>
-<li>Still slow responding to the fast evolving challenges</li>
-<li>Education and research<br>
-</li>
-<li>Assessment and communication<br>
-</li>
-<li>Governance and cooperation<br>
-</li>
-<li>Value alligned design</li>
+<li>LCA is a way of structuring/organizing the relevant parts of the life cycle</li>
+<li>It is a tool to track performance</li>
+<li>LCA is not a cure-all for our environmental problems</li>
+<li>LCA is not an “exact” science with provable axioms/theories</li>
+<li>LCA is part of the sustainability tool box</li>
 </ul>
 <div class="footer">
-<p>Read more: <a href="https://unesdoc.unesco.org/ark:/48223/pf0000381137">UNESCO</a>, <a href="https://ethicsinaction.ieee.org/">IEEE Ethics in Action</a></p>
+<p>Source:Gwen DiPietro and Scott Matthews <a href="https://guides.library.cmu.edu/c.php?g=907239">Life Cycle Assessment</a>; Read more: <a href="https://ecochain.com/blog/sustainable-christmas-trees">Ecochain</a></p>
+</div>
+</section>
+<section id="uncertainties-in-lca" class="slide level2 smaller center">
+<h2>Uncertainties in LCA</h2>
+<ul>
+<li>Use care in using simplistic methods to support decisions<br>
+</li>
+<li>“A decision made without taking uncertainty into account is barely worth calling a decision.” (Wilson, 1985)<br>
+</li>
+<li>Presumed focus of book and course<br>
+</li>
+<li>We’re doing LCA for big decisions
+<ul>
+<li>Hybrid cars? Green energy? Change-the-world policy questions<br>
+</li>
+</ul></li>
+<li>Thus analysis should be as good as possible<br>
+</li>
+<li>“It depends” studies perhaps just not “complete” studies<br>
+</li>
+<li>LCA is a robust methodology that requires careful choice of methods and leverage of quantitative tools.</li>
+</ul>
+<div class="footer">
+<p>Source:Gwen DiPietro and Scott Matthews <a href="https://guides.library.cmu.edu/c.php?g=907239">Life Cycle Assessment</a>; Read more: <a href="https://ecochain.com/blog/sustainable-christmas-trees">Ecochain</a></p>
 </div>
 </section>
 <section id="summary" class="slide level2 center">
 <h2>Summary</h2>
 <ul>
-<li>AI and big data has transformed how we live, and how can we save the planet<br>
+<li>System thinking and LCA thinking<br>
 </li>
-<li>AI does not automatic add new insights, but it provides powerful tools to analyze increasingly available big data<br>
+<li>LCA could offer insights<br>
 </li>
-<li>Learning those new tools and skills becomes necessary to work in the field<br>
+<li>Learning those new tools and skills to do basic LCA<br>
 </li>
-<li>The potential of using AI/big data to analyze our understanding of energy supply/demand and human behavior is enomorous.</li>
+<li>LCA is a system think to address energy and climate challenges.</li>
 </ul>
 </section>
 <section class="slide level2 smaller scrollable" id="references">
 
 <h3 id="references">References</h3>
 <div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
-<div id="ref-kaack2022aligning" class="csl-entry" role="listitem">
-Kaack, Lynn H, Priya L Donti, Emma Strubell, George Kamiya, Felix Creutzig, and David Rolnick. 2022. <span>“Aligning Artificial Intelligence with Climate Change Mitigation.”</span> <em>Nature Climate Change</em>, 1–10. <a href="https://doi.org/10.1038/s41558-022-01377-7">https://doi.org/10.1038/s41558-022-01377-7</a>.
+<div id="ref-iea2016energywater" class="csl-entry" role="listitem">
+IEA. 2016. <span>“Water Energy Nexus Excerpt from the World Energy Outlook 2016.”</span> <a href="https://www.iea.org/reports/water-energy-nexus">https://www.iea.org/reports/water-energy-nexus</a>.
 </div>
-<div id="ref-kruitwagen2021global" class="csl-entry" role="listitem">
-Kruitwagen, L, KT Story, J Friedrich, L Byers, S Skillman, and C Hepburn. 2021. <span>“A Global Inventory of Photovoltaic Solar Energy Generating Units.”</span> <em>Nature</em> 598 (7882): 604–10. <a href="https://doi.org/10.1038/s41586-021-03957-7">https://doi.org/10.1038/s41586-021-03957-7</a>.
-</div>
-<div id="ref-lee2021empirical" class="csl-entry" role="listitem">
-Lee, Mekyung, and Gang He. 2021. <span>“An Empirical Analysis of Applications of Artificial Intelligence Algorithms in Wind Power Technology Innovation During 1980–2017.”</span> <em>Journal of Cleaner Production</em> 297: 126536. <a href="https://doi.org/10.1016/j.jclepro.2021.126536">https://doi.org/10.1016/j.jclepro.2021.126536</a>.
-</div>
-<div id="ref-ratledge2022using" class="csl-entry" role="listitem">
-Ratledge, Nathan, Gabe Cadamuro, Brandon de la Cuesta, Matthieu Stigler, and Marshall Burke. 2022. <span>“Using Machine Learning to Assess the Livelihood Impact of Electricity Access.”</span> <em>Nature</em> 611 (7936): 491–95. <a href="https://doi.org/10.1038/s41586-022-05322-8">https://doi.org/10.1038/s41586-022-05322-8</a>.
-</div>
-<div id="ref-rolnick2022tackling" class="csl-entry" role="listitem">
-Rolnick, David, Priya L Donti, Lynn H Kaack, Kelly Kochanski, Alexandre Lacoste, Kris Sankaran, Andrew Slavin Ross, et al. 2022. <span>“Tackling Climate Change with Machine Learning.”</span> <em>ACM Computing Surveys (CSUR)</em> 55 (2): 1–96. <a href="https://doi.org/10.1145/3485128">https://doi.org/10.1145/3485128</a>.
-</div>
-<div id="ref-yu2018deepsolar" class="csl-entry" role="listitem">
-Yu, Jiafan, Zhecheng Wang, Arun Majumdar, and Ram Rajagopal. 2018. <span>“DeepSolar: A Machine Learning Framework to Efficiently Construct a Solar Deployment Database in the United States.”</span> <em>Joule</em> 2 (12): 2605–17. <a href="https://doi.org/10.1016/j.joule.2018.11.021">https://doi.org/10.1016/j.joule.2018.11.021</a>.
+<div id="ref-meadows_thinking_2008" class="csl-entry" role="listitem">
+Meadows, Donella H. 2008. <em>Thinking in <span>Systems</span>: <span>International</span> <span>Bestseller</span></em>. Edited by Diana Wright. White River Junction, Vt: Chelsea Green Publishing.
 </div>
 </div>
 <div class="footer">
-<p>Back to Title <a href="https://drganghe.github.io/energy-climate-society/lectures/lecture19.html#title-slide">Slide</a>, All <a href="https://drganghe.github.io/energy-climate-society/lectures.html">Lectures</a>, Course <a href="https://drganghe.github.io/energy-climate-society/">Home</a>, or Learn More About <a href="https://drganghe.github.io">Gang He</a></p>
+<p>Back to Title <a href="https://drganghe.github.io/energy-climate-society/lectures/lecture20.html#title-slide">Slide</a>, All <a href="https://drganghe.github.io/energy-climate-society/lectures.html">Lectures</a>, Course <a href="https://drganghe.github.io/energy-climate-society/">Home</a>, or Learn More About <a href="https://drganghe.github.io">Gang He</a></p>
 </div>
 
 <div class="footer footer-default">
