@@ -18,3 +18,4 @@ repo-actions: false
 | 10    | 10/31, [Energy, environment, health](lectures/lecture16.qmd) | 11/2, [Energy transition](lectures/lecture17.qmd) |  |
 | 11    | 11/7, [Tool: Pathways to net-zero](tools/3pathway.qmd) | 11/9, [Power systems](lectures/lecture18.qmd) | [HW4](assignments/hw4.qmd) assigned |
 | 12    | 11/14, [Big data and AI](lectures/lecture19.qmd) | 11/16, [Life cycle analysis](lectures/lecture20.qmd) |  |
+| 13    | 11/21, [Tool: Life cycle analysis](tools/4lca.qmd) | Thanksgiving - No session |  |

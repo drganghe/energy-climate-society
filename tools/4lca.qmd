@@ -1,0 +1,79 @@
+---
+title: "Tools of the Trade: Life Cycle Analysis"
+format: 
+  html: 
+    theme: cosmo
+#    css: styles.css
+    toc: true
+    link-external-icon: false
+    link-external-newwindow: true
+  pdf: 
+    documentclass: article
+    #classoption: [landscape]
+    lof: false
+    lot: false
+    geometry:
+      - top=1in
+      - bottom=1in
+      - left=1in
+      - right=1in
+      - heightrounded
+    #fontfamily: xelatex
+    colorlinks: true
+#draft: true
+---
+
+## LCA Tools
+
+|                         | openLCA               | Ecochain Mobius        | Ecochain Helix            | GaBi                   | Oneclicklca            | SimaPro                                 |
+|-------------------------|-----------------------|------------------------|---------------------------|------------------------|------------------------|-----------------------------------------|
+| Ease of use             | Moderate to difficult | Easy                   | Moderate                  | Moderate to difficult  | Moderate to difficult  | Moderate to difficult                   |
+| Free Trial              | N.A. Free software    | Yes, 14-day free trial | No, but demo is available | Yes, 30-day free trial | Yes, 14-day free trial | No, but you can download a demo version |
+| Cloud-based Application | No, download only     | Yes                    | Yes                       | No, download only      | Yes                    | No, download only                       |
+| URL                     | www.openlca.org/      | ecochain.com/mobius    | ecochain.com/helix        | www.gabi-software.com  | www.oneclicklca.com/   | www.simapro.com                         |
+
+Source: [EcoChain](https://ecochain.com/blog/life-cycle-assessment-software-overview-comparison/)
+
+## OpenLCA
+
+>openLCA is an open source and free software for Sustainability and Life Cycle Assessment, with the following features:
+
+- Fast and reliable calculation of your Sustainability Assessment and/or Life Cycle Assessment
+- Very detailed insights into calculation and analysis results; identify main drivers
+throughout the life cycle, by process, flow or impact category, visualize results and
+locate them on a map
+- Best in class import and export capabilities; easy to share your models
+- Life Cycle Costing and social assessment smoothly integrated in the life cycle model
+- User-friendly; user interface in a variety of languages; advanced and efficient
+repository and collaboration feature (currently developed)
+- Continuous improvement and implementation of new features
+
+Source: <https://www.openlca.org/>
+
+
+## Database
+
+- ecoinvest  
+- FLEX
+- ELCD  
+- [USLCI](https://www.nrel.gov/lci/)
+- [Federal LCA Commons](https://www.lcacommons.gov/lca-collaboration/)
+
+Check more information at [openLCA Nexus](https://nexus.openlca.org/)
+
+
+## Case study 
+
+- PET and PC bottle 
+  - Project  
+  - Process  
+  - Flow  
+
+- Change parameters  
+- Add new process and flow  
+- Start a new project  
+
+
+## Further readings
+
+- [openLCA](https://www.openlca.org/)  

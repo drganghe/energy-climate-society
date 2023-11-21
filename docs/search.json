@@ -53,7 +53,7 @@
     "href": "schedule.html",
     "title": "Course Schedule",
     "section": "",
-    "text": "Week\nTuesday\nThursday\nAssignment\n\n\n\n\n1\n8/29, Introduction\n8/31, Make sense of numbers\nHW1 assigned\n\n\n2\n9/5, Climate foudamentals\n9/7, Climate impacts\n\n\n\n3\n9/12, Tool: Social cost of carbon\n9/14, Climate mitigation\n\n\n\n4\n9/19, Climate adaptation\n9/21, Energy systems\n\n\n\n5\n9/26, Energy project economics\n9/28, Fossil technologies\nHW2 assigned\n\n\n6\n10/3, Solar technologies\n10/5, Wind technologies\n\n\n\n7\n10/10, Monday schedule - No session\n10/12, Tool: Solar wind assessment\n\n\n\n8\n10/17, Nuclear, hydro, and other\n10/19, Energy demand\nHW3 assigned\n\n\n9\n10/24, Energy efficiency\n10/26, Energy access\n\n\n\n10\n10/31, Energy, environment, health\n11/2, Energy transition\n\n\n\n11\n11/7, Tool: Pathways to net-zero\n11/9, Power systems\nHW4 assigned\n\n\n12\n11/14, Big data and AI\n11/16, Life cycle analysis"
+    "text": "Week\nTuesday\nThursday\nAssignment\n\n\n\n\n1\n8/29, Introduction\n8/31, Make sense of numbers\nHW1 assigned\n\n\n2\n9/5, Climate foudamentals\n9/7, Climate impacts\n\n\n\n3\n9/12, Tool: Social cost of carbon\n9/14, Climate mitigation\n\n\n\n4\n9/19, Climate adaptation\n9/21, Energy systems\n\n\n\n5\n9/26, Energy project economics\n9/28, Fossil technologies\nHW2 assigned\n\n\n6\n10/3, Solar technologies\n10/5, Wind technologies\n\n\n\n7\n10/10, Monday schedule - No session\n10/12, Tool: Solar wind assessment\n\n\n\n8\n10/17, Nuclear, hydro, and other\n10/19, Energy demand\nHW3 assigned\n\n\n9\n10/24, Energy efficiency\n10/26, Energy access\n\n\n\n10\n10/31, Energy, environment, health\n11/2, Energy transition\n\n\n\n11\n11/7, Tool: Pathways to net-zero\n11/9, Power systems\nHW4 assigned\n\n\n12\n11/14, Big data and AI\n11/16, Life cycle analysis\n\n\n\n13\n11/21, Tool: Life cycle analysis\nThanksgiving - No session"
   },
   {
     "objectID": "policymemo.html",
@@ -858,7 +858,7 @@
     "href": "index.html#learning-objectives",
     "title": "Energy, Climate, and Society (Fall 2023)",
     "section": "Learning Objectives",
-    "text": "Learning Objectives\n\nDevelop comprehensive understanding of the scientific foundation, economic rationale, systems complexity, and policy implications of climate change, energy transition, and human society;\n\nGain a system understanding of the energy root of climate challenges, and the technology, economic, societal, behavioral transformation needed to enable an energy transition;\n\nGet introduced to major analytical concepts and case studies in energy and climate systems and policy analysis;\n\nDevelop basic analytical skills to understand and contribute to effective policy discussion and debate."
+    "text": "Learning Objectives\n\nAcquire the knowledge about the scientific foundation, economic rationale, systems complexity, and policy implications of climate change, energy transition, and human society.\n\nIdentify the energy root of climate challenges, and the technology, economic, societal, behavioral transformation needed to enable an energy transition.\n\nApply energy project economic, energy system analysis, cost benefit analysis, life cycle analysis, and other analytical concepts in energy and climate systems and policy analysis.\n\nUse evidence-based analysis to understand and contribute to effective policy discussion and debate."
   },
   {
     "objectID": "index.html#reuse-of-material",
@@ -1558,7 +1558,7 @@
     "href": "syllabus.html#learning-objectives",
     "title": "Syllabus",
     "section": "Learning Objectives",
-    "text": "Learning Objectives\n\nDevelop comprehensive understanding of the scientific foundation, economic rationale, systems complexity, and policy implications of climate change, energy transition, and human society;\n\nGain a system understanding of the energy root of climate challenges, and the technology, economic, societal, behavioral transformation needed to enable an energy transition;\n\nGet introduced to major analytical concepts and case studies in energy and climate systems and policy analysis;\n\nDevelop basic analytical skills to understand and contribute to effective policy discussion and debate."
+    "text": "Learning Objectives\n\nAcquire the knowledge about the scientific foundation, economic rationale, systems complexity, and policy implications of climate change, energy transition, and human society.\n\nIdentify the energy root of climate challenges, and the technology, economic, societal, behavioral transformation needed to enable an energy transition.\n\nApply energy project economic, energy system analysis, cost benefit analysis, life cycle analysis, and other analytical concepts in energy and climate systems and policy analysis.\n\nUse evidence-based analysis to understand and contribute to effective policy discussion and debate."
   },
   {
     "objectID": "syllabus.html#class-readings",
@@ -2931,5 +2931,47 @@
     "title": "Lecture 20 Life-cycle Analysis",
     "section": "Uncertainties in LCA",
     "text": "Uncertainties in LCA\n\nUse care in using simplistic methods to support decisions\n\n“A decision made without taking uncertainty into account is barely worth calling a decision.” (Wilson, 1985)\n\nPresumed focus of book and course\n\nWe’re doing LCA for big decisions\n\nHybrid cars? Green energy? Change-the-world policy questions\n\n\nThus analysis should be as good as possible\n\n“It depends” studies perhaps just not “complete” studies\n\nLCA is a robust methodology that requires careful choice of methods and leverage of quantitative tools.\n\n\nSource:Gwen DiPietro and Scott Matthews Life Cycle Assessment"
+  },
+  {
+    "objectID": "tools/4lca.html",
+    "href": "tools/4lca.html",
+    "title": "Tools of the Trade: Life Cycle Analysis",
+    "section": "",
+    "text": "openLCA\nEcochain Mobius\nEcochain Helix\nGaBi\nOneclicklca\nSimaPro\n\n\n\n\nEase of use\nModerate to difficult\nEasy\nModerate\nModerate to difficult\nModerate to difficult\nModerate to difficult\n\n\nFree Trial\nN.A. Free software\nYes, 14-day free trial\nNo, but demo is available\nYes, 30-day free trial\nYes, 14-day free trial\nNo, but you can download a demo version\n\n\nCloud-based Application\nNo, download only\nYes\nYes\nNo, download only\nYes\nNo, download only\n\n\nURL\nwww.openlca.org/\necochain.com/mobius\necochain.com/helix\nwww.gabi-software.com\nwww.oneclicklca.com/\nwww.simapro.com\n\n\n\nSource: EcoChain"
+  },
+  {
+    "objectID": "tools/4lca.html#lca-tools",
+    "href": "tools/4lca.html#lca-tools",
+    "title": "Tools of the Trade: Life Cycle Analysis",
+    "section": "",
+    "text": "openLCA\nEcochain Mobius\nEcochain Helix\nGaBi\nOneclicklca\nSimaPro\n\n\n\n\nEase of use\nModerate to difficult\nEasy\nModerate\nModerate to difficult\nModerate to difficult\nModerate to difficult\n\n\nFree Trial\nN.A. Free software\nYes, 14-day free trial\nNo, but demo is available\nYes, 30-day free trial\nYes, 14-day free trial\nNo, but you can download a demo version\n\n\nCloud-based Application\nNo, download only\nYes\nYes\nNo, download only\nYes\nNo, download only\n\n\nURL\nwww.openlca.org/\necochain.com/mobius\necochain.com/helix\nwww.gabi-software.com\nwww.oneclicklca.com/\nwww.simapro.com\n\n\n\nSource: EcoChain"
+  },
+  {
+    "objectID": "tools/4lca.html#openlca",
+    "href": "tools/4lca.html#openlca",
+    "title": "Tools of the Trade: Life Cycle Analysis",
+    "section": "OpenLCA",
+    "text": "OpenLCA\n\nopenLCA is an open source and free software for Sustainability and Life Cycle Assessment, with the following features:\n\n\nFast and reliable calculation of your Sustainability Assessment and/or Life Cycle Assessment\nVery detailed insights into calculation and analysis results; identify main drivers throughout the life cycle, by process, flow or impact category, visualize results and locate them on a map\nBest in class import and export capabilities; easy to share your models\nLife Cycle Costing and social assessment smoothly integrated in the life cycle model\nUser-friendly; user interface in a variety of languages; advanced and efficient repository and collaboration feature (currently developed)\nContinuous improvement and implementation of new features\n\nSource: https://www.openlca.org/"
+  },
+  {
+    "objectID": "tools/4lca.html#database",
+    "href": "tools/4lca.html#database",
+    "title": "Tools of the Trade: Life Cycle Analysis",
+    "section": "Database",
+    "text": "Database\n\necoinvest\n\nFLEX\nELCD\n\nUSLCI\nFederal LCA Commons\n\nCheck more information at openLCA Nexus"
+  },
+  {
+    "objectID": "tools/4lca.html#case-study",
+    "href": "tools/4lca.html#case-study",
+    "title": "Tools of the Trade: Life Cycle Analysis",
+    "section": "Case study",
+    "text": "Case study\n\nPET and PC bottle\n\nProject\n\nProcess\n\nFlow\n\nChange parameters\n\nAdd new process and flow\n\nStart a new project"
+  },
+  {
+    "objectID": "tools/4lca.html#further-readings",
+    "href": "tools/4lca.html#further-readings",
+    "title": "Tools of the Trade: Life Cycle Analysis",
+    "section": "Further readings",
+    "text": "Further readings\n\nopenLCA"
   }
 ]

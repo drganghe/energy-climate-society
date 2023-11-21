@@ -1,7 +1,6 @@
 ## Learning Objectives
 
--	Develop comprehensive understanding of the scientific foundation, economic rationale, systems complexity, and policy implications of climate change, energy transition, and human society;  
--	Gain a system understanding of the energy root of climate challenges, and the technology, economic, societal, behavioral transformation needed to enable an energy transition;  
--	Get introduced to major analytical concepts and case studies in energy and climate systems and policy analysis;  
--	Develop basic analytical skills to understand and contribute to effective policy discussion and debate.
-
+-	Acquire the knowledge about the scientific foundation, economic rationale, systems complexity, and policy implications of climate change, energy transition, and human society.  
+-	Identify the energy root of climate challenges, and the technology, economic, societal, behavioral transformation needed to enable an energy transition.  
+-	Apply energy project economic, energy system analysis, cost benefit analysis, life cycle analysis, and other analytical concepts in energy and climate systems and policy analysis.  
+-	Use evidence-based analysis to understand and contribute to effective policy discussion and debate.  
