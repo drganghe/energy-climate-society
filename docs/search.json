@@ -4,7 +4,7 @@
     "href": "tools.html",
     "title": "Tools of the trade",
     "section": "",
-    "text": "#\nTool\npdf\n\n\n\n\n1\nSocial cost of carbon\ntool1\n\n\n2\nSolar wind assessment\ntool2\n\n\n3\nPathways to net-zero\ntool3"
+    "text": "#\nTool\npdf\n\n\n\n\n1\nSocial cost of carbon\ntool1\n\n\n2\nSolar wind assessment\ntool2\n\n\n3\nPathways to net-zero\ntool3\n\n\n4\nLife cycle analysis\ntool4"
   },
   {
     "objectID": "tools/1scc.html",
@@ -2937,14 +2937,14 @@
     "href": "tools/4lca.html",
     "title": "Tools of the Trade: Life Cycle Analysis",
     "section": "",
-    "text": "openLCA\nEcochain Mobius\nEcochain Helix\nGaBi\nOneclicklca\nSimaPro\n\n\n\n\nEase of use\nModerate to difficult\nEasy\nModerate\nModerate to difficult\nModerate to difficult\nModerate to difficult\n\n\nFree Trial\nN.A. Free software\nYes, 14-day free trial\nNo, but demo is available\nYes, 30-day free trial\nYes, 14-day free trial\nNo, but you can download a demo version\n\n\nCloud-based Application\nNo, download only\nYes\nYes\nNo, download only\nYes\nNo, download only\n\n\nURL\nwww.openlca.org/\necochain.com/mobius\necochain.com/helix\nwww.gabi-software.com\nwww.oneclicklca.com/\nwww.simapro.com\n\n\n\nSource: EcoChain"
+    "text": "openLCA\n\nEcochain Mobius\n\nEcochain Helix\n\nGabi\n\nOneclicklca\n\nSimaProv\n\nSource: EcoChain"
   },
   {
     "objectID": "tools/4lca.html#lca-tools",
     "href": "tools/4lca.html#lca-tools",
     "title": "Tools of the Trade: Life Cycle Analysis",
     "section": "",
-    "text": "openLCA\nEcochain Mobius\nEcochain Helix\nGaBi\nOneclicklca\nSimaPro\n\n\n\n\nEase of use\nModerate to difficult\nEasy\nModerate\nModerate to difficult\nModerate to difficult\nModerate to difficult\n\n\nFree Trial\nN.A. Free software\nYes, 14-day free trial\nNo, but demo is available\nYes, 30-day free trial\nYes, 14-day free trial\nNo, but you can download a demo version\n\n\nCloud-based Application\nNo, download only\nYes\nYes\nNo, download only\nYes\nNo, download only\n\n\nURL\nwww.openlca.org/\necochain.com/mobius\necochain.com/helix\nwww.gabi-software.com\nwww.oneclicklca.com/\nwww.simapro.com\n\n\n\nSource: EcoChain"
+    "text": "openLCA\n\nEcochain Mobius\n\nEcochain Helix\n\nGabi\n\nOneclicklca\n\nSimaProv\n\nSource: EcoChain"
   },
   {
     "objectID": "tools/4lca.html#openlca",

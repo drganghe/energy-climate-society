@@ -25,12 +25,12 @@ format:
 
 ## LCA Tools
 
-|                         | openLCA               | Ecochain Mobius        | Ecochain Helix            | GaBi                   | Oneclicklca            | SimaPro                                 |
-|-------------------------|-----------------------|------------------------|---------------------------|------------------------|------------------------|-----------------------------------------|
-| Ease of use             | Moderate to difficult | Easy                   | Moderate                  | Moderate to difficult  | Moderate to difficult  | Moderate to difficult                   |
-| Free Trial              | N.A. Free software    | Yes, 14-day free trial | No, but demo is available | Yes, 30-day free trial | Yes, 14-day free trial | No, but you can download a demo version |
-| Cloud-based Application | No, download only     | Yes                    | Yes                       | No, download only      | Yes                    | No, download only                       |
-| URL                     | www.openlca.org/      | ecochain.com/mobius    | ecochain.com/helix        | www.gabi-software.com  | www.oneclicklca.com/   | www.simapro.com                         |
+- [openLCA](http://www.openlca.org)  
+- [Ecochain Mobius](http://ecochain.com/mobius)  
+- [Ecochain Helix](http://ecochain.com/helix )  
+- [Gabi](http://www.gabi-software.com)  
+- [Oneclicklca](http://www.oneclicklca.com/)  
+- [SimaProv](http://www.simapro.com) 
 
 Source: [EcoChain](https://ecochain.com/blog/life-cycle-assessment-software-overview-comparison/)
 
