@@ -19,3 +19,5 @@ repo-actions: false
 | 11    | 11/7, [Tool: Pathways to net-zero](tools/3pathway.qmd) | 11/9, [Power systems](lectures/lecture18.qmd) | [HW4](assignments/hw4.qmd) assigned |
 | 12    | 11/14, [Big data and AI](lectures/lecture19.qmd) | 11/16, [Life cycle analysis](lectures/lecture20.qmd) |  |
 | 13    | 11/21, [Tool: Life cycle analysis](tools/4lca.qmd) | Thanksgiving - No session |  |
+| 14    | 11/28, [Uncertainties and limitations](lectures/lecture21.qmd) | 11/30, [Review and summary](lectures/lecture22.qmd) |  |
+| 15    | 12/5, Presentation | 12/7, Presentation | End of class |
