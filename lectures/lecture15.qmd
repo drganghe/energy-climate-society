@@ -4,7 +4,7 @@ description-meta: "Energy access and development"
 author: "Gang He"
 date: October 26, 2023
 date-format: long
-image: "/lectures/images/15/energy-ladder.png"
+image: "/lectures/images/energy-ladder.png"
 format:
   revealjs:
     theme: white
@@ -31,7 +31,7 @@ format:
 
 ## Energy poverty and SDG
 
-![](/lectures/images/15/energy-hdi-mdg.png){fig-align="center"}
+![](/lectures/images/energy-hdi-mdg.png){fig-align="center"}
 
 ::: footer
 Read more: @alstone2015decentralized
@@ -40,7 +40,7 @@ Read more: @alstone2015decentralized
 
 ## Energy access and HDI
 
-![](/lectures/images/15/energy-hdi.png){fig-align="center"}
+![](/lectures/images/energy-hdi.png){fig-align="center"}
 
 ::: footer
 Read more: @alstone2015decentralized
@@ -57,7 +57,7 @@ Read more: @alstone2015decentralized
 
 ## Energy ladder
 
-![](/lectures/images/15/energy-ladder.png){fig-align="center"}
+![](/lectures/images/energy-ladder.png){fig-align="center"}
 
 ::: footer
 Read more: [Our World in Data](https://ourworldindata.org/energy-ladder)
@@ -69,11 +69,11 @@ Read more: [Our World in Data](https://ourworldindata.org/energy-ladder)
 ::: columns
 
 ::: {.column width="50%"}
-![](/lectures/images/15/sdg7-progress.png){fig-align="center" width="85%"}
+![](/lectures/images/sdg7-progress.png){fig-align="center" width="85%"}
 :::
 
 ::: {.column width="50%"}
-![](/lectures/images/15/sdg7-progress-2021.png){fig-align="center"}
+![](/lectures/images/sdg7-progress-2021.png){fig-align="center"}
 :::
 
 :::
@@ -85,7 +85,7 @@ Read more: Tracking SDG7 The Energy Progress Report [2022](https://www.irena.org
 
 ## Share of population with electricity
 
-![](/lectures/images/15/share-of-population-with-electricity-2021.png){fig-align="center"}
+![](/lectures/images/share-of-population-with-electricity-2021.png){fig-align="center"}
 
 ::: footer
 Read more: [Tracking SDG7 The Energy Progress Report 2022](https://www.irena.org/Publications/2023/Jun/Tracking-SDG7-2023)
@@ -94,7 +94,7 @@ Read more: [Tracking SDG7 The Energy Progress Report 2022](https://www.irena.org
 
 ## Share of population with clean cooking fuel
 
-![](/lectures/images/15/share-of-population-with-clean-cooking-2021.png){fig-align="center"}
+![](/lectures/images/share-of-population-with-clean-cooking-2021.png){fig-align="center"}
 
 ::: footer
 Read more: [Tracking SDG7 The Energy Progress Report 2022](https://www.irena.org/Publications/2023/Jun/Tracking-SDG7-2023)
@@ -106,11 +106,11 @@ Read more: [Tracking SDG7 The Energy Progress Report 2022](https://www.irena.org
 ::: columns
 
 ::: {.column width="50%"}
-![](/lectures/images/15/electrification-path.jpg){fig-align="center"}
+![](/lectures/images/electrification-path.jpg){fig-align="center"}
 :::
 
 ::: {.column width="50%"}
-![](/lectures/images/15/china-efa.png){fig-align="center"}
+![](/lectures/images/china-efa.png){fig-align="center"}
 :::
 
 :::
@@ -132,7 +132,7 @@ Read more: [DOE](https://www.energy.gov/diversity/articles/how-energy-justice-pr
 
 ## EJ conceptual questions
 
-![](/lectures/images/15/energy-justice-conceptual.png){fig-align="center"}
+![](/lectures/images/energy-justice-conceptual.png){fig-align="center"}
 
 ::: footer
 Source: @jenkins2016energy
@@ -141,7 +141,7 @@ Source: @jenkins2016energy
 
 ## Rooftop solar by race and ethnicity
 
-![](/lectures/images/15/household-income-and-rooftop-solar.png){fig-align="center"}
+![](/lectures/images/household-income-and-rooftop-solar.png){fig-align="center"}
 
 ::: footer
 Source: @sunter2019disparities
@@ -150,7 +150,7 @@ Source: @sunter2019disparities
 
 ## The energy equity gap
 
-![](/lectures/images/15/energy-equity-gap.webp){fig-align="center"}
+![](/lectures/images/energy-equity-gap.webp){fig-align="center"}
 
 ::: footer
 Source: @cong2022unveiling
@@ -159,7 +159,7 @@ Source: @cong2022unveiling
 
 ## Justice 40
 
-![](/lectures/images/15/justice40.png){fig-align="center"}
+![](/lectures/images/justice40.png){fig-align="center"}
 
 ::: footer
 Source: [White House](https://www.whitehouse.gov/environmentaljustice/justice40/)
@@ -168,7 +168,7 @@ Source: [White House](https://www.whitehouse.gov/environmentaljustice/justice40/
 
 ## Just transition framework
 
-![](/lectures/images/15/just-transition-framework.png){fig-align="center"}
+![](/lectures/images/just-transition-framework.png){fig-align="center"}
 
 ::: footer
 Source: [Climate Justice Alliance](https://climatejusticealliance.org/just-transition/)
@@ -187,7 +187,7 @@ Who bears the burden? Who harvests the benefits? Do we know the injustice? Can p
 
 ## NYS CLCPA disadvantaged communities (DACs)
 
-![](/lectures/images/15/nysclcpa-dac.png){fig-align="center"}
+![](/lectures/images/nysclcpa-dac.png){fig-align="center"}
 
 ::: footer
 Read more: [Draft Disadvantaged

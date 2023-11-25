@@ -4,7 +4,7 @@ description-meta: "Solar technolgies"
 author: "Gang He"
 date: October 3, 2023
 date-format: long
-image: "/lectures/images/10/p-n-junction.png"
+image: "/lectures/images/p-n-junction.png"
 format:
   revealjs:
     theme: white
@@ -24,7 +24,7 @@ format:
 
 ## Solar
 
-![](/lectures/images/2/perez-planetary-energy.png){fig-align="center"}
+![](/lectures/images/perez-planetary-energy.png){fig-align="center"}
 
 ::: footer
 Source: [Richard Perez](http://asrc.albany.edu/people/faculty/perez/)
@@ -33,7 +33,7 @@ Source: [Richard Perez](http://asrc.albany.edu/people/faculty/perez/)
 
 ## Solar spectrum
 
-![](/lectures/images/10/Solar_spectrum.png){fig-align="center"}
+![](/lectures/images/Solar_spectrum.png){fig-align="center"}
 
 <center>
 **Solar constant**: 1.361 kW/m2
@@ -48,11 +48,11 @@ Source: [Solar Spectrum](https://en.wikipedia.org/wiki/Sunlight)
 
 ::: columns
 ::: {.column width="50%"}
-![Heqing Solar Cooker Project in Zhangye](/lectures/images/10/Heqing_Solar_Cooker_photo.webp){fig-align="center"}
+![Heqing Solar Cooker Project in Zhangye](/lectures/images/Heqing_Solar_Cooker_photo.webp){fig-align="center"}
 :::
 
 ::: {.column width="50%"}
-![Young NaDEET students in Namibia learning to use a parabolic solar cooker](/lectures/images/10/NaDEET_solar_cooking_training.webp){fig-align="center"}
+![Young NaDEET students in Namibia learning to use a parabolic solar cooker](/lectures/images/NaDEET_solar_cooking_training.webp){fig-align="center"}
 :::
 :::
 
@@ -64,16 +64,16 @@ Photo credit: [Bristol Energy](https://solarcooking.fandom.com/wiki/China?file=H
 ## Silicon
 
 <center>
-![](/lectures/images/10/silicon-atomic-structure.jpeg){width=50% fig-align="center"}
+![](/lectures/images/silicon-atomic-structure.jpeg){width=50% fig-align="center"}
 
 
 ::: columns
 ::: {.column width="50%"}
-![](/lectures/images/10/Boron-atomic-structure.jpeg){width=80% fig-align="center"}
+![](/lectures/images/Boron-atomic-structure.jpeg){width=80% fig-align="center"}
 :::
 
 ::: {.column width="50%"}
-![](/lectures/images/10/Phosphorus-atomic-structure.jpeg){width=80% fig-align="center"}
+![](/lectures/images/Phosphorus-atomic-structure.jpeg){width=80% fig-align="center"}
 :::
 :::
 </center>
@@ -87,15 +87,15 @@ Source: [Atomic Structures](https://youtu.be/OCTAQaubQ4o)
 
 ::: columns
 ::: {.column width="30%"}
-![](/lectures/images/10/silicon-lattice.png){fig-align="center"}
+![](/lectures/images/silicon-lattice.png){fig-align="center"}
 :::
 
 ::: {.column width="30%"}
-![](/lectures/images/10/p-type-silicon.png){fig-align="center"}
+![](/lectures/images/p-type-silicon.png){fig-align="center"}
 :::
 
 ::: {.column width="30%"}
-![](/lectures/images/10/n-type-silicon.png){fig-align="center"}
+![](/lectures/images/n-type-silicon.png){fig-align="center"}
 :::
 
 :::
@@ -107,7 +107,7 @@ Source: [From sunlight to electricity](https://www.science.org.au/curious/techno
 
 ## P-N Junction 
 
-![](/lectures/images/10/p-n-junction.png){fig-align="center"}
+![](/lectures/images/p-n-junction.png){fig-align="center"}
 
 ::: footer
 Read more: <https://www.energy.gov/eere/solar/how-does-solar-work>
@@ -140,7 +140,7 @@ POA = GHI $\times \cos \theta$
 :::
 
 ::: {.column width="50%"}
-![](/lectures/images/10/solar-irradiance.png){fig-align="center"}
+![](/lectures/images/solar-irradiance.png){fig-align="center"}
 :::
 :::
 
@@ -164,7 +164,7 @@ Read more: @masters2013renewable
 
 ## The quest for efficiency
 
-![](/lectures/images/10/best-research-cell-efficiencies.webp){fig-align="center"}
+![](/lectures/images/best-research-cell-efficiencies.webp){fig-align="center"}
 
 ::: footer
 Read more: NREL, [Best Research-Cell Efficiency Chart](https://www.nrel.gov/pv/cell-efficiency.html)
@@ -173,7 +173,7 @@ Read more: NREL, [Best Research-Cell Efficiency Chart](https://www.nrel.gov/pv/c
 
 ## Global and U.S. distribution
 
-![](/lectures/images/10/World_PVOUT_map.png){fig-align="center"}
+![](/lectures/images/World_PVOUT_map.png){fig-align="center"}
 
 ::: footer
 Source: [Global Solar Atlas](https://globalsolaratlas.info/download/world)
@@ -184,11 +184,11 @@ Source: [Global Solar Atlas](https://globalsolaratlas.info/download/world)
 
 ::: columns
 ::: {.column width="50%"}
-![](/lectures/images/10/pm-and-solar.gif){fig-align="center"}
+![](/lectures/images/pm-and-solar.gif){fig-align="center"}
 :::
 
 ::: {.column width="50%"}
-![](/lectures/images/10/global-pm-solar-reduction.jpeg){fig-align="center"}
+![](/lectures/images/global-pm-solar-reduction.jpeg){fig-align="center"}
 :::
 
 :::
@@ -200,7 +200,7 @@ Source: @bergin2017large
 
 ## Climate change impact
 
-![](/lectures/images/4/climate-change-solar-wind-sdm.png){fig-align="center"}
+![](/lectures/images/climate-change-solar-wind-sdm.png){fig-align="center"}
 
 ::: footer
 Source: @liu_climate_2023
@@ -209,7 +209,7 @@ Source: @liu_climate_2023
 
 ## Prioritize solar installation
 
-![](/lectures/images/10/prioritizing-solar-deployment.png){fig-align="center"}
+![](/lectures/images/prioritizing-solar-deployment.png){fig-align="center"}
 
 ::: footer
 Source: @chen2023deploying
@@ -218,7 +218,7 @@ Source: @chen2023deploying
 
 ## Solar thermal: CSP
 
-![](/lectures/images/10/Concentrating-Solar-Thermal-Power-Applications.png){fig-align="center"}
+![](/lectures/images/Concentrating-Solar-Thermal-Power-Applications.png){fig-align="center"}
 
 ::: footer
 Source: [DOE](https://www.energy.gov/eere/solar/concentrating-solar-thermal-power-basics)

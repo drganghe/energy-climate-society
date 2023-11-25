@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.395">
+<meta name="generator" content="quarto-1.4.471">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -45,7 +45,7 @@ ul.task-list li input[type="checkbox"] {
   "collapse-after": 3,
   "panel-placement": "end",
   "type": "textbox",
-  "limit": 20,
+  "limit": 50,
   "keyboard-shortcut": [
     null
   ],
@@ -75,10 +75,10 @@ gtag('config', 'G-9ZBRZBEKDN', { 'anonymize_ip': true});
 
 <link rel="stylesheet" href="../styles.css">
 <meta property="og:title" content="Energy, Climate, and Society - Assignment 1 Carbon footprint calculation">
-<meta property="og:description" content="Energy, Climate, and Society, an undergraduate level energy and climate topic class developed by Dr.&nbsp;Gang He.">
+<meta property="og:description" content="Energy, Climate, and Society, an undergraduate level energy and climate topic open course developed by Dr.&nbsp;Gang He.">
 <meta property="og:site_name" content="Energy, Climate, and Society">
 <meta name="twitter:title" content="Energy, Climate, and Society - Assignment 1 Carbon footprint calculation">
-<meta name="twitter:description" content="Energy, Climate, and Society, an undergraduate level energy and climate topic class developed by Dr.&nbsp;Gang He.">
+<meta name="twitter:description" content="Energy, Climate, and Society, an undergraduate level energy and climate topic open course developed by Dr.&nbsp;Gang He.">
 <meta name="twitter:card" content="summary">
 </head>
 
@@ -86,7 +86,7 @@ gtag('config', 'G-9ZBRZBEKDN', { 'anonymize_ip': true});
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg navbar-dark ">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="../index.html">
@@ -112,8 +112,8 @@ gtag('config', 'G-9ZBRZBEKDN', { 'anonymize_ip': true});
 <span class="menu-text">Lectures</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../assignments.html"> 
-<span class="menu-text">Assignments</span></a>
+    <a class="nav-link" href="../tools.html"> 
+<span class="menu-text">Tools</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="../policymemo.html"> 
@@ -615,6 +615,9 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (!isInternal(link.href)) {
           // target, if specified
           link.setAttribute("target", "_blank");
+          if (link.getAttribute("rel") === null) {
+            link.setAttribute("rel", "noopener");
+          }
       }
     }
 });

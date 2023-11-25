@@ -4,7 +4,7 @@ description-meta: "Big Data and AI for Energy and Climate"
 author: "Gang He"
 date: November 14, 2023
 date-format: long
-image: "/lectures/images/19/ai-algorithms.png"
+image: "/lectures/images/ai-algorithms.png"
 format:
   revealjs:
     theme: white
@@ -48,7 +48,7 @@ Read more: [ULC Technologies](https://www.stonybrook.edu/commcms/aertc/conferenc
 ::: columns
 
 :::{.column width="40%"}
-![](/lectures/images/19/andrew-ng.png){fig-align="center"}
+![](/lectures/images/andrew-ng.png){fig-align="center"}
 :::
 
 :::{.column width="60%"}
@@ -69,7 +69,7 @@ Read more: [Andrew Ng: Why AI Is the New Electricity](https://www.gsb.stanford.e
 ::: columns
 
 :::{.column width="30%"}
-![](/lectures/images/19/pale-blut-dot.png){fig-align="center"}
+![](/lectures/images/pale-blut-dot.png){fig-align="center"}
 :::
 
 :::{.column width="30%"}
@@ -127,7 +127,7 @@ Photo: [NASA](https://www.planetary.org/worlds/pale-blue-dot); Read more: [Wikip
 
 ## Aartifitial intelligence, machine learning, and deep learning
 
-![](/lectures/images/19/ai-ml-dl.png){fig-align="center"}
+![](/lectures/images/ai-ml-dl.png){fig-align="center"}
 
 ::: footer
 Read more: @lee2021empirical
@@ -136,7 +136,7 @@ Read more: @lee2021empirical
 
 ## AI Algorithms
 
-![](/lectures/images/19/ai-algorithms.png){fig-align="center"}
+![](/lectures/images/ai-algorithms.png){fig-align="center"}
 
 ::: footer
 Read more: @lee2021empirical
@@ -144,7 +144,7 @@ Read more: @lee2021empirical
 
 ## How AI has transformed our society
 
-![](/lectures/images/19/ai-transformation.webp){fig-align="center"}
+![](/lectures/images/ai-transformation.webp){fig-align="center"}
 
 ::: footer
 Figure [source](https://www.techbooky.com/ai-transforming-business/), read more: [GAO](https://www.gao.gov/products/gao-18-142sp)
@@ -165,7 +165,7 @@ professionals
 :::
 
 :::{.column width="50%"}
-![](/lectures/images/19/ai-re.png){fig-align="center"}
+![](/lectures/images/ai-re.png){fig-align="center"}
 :::
 
 :::
@@ -179,11 +179,11 @@ Read more: [IRENA](https://www.irena.org/publications/2019/Sep/Artificial-Intell
 ::: columns
 
 :::{.column width="50%"}
-![](/lectures/images/19/deep-solar-1.png){fig-align="center"}
+![](/lectures/images/deep-solar-1.png){fig-align="center"}
 :::
 
 :::{.column width="50%"}
-![](/lectures/images/19/deep-solar-2.png){fig-align="center"}
+![](/lectures/images/deep-solar-2.png){fig-align="center"}
 :::
 
 :::
@@ -195,7 +195,7 @@ Read more: @yu2018deepsolar
 
 ## AI to improve wind perfomance
 
-![](/lectures/images/19/ml-and-wind.png){fig-align="center"}
+![](/lectures/images/ml-and-wind.png){fig-align="center"}
 
 ::: footer
 Read more: [Deepmind](https://deepmind.com/blog/machine-learning-can-boost-value-wind-energy)
@@ -204,7 +204,7 @@ Read more: [Deepmind](https://deepmind.com/blog/machine-learning-can-boost-value
 
 ## AI saves data center cooling energy
 
-![](/lectures/images/19/deepmind-data-center-control.png){fig-align="center"}
+![](/lectures/images/deepmind-data-center-control.png){fig-align="center"}
 
 ::: footer
 Read more: [Deepmind](https://deepmind.com/blog/deepmind-ai-reduces-google-data-centre-cooling-bill-40)
@@ -213,7 +213,7 @@ Read more: [Deepmind](https://deepmind.com/blog/deepmind-ai-reduces-google-data-
 
 ## Global inventory of solar PV
 
-![](/lectures/images/19/solar-pv-inventory.webp){fig-align="center"}
+![](/lectures/images/solar-pv-inventory.webp){fig-align="center"}
 
 ::: footer
 Source: @kruitwagen2021global
@@ -221,7 +221,7 @@ Source: @kruitwagen2021global
 
 ## Machine learning for electricity access
 
-![](/lectures/images/19/electrification-asset-wealth.webp){fig-align="center"}
+![](/lectures/images/electrification-asset-wealth.webp){fig-align="center"}
 
 ::: footer
 Source: @ratledge2022using
@@ -230,7 +230,7 @@ Source: @ratledge2022using
 
 ## AI for climate solutions
 
-![](/lectures/images/19/climate-solution-ai-areas.png){fig-align="center"}
+![](/lectures/images/climate-solution-ai-areas.png){fig-align="center"}
 
 ::: footer
 Source: @rolnick2022tackling
@@ -239,7 +239,7 @@ Source: @rolnick2022tackling
 
 ## AI for GHG mitigation
 
-![](/lectures/images/19/ai-ghg-mitigation.webp){fig-align="center"}
+![](/lectures/images/ai-ghg-mitigation.webp){fig-align="center"}
 
 ::: footer
 Source: @kaack2022aligning

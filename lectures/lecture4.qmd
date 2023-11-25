@@ -4,7 +4,7 @@ description-meta: "Discuss the impacts of climate change"
 author: "Gang He"
 date: September 7, 2023
 date-format: long
-image: "/lectures/images/4/3generation-climate-change.png"
+image: "/lectures/images/3generation-climate-change.png"
 format:
   revealjs:
     theme: white
@@ -34,7 +34,7 @@ format:
 :::
 
 ::: {.column width="50%"}
-![](/lectures/images/1/climate-curriculum.png){fig-align="center"}
+![](/lectures/images/climate-curriculum.png){fig-align="center"}
 :::
 :::
 
@@ -45,7 +45,7 @@ Source: [Kimberly A Nicholas](https://www.kimnicholas.com/climate-change-curricu
 
 ## Adverse impacts of climate change 
 
-![](/lectures/images/4/adverse-impact-climate-change.png){fig-align="center"}
+![](/lectures/images/adverse-impact-climate-change.png){fig-align="center"}
 
 ::: footer
 Source: IPCC AR6 Synthesis Repoort [Figure 1](https://www.ipcc.ch/report/ar6/syr/figures/summary-for-policymakers/figure-spm-1)
@@ -54,7 +54,7 @@ Source: IPCC AR6 Synthesis Repoort [Figure 1](https://www.ipcc.ch/report/ar6/syr
 
 ## The impacts are global 
 
-![](/lectures/images/4/IPCC_AR6_SYR_Figure_2_3_1.png){fig-align="center"}
+![](/lectures/images/IPCC_AR6_SYR_Figure_2_3_1.png){fig-align="center"}
 
 ::: footer
 Source: IPCC AR6 Synthesis Repoort [Figure 2.3.1](https://www.ipcc.ch/report/ar6/syr/figures/summary-for-policymakers/figure-spm-1)
@@ -62,7 +62,7 @@ Source: IPCC AR6 Synthesis Repoort [Figure 2.3.1](https://www.ipcc.ch/report/ar6
 
 ## Vulnerable population suffers more 
 
-![](/lectures/images/4/IPCC_AR6_SYR_Figure_2_3_2.png){fig-align="center"}
+![](/lectures/images/IPCC_AR6_SYR_Figure_2_3_2.png){fig-align="center"}
 
 ::: footer
 Source: IPCC AR6 Synthesis Repoort [Figure 2.3.2](https://www.ipcc.ch/report/ar6/syr/figures/summary-for-policymakers/figure-spm-1)
@@ -92,7 +92,7 @@ What other damages to include?
 
 ## Social economic impacts
 
-![](/lectures/images/4/social-economic-impacts.png){fig-align="center"}
+![](/lectures/images/social-economic-impacts.png){fig-align="center"}
 
 ::: footer
 Source: @carleton2016social
@@ -114,7 +114,7 @@ Source: @carleton2016social
 
 ## U.S. southern states suffer more
 
-![](/lectures/images/4/damages_total_2080_to_2090.jpeg){fig-align="center"}
+![](/lectures/images/damages_total_2080_to_2090.jpeg){fig-align="center"}
 
 ::: footer
 Source: @hsiang_estimating_2017
@@ -122,7 +122,7 @@ Source: @hsiang_estimating_2017
 
 ## The poor will get damages more
 
-![](/lectures/images/4/damage-distribution.png){fig-align="center"}
+![](/lectures/images/damage-distribution.png){fig-align="center"}
 
 ::: footer
 Source: @hsiang_estimating_2017
@@ -145,7 +145,7 @@ Read more: @neumann_climate_2020, @updating_scc_2017
 
 ## Climate change and conflicts
 
-![](/lectures/images/4/climate-and-conflict.jpeg){fig-align="center"}
+![](/lectures/images/climate-and-conflict.jpeg){fig-align="center"}
 
 ::: footer
 Read more: @hsiang_quantifying_2013
@@ -153,7 +153,7 @@ Read more: @hsiang_quantifying_2013
 
 ## Climate change affects energy system
 
-![](/lectures/images/4/climate-impact-on-energy.webp){fig-align="center"}
+![](/lectures/images/climate-impact-on-energy.webp){fig-align="center"}
 
 ::: footer
 Source: @yalew2020impacts
@@ -162,7 +162,7 @@ Source: @yalew2020impacts
 
 ## Climate impact to renewable supply-demand match
 
-![](/lectures/images/4/climate-change-solar-wind-sdm.png){fig-align="center"}
+![](/lectures/images/climate-change-solar-wind-sdm.png){fig-align="center"}
 
 ::: footer
 Source: @liu_climate_2023
@@ -183,7 +183,7 @@ Source: @liu_climate_2023
 :::
 
 ::: {.column width="20%"}
-![](/lectures/images/4/nys-climate-impact-report.png){fig-align="center"}
+![](/lectures/images/nys-climate-impact-report.png){fig-align="center"}
 :::
 :::
 
@@ -195,7 +195,7 @@ Source: New York State Climate Impacts [Assessment](https://nysclimateimpacts.or
 
 ## Fuel for thoughts: grand challenges, huge progress, and grand opportunities
 
-![](/lectures/images/4/Two-centuries-World-as-100-people.png){fig-align="center"}
+![](/lectures/images/Two-centuries-World-as-100-people.png){fig-align="center"}
 
 ::: footer
 Source: [Our World in Data](https://ourworldindata.org/a-history-of-global-living-conditions)

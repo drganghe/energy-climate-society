@@ -8,7 +8,7 @@
 <link href="../site_libs/quarto-html/light-border.css" rel="stylesheet">
 <link href="../site_libs/quarto-html/quarto-html.min.css" rel="stylesheet" data-mode="light">
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
-  <meta name="generator" content="quarto-1.4.395">
+  <meta name="generator" content="quarto-1.4.471">
 
   <meta name="author" content="Gang He">
   <meta name="dcterms.date" content="2023-09-28">
@@ -353,12 +353,12 @@
     }
   </style>
 <meta property="og:title" content="Energy, Climate, and Society - Lecture 9 Fossil Technologies">
-<meta property="og:image" content="https://drganghe.github.io/energy-climate-society/lectures/images/9/heat_engine.png">
+<meta property="og:image" content="https://drganghe.github.io/energy-climate-society/lectures/images/heat_engine.png">
 <meta property="og:site_name" content="Energy, Climate, and Society">
 <meta property="og:image:height" content="1269">
 <meta property="og:image:width" content="2880">
 <meta name="twitter:title" content="Energy, Climate, and Society - Lecture 9 Fossil Technologies">
-<meta name="twitter:image" content="https://drganghe.github.io/energy-climate-society/lectures/images/9/heat_engine.png">
+<meta name="twitter:image" content="https://drganghe.github.io/energy-climate-society/lectures/images/heat_engine.png">
 <meta name="twitter:image-height" content="1269">
 <meta name="twitter:image-width" content="2880">
 <meta name="twitter:card" content="summary_large_image">
@@ -401,7 +401,7 @@ Gang He
 <section id="heat-engine" class="slide level2 center">
 <h2>Heat engine</h2>
 
-<img data-src="..\lectures/images/9/heat_engine.png" class="quarto-figure-center r-stretch"><p>Heat -&gt; Mechanical energy (work)</p>
+<img data-src="..\lectures/images/heat_engine.png" class="quarto-figure-center r-stretch"><p>Heat -&gt; Mechanical energy (work)</p>
 <div class="footer">
 <p>Source: <a href="https://en.wikipedia.org/wiki/Heat_engine">Wikipedia</a></p>
 </div>
@@ -440,14 +440,14 @@ Gang He
 <section id="a-gas-turbine-engine" class="slide level2 center">
 <h2>A gas turbine engine</h2>
 
-<img data-src="..\lectures/images/9/gas-turbine-engine.png" class="quarto-figure-center r-stretch"><div class="footer">
+<img data-src="..\lectures/images/gas-turbine-engine.png" class="quarto-figure-center r-stretch"><div class="footer">
 <p>Source: <a href="https://upload.wikimedia.org/wikipedia/commons/4/4c/Jet_engine.svg">Wikipedia</a></p>
 </div>
 </section>
 <section id="a-steam-coal-plant" class="slide level2 center">
 <h2>A steam coal plant</h2>
 
-<img data-src="..\lectures/images/9/coal_fired_power_plant_diagram.png" class="quarto-figure-center r-stretch"><div class="footer">
+<img data-src="..\lectures/images/coal_fired_power_plant_diagram.png" class="quarto-figure-center r-stretch"><div class="footer">
 <p>Source: <a href="https://en.wikipedia.org/wiki/Fossil_fuel_power_station">Wikipedia</a></p>
 </div>
 </section>
@@ -455,12 +455,12 @@ Gang He
 <h2>Brayton cycle vs.&nbsp;Rankine cycle</h2>
 <div class="columns">
 <div class="column" style="width:50%;">
-<p><img data-src="..\lectures/images/9/Brayton_cycle.png" class="quarto-figure-center"></p>
+<p><img data-src="..\lectures/images/Brayton_cycle.png" class="quarto-figure-center"></p>
 <p style="font-size:14pt; color:gray; text-align:center;">
 </p><p>Jet engine, gas turbine</p>
 <p></p>
 </div><div class="column" style="width:50%;">
-<p><img data-src="..\lectures/images/9/Rankine_cycle.png" class="quarto-figure-center"></p>
+<p><img data-src="..\lectures/images/Rankine_cycle.png" class="quarto-figure-center"></p>
 <p style="font-size:14pt; color:gray; text-align:center;">
 </p><p>Steam engine, steam turbine</p>
 <p></p>
@@ -502,7 +502,7 @@ Gang He
 <h2>Largest coal plant in the U.S.</h2>
 <div class="columns">
 <div class="column" style="width:50%;">
-<p><img data-src="..\lectures/images/9/georgia_power_plant_scherer.png" class="quarto-figure-center"></p>
+<p><img data-src="..\lectures/images/georgia_power_plant_scherer.png" class="quarto-figure-center"></p>
 </div><div class="column" style="width:50%;">
 <p>Georgia Power plant Scherer (3,720 MW)</p>
 <p>Can you identify the components</p>
@@ -541,7 +541,7 @@ Gang He
 <section id="ccgt-diagram" class="slide level2 center">
 <h2>CCGT Diagram</h2>
 
-<img data-src="..\lectures/images/9/GE-CCGT-diagram.png" class="quarto-figure-center r-stretch"><div class="footer">
+<img data-src="..\lectures/images/GE-CCGT-diagram.png" class="quarto-figure-center r-stretch"><div class="footer">
 <p>Read more: <a href="https://www.ge.com/gas-power/resources/education/what-is-a-gas-turbine">GE Power</a></p>
 </div>
 </section>
@@ -954,6 +954,9 @@ Koomey, Jonathan, Hashem Akbari, Carl Blumstein, Marilyn Brown, Richard Brown, C
           if (!isInternal(link.href)) {
               // target, if specified
               link.setAttribute("target", "_blank");
+              if (link.getAttribute("rel") === null) {
+                link.setAttribute("rel", "noopener");
+              }
           }
         }
     });

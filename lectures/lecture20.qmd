@@ -4,7 +4,7 @@ description-meta: "Life-cycle analysis for energy projects"
 author: "Gang He"
 date: November 16, 2023
 date-format: long
-image: "/lectures/images/20/Lifecycle-of-real-fake-tree.png"
+image: "/lectures/images/Lifecycle-of-real-fake-tree.png"
 format:
   revealjs:
     theme: white
@@ -85,7 +85,7 @@ Read more from Gwen DiPietro and Scott Matthews [Life Cycle Assessment](https://
 
 ## LCA Thinking
 
-![](/lectures/images/20/pine-tree-life-cycle.png){fig-align="center"}
+![](/lectures/images/pine-tree-life-cycle.png){fig-align="center"}
 
 
 ::: footer
@@ -95,7 +95,7 @@ Source:<https://www.biographixmedia.com/biology/pine-tree-life-cycle.html>
 
 ## LCA of Real vs Fake Christmas Tree
 
-![](/lectures/images/20/Lifecycle-of-real-fake-tree.png){fig-align="center"}
+![](/lectures/images/Lifecycle-of-real-fake-tree.png){fig-align="center"}
 
 
 ::: footer
@@ -188,7 +188,7 @@ Source:Gwen DiPietro and Scott Matthews [Life Cycle Assessment](https://guides.l
 
 ## Phase of an LCA
 
-![](/lectures/images/20/phase-of-lca.png){fig-align="center"}
+![](/lectures/images/phase-of-lca.png){fig-align="center"}
 
 ::: footer
 Read more: <https://www.iso.org/standard/37456.html>
