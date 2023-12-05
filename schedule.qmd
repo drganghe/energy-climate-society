@@ -20,4 +20,4 @@ repo-actions: false
 | 12    | 11/14, [Big data and AI](lectures/lecture19.qmd) | 11/16, [Life cycle analysis](lectures/lecture20.qmd) |  |
 | 13    | 11/21, [Tool: Life cycle analysis](tools/4lca.qmd) | Thanksgiving - No session |  |
 | 14    | 11/28, [Uncertainties and limitations](lectures/lecture21.qmd) | 11/30, [Review and summary](lectures/lecture22.qmd) |  |
-| 15    | 12/5, Presentation | 12/7, Presentation | End of class |
+| 15    | 12/5, Presentation | 12/7, Presentation | Policy memo |
