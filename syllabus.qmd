@@ -29,7 +29,7 @@ title: Syllabus
 This is a restricted list of various interesting and useful books that will be discussed during the course. You need to consult them occasionally, but they are optional.
 
 - Koomey, Jonathan, and Ian Monroe. 2022. Solving Climate Change: A Guide for Learners and Leaders. IOP Publishing. <https://iopscience.iop.org/book/mono/978-0-7503-4032-8>.
-- MacKay, David JC. 2008. Sustainable Energy without the Hot Air. UIT Cambridge Ltd.
+- MacKay, David JC. 2008. [Sustainable Energy without the Hot Air](https://www.withouthotair.com/). UIT Cambridge Ltd.
 - Readings and materials will be posted online.
 
 ## Grading
@@ -47,7 +47,6 @@ Project: Policy memo           | 20 %   |
 
 </div>
 
-**Late submission**: One point is subtracted for each 24-hour submitted late. One free late day is allowed of your choice.
 
 ## Grading Scale
 
