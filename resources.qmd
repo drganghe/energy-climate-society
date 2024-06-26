@@ -2,6 +2,20 @@
 title: Resources
 ---
 
+<!--This is my personal clarity, please delete or replace with your own clarity-->
+{{< include /files/includes/_msclarity.qmd >}}
+
+## NYC/NYS resources
+
+[NYSERDA](https://www.nyserda.ny.gov/Impact-Greenhouse-Gas-Emissions-Reduction)
+
+[New York City Panel on Climate Change (NPCC)](https://climateassessment.nyc/), [The 4th Assessment](https://climateassessment.nyc/assessments/)
+
+[Climate Week NYC](https://www.climateweeknyc.org/)
+
+[Mayor's Office of Climate & Environmental Justice](https://climate.cityofnewyork.us/)
+
+
 ## Baruch/CUNY climate resources
 
 CUNY Climate Action Collaborative ([CCAC](https://blogs.baruch.cuny.edu/climateaction/))
@@ -11,15 +25,6 @@ CUNY [Climate Scholars](https://blogs.baruch.cuny.edu/climateaction/)
 CUNY [Climate Change Consortium (C3)](https://www.cuny.edu/research/research-development-programs/cuny-climate-consortium/)
 
 Baruch [Conference on Climate Research, Teaching, and Collaboration](https://baruch.cuny.edu/climateconference/)
-
-
-## NYC/NYS resources
-
-[NYSERDA](https://www.nyserda.ny.gov/Impact-Greenhouse-Gas-Emissions-Reduction)
-
-[Climate Week NYC](https://www.climateweeknyc.org/)
-
-[Mayor's Office of Climate & Environmental Justice](https://climate.cityofnewyork.us/)
 
 
 ## Climate jobs

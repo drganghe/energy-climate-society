@@ -8,11 +8,11 @@
 <link href="../site_libs/quarto-html/light-border.css" rel="stylesheet">
 <link href="../site_libs/quarto-html/quarto-html.min.css" rel="stylesheet" data-mode="light">
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
-  <meta name="generator" content="quarto-1.4.471">
+  <meta name="generator" content="quarto-1.5.31">
 
   <meta name="author" content="Gang He">
   <meta name="dcterms.date" content="2023-11-16">
-  <title>Energy, Climate, and Society - Lecture 20 Life-cycle Analysis</title>
+  <title>Energy, Climate, and Society – Lecture 20 Life-cycle Analysis</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
@@ -450,14 +450,14 @@ Gang He
 <section id="lca-thinking" class="slide level2 center">
 <h2>LCA Thinking</h2>
 
-<img data-src="..\lectures/images/pine-tree-life-cycle.png" class="quarto-figure-center r-stretch"><div class="footer">
+<img data-src="../lectures/images/pine-tree-life-cycle.png" class="quarto-figure quarto-figure-center r-stretch"><div class="footer">
 <p>Source:<a href="https://www.biographixmedia.com/biology/pine-tree-life-cycle.html" class="uri">https://www.biographixmedia.com/biology/pine-tree-life-cycle.html</a></p>
 </div>
 </section>
 <section id="lca-of-real-vs-fake-christmas-tree" class="slide level2 center">
 <h2>LCA of Real vs Fake Christmas Tree</h2>
 
-<img data-src="..\lectures/images/Lifecycle-of-real-fake-tree.png" class="quarto-figure-center r-stretch"><div class="footer">
+<img data-src="../lectures/images/Lifecycle-of-real-fake-tree.png" class="quarto-figure quarto-figure-center r-stretch"><div class="footer">
 <p>Source:Gwen DiPietro and Scott Matthews <a href="https://guides.library.cmu.edu/c.php?g=907239">Life Cycle Assessment</a>; Read more: <a href="https://ecochain.com/blog/sustainable-christmas-trees">Ecochain</a></p>
 </div>
 </section>
@@ -593,14 +593,14 @@ Gang He
 <section id="phase-of-an-lca" class="slide level2 center">
 <h2>Phase of an LCA</h2>
 
-<img data-src="..\lectures/images/phase-of-lca.png" class="quarto-figure-center r-stretch"><div class="footer">
+<img data-src="../lectures/images/phase-of-lca.png" class="quarto-figure quarto-figure-center r-stretch"><div class="footer">
 <p>Read more: <a href="https://www.iso.org/standard/37456.html" class="uri">https://www.iso.org/standard/37456.html</a></p>
 </div>
 </section>
 <section id="recall-renewables-save-water" class="slide level2 center">
 <h2>Recall renewables save water</h2>
 
-<img data-src="..\lectures/images/16/water-by-generating-technology.png" class="quarto-figure-center r-stretch"><div class="footer">
+<img data-src="../lectures/images/16/water-by-generating-technology.png" class="quarto-figure quarto-figure-center r-stretch"><div class="footer">
 <p>Source: <span class="citation" data-cites="iea2016energywater">IEA (<a href="#/references" role="doc-biblioref" onclick="">2016</a>)</span></p>
 </div>
 </section>
@@ -668,8 +668,10 @@ Meadows, Donella H. 2008. <em>Thinking in <span>Systems</span>: <span>Internatio
 <p>Back to Title <a href="https://drganghe.github.io/energy-climate-society/lectures/lecture20.html#title-slide">Slide</a>, All <a href="https://drganghe.github.io/energy-climate-society/lectures.html">Lectures</a>, Course <a href="https://drganghe.github.io/energy-climate-society/">Home</a>, or Learn More About <a href="https://drganghe.github.io">Gang He</a></p>
 </div>
 
+<div class="quarto-auto-generated-content">
 <div class="footer footer-default">
 <p><a href="https://drganghe.github.io/energy-climate-society/" class="uri">https://drganghe.github.io/energy-climate-society/</a></p>
+</div>
 </div>
 </section>
     </div>
@@ -914,18 +916,7 @@ Meadows, Donella H. 2008. <em>Thinking in <span>Systems</span>: <span>Internatio
         }
         return false;
       }
-      const clipboard = new window.ClipboardJS('.code-copy-button', {
-        text: function(trigger) {
-          const codeEl = trigger.previousElementSibling.cloneNode(true);
-          for (const childEl of codeEl.children) {
-            if (isCodeAnnotation(childEl)) {
-              childEl.remove();
-            }
-          }
-          return codeEl.innerText;
-        }
-      });
-      clipboard.on('success', function(e) {
+      const onCopySuccess = function(e) {
         // button target
         const button = e.trigger;
         // don't keep focus
@@ -957,7 +948,52 @@ Meadows, Donella H. 2008. <em>Thinking in <span>Systems</span>: <span>Internatio
         }, 1000);
         // clear code selection
         e.clearSelection();
+      }
+      const getTextToCopy = function(trigger) {
+          const codeEl = trigger.previousElementSibling.cloneNode(true);
+          for (const childEl of codeEl.children) {
+            if (isCodeAnnotation(childEl)) {
+              childEl.remove();
+            }
+          }
+          return codeEl.innerText;
+      }
+      const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+        text: getTextToCopy
       });
+      clipboard.on('success', onCopySuccess);
+      if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+        // For code content inside modals, clipBoardJS needs to be initialized with a container option
+        // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+        const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+          text: getTextToCopy,
+          container: window.document.getElementById('quarto-embedded-source-code-modal')
+        });
+        clipboardModal.on('success', onCopySuccess);
+      }
+        var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+        var mailtoRegex = new RegExp(/^mailto:/);
+          var filterRegex = new RegExp("https:\/\/drganghe\.github\.io\/energy-climate-society");
+        var isInternal = (href) => {
+            return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+        }
+        // Inspect non-navigation links and adorn them if external
+     	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+        for (var i=0; i<links.length; i++) {
+          const link = links[i];
+          if (!isInternal(link.href)) {
+            // undo the damage that might have been done by quarto-nav.js in the case of
+            // links that we want to consider external
+            if (link.dataset.originalHref !== undefined) {
+              link.href = link.dataset.originalHref;
+            }
+              // target, if specified
+              link.setAttribute("target", "_blank");
+              if (link.getAttribute("rel") === null) {
+                link.setAttribute("rel", "noopener");
+              }
+          }
+        }
       function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
         const config = {
           allowHTML: true,
@@ -994,7 +1030,11 @@ Meadows, Donella H. 2008. <em>Thinking in <span>Systems</span>: <span>Internatio
           try { href = new URL(href).hash; } catch {}
           const id = href.replace(/^#\/?/, "");
           const note = window.document.getElementById(id);
-          return note.innerHTML;
+          if (note) {
+            return note.innerHTML;
+          } else {
+            return "";
+          }
         });
       }
       const findCites = (el) => {
@@ -1034,24 +1074,6 @@ Meadows, Donella H. 2008. <em>Thinking in <span>Systems</span>: <span>Internatio
           });
         }
       }
-        var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
-        var mailtoRegex = new RegExp(/^mailto:/);
-          var filterRegex = new RegExp("https:\/\/drganghe\.github\.io\/energy-climate-society");
-        var isInternal = (href) => {
-            return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
-        }
-        // Inspect non-navigation links and adorn them if external
-     	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
-        for (var i=0; i<links.length; i++) {
-          const link = links[i];
-          if (!isInternal(link.href)) {
-              // target, if specified
-              link.setAttribute("target", "_blank");
-              if (link.getAttribute("rel") === null) {
-                link.setAttribute("rel", "noopener");
-              }
-          }
-        }
     });
     </script>
     
