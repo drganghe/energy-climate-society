@@ -1,0 +1,252 @@
+---
+title: "Lecture 20 Life-cycle Analysis"
+description-meta: "Life-cycle analysis for energy projects"
+author: "Gang He"
+date: November 16, 2023
+date-format: long
+image: "/images/Lifecycle-of-real-fake-tree.png"
+format:
+  revealjs:
+    theme: white
+ #   embed-resources: true
+    slide-number: true
+    preview-links: auto
+    link-external-newwindow: true
+    citations-hover: true
+    auto-stretch: true
+    r-fit-text: true
+    center: true
+    scrollable: true
+    css: /custom.css
+    footer: <https://drganghe.github.io/energy-climate-society/>
+#draft: true    
+---
+
+## Sample analytic questions
+
+-   How to compare the emissions of energy technology fairly?\
+-   Does EV reduces or increase emissions?\
+-   Does CO2 enhanced oil recovery reduces carbon emission?\
+-   GHG implications of biomass?\
+
+::: footer
+This lecture benefits from the [Life Cycle Assessment](https://guides.library.cmu.edu/c.php?g=907239) material at CMU.
+:::
+
+## LCA questions
+
+- Paper or plastic grocery bags  
+- Cloth or disposable diapers  
+- Digital or hardcopy papers/books  
+- Plastic water bottles or tap water  
+
+## System thinking
+
+- Acknowledging the complex connectivity of our societies, economies and the natural environment  
+- Understanding system behaviors and responses (positive and negative)  
+- Modifying complex systems to achieve a more sustainable balance  
+- Life cycle thinking, applied to products and processes, is a specific example of systems thinking  
+
+::: footer
+Read more: @meadows_thinking_2008
+:::
+
+
+## LCA
+
+The assessment of environmental impacts of products or processes from “cradle to grave”
+
+::: columns
+
+:::{.column width="50%"}
+“Cradle to Grave”   
+- Raw material extraction  
+- Manufacturing  
+- Transportation  
+- Usage  
+- Disposal  
+:::
+
+:::{.column width="50%"}
+Environmental impacts   
+- Greenhouse gases  
+- Particulates  
+- Water withdrawal  
+- Toxics  
+- Land use 
+:::
+
+:::
+
+::: footer
+Read more from Gwen DiPietro and Scott Matthews [Life Cycle Assessment](https://guides.library.cmu.edu/c.php?g=907239).
+:::
+
+
+## LCA Thinking
+
+![](/images/pine-tree-life-cycle.png){fig-align="center"}
+
+
+::: footer
+Source:<https://www.biographixmedia.com/biology/pine-tree-life-cycle.html>
+:::
+
+
+## LCA of Real vs Fake Christmas Tree
+
+![](/images/Lifecycle-of-real-fake-tree.png){fig-align="center"}
+
+
+::: footer
+Source:Gwen DiPietro and Scott Matthews [Life Cycle Assessment](https://guides.library.cmu.edu/c.php?g=907239); Read more: [Ecochain](https://ecochain.com/blog/sustainable-christmas-trees)
+:::
+
+
+## Another thought experiment
+
+How should drinks be provided?  
+- 12 oz. aluminum (soda) cans   
+- 12 oz. steel (soda) cans   
+- 2 liter plastic (soda) bottles  
+- 8 oz. (fresh juice) boxes  
+- 32 oz. paperboard (fresh juice) boxes  
+- 8 oz. paperboard  (concentrated and frozen juice) cans  
+- 10 oz. refillable glass bottles (from the 1970s)  
+- Syrup concentrate (from fountain machines)  
+
+::: footer
+Source:Gwen DiPietro and Scott Matthews [Life Cycle Assessment](https://guides.library.cmu.edu/c.php?g=907239)
+:::
+
+## History of LCA
+
+Initial LCA work was focused on energy  
+
+1969 - first multi-criteria study for Coca-Cola   
+- Glass versus plastic for container   
+- Choice between internal / external container production  
+- End of life options (recycling or one-way)   
+- Result: plastic bottle was better, contrary to expectations   
+- Study never published   
+- Questions of validity then occurred  
+- Led to calls by scientific community for a standardization process  
+
+::: footer
+Read more: [Coca Cola’s first LCA in 1969 – A brief history of LCA](https://ecochain.com/blog/coca-colas-first-lca-in-1969-a-brief-history-of-lca/)
+:::
+
+## The 80’s: LCA as a marketing instrument
+
+LCA was used in the marketing claims
+
+In 1991, the USA denounced the use of LCA results until further standards were in place.
+
+## 1997: ISO 14000 Standardization{.smaller}
+
+| ISO 14000         | Standards of Environmental Management                    |
+|-------------------|----------------------------------------------------------|
+| ISO 14001         | Certification of Environmental Management Systems        |
+| ISO 14010         | Audit guidelines                                         |
+| ISO 14011         | Audit methodology                                        |
+| ISO 14012         | Qualification of auditors                                |
+| ISO 14013-14015   | Audit processes                                          |
+| ISO 14020-14025   | Environmental labeling                                   |
+| ISO 14031-14032   | Environmental performance evaluation                     |
+| ISO 14040 / 14044 | Life Cycle Assessment – General principles and practices |
+| ISO 14050         | Terms and Definitions                                    |
+| ISO 19011         | Guide for management systems auditing                    |
+
+
+## Rationale for a standard{.smaller}
+
+- Want things done consistently  
+  - Common guidelines 
+- Want to set level playing field in a market 
+  - Following the standard is assessable, and determined compliant 
+- Analogous to ASTM and other “test standards” 
+  - e.g., consistent concrete is desired and can be specified in a construction bid request: “we want ASTM C94 concrete” 
+  - LEED Green Building Standards family 
+- Standards generally voluntary, but may be required by contract (require ISO 9000 compliant firm)  
+
+::: footer
+Source:Gwen DiPietro and Scott Matthews [Life Cycle Assessment](https://guides.library.cmu.edu/c.php?g=907239)
+:::
+
+
+## Standard oganization
+
+- Scope
+- Normative references
+- Terms and definitions
+- General description of LCA
+  - Principles; Phases; Key features; General concepts of product systems
+- Methodological framework 
+- Reporting 
+- Critical review 
+
+
+## Phase of an LCA
+
+![](/images/phase-of-lca.png){fig-align="center"}
+
+::: footer
+Read more: <https://www.iso.org/standard/37456.html>
+:::
+
+
+## Recall renewables save water
+
+![](/images/16/water-by-generating-technology.png){fig-align="center"}
+
+::: footer
+Source: @iea2016energywater
+:::
+
+
+## What LCA is what's not
+
+- LCA is a way of structuring/organizing the relevant parts of the life cycle
+- It is a tool to track performance
+- LCA is not a cure-all for our environmental problems
+- LCA is not an “exact” science with provable axioms/theories
+- LCA is part of the sustainability tool box
+
+::: footer
+Source:Gwen DiPietro and Scott Matthews [Life Cycle Assessment](https://guides.library.cmu.edu/c.php?g=907239)
+:::
+
+
+## Uncertainties in LCA{.smaller}
+
+- Use care in using simplistic methods to support decisions  
+- “A decision made without taking uncertainty into account is barely worth calling a decision.”  (Wilson, 1985)  
+- Presumed focus of book and course   
+- We’re doing LCA for big decisions  
+  - Hybrid cars? Green energy? Change-the-world policy questions  
+- Thus analysis should be as good as possible  
+- “It depends” studies perhaps just not “complete” studies  
+- LCA is a robust methodology that requires careful choice of methods and leverage of quantitative tools. 
+
+::: footer
+Source:Gwen DiPietro and Scott Matthews [Life Cycle Assessment](https://guides.library.cmu.edu/c.php?g=907239)
+:::
+
+
+## Summary
+
+-   System thinking and LCA thinking\
+-   LCA could offer insights\
+-   Learning those new tools and skills to do basic LCA\
+-   LCA is a system think to address energy and climate challenges.   
+
+------------------------------------------------------------------------
+
+### References
+
+::: {#refs}
+:::
+
+::: footer
+Back to Title [Slide](lecture20.qmd), All [Lectures](schedule.qmd), Course [Home](https://drganghe.github.io/energy-climate-society/), or Learn More About [Gang He](https://drganghe.github.io)
+:::

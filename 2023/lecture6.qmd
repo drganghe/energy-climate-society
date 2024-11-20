@@ -1,0 +1,162 @@
+---
+title: "Lecture 6 Climate Adaptation"
+description-meta: "Discuss the adaptation of climate change"
+author: "Gang He"
+date: September 19, 2023
+date-format: long
+image: "/images/risk-and-resilience.png"
+format:
+  revealjs:
+    theme: white
+ #   embed-resources: true
+    slide-number: true
+    preview-links: auto
+    link-external-newwindow: true
+    citations-hover: true
+    auto-stretch: true
+    r-fit-text: true
+    center: true
+    scrollable: true
+    css: /custom.css
+    footer: <https://drganghe.github.io/energy-climate-society/>
+#draft: true    
+---
+
+## A five points "climate haiku"
+
+::: columns
+::: {.column width="50%"}
+1.  It's warming
+2.  It's us
+3.  We're sure
+4.  It's bad
+5.  **We can fix it**
+:::
+
+::: {.column width="50%"}
+![](/images/climate-curriculum.png){fig-align="center"}
+:::
+:::
+
+::: footer
+Source: [Kimberly A Nicholas](https://www.kimnicholas.com/climate-change-curriculum.html)
+:::
+
+
+## Risks and resilience
+
+![](/images/risk-and-resilience.png){fig-align="center"}
+
+::: footer
+Source: IPCC, [WG2](https://www.ipcc.ch/report/ar6/wg2/figures/technical-summary/)
+:::
+
+
+## Adaptation options
+
+![](/images/climate-response-adapation-options.png){fig-align="center"}
+
+::: footer
+Source: IPCC, [WG2](https://www.ipcc.ch/report/ar6/wg2/figures/technical-summary/)
+:::
+
+
+## Adaptation potential
+
+![](/images/apaptation-potential.png){fig-align="center"}
+
+::: footer
+Source: IPCC, [WG2](https://www.ipcc.ch/report/ar6/wg2/figures/technical-summary/)
+:::
+
+
+## Ecosystem health
+
+![](/images/ecosystem-health-climate-resilience.png){fig-align="center"}
+
+::: footer
+Source: IPCC, [WG2](https://www.ipcc.ch/report/ar6/wg2/figures/technical-summary/)
+:::
+
+
+## Ecosystem adaptation
+
+![](/images/ecosystem-adaptation.png){fig-align="center"}
+
+::: footer
+Source: IPCC, [WG2](https://www.ipcc.ch/report/ar6/wg2/figures/technical-summary/)
+:::
+
+
+## Food security
+
+![](/images/food-security.png){fig-align="center"}
+
+::: footer
+Source: IPCC, [WG2](https://www.ipcc.ch/report/ar6/wg2/figures/technical-summary/)
+:::
+
+
+## Vulnerable groups
+
+![](/images/vulnerable-groups.png){fig-align="center"}
+
+::: footer
+Source: IPCC, [WG2](https://www.ipcc.ch/report/ar6/wg2/figures/technical-summary/)
+:::
+
+
+## Synthetic adaptation
+
+![](/images/synthesis-adapation.png){fig-align="center"}
+
+::: footer
+Source: IPCC, [WG2](https://www.ipcc.ch/report/ar6/wg2/figures/technical-summary/)
+:::
+
+
+## Steps to resilence
+
+- Understand Exposure
+- Assess Vulnerability & Risk
+- Investigate Options
+- Prioritize & Plan
+- Take Action
+
+::: footer
+More resources: [U.S. Climate Resilience Toolkit](https://toolkit.climate.gov/#steps)
+:::
+
+
+## NYC heat plan case
+
+- Assess climate risks
+- Incoporate climate risks in adaptation and response plan
+- Educate residents on the threats
+- Re-assing vulnerability
+
+What elese can we do?
+
+::: footer
+More resources: [New York City Assesses Extreme Heat Climate Risk](https://www.epa.gov/arc-x/new-york-city-assesses-extreme-heat-climate-risk)
+:::
+
+
+## Mekong River Basin
+
+![](/images/mekong-river-basin-adaptation.png){fig-align="center"}
+
+::: footer
+More resources: UNEP, [Case Studies](https://wedocs.unep.org/handle/20.500.11822/41111;jsessionid=3717F47150FAD2349607FC3904051EB7)
+:::
+
+------------------------------------------------------------------------
+
+### References
+
+::: {#refs}
+:::
+
+::: footer
+Back to Title [Slide](lecture6.qmd), All [Lectures](schedule.qmd), Course [Home](https://drganghe.github.io/energy-climate-society/), or Learn More About [Gang He](https://drganghe.github.io)
+:::

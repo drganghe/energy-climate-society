@@ -1,0 +1,246 @@
+---
+title: "Lecture 10 Energy Technologies: Solar"
+description-meta: "Solar technolgies"
+author: "Gang He"
+date: October 3, 2023
+date-format: long
+image: "/images/p-n-junction.png"
+format:
+  revealjs:
+    theme: white
+ #   embed-resources: true
+    slide-number: true
+    preview-links: auto
+    link-external-newwindow: true
+    citations-hover: true
+    auto-stretch: true
+    r-fit-text: true
+    center: true
+    scrollable: true
+    css: /custom.css
+    footer: <https://drganghe.github.io/energy-climate-society/>
+#draft: true    
+---
+
+## Solar
+
+![](/images/perez-planetary-energy.png){fig-align="center"}
+
+::: footer
+Source: [Richard Perez](http://asrc.albany.edu/people/faculty/perez/)
+:::
+
+
+## Solar spectrum
+
+![](/images/Solar_spectrum.png){fig-align="center"}
+
+<center>
+**Solar constant**: 1.361 kW/m2
+</center>
+
+::: footer
+Source: [Solar Spectrum](https://en.wikipedia.org/wiki/Sunlight)
+:::
+
+
+## Harvesting the sun
+
+::: columns
+::: {.column width="50%"}
+![Heqing Solar Cooker Project in Zhangye](/images/Heqing_Solar_Cooker_photo.webp){fig-align="center"}
+:::
+
+::: {.column width="50%"}
+![Young NaDEET students in Namibia learning to use a parabolic solar cooker](/images/NaDEET_solar_cooking_training.webp){fig-align="center"}
+:::
+:::
+
+::: footer
+Photo credit: [Bristol Energy](https://solarcooking.fandom.com/wiki/China?file=Heqing_Solar_Cooker_photo%2C_12-20-21.png), [Fu Ting](https://solarcooking.fandom.com/wiki/Namibia?file=NaDEET_solar_cooking_training_2012%2C_2-11-13.jpg); Source: [Solar Cooking](https://solarcooking.fandom.com/)
+:::
+
+
+## Silicon
+
+<center>
+![](/images/silicon-atomic-structure.jpeg){width=50% fig-align="center"}
+
+
+::: columns
+::: {.column width="50%"}
+![](/images/Boron-atomic-structure.jpeg){width=80% fig-align="center"}
+:::
+
+::: {.column width="50%"}
+![](/images/Phosphorus-atomic-structure.jpeg){width=80% fig-align="center"}
+:::
+:::
+</center>
+
+::: footer
+Source: [Atomic Structures](https://youtu.be/OCTAQaubQ4o)
+:::
+
+
+## P and N type
+
+::: columns
+::: {.column width="30%"}
+![](/images/silicon-lattice.png){fig-align="center"}
+:::
+
+::: {.column width="30%"}
+![](/images/p-type-silicon.png){fig-align="center"}
+:::
+
+::: {.column width="30%"}
+![](/images/n-type-silicon.png){fig-align="center"}
+:::
+
+:::
+
+::: footer
+Source: [From sunlight to electricity](https://www.science.org.au/curious/technology-future/solar-pv)
+:::
+
+
+## P-N Junction 
+
+![](/images/p-n-junction.png){fig-align="center"}
+
+::: footer
+Read more: <https://www.energy.gov/eere/solar/how-does-solar-work>
+:::
+
+
+## How solar works
+<center>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/xKxrkht7CpY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+
+::: footer
+Source: <https://www.youtube.com/watch?v=xKxrkht7CpY> 
+:::
+
+
+## Solar irradiance{.smaller}
+
+::: columns
+::: {.column width="50%"}
+- Direct normal irradiance (DNI)   
+- Diffuse horizontal irradiance (DHI)
+- Ground reflected irradiance (GRI)      
+- Global horizontal irradiance (GHI)   
+- Plane-of-array irradiance (POA)  
+
+GHI=DNI+DHI+GRI
+
+POA = GHI $\times \cos \theta$
+:::
+
+::: {.column width="50%"}
+![](/images/solar-irradiance.png){fig-align="center"}
+:::
+:::
+
+
+
+::: footer
+Source: Manajit Sengupta, Aron Habte, [NREL](https://www.nrel.gov/docs/fy20osti/75573.pdf)
+:::
+
+## Key corrections  
+
+- Solar position at any time of day: altitude angle, latitude, zaimuth angle, hour angle   
+- Radiation: direct beam, diffusion, reflected  
+- Tracking: fixed, 1-axis, 2-axis  
+
+
+::: footer
+Read more: @masters2013renewable 
+:::
+
+
+## The quest for efficiency
+
+![](/images/best-research-cell-efficiencies.webp){fig-align="center"}
+
+::: footer
+Read more: NREL, [Best Research-Cell Efficiency Chart](https://www.nrel.gov/pv/cell-efficiency.html)
+:::
+
+
+## Global and U.S. distribution
+
+![](/images/World_PVOUT_map.png){fig-align="center"}
+
+::: footer
+Source: [Global Solar Atlas](https://globalsolaratlas.info/download/world)
+:::
+
+
+## Air pollution and dust
+
+::: columns
+::: {.column width="50%"}
+![](/images/pm-and-solar.gif){fig-align="center"}
+:::
+
+::: {.column width="50%"}
+![](/images/global-pm-solar-reduction.jpeg){fig-align="center"}
+:::
+
+:::
+
+::: footer
+Source: @bergin2017large
+:::
+
+
+## Climate change impact
+
+![](/images/climate-change-solar-wind-sdm.png){fig-align="center"}
+
+::: footer
+Source: @liu_climate_2023
+:::
+
+
+## Prioritize solar installation
+
+![](/images/prioritizing-solar-deployment.png){fig-align="center"}
+
+::: footer
+Source: @chen2023deploying
+:::
+
+
+## Solar thermal: CSP
+
+![](/images/Concentrating-Solar-Thermal-Power-Applications.png){fig-align="center"}
+
+::: footer
+Source: [DOE](https://www.energy.gov/eere/solar/concentrating-solar-thermal-power-basics)
+:::
+
+
+## Pros and Cons
+
+| Pros | Cons |
+|------|------|
+| Renewables     | Variable & integration     |
+| Low emissions    |  Land use    |
+| Low costs     |  Distribution    |
+
+
+------------------------------------------------------------------------
+
+### References
+
+::: {#refs}
+:::
+
+::: footer
+Back to Title [Slide](lecture10.qmd), All [Lectures](schedule.qmd), Course [Home](https://drganghe.github.io/energy-climate-society/), or Learn More About [Gang He](https://drganghe.github.io)
+:::

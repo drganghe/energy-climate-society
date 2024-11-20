@@ -16,17 +16,20 @@ website:
       - text: Syllabus
         href: syllabus.qmd
       - text: Schedule
-        href: schedule.qmd
+        href: 2023/schedule.qmd
       - text: Lectures
         href: lectures.qmd
-#      - text: Assignments
-#        href: assignments.qmd 
-      - text: Tools
-        href: tools.qmd             
+      - text: Guest Speakers
+        href: http://drganghe.github.io/climate-guest-speakers
+        target: _blank            
       - text: Policy Memo
         href: policymemo.qmd        
       - text: Resources
         href: resources.qmd
+      - text: Archive
+        menu:
+          - text: Fall 2023
+            href: 2023/schedule.qmd           
       - text: Dr. Gang He
         href: http://drganghe.github.io        
     right: 
@@ -34,7 +37,7 @@ website:
         href: https://github.com/drganghe/energy-climate-society
   page-navigation: true
   page-footer: 
-    left: "&copy; 2023 [Gang He](http://drganghe.github.io)" 
+    left: "[Gang He](http://drganghe.github.io) &copy; <script>document.write(new Date().getFullYear())</script>" 
     right: 
       - icon: github
         href: https://github.com/drganghe/energy-climate-society

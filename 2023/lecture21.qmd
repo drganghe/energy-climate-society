@@ -1,0 +1,261 @@
+---
+title: "Lecture 21 Uncertainties and Limitation"
+description-meta: "Understand the uncertainties and limitations of your analysis"
+author: "Gang He"
+date: November 28, 2023
+date-format: long
+image: "/images/iea-underestimate-solarwind.png"
+format:
+  revealjs:
+    theme: white
+ #   embed-resources: true
+    slide-number: true
+    preview-links: auto
+    link-external-newwindow: true
+    citations-hover: true
+    auto-stretch: true
+    r-fit-text: true
+    center: true
+    scrollable: true
+    css: /custom.css
+    footer: <https://drganghe.github.io/energy-climate-society/>
+#draft: true    
+---
+
+## Sample analytic questions
+
+-   How do I know if I should trust your results?\
+-   What are the methods to address uncertainties?\
+-   What are the emerging topics to improve modeling analysis?\
+-   How to interpret modeling results to communicate effectively?\
+-   Where to use model? How to build your analysis?  
+
+
+## Projections went off
+
+![](/images/1970s-projections-us-energy.png){fig-align="center"}
+
+::: footer
+Source: @craig2002what
+:::
+
+
+## IEA underestimates solar and wind
+
+![](/images/iea-underestimate-solarwind.png){fig-align="center"}
+
+::: footer
+Source: [Ecofys](http://energypost.eu/world-energy-outlook-hides-real-potential-renewables/)
+:::
+
+
+
+## Science models are in better positions
+
+::: columns
+
+::: {.column width="50%"}
+![](/images/science.abk0063-exxon-vs-historical.jpg){fig-align="center" width="90%"}
+:::
+
+::: {.column width="50%"}
+![](/images/obervation-vs-models.png){fig-align="center"}
+:::
+
+:::
+
+::: footer
+Read more: [Inside Climate News](https://insideclimatenews.org/news/22092015/exxon-confirmed-global-warming-consensus-in-1982-with-in-house-climate-models/), @supran_assessing_2023, @hausfather2020evaluating
+:::
+
+
+## Conditions for model robustness
+
+Models can be accurate when they describe systems that  
+
+- are observable and measurable  
+- exhibit constancy of structure over time  
+- exhibit constancy across variations in conditions not specified in the model  
+- permit the collection of ample data
+
+::: footer
+Read more: @hodges1992you
+:::
+
+
+## Social economic structural changes
+
+- Core data and assumptions, which drive results, are based on historical experiences, which can be off if structural conditions change  
+- The exact timing and character of pivotal events and technology changes is unpredictable
+
+::: footer
+Read more: [Turning Numbers into Knowledge](https://www.koomey.com/books.html)
+:::
+
+
+## Changing landsacpe of new power generation capacities
+
+<center> Shale gas revolution </center>
+
+![](/images/new-power-capacity.png){fig-align="center"}
+
+::: footer
+Source: [Head Waters Economics](https://headwaterseconomics.org/economic-development/evolution-electricity-generation/)
+:::
+
+
+## Renewable costs
+
+![](/images/ipcc-re-costs.png){fig-align="center"}
+
+::: footer
+Source: [IPCC](https://www.ipcc.ch/report/ar6/wg3/figures/summary-for-policymakers/figure-spm-3/)
+:::
+
+
+## Mission impossible
+
+- Predict the unpredictable  
+- Price the priceless  
+
+
+## Better modeling uncertainties {.smaller}
+
+- Define an endpoint of analysis  
+- List all uncertain parameters  
+- Specify maximum range of values  
+- Specify subjective probability distribution for values within the range  
+- Determin and account for correlations  
+- Probability distribution of model predictions  
+- Derive quantitative uncertainties 
+- Obtain additional data and repeat analysis if needed  
+
+::: footer
+Read more: [IAEA](https://inis.iaea.org/collection/NCLCollectionStore/_Public/24/045/24045072.pdf)
+:::
+
+
+## Incoporating political economy
+
+::: columns
+
+::: {.column width="50%"}
+
+::: r-fit-text
+
+Examples 
+
+- Risk averse investors  
+- Subsidies or taxes  
+- Carbon lock-in  
+- Unequal costs and benefits of climate polices accrue to different groups  
+- Public opinion  
+- Confidence in political institutions  
+- Trade and investments  
+- Competence of goverment  
+
+:::
+
+:::
+
+::: {.column width="50%"}
+![](/images/state-level-support-climate.webp){fig-align="center" width="80%"}
+:::
+
+:::
+
+::: footer
+Source: @peng2021climate, @peng2021surprisingly
+:::
+
+
+## Why a model in the first place{.smaller}
+
+- Description  
+- Explanation  
+- Experimentation  
+- Providing sources of analogy  
+- Communication/Education  
+- Providing focal objects or centerpiece for scientific dialogue  
+- Thought experiment  
+- Projection  
+
+
+## Modeling for insights
+
+- Modeling based on research questions  
+- Modeling elements, structure, relations  
+- Do not over-interpret  
+- Do not misinterpret  
+- "All models are wrong, but some are **useful**". Avoid useless models.  
+
+
+## Focusing on structures and relations
+
+![](/images/en-roads-structure.png){fig-align="center"}
+
+::: footer
+Source: [Climate Interactive](https://www.climateinteractive.org/en-roads/)
+:::
+
+
+## Knowing limitations
+
+- Known unknowns  
+- Unknown unknowns  
+- "Garbage in, garbage out"  
+
+
+## Interpreting results
+
+- Results are outcomes of assumptions and models  
+- Results does not automatically translate to policies  
+- Communicating the limitations and uncertainties  
+
+
+## Open source 
+
+- Open model (code)  
+- Open data  
+- Open results  
+- Open validation  
+
+In Open we Trust! 
+
+::: footer
+Read more: [Wikipedia](https://en.wikipedia.org/wiki/Open_energy_system_models)
+:::
+
+
+## Ensure model for society
+
+- Mind the assumptions  
+- Mind the hubris  
+- Mind the framing  
+- Mind the consequences  
+- Mind the unknowns  
+- Questions not answers  
+
+::: footer
+Read more: @saltelli2020five
+:::
+
+
+## Summary
+
+-   Know the limitation of models\
+-   Use model appropriately\
+-   Interpret/communicate the results effectively\
+-   Models for social good  
+
+
+------------------------------------------------------------------------
+
+### References
+
+::: {#refs}
+:::
+
+::: footer
+Back to Title [Slide](lecture21.qmd), All [Lectures](schedule.qmd) Course [Home](https://drganghe.github.io/energy-climate-society/), or Learn More About [Gang He](https://drganghe.github.io)
+:::

@@ -1,0 +1,210 @@
+---
+title: "Lecture 9 Fossil Technologies"
+description-meta: "Thermal dynamics and fossil technologies"
+author: "Gang He"
+date: September 28, 2023
+date-format: long
+image: "/images/heat_engine.png"
+format:
+  revealjs:
+    theme: white
+ #   embed-resources: true
+    slide-number: true
+    preview-links: auto
+    link-external-newwindow: true
+    citations-hover: true
+    auto-stretch: true
+    r-fit-text: true
+    center: true
+    scrollable: true
+    css: /custom.css
+    footer: <https://drganghe.github.io/energy-climate-society/>
+#draft: true    
+---
+
+## Sample analytic questions
+
+-   How much coal can be saved/emissions can be mitigated if China's average coal power efficiency increased by 1 percentage point?\
+-   Why combined heat and power saves energy?
+
+## Thermodynamics
+
+-   Thermodynamic **efficiency**\
+-   Comparing different technologies\
+-   Thermodynamics provides physic limits
+
+## Heat engine
+
+![](/images/heat_engine.png){fig-align="center"}
+
+Heat -\> Mechanical energy (work)
+
+::: footer
+Source: [Wikipedia](https://en.wikipedia.org/wiki/Heat_engine)
+:::
+
+## Laws of thermodynamics {.smaller}
+
+-   Zeroth law\
+    "If two systems are each in thermal equilibrium with a third, they are also in thermal equilibrium with each other."
+
+-   First law\
+    "In a process without transfer of matter, the change in internal energy, $\Delta U$, of a thermodynamic system is equal to the energy gained as heat, $Q$, less the thermodynamic work, $W$, done by the system on its surroundings."
+
+-   Second law\
+    "Heat does not spontaneously flow from a colder body to a hotter body."
+
+-   Third law\
+    "As the temperature of a system approaches absolute zero, all processes cease and the entropy of the system approaches a minimum value."
+
+::: footer
+Read more: [Wikipedia](https://en.wikipedia.org/wiki/Laws_of_thermodynamics)
+:::
+
+## Three efficiencies
+
+-   1st law: actual, thermal efficiency;\
+    $\eta_1 =\frac{W_{net}}{Q_{in}}=\frac{Q_{high}-Q_{low}}{Q_{high}}=1-\frac{Q_{low}}{Q_{high}}$
+-   Carnot: maximum possible efficiency;\
+    $\eta_c =\frac{W_{net}}{Q_{high}}=\frac{T_{high}-T_{low}}{T_{high}}=1-\frac{T_{low}}{T_{high}}$ (Kelvin)\
+-   2nd law: comparing 1st and Carnot;\
+    $\eta_2 =\frac{\eta_1}{\eta_c}$
+
+::: footer
+Read more: [Sadi Carnot](https://en.wikipedia.org/wiki/Nicolas_L%C3%A9onard_Sadi_Carnot)
+:::
+
+
+## A gas turbine engine
+
+![](/images/gas-turbine-engine.png){fig-align="center"}
+
+::: footer
+Source: [Wikipedia](https://upload.wikimedia.org/wikipedia/commons/4/4c/Jet_engine.svg)
+:::
+
+
+## A steam coal plant
+
+![](/images/coal_fired_power_plant_diagram.png){fig-align="center"}
+
+::: footer
+Source: [Wikipedia](https://en.wikipedia.org/wiki/Fossil_fuel_power_station)
+:::
+
+## Brayton cycle vs. Rankine cycle
+
+::: columns
+::: {.column width="50%"}
+![](/images/Brayton_cycle.png){fig-align="center"}
+
+<p style="font-size:14pt; color:gray; text-align:center;">
+
+Jet engine, gas turbine
+
+</p>
+:::
+
+::: {.column width="50%"}
+![](/images/Rankine_cycle.png){fig-align="center"}
+
+<p style="font-size:14pt; color:gray; text-align:center;">
+
+Steam engine, steam turbine
+
+</p>
+:::
+:::
+
+::: footer
+Read more: Wikipedia [Brayton cycle](https://en.wikipedia.org/wiki/Brayton_cycle) and [Rankine cycle](https://en.wikipedia.org/wiki/Rankine_cycle)
+:::
+
+## Brayton cycle vs. Rankine cycle
+
+| Brayton Cycle | Rankine Cycle |
+|------|------|
+| Jet, Gas turbine     | Steam turbine      |
+| Open    |  Open/closed circuits    |
+| Working fluid in gaseous phase     |  Working fluid phase change    |
+
+::: footer
+Read more: Wikipedia [Brayton cycle](https://en.wikipedia.org/wiki/Brayton_cycle) and [Rankine cycle](https://en.wikipedia.org/wiki/Rankine_cycle)
+:::
+
+## Largest coal plant in the U.S. {.smaller}
+
+::: columns
+::: {.column width="50%"}
+![](/images/georgia_power_plant_scherer.png){fig-align="center"}
+:::
+
+::: {.column width="50%"}
+Georgia Power plant Scherer (3,720 MW)
+
+Can you identify the components
+
+-   Coal storage\
+-   Generating unit\
+-   Cooling stack\
+-   Bottom ash landfill\
+-   Sub-station\
+-   Transimission lines\
+-   Waste/pollution management\
+:::
+:::
+
+::: footer
+Source: [Google Map](https://goo.gl/maps/b6mCqsm6G9bhTc5b6), read more: [Nowhere to hide](https://carbontracker.org/reports/nowhere-to-hide/)
+:::
+
+## Combined cycle
+
+<center>
+
+<iframe width="800" height="450" src="https://players.brightcove.net/605538292001/default_default/index.html?videoId=610140476001" allowfullscreen frameborder="0">
+
+</iframe>
+
+</center>
+
+::: footer
+Read more: [Tennessee Valley Authority](https://www.tva.com/energy/our-power-system/natural-gas/how-a-combined-cycle-power-plant-works)
+:::
+
+## CCGT Diagram
+
+![](/images/GE-CCGT-diagram.png){fig-align="center"}
+
+::: footer
+Read more: [GE Power](https://www.ge.com/gas-power/resources/education/what-is-a-gas-turbine)
+:::
+
+## Defining a Rosenfeld Plant
+
+-   500 MW
+-   c.f.: 70%
+-   T&D losss: 7%
+
+Results:
+
+-   3 TWh/year\
+
+-   3 MtCO2/year
+
+-   NYC electricity use: \~4 TWh/year
+
+::: footer
+Source: @koomey2010defining
+:::
+
+------------------------------------------------------------------------
+
+### References
+
+::: {#refs}
+:::
+
+::: footer
+Back to Title [Slide](lecture9.qmd), All [Lectures](schedule.qmd), Course [Home](https://drganghe.github.io/energy-climate-society/), or Learn More About [Gang He](https://drganghe.github.io)
+:::

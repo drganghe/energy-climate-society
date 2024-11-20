@@ -2,7 +2,7 @@
 title: "Lectures"
 image: "/files/images/hex-Energy-Climate-Society.png"
 listing:
-  contents: lectures
+  contents: 2023/lecture*.qmd
   page-size: 36
   sort: "date asc"
   type: grid
@@ -11,7 +11,7 @@ listing:
   filter-ui: false
   feed: false
   fields: [image, date, title, author]
-#page-layout: full
+page-layout: full
 page-navigation: true
 title-block-banner: false
 repo-actions: false

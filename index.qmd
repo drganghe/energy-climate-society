@@ -1,5 +1,5 @@
 ---
-title: "Energy, Climate, and Society (Fall 2023)"
+title: "Energy, Climate, and Society (Spring 2025)"
 image: "/files/images/hex-Energy-Climate-Society.png"
 sidebar: false
 toc: false
@@ -27,7 +27,7 @@ This class benefits from many similar classes and I cannot credit them enough be
 
 - Jon Koomey and Ian Monroe, [Solving Climate Change: A guide for learners and leaders](https://doi.org/10.1088/978-0-7503-4032-8)  
 
--  Paul Shepson, Michael Rubenstein, and  Christine Gilbert, [Energy, Climate and Society ](https://news.stonybrook.edu/university/new-course-on-energy-climate-and-society-is-a-cross-college-collaboration/)
+- Paul Shepson, Michael Rubenstein, and  Christine Gilbert, [Energy, Climate and Society ](https://news.stonybrook.edu/university/new-course-on-energy-climate-and-society-is-a-cross-college-collaboration/)
 
 
 ## Reuse of material

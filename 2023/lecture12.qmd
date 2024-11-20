@@ -1,0 +1,261 @@
+---
+title: "Lecture 12 Energy Technologies: Nuclear, Hydro, Storage, and Other"
+description-meta: "Nuclear and hydro technolgies"
+author: "Gang He"
+date: October 17, 2023
+date-format: long
+image: "/images/livermore-fusion-breakthrough.jpg"
+format:
+  revealjs:
+    theme: white
+ #   embed-resources: true
+    slide-number: true
+    preview-links: auto
+    link-external-newwindow: true
+    citations-hover: true
+    auto-stretch: true
+    r-fit-text: true
+    center: true
+    scrollable: true
+    css: /custom.css
+    footer: <https://drganghe.github.io/energy-climate-society/>
+#draft: true    
+---
+
+## Nuclear 
+
+:::columns
+
+::: {.column width="50%"}
+
+![](/images/fission.png){fig-align="center"}
+
+<p style="font-size:14pt; color:gray; text-align:center;">
+Nuclear fission
+</p>
+
+:::
+
+::: {.column width="50%"}
+
+![](/images/fusion-reactions.jpeg){fig-align="center"}
+
+</br>
+
+<p style="font-size:14pt; color:gray; text-align:center;">
+Nuclear fussion
+</p>
+:::
+
+:::
+
+::: footer
+Read more: EIA, [Nuclear explained](https://www.eia.gov/energyexplained/nuclear/); DOE, [Nuclear fusion reactions](https://www.energy.gov/science/doe-explainsnuclear-fusion-reactions)
+:::
+
+
+## Nuclear power plants
+
+![](/images/US_nuclear_power_plants_map.png){fig-align="center"}
+
+::: footer
+Read more: EIA, [Nuclear explained](https://www.eia.gov/energyexplained/nuclear/)
+:::
+
+
+## Nuclear plant design
+
+:::columns
+
+::: {.column width="50%"}
+
+![](/images/small_bwr.jpg){fig-align="center"}
+
+<p style="font-size:14pt; color:gray; text-align:center;">
+Diagram of a boiling-water nuclear reactor
+</p>
+
+:::
+
+::: {.column width="50%"}
+
+![](/images/small_pwr.jpg){fig-align="center"}
+
+</br>
+
+<p style="font-size:14pt; color:gray; text-align:center;">
+Diagram of a pressurized-water nuclear reactor
+</p>
+:::
+
+:::
+
+::: footer
+Read more: EIA, [Nuclear explained](https://www.eia.gov/energyexplained/nuclear/)
+:::
+
+
+## Nuclear fuel cycle
+
+![](/images/nuclear_fuel_cycle.png){fig-align="center"}
+
+::: footer
+Read more: EIA, [Nuclear explained](https://www.eia.gov/energyexplained/nuclear/)
+:::
+
+
+## Social > technology challenges{.smaller}
+
+:::columns
+
+::: {.column width="60%"}
+![](/images/three-island-historical-site.JPG){fig-align="center" width=60%}
+:::
+
+::: {.column width="40%"}
+- Public engagement  
+- Lower capital costs  
+- Social and decision sciences  
+- Science and technology study  
+- Nuclear waste siting  
+- Best practices
+:::
+:::
+
+::: footer
+Photo credit: Gang He; Read more: [National Academies](https://nap.nationalacademies.org/catalog/26606/understanding-the-societal-challenges-facing-nuclear-power-proceedings-of-a)
+:::
+
+## Next generation of nuclear technology
+
+:::columns
+
+::: {.column width="60%"}
+![](/images/next-gen-nuclear.png){fig-align="center"}
+:::
+
+::: {.column width="40%"}
+- Modality  
+- Lower capital costs  
+- Siting flexibility  
+- Higher efficiency  
+- Safe and security  
+- Industry and manufacture  
+- Economic 
+:::
+:::
+
+::: footer
+Read more: DOE, [Benefits of Small Modular Reactors](https://www.energy.gov/ne/benefits-small-modular-reactors-smrs), [TerraPower](https://www.terrapower.com/our-work/natriumpower/)
+:::
+
+
+## Livermore Fusion breakthrough
+
+![](/images/livermore-fusion-breakthrough.jpg){fig-align="center"}
+
+::: footer
+Read more: [LLNL](https://www.llnl.gov/archive/news/lawrence-livermore-national-laboratory-achieves-fusion-ignition)
+:::
+
+
+## Hydro 
+
+:::columns
+
+::: {.column width="50%"}
+
+![](/images/hydro.png){fig-align="center"}
+
+<p style="font-size:14pt; color:gray; text-align:center;">
+Hydropower 
+</p>
+
+:::
+
+::: {.column width="50%"}
+![](/images/pumped-storage.jpeg){fig-align="center"}
+
+<p style="font-size:14pt; color:gray; text-align:center;">
+Pumped storage hydropower (PSH)
+</p>
+:::
+
+:::
+
+</br>
+
+<center>
+$E=\rho mg(h_2-h_1)$
+</center>
+
+::: footer
+Source: [TVA](https://www.tva.com/energy/our-power-system/hydroelectric/how-hydroelectric-power-works)
+:::
+
+
+## How a lithium-ion battery works
+
+{{< video https://s3.amazonaws.com/UCS_Videos/Energy+embedded+video/lithium-ion-battery.mp4 >}}
+
+
+::: footer
+Source: [Union of Concerned Scientists](https://www.ucsusa.org/resources/how-energy-storage-works)
+:::
+
+
+## Battery management system 
+
+:::columns
+::: {.column width="50%"}
+![](/images/battery-management-system.png){fig-align="center"}
+:::
+
+::: {.column width="50%"}
+- Rated power capacity   
+- Energy capacity   
+- Storage duration  
+- Cycle life/lifetime  
+- Self-discharge  
+- State of charge  
+- Round-trip efficiency
+:::
+:::
+
+::: footer
+Read more: NREL, [Grid-scale battery storage](https://www.nrel.gov/docs/fy19osti/74426.pdf)
+:::
+
+
+## Long duration storage
+
+![](/images/role-of-long-duration-storage.jpg){fig-align="center"}
+
+::: footer
+Source: @dowling_role_2020
+:::
+
+
+## Summary {.smaller}
+
+- Theory - learn and understand the physics of energy technologies: 
+  - thermaldynamics (fossil)  
+  - kinematics (wind)  
+  - light and semiconductor (solar)  
+  - gravity (hydro, tidal)  
+  - atomic (nuclear)    
+- Practice - learn all kinds of corrections based on real-world situation  
+- The physics doesn't change, corrections help us to do better jobs in simulation and projections  
+
+
+
+------------------------------------------------------------------------
+
+### References
+
+::: {#refs}
+:::
+
+::: footer
+Back to Title [Slide](lecture12.qmd), All [Lectures](schedule.qmd), Course [Home](https://drganghe.github.io/energy-climate-society/), or Learn More About [Gang He](https://drganghe.github.io)
+:::
