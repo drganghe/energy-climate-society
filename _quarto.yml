@@ -69,6 +69,9 @@ format:
     link-external-newwindow: true
     #link-external-filter: '^(?:http:|https:)\/\/drganghe\.github\.io\/custom'
 
+execute:
+  freeze: auto
+
 comments:
   hypothesis: false
   

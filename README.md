@@ -1,6 +1,6 @@
-# PAF4199 Energy, Climate, and Society (2023 Fall)
+# PAF4199 Energy, Climate, and Society
 
-This is the website for Energy, Climate, and Society 2023 Fall. I will share the slides, homework, and source files here.  
+This is the website for my Energy, Climate, and Society class. I will share the slides, homework, and source files here.  
 
 ## Acknowledgment
 
