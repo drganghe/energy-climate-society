@@ -1,0 +1,126 @@
+---
+title: Mock Climate Negotiation
+format: 
+  html: 
+    theme: cosmo
+ #   css: styles.css
+    toc: true
+    link-external-icon: false
+    link-external-newwindow: true
+  pdf: 
+    documentclass: article
+    #classoption: [landscape]
+    lof: false
+    lot: false
+    geometry:
+      - top=1in
+      - bottom=1in
+      - left=1in
+      - right=1in
+      - heightrounded
+    #fontfamily: xelatex
+    colorlinks: true
+---
+
+## Objective
+
+Students will simulate international climate negotiations to understand:
+
+- Complexities of policymaking  
+- Explore the dynamics of global cooperation  
+- Gain practical skills and insights into the roles of different stakeholders in addressing climate change  
+
+## Session Structure
+
+### Preparation Phase (Pre-Negotiation)
+
+Duration: 1-2 months prior to the simulation
+
+- Topic Assignment: Assign each student or group to represent a specific country or stakeholder group (e.g., industrialized nations, developing nations, small island states, NGOs, or business representatives).  
+
+- Background Research: Students will research their assigned country’s or group’s:  
+
+  - Greenhouse gas emissions profile^[[Our World in Data](https://ourworldindata.org)]  
+  - Economic priorities and vulnerabilities^[[World Economic Outlook](https://www.imf.org/en/Publications/WEO)]  
+  - Climate commitments under the Paris Agreement^[[NDCs](https://unfccc.int/process-and-meetings/the-paris-agreement/nationally-determined-contributions-ndcs/indcs)]  
+  - Political and social challenges   
+  - Negotiation History 
+
+- Deliverables:
+
+  - A one-page position paper summarizing their negotiation stance.  
+  - A brief 2-3 minute opening statement outlining their priorities.
+
+### Simulation Day
+
+Duration: 2-3 hours
+
+Step 1: Opening Statements (10-15 minutes)
+
+Each delegation presents their country’s or group’s position, highlighting key goals and red lines.
+
+Step 2: Negotiation Rounds (1-1.5 hours)
+
+- Round 1: Regional and Bloc Discussions (30 minutes)  
+
+Countries form groups based on alliances or shared interests (e.g., EU, G77, Umbrella Group). Each bloc formulates a unified stance on key negotiation topics such as mitigation targets, financing, and adaptation measures.
+
+- Round 2: Plenary Negotiations (30 minutes)
+
+Delegations present their bloc’s positions and negotiate with other blocs to find areas of compromise. Use a moderator (instructor or student volunteer) to guide the discussion and ensure adherence to time limits (3 minutes maximum for each presentation).
+
+Step 3: Final Agreement (30 minutes)
+
+Delegations draft and vote on a final agreement. Achieving consensus is ideal but not mandatory; differing levels of agreement can reflect real-world outcomes.
+
+### Debrief and Reflection Phase (Post-Negotiation)
+
+Duration: 30-45 minutes
+
+- Class Discussion:
+
+  - What were the main challenges in reaching an agreement?  
+  - How did power dynamics and disparities influence the negotiations?  
+  - What lessons can be applied to real-world climate policymaking?  
+
+- Individual Reflection: 
+
+Students write a short essay (1-2 pages) discussing their experiences, including what they learned about their assigned role and the overall negotiation process.
+
+## Topics and Organization
+
+**Key Topics for Negotiation**
+
+1. Nationally Determined Contributions (NDCs): Ambition levels and timeline commitments.  
+2. Climate Finance: Funding mechanisms to support developing nations in mitigation and adaptation.  
+3. Loss and Damage: Compensation for climate-related damages in vulnerable nations.  
+4. Technological Transfers: Strategies for sharing clean energy technologies.  
+5. Global Stocktake: Review and accountability mechanisms.  
+6. Adaptation: Strategies for responding to climate change.
+
+**Logistics and Organization**
+
+- Materials:
+  - Printed negotiation rules and position guidelines.
+  - Nameplates for country/stakeholder delegations.
+  - Access to a whiteboard or digital tool for drafting agreements.
+
+- Room Setup: Arrange desks in a U-shaped configuration to encourage discussion and create a formal negotiation atmosphere.
+
+- Role of Instructor:
+
+  - Act as the Chair to facilitate the simulation and keep time.  
+  - Intervene only when necessary to ensure productive dialogue.
+
+## Learning Outcomes
+
+Students will learn:
+
+1. Understand the complexity of international climate negotiations and the importance of consensus-building.
+2. Develop skills in public speaking, negotiation, and teamwork.
+3. Gain empathy for the diverse perspectives and constraints of global stakeholders.
+
+
+## References
+
+[C-ROADS Climate Change Policy Simulator](https://c-roads.climateinteractive.org/scenario.html)
