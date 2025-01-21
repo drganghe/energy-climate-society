@@ -21,11 +21,15 @@ website:
         href: lectures.qmd
       - text: Guest Speakers
         href: http://drganghe.github.io/climate-guest-speakers
-        target: _blank            
-      - text: Policy Memo
-        href: policymemo.qmd        
-      - text: Resources
-        href: resources.qmd
+        target: _blank 
+      - text: Guide
+        menu:                   
+        - text: Mock Climate Negotiation
+          href: mock-climate-negotiation.qmd        
+        - text: Policy Memo
+          href: policymemo.qmd 
+        - text: Resources
+          href: resources.qmd
       - text: Archive
         menu:
           - text: Fall 2023
@@ -41,8 +45,9 @@ website:
     right: 
       - icon: github
         href: https://github.com/drganghe/energy-climate-society
-      - icon: twitter 
-        href: https://twitter.com/DrGangHe
+      - text: "{{< fa brands bluesky >}}" 
+        href: https://bsky.app/profile/hegang.bsky.social
+        target: _blank
   search:
     location: navbar
     type: textbox
@@ -55,7 +60,7 @@ website:
   #  image: "/files/images/hex-Energy-Climate-Society.png"
   site-url: "https://drganghe.github.io/energy-climate-society"
   google-analytics:
-    tracking-id: "G-9ZBRZBEKDN"
+    tracking-id: "G-9ZBRZBEKDN"  # Please delete or replace with your own tracking ID
     anonymize-ip: true
 
 bibliography: readings.bib

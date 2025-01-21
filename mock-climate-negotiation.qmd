@@ -22,6 +22,9 @@ format:
     colorlinks: true
 ---
 
+<!--This is my personal clarity, please delete or replace with your own clarity-->
+{{< include /files/includes/_msclarity.qmd >}}
+
 ## Objective
 
 Students will simulate international climate negotiations to understand:
@@ -105,7 +108,7 @@ Students write a short essay (1-2 pages) discussing their experiences, including
   - Nameplates for country/stakeholder delegations.
   - Access to a whiteboard or digital tool for drafting agreements.
 
-- Room Setup: Arrange desks in a U-shaped configuration to encourage discussion and create a formal negotiation atmosphere.
+- Room Setup: Arrange desks in a U-shaped configuration to encourage discussion and create a formal negotiation atmosphere. Online Zoom virtual negotiation room background.
 
 - Role of Instructor:
 
@@ -124,3 +127,7 @@ Students will learn:
 ## References
 
 [C-ROADS Climate Change Policy Simulator](https://c-roads.climateinteractive.org/scenario.html)
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

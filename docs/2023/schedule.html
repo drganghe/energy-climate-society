@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.6.30">
+<meta name="generator" content="quarto-1.6.39">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -35,10 +35,12 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-3a01e2046221230fdceeea94b1ec5d67.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-6624fc4ef4d1f4a1f4431250b81bd195.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-0be10a02aa56032eb6fe331f79f59765.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
+<link href="../site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -105,7 +107,7 @@ gtag('config', 'G-9ZBRZBEKDN', { 'anonymize_ip': true});
 <span class="menu-text">Syllabus</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="../2023/schedule.html" aria-current="page"> 
+    <a class="nav-link" href="../2025/schedule.html"> 
 <span class="menu-text">Schedule</span></a>
   </li>  
   <li class="nav-item">
@@ -116,14 +118,25 @@ gtag('config', 'G-9ZBRZBEKDN', { 'anonymize_ip': true});
     <a class="nav-link" href="http://drganghe.github.io/climate-guest-speakers" target="_blank"> 
 <span class="menu-text">Guest Speakers</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../policymemo.html"> 
-<span class="menu-text">Policy Memo</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-guide" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Guide</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-guide">    
+        <li>
+    <a class="dropdown-item" href="../mock-climate-negotiation.html">
+ <span class="dropdown-text">Mock Climate Negotiation</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../resources.html"> 
-<span class="menu-text">Resources</span></a>
+        <li>
+    <a class="dropdown-item" href="../policymemo.html">
+ <span class="dropdown-text">Policy Memo</span></a>
   </li>  
+        <li>
+    <a class="dropdown-item" href="../resources.html">
+ <span class="dropdown-text">Resources</span></a>
+  </li>  
+    </ul>
+  </li>
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-archive" role="link" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">Archive</span>
@@ -386,8 +399,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -503,7 +514,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
@@ -747,11 +757,10 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </i> 
     </a>
   </li>  
-    <li class="nav-item compact">
-    <a class="nav-link" href="https://twitter.com/DrGangHe">
-      <i class="bi bi-twitter" role="img">
-</i> 
-    </a>
+    <li class="nav-item">
+    <a class="nav-link" href="https://bsky.app/profile/hegang.bsky.social" target="_blank">
+<p><i class="fa-brands fa-bluesky" aria-label="bluesky"></i></p>
+</a>
   </li>  
 </ul>
     </div>

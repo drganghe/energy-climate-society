@@ -66,3 +66,7 @@ Your policy will be graded by the following criteria:
 ## References
 
 [Policy Memo Resources](https://policymemos.hks.harvard.edu/home)
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}
