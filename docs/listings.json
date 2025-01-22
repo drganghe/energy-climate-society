@@ -2,6 +2,7 @@
   {
     "listing": "/lectures.html",
     "items": [
+      "/2025/lecture1.html",
       "/2023/lecture1.html",
       "/2023/lecture2.html",
       "/2023/lecture3.html",
@@ -22,8 +23,7 @@
       "/2023/lecture18.html",
       "/2023/lecture19.html",
       "/2023/lecture20.html",
-      "/2023/lecture21.html",
-      "/2023/lecture22.html"
+      "/2023/lecture21.html"
     ]
   }
 ]

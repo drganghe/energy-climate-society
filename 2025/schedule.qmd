@@ -9,7 +9,7 @@ repo-actions: false
 
 | Week | Date | Lecture                                                     | Guest Speaker                                                                                  | Assignment |
 | ---- | ---- | ----------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ---------- |
-| 1    | 1/27 | Introduction: grand challenges                              |                                                                                                |            |
+| 1    | 1/27 | [Introduction: grand challenges](lecture1.qmd)                              |                                                                                                |            |
 | 2    | 2/3  | Numbers, project economics, and fundamentals                | [Josiah Johnston](https://drganghe.github.io/climate-guest-speakers/speakers/josiah-johnston/) |            |
 | 3    | 2/10 | Climate impact, mitigation, and adaptation                  | [Jieru He](https://drganghe.github.io/climate-guest-speakers/speakers/jieru-he/)               |            |
 | 4    | 2/18 | Energy systems overview                                     |      |            |

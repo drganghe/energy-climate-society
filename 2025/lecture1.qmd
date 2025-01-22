@@ -1,0 +1,298 @@
+---
+title: "Lecture 1 Introduction"
+description-meta: "Introduction to energy, climate, and society"
+author: "Gang He"
+date: Jan 27, 2025
+date-format: long
+image: "/images/424ppm.png"
+format:
+  revealjs:
+    theme: white
+ #   embed-resources: true
+    slide-number: true
+    preview-links: auto
+    link-external-newwindow: true
+    citations-hover: true
+    auto-stretch: true
+    r-fit-text: true
+    center: true
+    scrollable: true
+    css: /custom.css
+    footer: <https://drganghe.github.io/energy-climate-society/>
+---
+
+![](/images/424ppm.png)
+
+::: footer
+Source: [NOAA](https://gml.noaa.gov/ccgg/trends/gl_trend.html)
+:::
+
+---
+
+## Welcome and icebreaker
+
+-   Rose: "something that is working well or something positive"
+-   Thorn: "something that isn't working or something negative"
+-   Bud: "an area of opportunity or idea yet to be explored"
+
+## What brings you here?
+
+-   Concerned topics?
+-   Motivations?
+-   Dream jobs?
+
+## Climate Policy under Trump Administration 2.0{.smaller}
+
+::: columns
+::: {.column width="50%"}
+![](/images/trump-eo-sign.webp){fig-align="center"}
+:::
+
+::: {.column width="50%"}
+- Putting America First In International Environmental Agreements (withdrawal from Paris Agreement)
+- Unleashing Alaska’s Extraordinary Resource Potential
+- Temporary Withdrawal of All Areas on the Outer Continental Shelf from Offshore Wind Leasing and Review of the Federal Government’s Leasing and Permitting Practices for Wind Projects
+- Declaring a National Energy Emergency
+:::
+:::
+
+::: footer
+Photo source: [NYT](https://www.nytimes.com/2025/01/22/us/politics/trump-executive-orders.html); [Whitehouse](https://www.whitehouse.gov/presidential-actions/)
+:::
+
+
+## Not fast enough
+
+::: columns
+::: {.column width="50%"}
+![](/images/20240622-economist-cover-solar.avif){fig-align="center" width=50%}
+:::
+
+::: {.column width="50%"}
+![](/images/green-power-gap.png){fig-align="center"}
+:::
+:::
+
+How the exponential growth of solar will change the energy sector and the economy?
+
+::: footer
+Source: [The Economist](https://www.economist.com/leaders/2024/06/20/the-exponential-growth-of-solar-power-will-change-the-world), [Green Power Gap](https://www.rockefellerfoundation.org/report/the-green-power-gap/)
+:::
+
+## Why PAF4199?
+
+-   Policy matters
+    -   Research
+    -   Jobs
+-   Clean energy transition to achieve climate goals
+
+## Organization{.smaller}
+
+-   Syllabus
+-   Brightspace
+-   Course website: <https://drganghe.github.io/energy-climate-society/>
+-   Policy response (10): 20%
+-   Mock Climate Negotiation: 10%
+-   Assignments (4): 20%
+-   Proposal: 10%
+-   Final presentations: 20%
+-   Policy memo: 20%
+
+
+## Mock Climate Negotiation
+
+-   Pre-negotiation (Position paper)
+-   Simulation day (Presentation and negotiation)
+-   Post-negotiation (Reflection)
+
+::: footer
+Learn more: <https://drganghe.github.io/energy-climate-society/mock-climate-negotiation/>
+:::
+
+## Climate guest speakers{.smaller}
+
+-   2/3 – Josiah Johnston: Big data, AI, energy and climate analysis
+-   2/10 – Jieru He: Assessing Climate Risk Through Stress Testing in Financial Institutions
+-   4/21 – Malte Toetzke: Monitoring innovation in climate-tech with AI
+-   4/28 – Ines Benachir: Life Cycle Analysis and Ecodesign of PV Panels
+-   More to be added
+
+::: footer
+Learn more: <https://drganghe.github.io/climate-guest-speakers/>
+:::
+
+## Contents
+
+::: columns
+::: {.column width="30%"}
+-   Climate change
+    -   Impact
+    -   Mitigation
+    -   Adaption
+    -   Governance
+:::
+
+::: {.column width="40%"}
+-   Energy systems
+    -   Supply
+    -   Demand
+    -   Economics
+    -   Technology
+:::
+
+::: {.column width="30%"}
+-   Tools/skills
+    -   Data analysis
+    -   Economic analysis
+    -   Energy-economy-environment
+:::
+:::
+
+## An analytical approach
+
+Data-driven, evidence-based, energy and climate policy
+
+Using analytic approach to answer questions such as:
+
+-   What will be the climate future if we do nothing?
+-   What technology to invest to achieve our climate goal?
+-   What will be the impact to climate under Trump 2.0?
+-   How NYS/NYC could achieve its climate goals?
+
+
+## A five points "climate haiku"
+
+::: columns
+::: {.column width="50%"}
+1.  It's warming
+2.  It's us
+3.  We're sure
+4.  It's bad
+5.  We can fix it
+:::
+
+::: {.column width="50%"}
+![](/images/climate-curriculum.png){fig-align="center"}
+:::
+:::
+
+::: footer
+Source: [Kimberly A Nicholas](https://www.kimnicholas.com/climate-change-curriculum.html)
+:::
+
+
+## Climate and energy systems are both complicated
+
+![](/images/us-energy-infrastructure.png){fig-align="center"}
+
+::: footer
+Source: [EIA](https://www.eia.gov/state/maps.php)
+:::
+
+## The Energy Trillemma: Balancing trade-offs
+
+::: columns
+::: {.column width="50%"}
+![](/images/world-energy-trilemma-2021.png){fig-align="center"}
+:::
+
+::: {.column width="50%"}
+::: r-fit-text
+**Energy security**: Ensure reliable energy supply
+
+**Energy equity**: Provide universal access to reliable, affordable, and abundant energy
+
+**Environmental Sustainability**: Avoid environmental harm or climate impact
+
+Those goals sometimes conflict with each other, and decisions has to make trade-offs between them
+:::
+:::
+:::
+
+::: footer
+Source: [World Energy Council](https://www.worldenergy.org/transition-toolkit/world-energy-trilemma-index)
+:::
+
+## Energy, economy, and environment
+
+::: columns
+::: {.column width="50%"}
+![](/images/economy-environment-energy.jpeg){fig-align="center"}
+:::
+
+::: {.column width="50%"}
+**Economy**: Decent living? Growth? Degrowth?
+
+**Environment**: Emissions, ecosystems constraints/goals
+
+**Energy**: Work within constraints
+:::
+:::
+
+::: footer
+Source: [ICMA](https://icma.org/articles/article/growing-green-economy)
+:::
+
+## Energy great achievements
+
+![](/images/energy-great-achievement.png){fig-align="center"}
+
+::: footer
+Source: [National Academies](http://www.greatachievements.org/)
+:::
+
+## Energy grand challenges: SDGs
+
+![](/images/un-sdg.png){fig-align="center"}
+
+::: footer
+Source: [UN](https://www.un.org/sustainabledevelopment/sustainable-development-goals/)
+:::
+
+## Energy grand challenges: net-zero
+
+![](/images/iea-net-zero.png){fig-align="center"}
+
+::: footer
+Source: @iea_net_2021
+:::
+
+
+## Renewables are achieving grid parity
+
+![](/images/irena-re-costs-2021.png){fig-align="center"}
+
+::: footer
+Source: @irena_renewable_2021
+:::
+
+## Implications are profound
+
+::: columns
+::: {.column width="50%"}
+<br> ![](/images/accelerate-re-china.png){fig-align="center"}
+:::
+
+::: {.column width="50%"}
+![](/images/re-costs-and-ccs.jpg){fig-align="center"}
+:::
+:::
+
+::: footer
+Source: @he_rapid_2020, @grant_cost_2021
+:::
+
+
+------------------------------------------------------------------------
+
+### References
+
+::: {#refs}
+:::
+
+::: footer
+Back to Title [Slide](lecture1.qmd), All [Lectures](schedule.qmd), Course [Home](https://drganghe.github.io/energy-climate-society/), or Learn More About [Gang He](https://drganghe.github.io)
+:::
+
+
+

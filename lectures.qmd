@@ -2,6 +2,19 @@
 title: "Lectures"
 image: "/files/images/hex-Energy-Climate-Society.png"
 listing:
+
+- id: "2025-lectures"
+  contents: 2025/lecture*.qmd
+  page-size: 36
+  sort: "date asc"
+  type: grid
+  categories: false
+  sort-ui: false
+  filter-ui: false
+  feed: false
+  fields: [image, date, title, author]
+
+- id: "2023-lectures"
   contents: 2023/lecture*.qmd
   page-size: 36
   sort: "date asc"
@@ -11,6 +24,8 @@ listing:
   filter-ui: false
   feed: false
   fields: [image, date, title, author]
+
+toc: false
 page-layout: full
 page-navigation: true
 title-block-banner: false
@@ -19,3 +34,13 @@ repo-actions: false
 
 <!--This is my personal clarity, please delete or replace with your own clarity-->
 {{< include /files/includes/_msclarity.qmd >}}
+
+## 2025 Lectures
+
+::: {#2025-lectures}
+:::
+
+## 2023 Lectures
+
+::: {#2023-lectures}
+:::
