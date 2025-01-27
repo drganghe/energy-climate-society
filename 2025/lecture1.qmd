@@ -120,11 +120,13 @@ Learn more: [Mock Climate Negotiation](/mock-climate-negotiation.qmd)>
 
 ## Climate guest speakers{.smaller}
 
--   2/3 – Josiah Johnston: Big data, AI, energy and climate analysis
+-   2/3 – Dr. Josiah Johnston: Big data, AI, energy and climate analysis 
 -   2/10 – Jieru He: Assessing Climate Risk Through Stress Testing in Financial Institutions
--   4/21 – Malte Toetzke: Monitoring innovation in climate-tech with AI
--   4/28 – Ines Benachir: Life Cycle Analysis and Ecodesign of PV Panels
--   More to be added
+-   3/10 – Dr. Siobhan Watson: Integrating sustainability and resiliency into public housing 
+-   3/31 – Dr. Kaihui Song: Leveraging subnational capacity for equitable decarbonization 
+-   4/21 – Dr. Malte Toetzke: Monitoring innovation in climate-tech with AI 
+-   4/28 – Ines Benachir: Life Cycle Analysis and Ecodesign of PV Panels 
+-   To be updated 
 
 ::: footer
 Learn more: <https://drganghe.github.io/climate-guest-speakers/>
