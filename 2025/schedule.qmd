@@ -7,23 +7,23 @@ repo-actions: false
 <!--This is my personal clarity, please delete or replace with your own clarity-->
 {{< include /files/includes/_msclarity.qmd >}}
 
-| Week | Date | Lecture                                                     | Guest Speaker                                                                                  | Assignment |
-| ---- | ---- | ----------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ---------- |
-| 1    | 1/27 | [Introduction: grand challenges](lecture1.qmd)                              |                                                                                                |            |
-| 2    | 2/3  | Numbers, project economics, and fundamentals                | [Josiah Johnston](https://drganghe.github.io/climate-guest-speakers/speakers/josiah-johnston/) |            |
-| 3    | 2/10 | Climate impact, mitigation, and adaptation                  | [Jieru He](https://drganghe.github.io/climate-guest-speakers/speakers/jieru-he/)               |            |
-| 4    | 2/18 | Energy systems overview                                     |      |            |
-| 5    | 2/24 | Energy convertion technologies                              |                                                                                                |            |
-| 6    | 3/3  | Energy demand, energy and economy                           |                                                                                                |            |
-| 7    | 3/10 | Human behavior, culture, and sustainable energy consumption |                                                                                                |            |
-| 8    | 3/17 | Energy, environment, climate, and human health              |                                                                                                |            |
-| 9    | 3/24 | Electrification and power systems                           |                                                                                                |            |
-| 10   | 3/31 | Energy access, justice, and transition                      |                                                                                                |            |
-| 11   | 4/7  | Climate negotiation and policy instruments                  |                                                                                                |            |
-| 12   | 4/14 | Spring Recess -- No session                                 |                                                                                                |            |
-| 13   | 4/21 | Big data and AI for climate change                          | [Malte Toetzke](https://drganghe.github.io/climate-guest-speakers/speakers/malte-toetzke/index.html) |            |
-| 14   | 4/28 | Uncertainties in policy analysis and review and summary     |                                                   [Ines Benachir](https://drganghe.github.io/climate-guest-speakers/speakers/ines-benachir/)  |            |
-| 15   | 5/5  | Presentations                                               |                                                                                                |            |
-| 16   | 5/12 | Policy memo                                               |                                                                                                |            |
+| Week | Date | Lecture                                                     | Guest Speaker                                                                                            | Assignment |
+| ---- | ---- | -------------------------------------------- | --------------------------------------------------------------------------------- | ---------- |
+| 1    | 1/27 | [Introduction: grand challenges](lecture1.qmd)      |          |            |
+| 2    | 2/3  | Numbers, project economics, and fundamentals    | [Dr. Josiah Johnston](https://drganghe.github.io/climate-guest-speakers/speakers/josiah-johnston/) |            |
+| 3    | 2/10 | Climate impact, mitigation, and adaptation   | [Jieru He](https://drganghe.github.io/climate-guest-speakers/speakers/jieru-he/)   |            |
+| 4    | 2/18 | Energy systems overview   |       |            |
+| 5    | 2/24 | Energy convertion technologies  |      |            |
+| 6    | 3/3  | Energy demand, energy and economy  |       |            |
+| 7    | 3/10 | Human behavior, culture, and sustainable energy consumption | [Dr. Siobhan Watson](https://drganghe.github.io/climate-guest-speakers/speakers/siobhan-watson/)  |            |
+| 8    | 3/17 | Energy, environment, climate, and human health  |         |            |
+| 9    | 3/24 | Electrification and power systems   |         |            |
+| 10   | 3/31 | Energy access, justice, and transition  | [Dr. Kaihui Song](https://drganghe.github.io/climate-guest-speakers/speakers/kaihui-song/)  |            |
+| 11   | 4/7  | Climate negotiation and policy instruments   |             |            |
+| 12   | 4/14 | Spring Recess -- No session    |         |            |
+| 13   | 4/21 | Big data and AI for climate change  | [Dr. Malte Toetzke](https://drganghe.github.io/climate-guest-speakers/speakers/malte-toetzke/index.html) |            |
+| 14   | 4/28 | Uncertainties in policy analysis and review and summary     | [Ines Benachir](https://drganghe.github.io/climate-guest-speakers/speakers/ines-benachir/)   |            |
+| 15   | 5/5  | Presentations     |                    |            |
+| 16   | 5/12 | Policy memo      |              |            |
 
 : {.striped .responsive}

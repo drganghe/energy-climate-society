@@ -21,13 +21,22 @@ format:
     footer: <https://drganghe.github.io/energy-climate-society/>
 ---
 
-![](/images/424ppm.png)
+![](/images/424ppm.png){fig-align="center"}
 
 ::: footer
 Source: [NOAA](https://gml.noaa.gov/ccgg/trends/gl_trend.html)
 :::
 
 ---
+
+## 2024 is the first year to exceed 1.5°C above pre-industrial level
+
+![](/images/GCH2024_1.5C.png){fig-align="center"}
+
+::: footer
+Source: [Copernicus](https://climate.copernicus.eu/copernicus-2024-first-year-exceed-15degc-above-pre-industrial-level)
+:::
+
 
 ## Welcome and icebreaker
 
@@ -57,7 +66,7 @@ Source: [NOAA](https://gml.noaa.gov/ccgg/trends/gl_trend.html)
 :::
 
 ::: footer
-Photo source: [NYT](https://www.nytimes.com/2025/01/22/us/politics/trump-executive-orders.html); [Whitehouse](https://www.whitehouse.gov/presidential-actions/)
+Photo source: [NYT](https://www.nytimes.com/2025/01/22/us/politics/trump-executive-orders.html); Executive orders from [White House](https://www.whitehouse.gov/presidential-actions/)
 :::
 
 
@@ -106,7 +115,7 @@ Source: [The Economist](https://www.economist.com/leaders/2024/06/20/the-exponen
 -   Post-negotiation (Reflection)
 
 ::: footer
-Learn more: <https://drganghe.github.io/energy-climate-society/mock-climate-negotiation/>
+Learn more: [Mock Climate Negotiation](/mock-climate-negotiation.qmd)>
 :::
 
 ## Climate guest speakers{.smaller}

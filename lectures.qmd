@@ -18,12 +18,12 @@ listing:
   contents: 2023/lecture*.qmd
   page-size: 36
   sort: "date asc"
-  type: grid
+  type: table
   categories: false
   sort-ui: false
   filter-ui: false
   feed: false
-  fields: [image, date, title, author]
+  fields: [image, date, title]
 
 toc: false
 page-layout: full
