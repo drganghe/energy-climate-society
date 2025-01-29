@@ -10,7 +10,7 @@ repo-actions: false
 | Week | Date | Lecture                                                     | Guest Speaker                                                                                            | Assignment |
 | ---- | ---- | -------------------------------------------- | --------------------------------------------------------------------------------- | ---------- |
 | 1    | 1/27 | [Introduction: grand challenges](lecture1.qmd)      |          |            |
-| 2    | 2/3  | Numbers, project economics, and fundamentals    | [Dr. Josiah Johnston](https://drganghe.github.io/climate-guest-speakers/speakers/josiah-johnston/) |            |
+| 2    | 2/3  | [Numbers and project economics](lecture2.qmd)    | [Dr. Josiah Johnston](https://drganghe.github.io/climate-guest-speakers/speakers/josiah-johnston/) |            |
 | 3    | 2/10 | Climate impact, mitigation, and adaptation   | [Jieru He](https://drganghe.github.io/climate-guest-speakers/speakers/jieru-he/)   |            |
 | 4    | 2/18 | Energy systems overview   |       |            |
 | 5    | 2/24 | Energy convertion technologies  |      |            |
@@ -19,7 +19,7 @@ repo-actions: false
 | 8    | 3/17 | Energy, environment, climate, and human health  |         |            |
 | 9    | 3/24 | Electrification and power systems   |         |            |
 | 10   | 3/31 | Energy access, justice, and transition  | [Dr. Kaihui Song](https://drganghe.github.io/climate-guest-speakers/speakers/kaihui-song/)  |            |
-| 11   | 4/7  | Climate negotiation and policy instruments   |             |            |
+| 11   | 4/7  | Climate negotiation and policy instruments   | [Anthony Cheng](https://drganghe.github.io/climate-guest-speakers/speakers/anthony-cheng/)            |            |
 | 12   | 4/14 | Spring Recess -- No session    |         |            |
 | 13   | 4/21 | Big data and AI for climate change  | [Dr. Malte Toetzke](https://drganghe.github.io/climate-guest-speakers/speakers/malte-toetzke/index.html) |            |
 | 14   | 4/28 | Uncertainties in policy analysis and review and summary     | [Ines Benachir](https://drganghe.github.io/climate-guest-speakers/speakers/ines-benachir/)   |            |
