@@ -1,5 +1,10 @@
 ---
 title: Mock Climate Negotiation
+bibliography: readings.bib
+csl: chicago-intext.csl
+suppress-bibliography: true
+link-citations: false
+citations-hover: false
 format: 
   html: 
     theme: cosmo
@@ -126,7 +131,9 @@ Students will learn:
 
 ## References
 
-[C-ROADS Climate Change Policy Simulator](https://c-roads.climateinteractive.org/scenario.html)
+- [C-ROADS Climate Change Policy Simulator](https://c-roads.climateinteractive.org/scenario.html)
+- @stermanWORLDCLIMATERolePlay2015a
+
 
 <!--Include social share buttons-->
 

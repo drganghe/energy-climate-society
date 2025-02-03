@@ -40,7 +40,7 @@ Source: [Carbon Visuals](https://www.flickr.com/photos/carbonquilt/8112404383)
 
 ## Climate stripes
 
-![](/images/GLOBE-1850-2021-MO-barslabel.png){fig-align="center"}
+![](/images/climate-strips-1850-2023.png){fig-align="center"}
 
 ::: footer
 Source: [Ed Hawkins](https://showyourstripes.info/c/globe)
@@ -49,10 +49,10 @@ Source: [Ed Hawkins](https://showyourstripes.info/c/globe)
 
 ## Carbon budget
 
-![](/images/system-carbon-budget.png){fig-align="center"}
+![](/images/gcb_s09_2024_global_perturbation.png){fig-align="center"}
 
 ::: footer
-Source: [Global Carbon Project](https://www.globalcarbonaproject.org/global/images/carbonbudget/Infographic_Emissions2021.pdf)
+Source: [Global Carbon Project](https://robbieandrew.github.io/GCB2024/PNG/s09_2024_global_perturbation.png)
 :::
 
 ## Emission and concentration

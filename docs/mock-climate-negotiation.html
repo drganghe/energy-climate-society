@@ -344,7 +344,10 @@ https://learn.microsoft.com/en-us/clarity/setup-and-installation/clarity-setup
 </section>
 <section id="references" class="level2">
 <h2 class="anchored" data-anchor-id="references">References</h2>
-<p><a href="https://c-roads.climateinteractive.org/scenario.html">C-ROADS Climate Change Policy Simulator</a></p>
+<ul>
+<li><a href="https://c-roads.climateinteractive.org/scenario.html">C-ROADS Climate Change Policy Simulator</a></li>
+<li><span class="citation" data-cites="stermanWORLDCLIMATERolePlay2015a">John Sterman et al. <span>“<span>WORLD CLIMATE</span>: <span>A Role-Play Simulation</span> of <span>Climate Negotiations</span>,”</span> <em>Simulation &amp; Gaming</em> 46, no. 3–4 (June 1, 2015): 348–82, <a href="https://doi.org/10.1177/1046878113514935">https://doi.org/10.1177/1046878113514935</a>.</span></li>
+</ul>
 <!--Include social share buttons-->
 <!-- 
 AddToAny check more: https://www.addtoany.com/buttons/for/website 
@@ -751,43 +754,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
           }
         });
       }
-  const findCites = (el) => {
-    const parentEl = el.parentElement;
-    if (parentEl) {
-      const cites = parentEl.dataset.cites;
-      if (cites) {
-        return {
-          el,
-          cites: cites.split(' ')
-        };
-      } else {
-        return findCites(el.parentElement)
-      }
-    } else {
-      return undefined;
-    }
-  };
-  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
-  for (var i=0; i<bibliorefs.length; i++) {
-    const ref = bibliorefs[i];
-    const citeInfo = findCites(ref);
-    if (citeInfo) {
-      tippyHover(citeInfo.el, function() {
-        var popup = window.document.createElement('div');
-        citeInfo.cites.forEach(function(cite) {
-          var citeDiv = window.document.createElement('div');
-          citeDiv.classList.add('hanging-indent');
-          citeDiv.classList.add('csl-entry');
-          var biblioDiv = window.document.getElementById('ref-' + cite);
-          if (biblioDiv) {
-            citeDiv.innerHTML = biblioDiv.innerHTML;
-          }
-          popup.appendChild(citeDiv);
-        });
-        return popup.innerHTML;
-      });
-    }
-  }
 });
 </script>
 </div> <!-- /content -->
