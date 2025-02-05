@@ -11,7 +11,7 @@ repo-actions: false
 | ---- | ---- | -------------------------------------------- | --------------------------------------------------------------------------------- | ---------- |
 | 1    | 1/27 | [Introduction: grand challenges](lecture1.qmd)      |          |            |
 | 2    | 2/3  | [Numbers and project economics](lecture2.qmd)    | [Dr. Josiah Johnston](https://drganghe.github.io/climate-guest-speakers/speakers/josiah-johnston/) |            |
-| 3    | 2/10 | Climate impact, mitigation, and adaptation   | [Jieru He](https://drganghe.github.io/climate-guest-speakers/speakers/jieru-he/)   |            |
+| 3    | 2/10 | [Climate fundamentals and impact](lecture3.qmd)  | [Jieru He](https://drganghe.github.io/climate-guest-speakers/speakers/jieru-he/)   |            |
 | 4    | 2/18 | Energy systems overview   |       |            |
 | 5    | 2/24 | Energy convertion technologies  |      |            |
 | 6    | 3/3  | Energy demand, energy and economy  |       |            |
