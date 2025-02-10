@@ -1509,7 +1509,7 @@
     "href": "2025/schedule.html",
     "title": "Spring 2025 Course Schedule",
     "section": "",
-    "text": "Week\nDate\nLecture\nGuest Speaker\nAssignment\n\n\n\n\n1\n1/27\nIntroduction: grand challenges\n\n\n\n\n2\n2/3\nNumbers and project economics\nDr. Josiah Johnston\n\n\n\n3\n2/10\nClimate fundamentals and impact\nJieru He\n\n\n\n4\n2/18\nEnergy systems overview\n\n\n\n\n5\n2/24\nEnergy convertion technologies\n\n\n\n\n6\n3/3\nEnergy demand, energy and economy\n\n\n\n\n7\n3/10\nHuman behavior, culture, and sustainable energy consumption\nDr. Siobhan Watson\n\n\n\n8\n3/17\nEnergy, environment, climate, and human health\n\n\n\n\n9\n3/24\nElectrification and power systems\n\n\n\n\n10\n3/31\nEnergy access, justice, and transition\nDr. Kaihui Song\n\n\n\n11\n4/7\nClimate negotiation and policy instruments\nAnthony Cheng\n\n\n\n12\n4/14\nSpring Recess – No session\n\n\n\n\n13\n4/21\nBig data and AI for climate change\nDr. Malte Toetzke\n\n\n\n14\n4/28\nUncertainties in policy analysis and review and summary\nInes Benachir\n\n\n\n15\n5/5\nPresentations\n\n\n\n\n16\n5/12\nPolicy memo"
+    "text": "Readings\n\n\n\n\nWeek\nDate\nLecture\nGuest Speaker\nAssignment\n\n\n\n\n1\n1/27\nIntroduction: grand challenges\n\n\n\n\n2\n2/3\nNumbers and project economics\nDr. Josiah Johnston\n\n\n\n3\n2/10\nClimate fundamentals and impact\nJieru He\n\n\n\n4\n2/18\nEnergy systems overview\n\n\n\n\n5\n2/24\nEnergy convertion technologies\n\n\n\n\n6\n3/3\nEnergy demand, energy and economy\n\n\n\n\n7\n3/10\nHuman behavior, culture, and sustainable energy consumption\nDr. Siobhan Watson\n\n\n\n8\n3/17\nEnergy, environment, climate, and human health\nDr. Qian Luo\n\n\n\n9\n3/24\nElectrification and power systems\nGui Larangeira\n\n\n\n10\n3/31\nEnergy access, justice, and transition\nDr. Kaihui Song\n\n\n\n11\n4/7\nClimate negotiation and policy instruments\nAnthony Cheng\n\n\n\n12\n4/14\nSpring Recess – No session\n\n\n\n\n13\n4/21\nBig data and AI for climate change\nDr. Malte Toetzke\n\n\n\n14\n4/28\nUncertainties in policy analysis and review and summary\nInes Benachir\n\n\n\n15\n5/5\nPresentations\n\n\n\n\n16\n5/12\nPolicy memo"
   },
   {
     "objectID": "2023/lecture9.html#sample-analytic-questions",
@@ -3609,7 +3609,7 @@
     "href": "2025/lecture3.html#greenhouse-gasesghg",
     "title": "Lecture 3 Climate Fdundamentals and Impact",
     "section": "Greenhouse Gases(GHG)",
-    "text": "Greenhouse Gases(GHG)\n\n\n\nGHG\nGWP-100\nLifetime (Years)\n\n\n\n\nCarbon Dioxide (CO2)\n1\nhundreds\n\n\nMethane (CH4)\n29.8±11\n11.8 ± 1.8\n\n\nNitrous Oxide (N2O)\n273 ± 130\n109 ± 10\n\n\nHydrofluorocarbon-32 (HFC-32)\n771 ± 292\n5.4 ± 1.1\n\n\n\nOther:\n\nSulphur hexafluoride (SF6)\nPFC-14 (CF4)\nWater vapour\n\n\nSource: Table 7.15 in the IPCC AR6 WG-I Report."
+    "text": "Greenhouse Gases(GHG)\n\n\n\nGHG\nGWP-100\nLifetime (Years)\n\n\n\n\nCarbon Dioxide (CO2)\n1\nhundreds\n\n\nMethane (CH4)\n29.8±11\n11.8 ± 1.8\n\n\nNitrous Oxide (N2O)\n273 ± 130\n109 ± 10\n\n\nHydrofluorocarbon-32 (HFC-32)\n771 ± 292\n5.4 ± 1.1\n\n\n\n\nOther GHG:\n\nSulphur hexafluoride (SF6)\nPFC-14 (CF4)\nWater vapour\n\n\n\nSource: Table 7.15 in the IPCC AR6 WG-I Report."
   },
   {
     "objectID": "2025/lecture3.html#from-emissions-to-warming",
@@ -3813,5 +3813,33 @@
     "title": "Lecture 3 Climate Fdundamentals and Impact",
     "section": "Grand challenges, huge progress, and grand opportunities",
     "text": "Grand challenges, huge progress, and grand opportunities\n\n\nSource: Our World in Data"
+  },
+  {
+    "objectID": "2025/readings.html",
+    "href": "2025/readings.html",
+    "title": "Readings",
+    "section": "",
+    "text": "IEA “Net Zero by 2050” (International Energy Agency, 2021), https://www.iea.org/reports/net-zero-by-2050.\nIRENA “Renewable Power Generation Costs in 2021” (Abu Dhabi: International Renewable Energy Agency, July 2021), https://www.irena.org/publications/2022/Jul/Renewable-Power-Generation-Costs-in-2021.\nGang He et al. “Rapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China’s Power System,” Nature Communications 11, no. 1 (May 19, 2020): 2486, https://doi.org/10.1038/s41467-020-16184-x.\nNeil Grant et al. “Cost Reductions in Renewables Can Substantially Erode the Value of Carbon Capture and Storage in Mitigation Pathways,” One Earth 4, no. 11 (November 19, 2021): 1588–1601, https://doi.org/10.1016/j.oneear.2021.10.024."
+  },
+  {
+    "objectID": "2025/readings.html#lecture-1",
+    "href": "2025/readings.html#lecture-1",
+    "title": "Readings",
+    "section": "",
+    "text": "IEA “Net Zero by 2050” (International Energy Agency, 2021), https://www.iea.org/reports/net-zero-by-2050.\nIRENA “Renewable Power Generation Costs in 2021” (Abu Dhabi: International Renewable Energy Agency, July 2021), https://www.irena.org/publications/2022/Jul/Renewable-Power-Generation-Costs-in-2021.\nGang He et al. “Rapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China’s Power System,” Nature Communications 11, no. 1 (May 19, 2020): 2486, https://doi.org/10.1038/s41467-020-16184-x.\nNeil Grant et al. “Cost Reductions in Renewables Can Substantially Erode the Value of Carbon Capture and Storage in Mitigation Pathways,” One Earth 4, no. 11 (November 19, 2021): 1588–1601, https://doi.org/10.1016/j.oneear.2021.10.024."
+  },
+  {
+    "objectID": "2025/readings.html#lecture-2",
+    "href": "2025/readings.html#lecture-2",
+    "title": "Readings",
+    "section": "Lecture 2",
+    "text": "Lecture 2\n\nWeston A Hermann “Quantifying Global Exergy Resources,” Energy 31, no. 12 (2006): 1685–1702, https://www.sciencedirect.com/science/article/abs/pii/S0360544205001805.\nJonathan Koomey et al. “Defining a Standard Metric for Electricity Savings,” Environmental Research Letters 5, no. 1 (2010): 014017, https://iopscience.iop.org/article/10.1088/1748-9326/5/1/014017.\nDavid Fridley et al. “Impacts of China’s 2010 to 2013 Mandatory Product Energy Efficiency Standards: A Retrospective and Prospective Look” (ACEEE, 2016), https://www.aceee.org/files/proceedings/2016/data/papers/5_131.pdf.\nJordan Macknick “Energy and CO2 Emission Data Uncertainties,” Carbon Management 2, no. 2 (April 1, 2011): 189–205, https://doi.org/10.4155/cmt.11.10.\nJames Hansen, Makiko Sato, and Reto Ruedy “Perception of Climate Change,” Proceedings of the National Academy of Sciences 109, no. 37 (September 2012): E2415–23, https://doi.org/10.1073/pnas.1205276109.\nMartin L Weitzman “Gamma Discounting,” American Economic Review 91, no. 1 (2001): 260–71, https://www.aeaweb.org/articles?id=10.1257/aer.91.1.260.\nK. Arrow et al. “Determining Benefits and Costs for Future Generations,” Science 341, no. 6144 (July 26, 2013): 349–50, https://doi.org/10.1126/science.1235665.\nLouis E. Yelle “The Learning Curve: Historical Review and Comprehensive Survey,” Decision Sciences 10, no. 2 (1979): 302–28, https://doi.org/10.1111/j.1540-5915.1979.tb00026.x.\nArnulf Grübler, Nebojša Nakićenović, and David G Victor “Dynamics of Energy Technologies and Global Change,” Energy Policy 27, no. 5 (May 1999): 247–80, https://doi.org/10.1016/S0301-4215(98)00067-6.\nGoksin Kavlak, James McNerney, and Jessika E. Trancik “Evaluating the Causes of Cost Reduction in Photovoltaic Modules,” Energy Policy 123 (December 1, 2018): 700–710, https://doi.org/10.1016/j.enpol.2018.08.015.\nArnulf Grubler “The Costs of the French Nuclear Scale-up: A Case of Negative Learning by Doing,” Energy Policy 38, no. 9 (2010): 5174–88, https://doi.org/10.1016/j.enpol.2010.05.003.\nJohn Helveston, Gang He, and Michael Davidson “Quantifying the Cost Savings of Global Solar Photovoltaic Supply Chains,” Nature 612, no. 7938 (2022): 83–87, https://doi.org/10.1038/s41586-022-05316-6."
+  },
+  {
+    "objectID": "2025/readings.html#lecture-3",
+    "href": "2025/readings.html#lecture-3",
+    "title": "Readings",
+    "section": "Lecture 3",
+    "text": "Lecture 3\n\nIPCC Climate Change 2021: The Physical Science Basis. Contribution of Working Group i to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change, Book, ed. V. Masson-Delmotte et al. (Cambridge, UK; New York, NY, USA: Cambridge University Press, 2021), https://doi.org/10.1017/9781009157896.\nTamma A Carleton and Solomon M Hsiang “Social and Economic Impacts of Climate,” Science 353, no. 6304 (2016): aad9837, https://doi.org/10.1126/science.aad9837.\nJames E. Neumann et al. “Climate Damage Functions for Estimating the Economic Impacts of Climate Change in the United States,” Review of Environmental Economics and Policy 14, no. 1 (January 2020): 25–43, https://doi.org/10.1093/reep/rez021.\nValuing Climate Changes: Updating Estimation of the Social Cost of Carbon Dioxide (Washington, D.C.: National Academies Press, 2017), https://doi.org/10.17226/24651.\nSolomon M. Hsiang, Marshall Burke, and Edward Miguel “Quantifying the Influence of Climate on Human Conflict,” Science, August 2013, https://doi.org/10.1126/science.1235367.\nSeleshi G Yalew et al. “Impacts of Climate Change on Energy Systems in Global and Regional Scenarios,” Nature Energy 5, no. 10 (2020): 794–802, https://doi.org/10.1038/s41560-020-0664-z.\nLaibao Liu et al. “Climate Change Impacts on Planned Supply–Demand Match in Global Wind and Solar Energy Systems,” Nature Energy 8, no. 8 (August 2023): 870–80, https://doi.org/10.1038/s41560-023-01304-w.\nPaul R. Ehrlich and John P. Holdren “Impact of Population Growth: Complacency Concerning This Component of Man’s Predicament Is Unjustified and Counterproductive.” Science 171, no. 3977 (March 1971): 1212–17, https://doi.org/10.1126/science.171.3977.1212.\nYoichi Kaya and Keiichi Yokobori, eds. Environment, Energy, and Economy: Strategies for Sustainable (Tokyo: United Nations Univ, 1997), https://archive.unu.edu/unupress/unupbooks/uu17ee/uu17ee00.htm.\nStephen Pacala and Robert Socolow “Stabilization Wedges: Solving the Climate Problem for the Next 50 Years with Current Technologies,” Science 305, no. 5686 (2004): 968–72, https://doi.org/10.1126/science.1100103.\nKevin Rennert et al. “Comprehensive Evidence Implies a Higher Social Cost of CO2,” Nature, 2022, 1–3, https://doi.org/10.1038/s41586-022-05224-9."
   }
 ]

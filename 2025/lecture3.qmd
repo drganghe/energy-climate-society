@@ -83,6 +83,7 @@ Source: [IPCC](https://archive.ipcc.ch/publications_and_data/ar4/wg1/en/faq-1-3.
 
 ## Greenhouse Gases(GHG){.smaller}
 
+
 | GHG                           | GWP-100   | Lifetime (Years) |
 |-------------------------------|-----------|------------------|
 | Carbon Dioxide (CO2)          | 1         | hundreds         |
@@ -90,11 +91,13 @@ Source: [IPCC](https://archive.ipcc.ch/publications_and_data/ar4/wg1/en/faq-1-3.
 | Nitrous Oxide (N2O)           | 273 ± 130 | 109 ± 10         |
 | Hydrofluorocarbon-32 (HFC-32) | 771 ± 292 | 5.4 ± 1.1        |
 
-Other:  
+:::{style="text-align: center;"}
+Other GHG:  
 
 - Sulphur hexafluoride (SF6) 
 - PFC-14 (CF4) 
 - Water vapour 
+:::
 
 ::: footer
 Source: [Table 7.15](https://report.ipcc.ch/ar6/wg1/IPCC_AR6_WGI_FullReport.pdf) in the IPCC AR6 WG-I Report.
