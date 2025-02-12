@@ -1,10 +1,10 @@
 ---
-title: "Lecture 5 Climate Mitigation"
-description-meta: "Discuss the mitigation of climate change"
+title: "Lecture 4 Climate Mitigation and Adaptation"
+description-meta: "Mitigation and Adaptation of climate change"
 author: "Gang He"
-date: September 14, 2023
+date: February 18, 2025
 date-format: long
-image: "/images/kaya-identity-co2.png"
+image: "/images/3generation-climate-change.png"
 format:
   revealjs:
     theme: white
@@ -45,11 +45,13 @@ Source: [Kimberly A Nicholas](https://www.kimnicholas.com/climate-change-curricu
 
 ## IPAT
 
+:::{style="text-align: center"}
 $I(mpact) = P(opulation) \times A(ffluence) \times T(echnology)$
 
 $I(mpact) = \frac{P(opulation) \times A(ffluence)}{T(echnology)}$
 
 - Technology: renewable energy, energy efficiency, innovations
+:::
 
 ::: footer
 Source: @ehrlich_impact_1971
@@ -93,10 +95,10 @@ Source: @kaya_environment_1997, [Kaya Identity: drivers of CO₂ emissions in th
 
 ## Emissions gap
 
-![](/images/emission-gap-2022.png){fig-align="center"}
+![](/images/emission-gap-2024.png){fig-align="center"}
 
 ::: footer
-Source: UNEP, [Emissions Gap Report 2022](https://wedocs.unep.org/bitstream/handle/20.500.11822/40932/EGR2022_ESEN.pdf)
+Source: UNEP, [Emissions Gap Report 2024](https://www.unep.org/resources/emissions-gap-report-2024)
 :::
 
 
@@ -156,11 +158,11 @@ Source: IPCC, [WG3](https://www.ipcc.ch/report/ar6/wg3/downloads/report/IPCC_AR6
 
 ## Transport emission mitigation
 
-</center>
+:::{style="text-align: center"}
 
 $E = vehicles \times \frac{Miles}{vehicle} \times \frac{gallon}{mile} \times \frac{carbon}{gallon}$
 
-<center>
+:::
 
 
 ## Carbon remove technologies
@@ -220,6 +222,114 @@ Source: @fridley2016impacts
 Source: Read more from RMI [case study](https://rmi.org/wp-content/uploads/2017/04/Buildings_Retrofit_EmpireStateBuilding_CaseStudy_2009.pdf). 
 :::
 
+
+## Risks and resilience
+
+![](/images/risk-and-resilience.png){fig-align="center"}
+
+::: footer
+Source: IPCC, [WG2](https://www.ipcc.ch/report/ar6/wg2/figures/technical-summary/)
+:::
+
+
+## Adaptation options
+
+![](/images/climate-response-adapation-options.png){fig-align="center"}
+
+::: footer
+Source: IPCC, [WG2](https://www.ipcc.ch/report/ar6/wg2/figures/technical-summary/)
+:::
+
+
+## Adaptation potential
+
+![](/images/apaptation-potential.png){fig-align="center"}
+
+::: footer
+Source: IPCC, [WG2](https://www.ipcc.ch/report/ar6/wg2/figures/technical-summary/)
+:::
+
+
+## Ecosystem health
+
+![](/images/ecosystem-health-climate-resilience.png){fig-align="center"}
+
+::: footer
+Source: IPCC, [WG2](https://www.ipcc.ch/report/ar6/wg2/figures/technical-summary/)
+:::
+
+
+## Ecosystem adaptation
+
+![](/images/ecosystem-adaptation.png){fig-align="center"}
+
+::: footer
+Source: IPCC, [WG2](https://www.ipcc.ch/report/ar6/wg2/figures/technical-summary/)
+:::
+
+
+## Food security
+
+![](/images/food-security.png){fig-align="center"}
+
+::: footer
+Source: IPCC, [WG2](https://www.ipcc.ch/report/ar6/wg2/figures/technical-summary/)
+:::
+
+
+## Vulnerable groups
+
+![](/images/vulnerable-groups.png){fig-align="center"}
+
+::: footer
+Source: IPCC, [WG2](https://www.ipcc.ch/report/ar6/wg2/figures/technical-summary/)
+:::
+
+
+## Synthetic adaptation
+
+![](/images/synthesis-adapation.png){fig-align="center"}
+
+::: footer
+Source: IPCC, [WG2](https://www.ipcc.ch/report/ar6/wg2/figures/technical-summary/)
+:::
+
+
+## Steps to resilence
+
+- Understand Exposure
+- Assess Vulnerability & Risk
+- Investigate Options
+- Prioritize & Plan
+- Take Action
+
+::: footer
+More resources: [U.S. Climate Resilience Toolkit](https://toolkit.climate.gov/#steps)
+:::
+
+
+## NYC heat plan case
+
+- Assess climate risks
+- Incoporate climate risks in adaptation and response plan
+- Educate residents on the threats
+- Re-assing vulnerability
+
+What elese can we do?
+
+::: footer
+More resources: [New York City Assesses Extreme Heat Climate Risk](https://www.epa.gov/arc-x/new-york-city-assesses-extreme-heat-climate-risk)
+:::
+
+
+## Mekong River Basin
+
+![](/images/mekong-river-basin-adaptation.png){fig-align="center"}
+
+::: footer
+More resources: UNEP, [Case Studies](https://wedocs.unep.org/handle/20.500.11822/41111;jsessionid=3717F47150FAD2349607FC3904051EB7)
+:::
+
 ------------------------------------------------------------------------
 
 ### References
@@ -228,5 +338,5 @@ Source: Read more from RMI [case study](https://rmi.org/wp-content/uploads/2017/
 :::
 
 ::: footer
-Back to Title [Slide](lecture5.qmd), All [Lectures](schedule.qmd), Course [Home](https://drganghe.github.io/energy-climate-society/), or Learn More About [Gang He](https://drganghe.github.io)
+Back to Title [Slide](lecture4.qmd), All [Lectures](schedule.qmd), Course [Home](https://drganghe.github.io/energy-climate-society/), or Learn More About [Gang He](https://drganghe.github.io)
 :::
