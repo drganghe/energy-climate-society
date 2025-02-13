@@ -17,12 +17,12 @@ repo-actions: false
 | 3    | 2/10 | [Climate fundamentals and impact](lecture3.qmd)  | [Jieru He](https://drganghe.github.io/climate-guest-speakers/speakers/jieru-he/)   |            |
 | 4    | 2/18 | [Climate mitigation and adaptation](/2025/lecture4.qmd)   |       |            |
 | 5    | 2/24 | Energy systems adn energy convertion technologies  |      |            |
-| 6    | 3/3  | Energy demand, energy and economy  |       |            |
+| 6    | 3/3  | Energy demand, energy and economy  | [Dr. Kaihui Song](https://drganghe.github.io/climate-guest-speakers/speakers/kaihui-song/) |            |
 | 7    | 3/10 | Human behavior, culture, and sustainable energy consumption | [Dr. Siobhan Watson](https://drganghe.github.io/climate-guest-speakers/speakers/siobhan-watson/)  |            |
 | 8    | 3/17 | Energy, environment, climate, and human health  |  [Dr. Qian Luo](https://drganghe.github.io/climate-guest-speakers/speakers/qian-luo/)       |            |
 | 9    | 3/24 | Electrification and power systems   |   [Gui Larangeira](https://drganghe.github.io/climate-guest-speakers/speakers/guilherme-larangeira/)   |            |
-| 10   | 3/31 | Energy access, justice, and transition  | [Dr. Kaihui Song](https://drganghe.github.io/climate-guest-speakers/speakers/kaihui-song/)  |            |
-| 11   | 4/7  | Climate negotiation and policy instruments   | [Anthony Cheng](https://drganghe.github.io/climate-guest-speakers/speakers/anthony-cheng/)            |            |
+| 10   | 3/31 |  No Classes Scheduled |  |            |
+| 11   | 4/7  | Energy access, justice, and transition   | [Anthony Cheng](https://drganghe.github.io/climate-guest-speakers/speakers/anthony-cheng/)            |            |
 | 12   | 4/14 | Spring Recess -- No session    |         |            |
 | 13   | 4/21 | Big data and AI for climate change  | [Dr. Malte Toetzke](https://drganghe.github.io/climate-guest-speakers/speakers/malte-toetzke/index.html) |            |
 | 14   | 4/28 | Uncertainties in policy analysis and review and summary     | [Ines Benachir](https://drganghe.github.io/climate-guest-speakers/speakers/ines-benachir/)   |            |
