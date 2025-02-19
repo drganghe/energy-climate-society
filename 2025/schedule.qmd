@@ -15,8 +15,8 @@ repo-actions: false
 | 1    | 1/27 | [Introduction: grand challenges](lecture1.qmd)      |          |            |
 | 2    | 2/3  | [Numbers and project economics](lecture2.qmd)    | [Dr. Josiah Johnston](https://drganghe.github.io/climate-guest-speakers/speakers/josiah-johnston/) |            |
 | 3    | 2/10 | [Climate fundamentals and impact](lecture3.qmd)  | [Jieru He](https://drganghe.github.io/climate-guest-speakers/speakers/jieru-he/)   |            |
-| 4    | 2/18 | [Climate mitigation and adaptation](/2025/lecture4.qmd)   |       |            |
-| 5    | 2/24 | Energy systems adn energy convertion technologies  |      |            |
+| 4    | 2/18 | [Climate mitigation and adaptation](lecture4.qmd)   |       |            |
+| 5    | 2/24 | Energy systems and energy conversion technologies  |      |            |
 | 6    | 3/3  | Energy demand, energy and economy  | [Dr. Kaihui Song](https://drganghe.github.io/climate-guest-speakers/speakers/kaihui-song/) |            |
 | 7    | 3/10 | Human behavior, culture, and sustainable energy consumption | [Dr. Siobhan Watson](https://drganghe.github.io/climate-guest-speakers/speakers/siobhan-watson/)  |            |
 | 8    | 3/17 | Energy, environment, climate, and human health  |  [Dr. Qian Luo](https://drganghe.github.io/climate-guest-speakers/speakers/qian-luo/)       |            |
