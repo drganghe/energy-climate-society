@@ -13,22 +13,22 @@ repo-actions: false
 | Week | Date | Lecture                                                     | Guest Speaker                                                                                            | Assignment |
 | ---- | ---- | -------------------------------------------- | --------------------------------------------------------------------------------- | ---------- |
 | 1    | 1/27 | [Introduction: grand challenges](lecture1.qmd)      |          |            |
-| 2    | 2/3  | [Numbers and project economics](lecture2.qmd)    | [Dr. Josiah Johnston](https://drganghe.github.io/climate-guest-speakers/speakers/josiah-johnston/) |   PS1         |
-| 3    | 2/10 | [Climate fundamentals and impact](lecture3.qmd)  | [Jieru He](https://drganghe.github.io/climate-guest-speakers/speakers/jieru-he/)   |     PS2      |
-| 4    | 2/18 | [Climate mitigation and adaptation](lecture4.qmd)   |       |     PS3       |
+| 2    | 2/3  | [Numbers and project economics](lecture2.qmd)    | [Dr. Josiah Johnston](https://drganghe.github.io/climate-guest-speakers/speakers/josiah-johnston/) |   PR1         |
+| 3    | 2/10 | [Climate fundamentals and impact](lecture3.qmd)  | [Jieru He](https://drganghe.github.io/climate-guest-speakers/speakers/jieru-he/)   |     PR2      |
+| 4    | 2/18 | [Climate mitigation and adaptation](lecture4.qmd)   |       |     PR3       |
 | 5    | 2/24 | [Energy systems and energy conversion technologies](lecture5.qmd)  |      |     [HW1](hw1.qmd)       |
-| 6    | 3/3  | Energy demand, energy and economy  | [Dr. Kaihui Song](https://drganghe.github.io/climate-guest-speakers/speakers/kaihui-song/) |    PS4        |
+| 6    | 3/3  | [Energy demand, energy and economy](lecture6.qmd)  | [Dr. Kaihui Song](https://drganghe.github.io/climate-guest-speakers/speakers/kaihui-song/) |    PR4        |
 | 7    | 3/10 | Human behavior, culture, and sustainable energy consumption | [Dr. Siobhan Watson](https://drganghe.github.io/climate-guest-speakers/speakers/siobhan-watson/)  |     HW2       |
-| 8    | 3/17 | Energy, environment, climate, and human health  |  [Dr. Qian Luo](https://drganghe.github.io/climate-guest-speakers/speakers/qian-luo/)       |    PS5        |
+| 8    | 3/17 | Energy, environment, climate, and human health  |  [Dr. Qian Luo](https://drganghe.github.io/climate-guest-speakers/speakers/qian-luo/)       |    PR5        |
 | 9    | 3/24 | Electrification and power systems   |   [Gui Larangeira](https://drganghe.github.io/climate-guest-speakers/speakers/guilherme-larangeira/)   |     HW3       |
 | 10   | 3/31 |  No Classes Scheduled |  |            |
 | 11   | 4/7  | Energy access, justice, and transition   | [Anthony Cheng](https://drganghe.github.io/climate-guest-speakers/speakers/anthony-cheng/)            |   PS6, PM proposal        |
 | 12   | 4/14 | Spring Recess -- No session    |         |            |
 | 13   | 4/21 | Big data and AI for climate change  | [Dr. Malte Toetzke](https://drganghe.github.io/climate-guest-speakers/speakers/malte-toetzke/index.html) |     HW4       |
-| 14   | 4/28 | Uncertainties in policy analysis and review and summary     | [Ines Benachir](https://drganghe.github.io/climate-guest-speakers/speakers/ines-benachir/)   |      PS7      |
+| 14   | 4/28 | Uncertainties in policy analysis and review and summary     | [Ines Benachir](https://drganghe.github.io/climate-guest-speakers/speakers/ines-benachir/)   |      PR7      |
 | 15   | 5/5  | Presentations     |                    |           |
 | 16   | 5/12 | Policy memo      |              |            |
 
 : {.striped .responsive}
 
-Note: PS--Policy Response, HW--Homework Assignment, PM--Policy Memo 
+Note: PR--Policy Response, HW--Homework Assignment, PM--Policy Memo 
