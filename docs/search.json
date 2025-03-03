@@ -4498,7 +4498,7 @@
     "href": "2025/lecture6.html#sample-analytic-questions",
     "title": "Lecture 6 Energy Demand",
     "section": "Sample analytic questions",
-    "text": "Sample analytic questions\n\nWhat will be the load in the NYISO service area in 2030?\n\nHow EV will change the load?\n\nWhat drives energy demand growth?\n\nHow climate change affects energy demand?\n\nHow to make reasonal assumptions about appliances stock turn over?"
+    "text": "Sample analytic questions\n\nWhat will be the load in the NYISO service area in 2030?\n\nHow emerging trends, such as EV and data centers, will change the load?\n\nWhat drives energy demand growth?\n\nHow climate change affects energy demand?\n\nHow to make reasonal assumptions about appliances stock turn over?"
   },
   {
     "objectID": "2025/lecture6.html#germany-energy-demand",
@@ -4631,6 +4631,34 @@
     "href": "2025/lecture6.html#references",
     "title": "Lecture 6 Energy Demand",
     "section": "",
-    "text": "References\n\n\nBorenstein, Severin. 2015. “A Microeconomic Framework for Evaluating Energy Efficiency Rebound and Some Implications.” The Energy Journal 36 (1). https://doi.org/10.5547/01956574.36.1.1.\n\n\nBrockway, Paul E, Steve Sorrell, Gregor Semieniuk, Matthew Kuperus Heun, and Victor Court. 2021. “Energy Efficiency and Economy-Wide Rebound Effects: A Review of the Evidence and Its Implications.” Renewable and Sustainable Energy Reviews 141: 110781. https://doi.org/10.1016/j.rser.2021.110781.\n\n\nEhrlich, Paul R, and John P Holdren. 1971. “Impact of Population Growth: Complacency Concerning This Component of Man’s Predicament Is Unjustified and Counterproductive.” Science 171 (3977): 1212–17. https://doi.org/10.1097/00006254-197111000-00014.\n\n\nHong, Tao, and Shu Fan. 2016. “Probabilistic Electric Load Forecasting: A Tutorial Review.” International Journal of Forecasting 32 (3): 914–38. https://doi.org/10.1016/j.ijforecast.2015.11.011.\n\n\nIEA. 2021. “Net Zero by 2050.” International Energy Agency. https://www.iea.org/reports/net-zero-by-2050.\n\n\nLin, Jiang, Gang He, and Alexandria Yuan. 2016. “Economic Rebalancing and Electricity Demand in China.” The Electricity Journal 29 (3): 48–54. https://doi.org/10.1016/j.tej.2016.03.010.\n\n\nMeadows, Donella H, Dennis L Meadows, Jørgen Randers, and William W Behrens. 2018. “The Limits to Growth.” In Green Planet Blues, 25–29. Routledge.\n\n\nRao, Narasimha D, and Jihoon Min. 2018. “Decent Living Standards: Material Prerequisites for Human Wellbeing.” Social Indicators Research 138 (1): 225–44. https://doi.org/10.1007/s11205-017-1650-0.\n\n\nSwan, Lukas G., and V. Ismet Ugursal. 2009. “Modeling of End-Use Energy Consumption in the Residential Sector: A Review of Modeling Techniques.” Renewable and Sustainable Energy Reviews 13 (8): 1819–35. https://doi.org/https://doi.org/10.1016/j.rser.2008.09.033.\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He"
+    "text": "References\n\n\nBorenstein, Severin. 2015. “A Microeconomic Framework for Evaluating Energy Efficiency Rebound and Some Implications.” The Energy Journal 36 (1). https://doi.org/10.5547/01956574.36.1.1.\n\n\nBrockway, Paul E, Steve Sorrell, Gregor Semieniuk, Matthew Kuperus Heun, and Victor Court. 2021. “Energy Efficiency and Economy-Wide Rebound Effects: A Review of the Evidence and Its Implications.” Renewable and Sustainable Energy Reviews 141: 110781. https://doi.org/10.1016/j.rser.2021.110781.\n\n\nBuechler, Elizabeth, Siobhan Powell, Tao Sun, Nicolas Astier, Chad Zanocco, Jose Bolorinos, June Flora, Hilary Boudet, and Ram Rajagopal. 2022. “Global Changes in Electricity Consumption During COVID-19.” iScience 25 (1): 103568. https://doi.org/10.1016/j.isci.2021.103568.\n\n\nEhrlich, Paul R, and John P Holdren. 1971. “Impact of Population Growth: Complacency Concerning This Component of Man’s Predicament Is Unjustified and Counterproductive.” Science 171 (3977): 1212–17. https://doi.org/10.1097/00006254-197111000-00014.\n\n\nHong, Tao, and Shu Fan. 2016. “Probabilistic Electric Load Forecasting: A Tutorial Review.” International Journal of Forecasting 32 (3): 914–38. https://doi.org/10.1016/j.ijforecast.2015.11.011.\n\n\nIEA. 2021. “Net Zero by 2050.” International Energy Agency. https://www.iea.org/reports/net-zero-by-2050.\n\n\nLin, Jiang, Gang He, and Alexandria Yuan. 2016. “Economic Rebalancing and Electricity Demand in China.” The Electricity Journal 29 (3): 48–54. https://doi.org/10.1016/j.tej.2016.03.010.\n\n\nMeadows, Donella H, Dennis L Meadows, Jørgen Randers, and William W Behrens. 2018. “The Limits to Growth.” In Green Planet Blues, 25–29. Routledge.\n\n\nRao, Narasimha D, and Jihoon Min. 2018. “Decent Living Standards: Material Prerequisites for Human Wellbeing.” Social Indicators Research 138 (1): 225–44. https://doi.org/10.1007/s11205-017-1650-0.\n\n\nSwan, Lukas G., and V. Ismet Ugursal. 2009. “Modeling of End-Use Energy Consumption in the Residential Sector: A Review of Modeling Techniques.” Renewable and Sustainable Energy Reviews 13 (8): 1819–35. https://doi.org/https://doi.org/10.1016/j.rser.2008.09.033.\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He"
+  },
+  {
+    "objectID": "2025/lecture6.html#decouping-gdp-and-emissions",
+    "href": "2025/lecture6.html#decouping-gdp-and-emissions",
+    "title": "Lecture 6 Energy Demand",
+    "section": "Decouping GDP and emissions",
+    "text": "Decouping GDP and emissions\n\n\nRead more: IEA"
+  },
+  {
+    "objectID": "2025/lecture6.html#covid-19-and-global-electricity-demand",
+    "href": "2025/lecture6.html#covid-19-and-global-electricity-demand",
+    "title": "Lecture 6 Energy Demand",
+    "section": "COVID-19 and global electricity demand",
+    "text": "COVID-19 and global electricity demand\n\n\nSource: Buechler et al. (2022)"
+  },
+  {
+    "objectID": "2025/lecture6.html#data-center-energy-demand",
+    "href": "2025/lecture6.html#data-center-energy-demand",
+    "title": "Lecture 6 Energy Demand",
+    "section": "Data center energy demand",
+    "text": "Data center energy demand\n\n\nRead more: 2024 Report on U.S. Data Center Energy Use"
+  },
+  {
+    "objectID": "2025/lecture6.html#demographic-decline-and-againg",
+    "href": "2025/lecture6.html#demographic-decline-and-againg",
+    "title": "Lecture 6 Energy Demand",
+    "section": "Demographic decline and againg",
+    "text": "Demographic decline and againg\n\n\nSource: International Monetary Fund"
   }
 ]

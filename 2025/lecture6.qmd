@@ -25,7 +25,7 @@ format:
 ## Sample analytic questions
 
 - What will be the load in the NYISO service area in 2030?  
-- How EV will change the load?    
+- How emerging trends, such as EV and data centers, will change the load?    
 - What drives energy demand growth?  
 - How climate change affects energy demand?   
 - How to make reasonal assumptions about appliances stock turn over?  
@@ -33,10 +33,19 @@ format:
 
 ## Germany energy demand 
 
-![](/images/german-gdp-and-energy-1990-2020.png){fig-align="center"}
+![](/images/german-economic-growth-power-and-energy-consumption-ghg-emissions-1990-2023.png){fig-align="center"}
 
 ::: footer
 Read more: [Clean Energy Wire](https://www.cleanenergywire.org/factsheets/germanys-energy-consumption-and-power-mix-charts)
+:::
+
+
+## Decouping GDP and emissions 
+
+![](/images/gdp-co2-emissions.png){fig-align="center"}
+
+::: footer
+Read more: [IEA](hhttps://www.iea.org/commentaries/the-relationship-between-growth-in-gdp-and-co2-has-loosened-it-needs-to-be-cut-completely)
 :::
 
 
@@ -75,6 +84,16 @@ Source: [UN World Population Prospects](https://population.un.org/wpp/Graphs/Dem
 :::
 
 
+##  Demographic decline and againg
+
+![](/images/demographic-decline-and-aging.jpg){fig-align="center"}
+
+::: footer
+Source: [International Monetary Fund](https://www.imf.org/en/Publications/fandd/issues/2024/09/picture-this-demographic-decline-andrew-stanley)
+:::
+
+
+
 ## Economy (GDP)
 
 ![](/images/china-provincial-electricity-gdp.png){fig-align="center"}
@@ -99,6 +118,15 @@ Source: [Our World in Data](https://ourworldindata.org/grapher/energy-intensity?
 Source: [EnerData](https://yearbook.enerdata.net/electricity/share-electricity-final-consumption.html)
 :::
 
+
+## COVID-19 and global electricity demand
+
+![](/images/covid-global-electricity-demand.jpg){fig-align="center"}
+
+::: footer
+Source: @buechlerGlobalChangesElectricity2022
+:::
+
 ## EV and load 
 
 :::columns
@@ -116,6 +144,16 @@ Source: [EnerData](https://yearbook.enerdata.net/electricity/share-electricity-f
 ::: footer
 Source: [McKinsey](https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/the-potential-impact-of-electric-vehicles-on-global-energy-systems)
 :::
+
+
+## Data center energy demand
+
+![](/images/us-data-center-energy-demand.png){fig-align="center"}
+
+::: footer
+Read more: [2024 Report on U.S. Data Center Energy Use](https://eta-publications.lbl.gov/sites/default/files/2024-12/lbnl-2024-united-states-data-center-energy-usage-report.pdf)
+:::
+
 
 ## Energy efficiency - "First Fuel"
 
