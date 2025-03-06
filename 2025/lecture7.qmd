@@ -1,5 +1,5 @@
 ---
-title: "Lecture 8 Energy Efficiency, Behavior, and Sustainable Consumption"
+title: "Lecture 7 Energy Efficiency, Behavior, and Sustainable Consumption"
 description-meta: "Energy Efficiency, Behavior, and Sustainable Consumption"
 author: "Gang He"
 date: March 10, 2025
