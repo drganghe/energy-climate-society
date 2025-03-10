@@ -49,24 +49,25 @@ citations-hover: false
 - @pacala2004stabilization
 - @rennert2022comprehensive
 
-<!--
+
 ## Lecture 4
 
-- @smil2017energy
-- @iea_net_2021
-- @bmwi_electricity_2015
+- @ehrlich_impact_1971
+- @kaya_environment_1997
+- @pacala2004stabilization
+- @fridley2016impacts
+- @masters2013renewable 
+- @bergin2017large
 
 
 ## Lecture 5
 
-- @weitzman2001gamma
-- @arrow_determining_2013
-- @yelle_learning_1979
-- @grubler_dynamics_1999
-- @kavlak_evaluating_2018
-- @Klemun2023Mechanisms
-- @GRUBLER20105174
-- @helveston_he_davidson_2022
+- @smil2017energy 
+- @iea_net_2021
+- @bmwi_electricity_2015
+- @koomey2010defining
+- @liu_climate_2023
+- @chen2023deploying
 
 
 ## Lecture 6
@@ -83,14 +84,12 @@ citations-hover: false
 
 ## Lecture 7
 
-- @masters2013renewable
-- @bergin2017large
-- @chen2023deploying
-- @liu_climate_2023
-- @koomey2010defining
-- @dowling_role_2020
+- @gillingham2009energy
+- @gillingham2013energy
+- @iea_net_2021
+- @thalerNudge2021
 
-
+<!--
 ## Lecture 8
 
 - @gillingham2009energy

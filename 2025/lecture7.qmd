@@ -43,7 +43,7 @@ Read more: Kathryne Cleary and Karen Palmer, [RFF](https://www.rff.org/publicati
 
 ## Energy intensity
 
-![](/images/energy-intensity.png){fig-align="center"}
+![](/images/energy-intensity-1965-2022.svg){fig-align="center"}
 
 ::: footer
 Source: [OurWorldinData](https://ourworldindata.org/grapher/energy-intensity?tab=chart&country=CHE~DEU~CHN~IND~GBR~USA~JPN~OWID_WRL)
