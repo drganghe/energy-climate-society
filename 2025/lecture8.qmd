@@ -56,6 +56,15 @@ Source: IIASA, [Energy Primier](https://previous.iiasa.ac.at/web/home/research/F
 :::
 
 
+## Integrated energy-air-health framework
+
+![](/images/NREL-energy-air-quality-health-framework.jpg){fig-align="center"}
+
+::: footer
+Source: [NREL](https://www.nrel.gov/analysis/air-quality.html) 
+:::
+
+
 ## Example sources of energy related air pollution
 
 ![](/images/energy-related-air-pollution.png){fig-align="center"}
@@ -123,6 +132,26 @@ Source: @iea2016airpollution
 ::: footer
 Source: @lelieveld2015contribution
 :::
+
+
+## Benefits of wind and solar
+
+:::columns
+
+::: {.column width="50%"}
+![](/images/wind-air-benefits.jpg){fig-align="center"}
+:::
+
+::: {.column width="50%"}
+![](/images/wind-solar-benefits.jpg){fig-align="center"}
+:::
+
+:::
+
+::: footer
+Source: @qiuImpactsWindPower2022, @millsteinClimateAirQuality2024
+:::
+
 
 ## Trade, air pollution, and premature mortality
 

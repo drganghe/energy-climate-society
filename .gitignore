@@ -9,6 +9,10 @@
 .quarto
 /.quarto/
 
+# Obsidian
+.obsidian
+/.obsidian/
+
 # Extensions and backups
 _extensions
 _extensions/
