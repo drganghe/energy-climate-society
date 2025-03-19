@@ -20,9 +20,9 @@ repo-actions: false
 | 6    | 3/3  | [Energy demand, energy and economy](lecture6.qmd)  | [Dr. Kaihui Song](https://drganghe.github.io/climate-guest-speakers/speakers/kaihui-song/) |    PR4        |
 | 7    | 3/10 | [Energy Efficiency, Behavior, and Sustainable Consumption](lecture7.qmd) | [Dr. Siobhan Watson](https://drganghe.github.io/climate-guest-speakers/speakers/siobhan-watson/)  |     [HW2](hw2.qmd)       |
 | 8    | 3/17 | [Energy, environment, climate, and human health](lecture8.qmd)  |  [Dr. Qian Luo](https://drganghe.github.io/climate-guest-speakers/speakers/qian-luo/)       |    PR5        |
-| 9    | 3/24 | Electrification and power systems   |   [Gui Larangeira](https://drganghe.github.io/climate-guest-speakers/speakers/guilherme-larangeira/)   |     HW3       |
+| 9    | 3/24 | [Energy and power systems transition](lecture9.qmd)  |   [Gui Larangeira](https://drganghe.github.io/climate-guest-speakers/speakers/guilherme-larangeira/)   |     PR6       |
 | 10   | 3/31 |  R2T4 60% Date for the Session, No Classes Scheduled |  |            |
-| 11   | 4/7  | Energy access, justice, and transition   | [Anthony Cheng](https://drganghe.github.io/climate-guest-speakers/speakers/anthony-cheng/)            |   PR6, PM proposal        |
+| 11   | 4/7  | Energy access, justice, and transition   | [Anthony Cheng](https://drganghe.github.io/climate-guest-speakers/speakers/anthony-cheng/)            |   HW3, PM proposal        |
 | 12   | 4/14 | Spring Recess -- No session    |         |            |
 | 13   | 4/21 | Big data and AI for climate change  | [Dr. Malte Toetzke](https://drganghe.github.io/climate-guest-speakers/speakers/malte-toetzke/index.html) |     HW4       |
 | 14   | 4/28 | Uncertainties in policy analysis and review and summary     | [Ines Benachir](https://drganghe.github.io/climate-guest-speakers/speakers/ines-benachir/)   |      PR7      |
