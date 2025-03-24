@@ -31,18 +31,18 @@ format:
 
 ## Transition history
 
-![](/images/us-energy-transition.png){fig-align="center"}
+![](/images/us-energy-consumption-1776-2023.svg){fig-align="center"}
 
 ::: footer
-Source: [EIA](https://www.eia.gov/todayinenergy/detail.php?id=36612)
+Source: [EIA](https://www.eia.gov/todayinenergy/detail.php?id=62444)
 :::
 
 ## RE > coal: a milestone
 
-![](/images/us-re-coal.svg){fig-align="center"}
+![](/images/us-re-coal-1950-2023.svg){fig-align="center"}
 
 ::: footer
-Source: [EIA](https://www.eia.gov/todayinenergy/detail.php?id=43895)
+Source: [EIA](https://www.eia.gov/todayinenergy/detail.php?id=62444)
 :::
 
 
@@ -207,11 +207,11 @@ Source: @cui2021plant, @he2020enabling
 
 ::: columns
 ::: {.column width="50%"}
-![](/images/brazil-energy-mix.png){fig-align="center"}
+![](/images/brazil-energy-mix-2021.png){fig-align="center"}
 :::
 
 ::: {.column width="50%"}
-![](/images/brazil-power-mix.png){fig-align="center" width="90%"}
+![](/images/brazil-power-mix-2021.png){fig-align="center" width="90%"}
 :::
 
 :::
@@ -228,22 +228,6 @@ Source: [EIA](https://www.eia.gov/international/analysis/country/BRA)
 Source: @mulugetta2022africa
 :::
 
-## Ukraine crisis: an accerlerator?
-
-![](/images/russia-invation-reshape-energy.png){fig-align="center"}
-
-::: footer
-Source: IEA, [World Energy Outlook 2022](https://www.iea.org/reports/world-energy-outlook-2022)
-:::
-
-## Impact to emissions
-
-![](/images/russia-gas-flow-and-emission-impact.png){fig-align="center"}
-
-::: footer
-Source: IEA, [World Energy Outlook 2022](https://www.iea.org/reports/world-energy-outlook-2022)
-:::
-
 
 ## Summary
 
@@ -253,7 +237,7 @@ Source: IEA, [World Energy Outlook 2022](https://www.iea.org/reports/world-energ
 -   Addressing uncertainties: geopolitics, wars, pandemic, and more
 
 
-## Sample analytic questions
+## Sample power system transition analytic questions
 
 -   How much solar and wind capacity need to be built?\
 -   How cost delince of renewables and storage will change the capacity and generation mix of the power sector?\
@@ -281,7 +265,7 @@ Overarching strategy\
 
 ## U.S. electricity flow
 
-![](/images/US-electricity-flow-2021.png){fig-align="center"}
+![](/images/us-electricity-flow-2023.png){fig-align="center"}
 
 ::: footer
 Source: [EIA](https://www.eia.gov/totalenergy/data/flow-graphs/electricity.php)
@@ -329,8 +313,9 @@ Read more: [EIA](https://www.eia.gov/todayinenergy/detail.php?id=7590)
 :::
 
 
-## Power system modeling family {.scrollable .smaller}
+## Power system modeling family
 
+:::{style="font-size: 20px"}
 |     Type    |     Production Cost (Unit Commitment and Dispatch)    |     Network Reliability (AC Power Flow,   Dynamics)    |     Capacity   Expansion          |
 |---|---|---|---|
 |     Generator Adequacy    |     Yes    |     No    |     Often    |
@@ -341,6 +326,7 @@ Read more: [EIA](https://www.eia.gov/todayinenergy/detail.php?id=7590)
 |     Frequency Stability    |     Somewhat    |     Yes    |     No    |
 |     Voltage Stability, Voltage control    |     No    |     Yes    |     No    |
 |     Examples    |     PROMOD,   GE-Maps, PLEXOS, GridView    |     Positive sequence load flow (PSLF),   power system simulator for engineering (PSSE)    |     NEMS, ReEDS, SWITCH, Grid-path, GenX, PyPSA, Haiku    |
+:::
 
 
 ## Capacity expansion models
