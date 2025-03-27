@@ -36,9 +36,9 @@ Accurate load forecasting is essential for power system planning and operation. 
 - We will be focusing on:
 
   - [Day Head Market Load Forcast](OASIS_Day_Ahead_Market_ISO_Load_Forecast.xlsx) (1-hour interval)
-  - [Real_Time_Dispatch_Actual_Load](OASIS_Real_Time_Dispatch_Actual_Load.xlsx) (5-min interval)
+  - [Real Time Dispatch Actual Load](OASIS_Real_Time_Dispatch_Actual_Load.xlsx) (5-min interval)
   
-- Preprocessed dataset: I have cleaned and combined the dataset in R. The [Combined_Load_Forecast_Actual_Data](Combined_Load_Forecast_Actual_Data.csv) file is available for you to use. If you’re interested, you can access the [R code](hw3.R) to replicate or modify the dataset.
+- Preprocessed dataset: I have cleaned and combined the dataset in R. The [Combined Load Forecast Actual Data](Combined_Load_Forecast_Actual_Data.csv) file is available for you to use. If you’re interested, you can access the [R code](hw3.R) to replicate or modify the dataset.
 
 ### Tasks and Questions
 
