@@ -89,6 +89,43 @@ citations-hover: false
 - @iea_net_2021
 - @thalerNudge2021
 
+
+## Lecture 8
+
+- @iea2016airpollution
+- @lelieveld2015contribution
+- @zhang2017transboundary
+- @iea2016energywater
+- @zhang2021long
+- @loveringa2022land
+- @matteNPCC4ClimateChange2024
+- @romanello2024ReportLancet2024
+- @tipaldoFrameworkAgeingHealth2024
+
+
+## Lecture 9
+
+- @lovins_energy_1976
+- @jacobson_low-cost_2015
+- @clack_evaluation_2017
+- @cui2021plant
+- @he2020enabling
+- @wuFewer15Coal2024
+- @masters2013renewable
+- @mulugetta2022africa
+- @johnston2019switch
+- @he_rapid_2020
+
+
+## Lecture 10
+
+- @alstone2015decentralized
+- @He2017efa 
+- @jenkins2016energy
+- @sunter2019disparities
+- @cong2022unveiling
+- @fosterNPCC4AdvancingClimate2024
+
 <!--
 ## Lecture 8
 
