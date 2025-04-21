@@ -1509,7 +1509,7 @@
     "href": "2025/schedule.html",
     "title": "Spring 2025 Course Schedule",
     "section": "",
-    "text": "Readings\n\n\n\n\nWeek\nDate\nLecture\nGuest Speaker\nAssignment\n\n\n\n\n1\n1/27\nIntroduction: grand challenges\n\n\n\n\n2\n2/3\nNumbers and project economics\nDr. Josiah Johnston\nPR1\n\n\n3\n2/10\nClimate fundamentals and impact\nJieru He\nPR2\n\n\n4\n2/18\nClimate mitigation and adaptation\n\nPR3\n\n\n5\n2/24\nEnergy systems and energy conversion technologies\n\nHW1\n\n\n6\n3/3\nEnergy demand, energy and economy\nDr. Kaihui Song\nPR4\n\n\n7\n3/10\nEnergy Efficiency, Behavior, and Sustainable Consumption\nDr. Siobhan Watson\nHW2\n\n\n8\n3/17\nEnergy, environment, climate, and human health\nDr. Qian Luo\nPR5\n\n\n9\n3/24\nEnergy and power systems transition\nGui Larangeira\nPR6\n\n\n10\n3/31\nR2T4 60% Date for the Session, No Classes Scheduled\n\n\n\n\n11\n4/7\nEnergy access and energy justice\nAnthony Cheng\nHW3\n\n\n12\n4/14\nSpring Recess – No session\n\n\n\n\n13\n4/21\nBig data and AI for climate change\nDr. Malte Toetzke\nPM proposal, HW4\n\n\n14\n4/28\nUncertainties in policy analysis and review and summary\nInes Benachir\nPR7\n\n\n15\n5/5\nPresentations\n\n\n\n\n16\n5/12\nPolicy memo\n\n\n\n\n\n\nNote: PR–Policy Response, HW–Homework Assignment, PM–Policy Memo"
+    "text": "Readings\n\n\n\n\nWeek\nDate\nLecture\nGuest Speaker\nAssignment\n\n\n\n\n1\n1/27\nIntroduction: grand challenges\n\n\n\n\n2\n2/3\nNumbers and project economics\nDr. Josiah Johnston\nPR1\n\n\n3\n2/10\nClimate fundamentals and impact\nJieru He\nPR2\n\n\n4\n2/18\nClimate mitigation and adaptation\n\nPR3\n\n\n5\n2/24\nEnergy systems and energy conversion technologies\n\nHW1\n\n\n6\n3/3\nEnergy demand, energy and economy\nDr. Kaihui Song\nPR4\n\n\n7\n3/10\nEnergy Efficiency, Behavior, and Sustainable Consumption\nDr. Siobhan Watson\nHW2\n\n\n8\n3/17\nEnergy, environment, climate, and human health\nDr. Qian Luo\nPR5\n\n\n9\n3/24\nEnergy and power systems transition\nGui Larangeira\nPR6\n\n\n10\n3/31\nR2T4 60% Date for the Session, No Classes Scheduled\n\n\n\n\n11\n4/7\nEnergy access and energy justice\nAnthony Cheng\nHW3\n\n\n12\n4/14\nSpring Recess – No session\n\n\n\n\n13\n4/21\nBig data and AI for climate change\nDr. Malte Toetzke\nPM proposal, HW4\n\n\n14\n4/28\nUncertainties in policy analysis and review and summary\nInes Benachir\n\n\n\n15\n5/5\nPresentations\n\n\n\n\n16\n5/12\nPresentations\n\n\n\n\n17\n5/18\nPolicy memo\n\n\n\n\n\n\nNote: PR–Policy Response, HW–Homework Assignment, PM–Policy Memo"
   },
   {
     "objectID": "2023/lecture9.html#sample-analytic-questions",
@@ -3140,7 +3140,7 @@
     "href": "syllabus.html#grading",
     "title": "Syllabus",
     "section": "Grading",
-    "text": "Grading\nFinal grades will be calculated as follows:\n\n\n\n\n\n\n\n\n\nItem\nWeight\nNotes\n\n\n\n\nWeekly policy response\n30 %\n10 responses\n\n\nAssignments\n20 %\n4 assignments\n\n\nProject: Proposal\n10 %\n\n\n\nProject: Presentation\n20 %\n\n\n\nProject: Policy memo\n20 %"
+    "text": "Grading\nFinal grades will be calculated as follows:\n\n\n\n\n\n\n\n\n\nItem\nWeight\nNotes\n\n\n\n\nWeekly policy response\n30 %\n6 responses\n\n\nAssignments\n20 %\n4 assignments\n\n\nProject: Proposal\n10 %\n\n\n\nProject: Presentation\n20 %\n\n\n\nProject: Policy memo\n20 %"
   },
   {
     "objectID": "syllabus.html#grading-scale",
@@ -5534,7 +5534,7 @@
     "href": "2025/lecture11.html#milestones-in-ai",
     "title": "Lecture 11 AI and Big Data for Energy and Climate",
     "section": "Milestones in AI",
-    "text": "Milestones in AI\n\n\n\n\n\n\n\n\n\nPerspective:\n\nUniverse created:\n\n13.8 billion years ago\n\nEarth created:\n\n4.54 billion years ago\n\nModern human:\n\n300,000 years ago\n\nCivilization:\n\n12,000 years ago\n\nWritten record:\n\n5,000 years ago\n\n\n\n\n\n\n1943: Neural networks\n1957: Perceptron\n1974-86: Backpropagation, RBM, RNN\n1989-98: CNN, MNIST, LSTM, Bidirectional RNN\n2006: “Deep Learning”, DBN\n2009: ImageNet\n2012: AlexNet, Dropout\n2014: GANs\n2014: DeepFace\n2016: AlphaGo\n2017: AlphaZero, Capsule Networks\n2018: AlphaFold 1, BERT\n2021: AlphaFold 2\n2023: ChatGPT\n\n\n\n\nPhoto: NASA; Read more: Wikipedia"
+    "text": "Milestones in AI\n\n\n\n\n\n\n\n\n\nPerspective:\n\nUniverse created:\n\n13.8 billion years ago\n\nEarth created:\n\n4.54 billion years ago\n\nModern human:\n\n300,000 years ago\n\nCivilization:\n\n12,000 years ago\n\nWritten record:\n\n5,000 years ago\n\n\n\n\n\n\n1943: Neural networks\n1957: Perceptron\n1974-86: Backpropagation, RBM, RNN\n1989-98: CNN, MNIST, LSTM, Bidirectional RNN\n2006: “Deep Learning”, DBN\n2009: ImageNet\n2012: AlexNet, Dropout\n2014: GANs\n2014: DeepFace\n2016: AlphaGo\n2017: AlphaZero, Capsule Networks\n2018: AlphaFold 1, BERT\n2021: AlphaFold 2\n2023: ChatGPT\n2024: Deepseek\n2025: Gemini Deep Research\n\n\n\n\nPhoto: NASA; Read more: Wikipedia"
   },
   {
     "objectID": "2025/lecture11.html#aartifitial-intelligence-machine-learning-and-deep-learning",
@@ -5668,5 +5668,12 @@
     "title": "Lecture 11 AI and Big Data for Energy and Climate",
     "section": "More AI, More Data, More Energy",
     "text": "More AI, More Data, More Energy\n\n\nSource: IEA, Energy and AI"
+  },
+  {
+    "objectID": "2025/readings.html#lecture-11",
+    "href": "2025/readings.html#lecture-11",
+    "title": "Readings",
+    "section": "Lecture 11",
+    "text": "Lecture 11\n\nMekyung Lee and Gang He “An Empirical Analysis of Applications of Artificial Intelligence Algorithms in Wind Power Technology Innovation During 1980–2017,” Journal of Cleaner Production 297 (2021): 126536, https://doi.org/10.1016/j.jclepro.2021.126536.\nJiafan Yu et al. “DeepSolar: A Machine Learning Framework to Efficiently Construct a Solar Deployment Database in the United States,” Joule 2, no. 12 (2018): 2605–17, https://doi.org/10.1016/j.joule.2018.11.021.\nL Kruitwagen et al. “A Global Inventory of Photovoltaic Solar Energy Generating Units,” Nature 598, no. 7882 (2021): 604–10, https://doi.org/10.1038/s41586-021-03957-7.\nNathan Ratledge et al. “Using Machine Learning to Assess the Livelihood Impact of Electricity Access,” Nature 611, no. 7936 (2022): 491–95, https://doi.org/10.1038/s41586-022-05322-8.\nDavid Rolnick et al. “Tackling Climate Change with Machine Learning,” ACM Computing Surveys (CSUR) 55, no. 2 (2022): 1–96, https://doi.org/10.1145/3485128.\nLynn H Kaack et al. “Aligning Artificial Intelligence with Climate Change Mitigation,” Nature Climate Change, 2022, 1–10, https://doi.org/10.1038/s41558-022-01377-7."
   }
 ]

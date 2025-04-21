@@ -126,6 +126,17 @@ citations-hover: false
 - @cong2022unveiling
 - @fosterNPCC4AdvancingClimate2024
 
+
+## Lecture 11
+
+- @lee2021empirical
+- @yu2018deepsolar
+- @kruitwagen2021global
+- @ratledge2022using
+- @rolnick2022tackling
+- @kaack2022aligning
+
+
 <!--
 ## Lecture 8
 

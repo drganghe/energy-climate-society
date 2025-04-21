@@ -74,7 +74,7 @@ Read more: [Andrew Ng: Why AI Is the New Electricity](https://www.gsb.stanford.e
 :::
 
 :::{.column width="30%"}
-::: {.r-fit-text}
+::: {style="font-size: 18pt;"}
 Perspective:   
 
 - Universe created:    
@@ -101,7 +101,7 @@ Perspective:
 :::
 
 :::{.column width="40%"}
-::: {.r-fit-text}
+::: {style="font-size: 14pt;"}
 - 1943: Neural networks
 - 1957: Perceptron
 - 1974-86: Backpropagation, RBM, RNN
@@ -116,6 +116,8 @@ Perspective:
 - 2018: AlphaFold 1, BERT
 - 2021: AlphaFold 2
 - 2023: ChatGPT
+- 2024: Deepseek
+- 2025: Gemini Deep Research 
 :::
 :::
 
@@ -142,6 +144,7 @@ Read more: @lee2021empirical
 ::: footer
 Read more: @lee2021empirical
 :::
+
 
 ## How AI has transformed our society
 
@@ -230,6 +233,7 @@ Read more: [Deepmind](https://deepmind.com/blog/deepmind-ai-reduces-google-data-
 Source: @kruitwagen2021global
 :::
 
+
 ## Machine learning for electricity access
 
 ![](/images/electrification-asset-wealth.webp){fig-align="center"}
@@ -274,6 +278,7 @@ Source: LBL, [2024 Report on U.S. Data Center Energy Use](https://eta-publicatio
 Source: IEA, [Energy and AI](https://iea.blob.core.windows.net/assets/86ed1178-4d77-45ac-ab38-28e849f3b93f/EnergyandAI.pdf)
 :::
 
+
 ## AI ethics: why?
 
 - Biases  
@@ -285,6 +290,7 @@ Source: IEA, [Energy and AI](https://iea.blob.core.windows.net/assets/86ed1178-4
 ::: footer
 Read more: [Wikipedia](https://en.wikipedia.org/wiki/Ethics_of_artificial_intelligence), [AI Ethics: What It Is And Why It Matters](https://www.forbes.com/sites/nishatalagala/2022/05/31/ai-ethics-what-it-is-and-why-it-matters)
 :::
+
 
 ## AI ethics: principles{.smaller}
 
@@ -299,10 +305,10 @@ Read more: [Wikipedia](https://en.wikipedia.org/wiki/Ethics_of_artificial_intell
 - Awareness and literacy  
 - Multi-stakeholder and adaptive governance and colloboration  
 
-
 ::: footer
 Read more: [UNESCO](https://unesdoc.unesco.org/ark:/48223/pf0000381137)
 :::
+
 
 ## AI ethics: how?
 
@@ -315,6 +321,7 @@ Read more: [UNESCO](https://unesdoc.unesco.org/ark:/48223/pf0000381137)
 ::: footer
 Read more: [UNESCO](https://unesdoc.unesco.org/ark:/48223/pf0000381137), [IEEE Ethics in Action](https://ethicsinaction.ieee.org/)
 :::
+
 
 ## Summary
 
@@ -330,6 +337,5 @@ Read more: [UNESCO](https://unesdoc.unesco.org/ark:/48223/pf0000381137), [IEEE E
 ::: {#refs}
 :::
 
-::: footer
-Back to Title [Slide](#/title), All [Lectures](schedule.qmd), Course [Home](../index.qmd), or Learn More About [Gang He](https://drganghe.github.io)
-:::
+
+{{< include /files/includes/_lastslidefooter.qmd >}}
