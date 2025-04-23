@@ -1,8 +1,8 @@
 ---
-title: "Lecture 13 Policy Analysis Uncertainties, Review and Summary"
+title: "Lecture 12 Policy Analysis Uncertainties, Review and Summary"
 description-meta: "Addressing policy uncertainties, review and summary of the class"
 author: "Gang He"
-date: December 2, 2024
+date: April 28, 2025
 date-format: long
 image: "/images/ipcc-re-costs.png"
 format:
@@ -18,13 +18,13 @@ format:
     center: true
     scrollable: true
     css: /custom.css
-    footer: <https://drganghe.github.io/energy-climate-policy/>
+    footer: <https://drganghe.github.io/energy-climate-society/>
 #draft: true
 ---
 
 ## Sample analytic questions
 
--   How do I know if I should trust modeling results?\
+-   How do I know if I should trust policy analysis results?\
 -   What are the methods to address uncertainties?\
 -   What are the emerging topics to improve modeling analysis?\
 -   How to interpret modeling results to communicate effectively?\
@@ -380,7 +380,7 @@ And:
 :::
 
 ::: footer
-Source: @kaya_environment_1808, [Kaya Identity: drivers of CO₂ emissions in the World](https://ourworldindata.org/grapher/kaya-identity-co2)
+Source: @kaya_environment_1997, [Kaya Identity: drivers of CO₂ emissions in the World](https://ourworldindata.org/grapher/kaya-identity-co2)
 :::
 
 
@@ -622,6 +622,4 @@ Source: [TVA](https://www.tva.com/energy/our-power-system/hydroelectric/how-hydr
 ::: {#refs}
 :::
 
-::: footer
-Back to Title [Slide](lecture13.qmd), All [Lectures](schedule.qmd), Course [Home](https://drganghe.github.io/energy-climate-policy/), or Learn More About [Gang He](https://drganghe.github.io)
-:::
+{{< include /files/includes/_lastslidefooter.qmd >}}
