@@ -132,7 +132,7 @@ Students will learn:
 ## References
 
 - [C-ROADS Climate Change Policy Simulator](https://c-roads.climateinteractive.org/scenario.html)
-- @stermanWORLDCLIMATERolePlay2015a
+- @stermanWORLDCLIMATERolePlay2015
 
 
 <!--Include social share buttons-->

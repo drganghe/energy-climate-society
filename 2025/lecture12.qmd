@@ -251,7 +251,9 @@ Read more: @saltelli2020five
 
 ## Review and summary
 
+:::{style="text-align: center;"}
 What have we talked and learned?
+:::
 
 
 ## Energy grand challenges: net-zero

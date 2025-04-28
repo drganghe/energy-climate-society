@@ -16,19 +16,19 @@ repo-actions: false
 | 2    | 2/3  | [Numbers and project economics](lecture2.qmd)    | [Dr. Josiah Johnston](https://drganghe.github.io/climate-guest-speakers/speakers/josiah-johnston/) |   PR1         |
 | 3    | 2/10 | [Climate fundamentals and impact](lecture3.qmd)  | [Jieru He](https://drganghe.github.io/climate-guest-speakers/speakers/jieru-he/)   |     PR2      |
 | 4    | 2/18 | [Climate mitigation and adaptation](lecture4.qmd)   |       |     PR3       |
-| 5    | 2/24 | [Energy systems and energy conversion technologies](lecture5.qmd)  |      |     [HW1](hw1.qmd)       |
+| 5    | 2/24 | [Energy systems and energy conversion technologies](lecture5.qmd)  |      |     HW1      |
 | 6    | 3/3  | [Energy demand, energy and economy](lecture6.qmd)  | [Dr. Kaihui Song](https://drganghe.github.io/climate-guest-speakers/speakers/kaihui-song/) |    PR4        |
-| 7    | 3/10 | [Energy Efficiency, Behavior, and Sustainable Consumption](lecture7.qmd) | [Dr. Siobhan Watson](https://drganghe.github.io/climate-guest-speakers/speakers/siobhan-watson/)  |     [HW2](hw2.qmd)       |
+| 7    | 3/10 | [Energy Efficiency, Behavior, and Sustainable Consumption](lecture7.qmd) | [Dr. Siobhan Watson](https://drganghe.github.io/climate-guest-speakers/speakers/siobhan-watson/)  |     HW2       |
 | 8    | 3/17 | [Energy, environment, climate, and human health](lecture8.qmd)  |  [Dr. Qian Luo](https://drganghe.github.io/climate-guest-speakers/speakers/qian-luo/)       |    PR5   |
 | 9    | 3/24 | [Energy and power systems transition](lecture9.qmd)  |   [Gui Larangeira](https://drganghe.github.io/climate-guest-speakers/speakers/guilherme-larangeira/)   |     PR6       |
 | 10   | 3/31 |  R2T4 60% Date for the Session, No Classes Scheduled |  |            |
-| 11   | 4/7  | [Energy access and energy justice](lecture10.qmd)   | [Anthony Cheng](https://drganghe.github.io/climate-guest-speakers/speakers/anthony-cheng/)            |   [HW3](hw3.qmd)  |
+| 11   | 4/7  | [Energy access and energy justice](lecture10.qmd)   | [Anthony Cheng](https://drganghe.github.io/climate-guest-speakers/speakers/anthony-cheng/)            |   HW3  |
 | 12   | 4/14 | Spring Recess -- No session    |         |            |
 | 13   | 4/21 | [Big data and AI for climate change](lecture11.qmd)  | [Dr. Malte Toetzke](https://drganghe.github.io/climate-guest-speakers/speakers/malte-toetzke/index.html) |   PM proposal, HW4   |
 | 14   | 4/28 | [Uncertainties in policy analysis and review and summary](lecture12.qmd)     | [Ines Benachir](https://drganghe.github.io/climate-guest-speakers/speakers/ines-benachir/)   |         |
 | 15   | 5/5  | Presentations     |                    |           |
 | 16   | 5/12 | Presentations      |              |            |
-| 17   | 5/18 | Policy memo      |              |            |
+| 17   | 5/18 |  [Student Projects](students.qmd)    |              |     Policy memo        |
 
 : {.striped .responsive}
 

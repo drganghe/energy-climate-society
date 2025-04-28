@@ -7,18 +7,19 @@ repo-actions: false
 
 | Week | Tuesday  | Thursday  | Assignment     |
 |-----------------|-----------------|---------------------|-----------------|
-| 1    | 8/29, [Introduction](lecture1.qmd) |8/31, [Make sense of numbers](lecture2.qmd) | [HW1](hw1.qmd) assigned |
+| 1    | 8/29, [Introduction](lecture1.qmd) |8/31, [Make sense of numbers](lecture2.qmd) | HW1 assigned |
 | 2    | 9/5, [Climate foudamentals](lecture3.qmd) | 9/7, [Climate impacts](lecture4.qmd)| |
 | 3    | 9/12, [Tool: Social cost of carbon](1scc.qmd) | 9/14, [Climate mitigation](lecture5.qmd)| |
 | 4    | 9/19, [Climate adaptation](lecture6.qmd) | 9/21, [Energy systems](lecture7.qmd)| |
-| 5    | 9/26, [Energy project economics](lecture8.qmd) | 9/28, [Fossil technologies](lecture9.qmd) | [HW2](hw2.qmd) assigned |
+| 5    | 9/26, [Energy project economics](lecture8.qmd) | 9/28, [Fossil technologies](lecture9.qmd) | HW2 assigned |
 | 6    | 10/3, [Solar technologies](lecture10.qmd) | 10/5, [Wind technologies](lecture11.qmd) |  |
 | 7    | 10/10, Monday schedule - No session | 10/12, [Tool: Solar wind assessment](2sam.qmd)| |
-| 8    | 10/17, [Nuclear, hydro, and other](lecture12.qmd) | 10/19, [Energy demand](lecture13.qmd) |[HW3](hw3.qmd) assigned |
+| 8    | 10/17, [Nuclear, hydro, and other](lecture12.qmd) | 10/19, [Energy demand](lecture13.qmd) | HW3 assigned |
 | 9    | 10/24, [Energy efficiency](lecture14.qmd) | 10/26, [Energy access](lecture15.qmd) |  |
 | 10    | 10/31, [Energy, environment, health](lecture16.qmd) | 11/2, [Energy transition](lecture17.qmd) |  |
-| 11    | 11/7, [Tool: Pathways to net-zero](3pathway.qmd) | 11/9, [Power systems](lecture18.qmd) | [HW4](hw4.qmd) assigned |
+| 11    | 11/7, [Tool: Pathways to net-zero](3pathway.qmd) | 11/9, [Power systems](lecture18.qmd) | HW4 assigned |
 | 12    | 11/14, [Big data and AI](lecture19.qmd) | 11/16, [Life cycle analysis](lecture20.qmd) |  |
 | 13    | 11/21, [Tool: Life cycle analysis](4lca.qmd) | Thanksgiving - No session |  |
 | 14    | 11/28, [Uncertainties and limitations](lecture21.qmd) | 11/30, [Review and summary](lecture22.qmd) |  |
-| 15    | 12/5, Presentation | 12/7, Presentation | Policy memo |
+| 15    | 12/5, Presentation | 12/7, Presentation | Presentation |
+| 16    | 12/12, [Student Projects](students.qmd) | |Policy memo |

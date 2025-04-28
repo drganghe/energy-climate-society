@@ -1,0 +1,88 @@
+    - path: https://newscenter.baruch.cuny.edu/news/baruch-college-student-wins-fellowship-to-germany/
+      image: https://newscenter.baruch.cuny.edu/wp-content/uploads/sites/24/2024/04/Valerie-Chlafer_2024-CBYX-Fellowship.gif
+      title: "Valerie Chlafer Wins Fellowship to Germany"
+      description: "Valerie Chlafer, a public affairs major and an aspiring Foreign Service Officer, is the fifth Baruch undergraduate to be chosen for U.S. State Department’s Congress-Bundestag Youth Exchange for Young Professionals program."
+      date: "2024-04-02"
+      categories: [story] 
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Rettik A."
+      project: "Feasibility of Achieving the Ambitious Goals by Local Law 97"
+#      author: 
+#      subtitle: ""
+      semester: "Fall 2023"
+      categories: [project] 
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Valerie C."
+      project: "United Mass Transit"
+#      author: 
+#      subtitle: ""
+      semester: "Fall 2023"
+      categories: [project]       
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Massimiliano D."
+      project: "Introducing a Ban on Hydrolic Fracking"
+#      author: 
+#      subtitle: ""
+      semester: "Fall 2023"
+      categories: [project] 
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Isil K."
+      project: "Memo on NYC Transit Policy"
+#      author: 
+#      subtitle: ""
+      semester: "Fall 2023"
+      categories: [project] 
+
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Kyaw K."
+      project: "Alliance for Climate Education"
+#      author: 
+#      subtitle: ""
+      semester: "Fall 2023"
+      categories: [project] 
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Selena M."
+      project: "Reinventing the Daylight-Saving Time"
+#      author: 
+#      subtitle: ""
+      semester: "Fall 2023"
+      categories: [project] 
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Doreen M."
+      project: "War, Conflict, and the Environmental Justice"
+#      author: 
+#      subtitle: ""
+      semester: "Fall 2023"
+      categories: [project] 
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Ngawang N."
+      project: "Environmental Friendly Transportation"
+#      author: 
+#      subtitle: ""
+      semester: "Fall 2023"
+      categories: [project] 
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Justin W."
+      project: "Memo on USDA to Address Food Waste"
+#      author: 
+#      subtitle: ""
+      semester: "Fall 2023"
+      categories: [project] 
