@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Tools of the Trade: Solar Wind Assessment – Energy, Climate, and Society</title>
+<title>Tools of the Trade: Life Cycle Analysis – Energy, Climate, and Society</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -80,12 +80,18 @@ gtag('config', 'G-9ZBRZBEKDN', { 'anonymize_ip': true});
 
 
 <link rel="stylesheet" href="../styles.css">
-<meta property="og:title" content="Tools of the Trade: Solar Wind Assessment – Energy, Climate, and Society">
+<meta property="og:title" content="Tools of the Trade: Life Cycle Analysis – Energy, Climate, and Society">
 <meta property="og:description" content="Energy, Climate, and Society, an undergraduate level energy and climate topic open course developed by Dr.&nbsp;Gang He.">
+<meta property="og:image" content="https://drganghe.github.io/energy-climate-society/images/Lifecycle-of-real-fake-tree.png">
 <meta property="og:site_name" content="Energy, Climate, and Society">
-<meta name="twitter:title" content="Tools of the Trade: Solar Wind Assessment – Energy, Climate, and Society">
+<meta property="og:image:height" content="540">
+<meta property="og:image:width" content="706">
+<meta name="twitter:title" content="Tools of the Trade: Life Cycle Analysis – Energy, Climate, and Society">
 <meta name="twitter:description" content="Energy, Climate, and Society, an undergraduate level energy and climate topic open course developed by Dr.&nbsp;Gang He.">
-<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://drganghe.github.io/energy-climate-society/images/Lifecycle-of-real-fake-tree.png">
+<meta name="twitter:image-height" content="540">
+<meta name="twitter:image-width" content="706">
+<meta name="twitter:card" content="summary_large_image">
 </head>
 
 <body class="nav-fixed quarto-light">
@@ -183,23 +189,20 @@ gtag('config', 'G-9ZBRZBEKDN', { 'anonymize_ip': true});
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#nrel-sam-model" id="toc-nrel-sam-model" class="nav-link active" data-scroll-target="#nrel-sam-model">NREL SAM model</a></li>
-  <li><a href="#technologies" id="toc-technologies" class="nav-link" data-scroll-target="#technologies">Technologies</a>
-  <ul class="collapse">
-  <li><a href="#solar-simulation" id="toc-solar-simulation" class="nav-link" data-scroll-target="#solar-simulation">Solar simulation</a></li>
-  <li><a href="#wind-simulation" id="toc-wind-simulation" class="nav-link" data-scroll-target="#wind-simulation">Wind simulation</a></li>
-  </ul></li>
-  <li><a href="#bulk-simulation" id="toc-bulk-simulation" class="nav-link" data-scroll-target="#bulk-simulation">Bulk simulation</a></li>
+  <li><a href="#lca-tools" id="toc-lca-tools" class="nav-link active" data-scroll-target="#lca-tools">LCA Tools</a></li>
+  <li><a href="#openlca" id="toc-openlca" class="nav-link" data-scroll-target="#openlca">OpenLCA</a></li>
+  <li><a href="#database" id="toc-database" class="nav-link" data-scroll-target="#database">Database</a></li>
+  <li><a href="#case-study" id="toc-case-study" class="nav-link" data-scroll-target="#case-study">Case study</a></li>
   <li><a href="#further-readings" id="toc-further-readings" class="nav-link" data-scroll-target="#further-readings">Further readings</a></li>
   </ul>
-<div class="toc-actions"><ul><li><a href="https://github.com/drganghe/energy-climate-society/edit/main/2023/2sam.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/drganghe/energy-climate-society/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li><li><a href="https://github.com/drganghe/energy-climate-society/blob/main/2023/2sam.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li></ul></div><div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="2sam.pdf"><i class="bi bi-file-pdf"></i>PDF</a></li></ul></div></nav>
+<div class="toc-actions"><ul><li><a href="https://github.com/drganghe/energy-climate-society/edit/main/tools/4lca.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/drganghe/energy-climate-society/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li><li><a href="https://github.com/drganghe/energy-climate-society/blob/main/tools/4lca.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li></ul></div><div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="4lca.pdf"><i class="bi bi-file-pdf"></i>PDF</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Tools of the Trade: Solar Wind Assessment</h1>
+<h1 class="title">Tools of the Trade: Life Cycle Analysis</h1>
 </div>
 
 
@@ -216,80 +219,79 @@ gtag('config', 'G-9ZBRZBEKDN', { 'anonymize_ip': true});
 </header>
 
 
-<section id="nrel-sam-model" class="level2">
-<h2 class="anchored" data-anchor-id="nrel-sam-model">NREL SAM model</h2>
-<p>“The System Advisor Model (SAM) is a free techno-economic software model that facilitates decision-making for people in the renewable energy industry.”<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a></p>
-<p>Read the model description and instruction: <a href="https://samrepo.nrelcloud.org/help/index.html" class="uri">https://samrepo.nrelcloud.org/help/index.html</a></p>
-<p>Download and install the current version. It’s free, however, you need register to receive a key by email to use the software.</p>
-</section>
-<section id="technologies" class="level2">
-<h2 class="anchored" data-anchor-id="technologies">Technologies</h2>
-<p>The current version of SAM includes performance models for the following technologies:</p>
+<section id="lca-tools" class="level2">
+<h2 class="anchored" data-anchor-id="lca-tools">LCA Tools</h2>
 <ul>
-<li><p>PV</p></li>
-<li><p>Battery storage</p></li>
-<li><p>Wind</p></li>
-<li><p>Concentrating Solar Power (CSP)</p></li>
-<li><p>Solar water heating</p></li>
-<li><p>Industrial process heat</p></li>
-<li><p>Fuel Cells</p></li>
-<li><p>Biomass combustion</p></li>
-<li><p>Geothermal power</p></li>
+<li><a href="http://www.openlca.org">openLCA</a><br>
+</li>
+<li><a href="http://ecochain.com/mobius">Ecochain Mobius</a><br>
+</li>
+<li><a href="http://ecochain.com/helix">Ecochain Helix</a><br>
+</li>
+<li><a href="http://www.gabi-software.com">Gabi</a><br>
+</li>
+<li><a href="http://www.oneclicklca.com/">Oneclicklca</a><br>
+</li>
+<li><a href="http://www.simapro.com">SimaProv</a></li>
 </ul>
-<section id="solar-simulation" class="level3">
-<h3 class="anchored" data-anchor-id="solar-simulation">Solar simulation</h3>
+<p>Source: <a href="https://ecochain.com/blog/life-cycle-assessment-software-overview-comparison/">EcoChain</a></p>
+</section>
+<section id="openlca" class="level2">
+<h2 class="anchored" data-anchor-id="openlca">OpenLCA</h2>
+<blockquote class="blockquote">
+<p>openLCA is an open source and free software for Sustainability and Life Cycle Assessment, with the following features:</p>
+</blockquote>
 <ul>
-<li><p>Location and resources</p></li>
-<li><p>Module</p></li>
-<li><p>Inverter</p></li>
-<li><p>System design</p></li>
-<li><p>Shading and snow</p></li>
-<li><p>Losses</p></li>
-<li><p>Lifetime</p></li>
-<li><p>Battery</p></li>
-<li><p>System costs</p></li>
-<li><p>Financial Incentives</p></li>
-<li><p>Rates</p></li>
-<li><p>Load</p></li>
+<li>Fast and reliable calculation of your Sustainability Assessment and/or Life Cycle Assessment</li>
+<li>Very detailed insights into calculation and analysis results; identify main drivers throughout the life cycle, by process, flow or impact category, visualize results and locate them on a map</li>
+<li>Best in class import and export capabilities; easy to share your models</li>
+<li>Life Cycle Costing and social assessment smoothly integrated in the life cycle model</li>
+<li>User-friendly; user interface in a variety of languages; advanced and efficient repository and collaboration feature (currently developed)</li>
+<li>Continuous improvement and implementation of new features</li>
 </ul>
+<p>Source: <a href="https://www.openlca.org/" class="uri">https://www.openlca.org/</a></p>
 </section>
-<section id="wind-simulation" class="level3">
-<h3 class="anchored" data-anchor-id="wind-simulation">Wind simulation</h3>
+<section id="database" class="level2">
+<h2 class="anchored" data-anchor-id="database">Database</h2>
 <ul>
-<li><p>Wind resource: NY</p></li>
-<li><p>Wind turbine</p></li>
-<li><p>Wind farm</p></li>
-<li><p>System costs</p></li>
-<li><p>Lifetime</p></li>
-<li><p>Financial</p></li>
-<li><p>Incentives</p></li>
-<li><p>Rates</p></li>
-<li><p>Load</p></li>
+<li>ecoinvest<br>
+</li>
+<li>FLEX</li>
+<li>ELCD<br>
+</li>
+<li><a href="https://www.nrel.gov/lci/">USLCI</a></li>
+<li><a href="https://www.lcacommons.gov/lca-collaboration/">Federal LCA Commons</a></li>
 </ul>
+<p>Check more information at <a href="https://nexus.openlca.org/">openLCA Nexus</a></p>
 </section>
-</section>
-<section id="bulk-simulation" class="level2">
-<h2 class="anchored" data-anchor-id="bulk-simulation">Bulk simulation</h2>
-<p>SAM offers some code-based simulation in the samples: <a href="https://github.com/NREL/pysam/blob/main/Examples/PySAMWorkshop.ipynb" class="uri">https://github.com/NREL/pysam/blob/main/Examples/PySAMWorkshop.ipynb</a></p>
-<p>If you want to learn more about how to write pySAM: <a href="https://sam.nrel.gov/software-development-kit-sdk/pysam.html" class="uri">https://sam.nrel.gov/software-development-kit-sdk/pysam.html</a></p>
-<p>Understand the weather file: <a href="https://sam.nrel.gov/weather-data.html" class="uri">https://sam.nrel.gov/weather-data.html</a></p>
+<section id="case-study" class="level2">
+<h2 class="anchored" data-anchor-id="case-study">Case study</h2>
+<ul>
+<li>PET and PC bottle
+<ul>
+<li>Project<br>
+</li>
+<li>Process<br>
+</li>
+<li>Flow</li>
+</ul></li>
+<li>Change parameters<br>
+</li>
+<li>Add new process and flow<br>
+</li>
+<li>Start a new project</li>
+</ul>
 </section>
 <section id="further-readings" class="level2">
 <h2 class="anchored" data-anchor-id="further-readings">Further readings</h2>
 <ul>
-<li>U.S. Department of Energy. 2022. <a href="https://www.energy.gov/sites/default/files/2022-03/Renewable%20Energy%20Resource%20Assessment%20Information%20for%20the%20United%20States.pdf">Renewable Energy Resource Assessment Information for the United States</a>.</li>
+<li><a href="https://www.openlca.org/">openLCA</a></li>
 </ul>
 
 
 </section>
 
-
-<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
-
-<ol>
-<li id="fn1"><p>NREL, https://sam.nrel.gov/<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-</ol>
-</section></div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
@@ -703,7 +705,7 @@ gtag('config', 'G-9ZBRZBEKDN', { 'anonymize_ip': true});
 </div>   
     <div class="nav-footer-center">
       &nbsp;
-    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/drganghe/energy-climate-society/edit/main/2023/2sam.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/drganghe/energy-climate-society/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li><li><a href="https://github.com/drganghe/energy-climate-society/blob/main/2023/2sam.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li></ul></div></div>
+    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/drganghe/energy-climate-society/edit/main/tools/4lca.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/drganghe/energy-climate-society/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li><li><a href="https://github.com/drganghe/energy-climate-society/blob/main/tools/4lca.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li></ul></div></div>
     <div class="nav-footer-right">
       <ul class="footer-items list-unstyled">
     <li class="nav-item compact">

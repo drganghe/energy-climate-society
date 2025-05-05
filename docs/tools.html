@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Tools of the Trade: Solar Wind Assessment – Energy, Climate, and Society</title>
+<title>Tools of the Trade – Energy, Climate, and Society</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,25 +23,27 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../site_libs/quarto-nav/headroom.min.js"></script>
-<script src="../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../">
-<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="../site_libs/quarto-html/popper.min.js"></script>
-<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7b4406b7675125bc2ba204020e191172.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-02caa798fa7aa68ffffba7ba840ce97b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
-<link href="../site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
-<link href="../site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
+<script src="site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b4406b7675125bc2ba204020e191172.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap-02caa798fa7aa68ffffba7ba840ce97b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -68,6 +70,35 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-tools .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-image','listing-title',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-tools'] = new List('listing-tools', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-9ZBRZBEKDN"></script>
 
 <script type="text/javascript">
@@ -78,14 +109,47 @@ gtag('js', new Date());
 gtag('config', 'G-9ZBRZBEKDN', { 'anonymize_ip': true});
 </script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<link rel="stylesheet" href="../styles.css">
-<meta property="og:title" content="Tools of the Trade: Solar Wind Assessment – Energy, Climate, and Society">
-<meta property="og:description" content="Energy, Climate, and Society, an undergraduate level energy and climate topic open course developed by Dr.&nbsp;Gang He.">
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<link rel="stylesheet" href="styles.css">
+<meta property="og:title" content="Tools of the Trade – Energy, Climate, and Society">
+<meta property="og:image" content="https://drganghe.github.io/energy-climate-society/images/iea-net-zero.png">
 <meta property="og:site_name" content="Energy, Climate, and Society">
-<meta name="twitter:title" content="Tools of the Trade: Solar Wind Assessment – Energy, Climate, and Society">
-<meta name="twitter:description" content="Energy, Climate, and Society, an undergraduate level energy and climate topic open course developed by Dr.&nbsp;Gang He.">
-<meta name="twitter:card" content="summary">
+<meta property="og:image:height" content="371">
+<meta property="og:image:width" content="602">
+<meta name="twitter:title" content="Tools of the Trade – Energy, Climate, and Society">
+<meta name="twitter:image" content="https://drganghe.github.io/energy-climate-society/images/iea-net-zero.png">
+<meta name="twitter:image-height" content="371">
+<meta name="twitter:image-width" content="602">
+<meta name="twitter:card" content="summary_large_image">
 </head>
 
 <body class="nav-fixed quarto-light">
@@ -95,7 +159,7 @@ gtag('config', 'G-9ZBRZBEKDN', { 'anonymize_ip': true});
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="../index.html">
+    <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">Energy, Climate, and Society</span>
     </a>
   </div>
@@ -106,15 +170,15 @@ gtag('config', 'G-9ZBRZBEKDN', { 'anonymize_ip': true});
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../syllabus.html"> 
+    <a class="nav-link" href="./syllabus.html"> 
 <span class="menu-text">Syllabus</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../2025/schedule.html"> 
+    <a class="nav-link" href="./2025/schedule.html"> 
 <span class="menu-text">Schedule</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../lectures.html"> 
+    <a class="nav-link" href="./lectures.html"> 
 <span class="menu-text">Lectures</span></a>
   </li>  
   <li class="nav-item">
@@ -127,15 +191,15 @@ gtag('config', 'G-9ZBRZBEKDN', { 'anonymize_ip': true});
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-guide">    
         <li>
-    <a class="dropdown-item" href="../mock-climate-negotiation.html">
+    <a class="dropdown-item" href="./mock-climate-negotiation.html">
  <span class="dropdown-text">Mock Climate Negotiation</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../policymemo.html">
+    <a class="dropdown-item" href="./policymemo.html">
  <span class="dropdown-text">Policy Memo</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../resources.html">
+    <a class="dropdown-item" href="./resources.html">
  <span class="dropdown-text">Resources</span></a>
   </li>  
     </ul>
@@ -146,7 +210,7 @@ gtag('config', 'G-9ZBRZBEKDN', { 'anonymize_ip': true});
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-archive">    
         <li>
-    <a class="dropdown-item" href="../2023/schedule.html">
+    <a class="dropdown-item" href="./2023/schedule.html">
  <span class="dropdown-text">Fall 2023</span></a>
   </li>  
     </ul>
@@ -175,36 +239,21 @@ gtag('config', 'G-9ZBRZBEKDN', { 'anonymize_ip': true});
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#nrel-sam-model" id="toc-nrel-sam-model" class="nav-link active" data-scroll-target="#nrel-sam-model">NREL SAM model</a></li>
-  <li><a href="#technologies" id="toc-technologies" class="nav-link" data-scroll-target="#technologies">Technologies</a>
-  <ul class="collapse">
-  <li><a href="#solar-simulation" id="toc-solar-simulation" class="nav-link" data-scroll-target="#solar-simulation">Solar simulation</a></li>
-  <li><a href="#wind-simulation" id="toc-wind-simulation" class="nav-link" data-scroll-target="#wind-simulation">Wind simulation</a></li>
-  </ul></li>
-  <li><a href="#bulk-simulation" id="toc-bulk-simulation" class="nav-link" data-scroll-target="#bulk-simulation">Bulk simulation</a></li>
-  <li><a href="#further-readings" id="toc-further-readings" class="nav-link" data-scroll-target="#further-readings">Further readings</a></li>
-  </ul>
-<div class="toc-actions"><ul><li><a href="https://github.com/drganghe/energy-climate-society/edit/main/2023/2sam.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/drganghe/energy-climate-society/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li><li><a href="https://github.com/drganghe/energy-climate-society/blob/main/2023/2sam.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li></ul></div><div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="2sam.pdf"><i class="bi bi-file-pdf"></i>PDF</a></li></ul></div></nav>
-    </div>
+    
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content column-page" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Tools of the Trade: Solar Wind Assessment</h1>
+<h1 class="title">Tools of the Trade</h1>
 </div>
 
 
 
-<div class="quarto-title-meta">
+<div class="quarto-title-meta column-page">
 
     
   
@@ -216,80 +265,79 @@ gtag('config', 'G-9ZBRZBEKDN', { 'anonymize_ip': true});
 </header>
 
 
-<section id="nrel-sam-model" class="level2">
-<h2 class="anchored" data-anchor-id="nrel-sam-model">NREL SAM model</h2>
-<p>“The System Advisor Model (SAM) is a free techno-economic software model that facilitates decision-making for people in the renewable energy industry.”<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a></p>
-<p>Read the model description and instruction: <a href="https://samrepo.nrelcloud.org/help/index.html" class="uri">https://samrepo.nrelcloud.org/help/index.html</a></p>
-<p>Download and install the current version. It’s free, however, you need register to receive a key by email to use the software.</p>
-</section>
-<section id="technologies" class="level2">
-<h2 class="anchored" data-anchor-id="technologies">Technologies</h2>
-<p>The current version of SAM includes performance models for the following technologies:</p>
-<ul>
-<li><p>PV</p></li>
-<li><p>Battery storage</p></li>
-<li><p>Wind</p></li>
-<li><p>Concentrating Solar Power (CSP)</p></li>
-<li><p>Solar water heating</p></li>
-<li><p>Industrial process heat</p></li>
-<li><p>Fuel Cells</p></li>
-<li><p>Biomass combustion</p></li>
-<li><p>Geothermal power</p></li>
-</ul>
-<section id="solar-simulation" class="level3">
-<h3 class="anchored" data-anchor-id="solar-simulation">Solar simulation</h3>
-<ul>
-<li><p>Location and resources</p></li>
-<li><p>Module</p></li>
-<li><p>Inverter</p></li>
-<li><p>System design</p></li>
-<li><p>Shading and snow</p></li>
-<li><p>Losses</p></li>
-<li><p>Lifetime</p></li>
-<li><p>Battery</p></li>
-<li><p>System costs</p></li>
-<li><p>Financial Incentives</p></li>
-<li><p>Rates</p></li>
-<li><p>Load</p></li>
-</ul>
-</section>
-<section id="wind-simulation" class="level3">
-<h3 class="anchored" data-anchor-id="wind-simulation">Wind simulation</h3>
-<ul>
-<li><p>Wind resource: NY</p></li>
-<li><p>Wind turbine</p></li>
-<li><p>Wind farm</p></li>
-<li><p>System costs</p></li>
-<li><p>Lifetime</p></li>
-<li><p>Financial</p></li>
-<li><p>Incentives</p></li>
-<li><p>Rates</p></li>
-<li><p>Load</p></li>
-</ul>
-</section>
-</section>
-<section id="bulk-simulation" class="level2">
-<h2 class="anchored" data-anchor-id="bulk-simulation">Bulk simulation</h2>
-<p>SAM offers some code-based simulation in the samples: <a href="https://github.com/NREL/pysam/blob/main/Examples/PySAMWorkshop.ipynb" class="uri">https://github.com/NREL/pysam/blob/main/Examples/PySAMWorkshop.ipynb</a></p>
-<p>If you want to learn more about how to write pySAM: <a href="https://sam.nrel.gov/software-development-kit-sdk/pysam.html" class="uri">https://sam.nrel.gov/software-development-kit-sdk/pysam.html</a></p>
-<p>Understand the weather file: <a href="https://sam.nrel.gov/weather-data.html" class="uri">https://sam.nrel.gov/weather-data.html</a></p>
-</section>
-<section id="further-readings" class="level2">
-<h2 class="anchored" data-anchor-id="further-readings">Further readings</h2>
-<ul>
-<li>U.S. Department of Energy. 2022. <a href="https://www.energy.gov/sites/default/files/2022-03/Renewable%20Energy%20Resource%20Assessment%20Information%20for%20the%20United%20States.pdf">Renewable Energy Resource Assessment Information for the United States</a>.</li>
-</ul>
+<!--This is my personal clarity, please delete or replace with your own clarity-->
+<!-- 
+https://learn.microsoft.com/en-us/clarity/setup-and-installation/clarity-setup
+-->
+<script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "ktfar1v3c9");
+</script>
+<div id="listing-tools" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1746197961011" data-listing-reading-time-sort="2" data-listing-word-count-sort="293">
+<a href="./tools/3pathway.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./images/iea-net-zero.png" class="thumbnail-image card-img" style="height: 200px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Tools of the Trade: Pathways to Net-zero
+</h5>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1746198355140" data-listing-reading-time-sort="2" data-listing-word-count-sort="298">
+<a href="./tools/1scc.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./images/social-economic-impacts.png" class="thumbnail-image card-img" style="height: 200px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Tools of the Trade: Social Cost of Carbon
+</h5>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1746198061354" data-listing-reading-time-sort="1" data-listing-word-count-sort="190">
+<a href="./tools/4lca.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./images/Lifecycle-of-real-fake-tree.png" class="thumbnail-image card-img" style="height: 200px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Tools of the Trade: Life Cycle Analysis
+</h5>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1746197699430" data-listing-reading-time-sort="2" data-listing-word-count-sort="215">
+<a href="./tools/2sam.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./images/World_PVOUT_map.png" class="thumbnail-image card-img" style="height: 200px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Tools of the Trade: Solar Wind Assessment
+</h5>
+</div>
+</div></a>
+</div>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div>
 
 
-</section>
 
 
-<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
-
-<ol>
-<li id="fn1"><p>NREL, https://sam.nrel.gov/<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-</ol>
-</section></div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
@@ -703,7 +751,7 @@ gtag('config', 'G-9ZBRZBEKDN', { 'anonymize_ip': true});
 </div>   
     <div class="nav-footer-center">
       &nbsp;
-    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/drganghe/energy-climate-society/edit/main/2023/2sam.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/drganghe/energy-climate-society/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li><li><a href="https://github.com/drganghe/energy-climate-society/blob/main/2023/2sam.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li></ul></div></div>
+    </div>
     <div class="nav-footer-right">
       <ul class="footer-items list-unstyled">
     <li class="nav-item compact">

@@ -5997,5 +5997,180 @@
     "title": "Lecture 12 Policy Analysis Uncertainties, Review and Summary",
     "section": "",
     "text": "References\n\n\nCraig, Paul P, Ashok Gadgil, and Jonathan G Koomey. 2002. “What Can History Teach Us? A Retrospective Examination of Long-Term Energy Forecasts for the United States.” Annual Review of Energy and the Environment 27 (1): 83–118. https://doi.org/10.1146/annurev.energy.27.122001.083425.\n\n\nHausfather, Zeke, Henri F Drake, Tristan Abbott, and Gavin A Schmidt. 2020. “Evaluating the Performance of Past Climate Model Projections.” Geophysical Research Letters 47 (1): e2019GL085378. https://doi.org/10.1029/2019GL085378.\n\n\nHodges, James S, James A Dewar, et al. 1992. “Is It You or Your Model Talking?: A Framework for Model Validation.” Rand Santa Monica, CA. https://www.rand.org/pubs/reports/R4114.html.\n\n\nIEA. 2021. “Net Zero by 2050.” International Energy Agency. https://www.iea.org/reports/net-zero-by-2050.\n\n\nKaya, Yoichi, and Keiichi Yokobori, eds. 1997. Environment, Energy, and Economy: Strategies for Sustainable. Tokyo: United Nations Univ. https://archive.unu.edu/unupress/unupbooks/uu17ee/uu17ee00.htm.\n\n\nKoomey, Jonathan, Hashem Akbari, Carl Blumstein, Marilyn Brown, Richard Brown, Chris Calwell, Sheryl Carter, et al. 2010. “Defining a Standard Metric for Electricity Savings.” Environmental Research Letters 5 (1): 014017. https://iopscience.iop.org/article/10.1088/1748-9326/5/1/014017.\n\n\nMacknick, Jordan. 2011. “Energy and CO2 Emission Data Uncertainties.” Carbon Management 2 (2): 189–205. https://doi.org/10.4155/cmt.11.10.\n\n\nPeng, Wei, Gokul Iyer, Matthew Binsted, Jennifer Marlon, Leon Clarke, James A Edmonds, and David G Victor. 2021. “The Surprisingly Inexpensive Cost of State-Driven Emission Control Strategies.” Nature Climate Change 11 (9): 738–45. https://doi.org/10.1038/s41558-021-01128-0.\n\n\nPeng, Wei, Gokul Iyer, Valentina Bosetti, Vaibhav Chaturvedi, James Edmonds, Allen A Fawcett, Stéphane Hallegatte, David G Victor, Detlef van Vuuren, and John Weyant. 2021. “Climate Policy Models Need to Get Real about People—Here’s How.” Nature Publishing Group. https://doi.org/10.1038/d41586-021-01500-2.\n\n\nSaltelli, Andrea, Gabriele Bammer, Isabelle Bruno, Erica Charters, Monica Di Fiore, Emmanuel Didier, Wendy Nelson Espeland, et al. 2020. “Five Ways to Ensure That Models Serve Society: A Manifesto.” Nature Publishing Group. https://doi.org/10.1038/d41586-020-01812-9.\n\n\nSupran, G., S. Rahmstorf, and N. Oreskes. 2023. “Assessing ExxonMobil’s Global Warming Projections.” Science 379 (6628): eabk0063. https://doi.org/10.1126/science.abk0063.\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He"
+  },
+  {
+    "objectID": "tools.html",
+    "href": "tools.html",
+    "title": "Tools of the Trade",
+    "section": "",
+    "text": "Tools of the Trade: Pathways to Net-zero\n\n\n\n\n\n\n\n\n\n\n\n\nTools of the Trade: Social Cost of Carbon\n\n\n\n\n\n\n\n\n\n\n\n\nTools of the Trade: Life Cycle Analysis\n\n\n\n\n\n\n\n\n\n\n\n\nTools of the Trade: Solar Wind Assessment\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "tools/4lca.html",
+    "href": "tools/4lca.html",
+    "title": "Tools of the Trade: Life Cycle Analysis",
+    "section": "",
+    "text": "openLCA\n\nEcochain Mobius\n\nEcochain Helix\n\nGabi\n\nOneclicklca\n\nSimaProv\n\nSource: EcoChain"
+  },
+  {
+    "objectID": "tools/4lca.html#lca-tools",
+    "href": "tools/4lca.html#lca-tools",
+    "title": "Tools of the Trade: Life Cycle Analysis",
+    "section": "",
+    "text": "openLCA\n\nEcochain Mobius\n\nEcochain Helix\n\nGabi\n\nOneclicklca\n\nSimaProv\n\nSource: EcoChain"
+  },
+  {
+    "objectID": "tools/4lca.html#openlca",
+    "href": "tools/4lca.html#openlca",
+    "title": "Tools of the Trade: Life Cycle Analysis",
+    "section": "OpenLCA",
+    "text": "OpenLCA\n\nopenLCA is an open source and free software for Sustainability and Life Cycle Assessment, with the following features:\n\n\nFast and reliable calculation of your Sustainability Assessment and/or Life Cycle Assessment\nVery detailed insights into calculation and analysis results; identify main drivers throughout the life cycle, by process, flow or impact category, visualize results and locate them on a map\nBest in class import and export capabilities; easy to share your models\nLife Cycle Costing and social assessment smoothly integrated in the life cycle model\nUser-friendly; user interface in a variety of languages; advanced and efficient repository and collaboration feature (currently developed)\nContinuous improvement and implementation of new features\n\nSource: https://www.openlca.org/"
+  },
+  {
+    "objectID": "tools/4lca.html#database",
+    "href": "tools/4lca.html#database",
+    "title": "Tools of the Trade: Life Cycle Analysis",
+    "section": "Database",
+    "text": "Database\n\necoinvest\n\nFLEX\nELCD\n\nUSLCI\nFederal LCA Commons\n\nCheck more information at openLCA Nexus"
+  },
+  {
+    "objectID": "tools/4lca.html#case-study",
+    "href": "tools/4lca.html#case-study",
+    "title": "Tools of the Trade: Life Cycle Analysis",
+    "section": "Case study",
+    "text": "Case study\n\nPET and PC bottle\n\nProject\n\nProcess\n\nFlow\n\nChange parameters\n\nAdd new process and flow\n\nStart a new project"
+  },
+  {
+    "objectID": "tools/4lca.html#further-readings",
+    "href": "tools/4lca.html#further-readings",
+    "title": "Tools of the Trade: Life Cycle Analysis",
+    "section": "Further readings",
+    "text": "Further readings\n\nopenLCA"
+  },
+  {
+    "objectID": "tools/3pathway.html",
+    "href": "tools/3pathway.html",
+    "title": "Tools of the Trade: Pathways to Net-zero",
+    "section": "",
+    "text": "The Climate Action Pathways are a vital part of the Marrakech Partnership tools to enhance climate action and ambition towards fully implementing the Paris Agreement. First launched in 2019, they set out sectoral visions for achieving a 1.5° C resilient world in 2050, with overarching transformational milestones, and key impacts that need to be achieved to realize them.\nThe Pathways incorporate insights about the exponential nature of the necessary systemic and technological change within sectors, but also focus on the synergies and interlinkages across the thematic and cross-cutting areas in order to assist all actors to take an integrated approach.\nThe key aim of the 2021 Pathways is to further strengthen the aspects of just transition, gender-responsiveness, resilience and circular economy, deepening the alignment of actions across the Pathways.\nOverall, the Pathways aim to provide a roadmap to help Parties and non-Party stakeholders alike to identify actions needed by 2021, 2025, 2030 and 2040 as steps to get to the 2050 vision. As such, they are intended as living documents, to be updated periodically with the latest information and lessons learned as the state of climate action evolves.\nThe Climate Action Pathways complement the Yearbook of Global Climate Action and the Global Climate Action Portal (GCAP), which track, report and recognize climate action, by presenting forward-looking actions towards a fully climate-resilient world.\n\nSource: https://unfccc.int/climate-action/marrakech-partnership/reporting-and-tracking/climate_action_pathways"
+  },
+  {
+    "objectID": "tools/3pathway.html#pathways",
+    "href": "tools/3pathway.html#pathways",
+    "title": "Tools of the Trade: Pathways to Net-zero",
+    "section": "",
+    "text": "The Climate Action Pathways are a vital part of the Marrakech Partnership tools to enhance climate action and ambition towards fully implementing the Paris Agreement. First launched in 2019, they set out sectoral visions for achieving a 1.5° C resilient world in 2050, with overarching transformational milestones, and key impacts that need to be achieved to realize them.\nThe Pathways incorporate insights about the exponential nature of the necessary systemic and technological change within sectors, but also focus on the synergies and interlinkages across the thematic and cross-cutting areas in order to assist all actors to take an integrated approach.\nThe key aim of the 2021 Pathways is to further strengthen the aspects of just transition, gender-responsiveness, resilience and circular economy, deepening the alignment of actions across the Pathways.\nOverall, the Pathways aim to provide a roadmap to help Parties and non-Party stakeholders alike to identify actions needed by 2021, 2025, 2030 and 2040 as steps to get to the 2050 vision. As such, they are intended as living documents, to be updated periodically with the latest information and lessons learned as the state of climate action evolves.\nThe Climate Action Pathways complement the Yearbook of Global Climate Action and the Global Climate Action Portal (GCAP), which track, report and recognize climate action, by presenting forward-looking actions towards a fully climate-resilient world.\n\nSource: https://unfccc.int/climate-action/marrakech-partnership/reporting-and-tracking/climate_action_pathways"
+  },
+  {
+    "objectID": "tools/3pathway.html#en-roads-simulator",
+    "href": "tools/3pathway.html#en-roads-simulator",
+    "title": "Tools of the Trade: Pathways to Net-zero",
+    "section": "En-ROADS simulator",
+    "text": "En-ROADS simulator\n\nEn-ROADS is a freely-available online simulator that provides policymakers, educators, businesses, the media, and the public with the ability to test and explore cross-sector climate solutions.\n\nCheck more information here: https://www.climateinteractive.org/en-roads/"
+  },
+  {
+    "objectID": "tools/3pathway.html#c-roads-climate-policy-simulator",
+    "href": "tools/3pathway.html#c-roads-climate-policy-simulator",
+    "title": "Tools of the Trade: Pathways to Net-zero",
+    "section": "C-ROADS climate policy simulator",
+    "text": "C-ROADS climate policy simulator\n\nC-ROADS is a free, award-winning computer simulator that helps people understand the long-term climate impacts of national and regional greenhouse gas emissions reductions at the global level.\n\nCheck more information here: https://www.climateinteractive.org/c-roads/"
+  },
+  {
+    "objectID": "tools/3pathway.html#further-readings",
+    "href": "tools/3pathway.html#further-readings",
+    "title": "Tools of the Trade: Pathways to Net-zero",
+    "section": "Further readings",
+    "text": "Further readings\n\nDeep Decarbonization Pathways (DDP) project"
+  },
+  {
+    "objectID": "tools/1scc.html",
+    "href": "tools/1scc.html",
+    "title": "Tools of the Trade: Social Cost of Carbon",
+    "section": "",
+    "text": "Social cost of carbon (SCC) is a very important concept in energy and climate policy. It quantifies the economic damages from one extra ton of carbon dioxide.\nRead more about social cost of carbon here: Social Cost of Carbon 101"
+  },
+  {
+    "objectID": "tools/1scc.html#how-scc-are-calculated",
+    "href": "tools/1scc.html#how-scc-are-calculated",
+    "title": "Tools of the Trade: Social Cost of Carbon",
+    "section": "How SCC are calculated",
+    "text": "How SCC are calculated\n\nEstimates of the SCC are calculated in four steps using Integraed Assessment Models (IAMs).\nStep 1: Predict future emissions based on population, economic growth, and other factors (CO2 emissions). Step 2: Model future climate responses, such as temperature increase and sea level rise (CO2 concentrations). Step 3: Assess the economic impact that these climatic changes will have on agriculture, health, energy use, and other aspects of the economy (Damage function). Step 4: Convert future damages into their present-day value and add them up to determine total damages (Discounting).\n\n\n\n\nAn integrated, modular framework for estimating the social cost of carbon (SC-CO2)1"
+  },
+  {
+    "objectID": "tools/1scc.html#social-cost-of-carbon-explorer",
+    "href": "tools/1scc.html#social-cost-of-carbon-explorer",
+    "title": "Tools of the Trade: Social Cost of Carbon",
+    "section": "Social Cost of Carbon Explorer",
+    "text": "Social Cost of Carbon Explorer\nThere are quite some models and tools are available. We will use the open-source RFF-Berkeley Greenhouse Gas Impact Value Estimator (GIVE) model as an example to play with SCC, key assumption, and how those parameters would impact the value of SCC.\nKey factors:\n\nCO2 emissions\nCO2 concentrations\nDamage function\nDiscounting"
+  },
+  {
+    "objectID": "tools/1scc.html#other-models",
+    "href": "tools/1scc.html#other-models",
+    "title": "Tools of the Trade: Social Cost of Carbon",
+    "section": "Other models",
+    "text": "Other models\n\nDynamic Integrated Climate-Economy model RISE/DICE 2023\nFramework for Uncertainty, Negotiation and Distribution model FUND\nPolicy Analysis of the Greenhouse Effect model PAGE"
+  },
+  {
+    "objectID": "tools/1scc.html#scc-in-policy",
+    "href": "tools/1scc.html#scc-in-policy",
+    "title": "Tools of the Trade: Social Cost of Carbon",
+    "section": "SCC in policy",
+    "text": "SCC in policy\n\nNew York ($51/ton \\(\\rightarrow\\) $125/ton)\nEPA ($51/ton \\(\\rightarrow\\) $190/ton)"
+  },
+  {
+    "objectID": "tools/1scc.html#further-readings",
+    "href": "tools/1scc.html#further-readings",
+    "title": "Tools of the Trade: Social Cost of Carbon",
+    "section": "Further readings",
+    "text": "Further readings\n\nValuing Climate Changes: Updating Estimation of the Social Cost of Carbon Dioxide. 2017. Washington, D.C.: National Academies Press. https://doi.org/10.17226/24651.\nRicke, Katharine, Laurent Drouet, Ken Caldeira, and Massimo Tavoni. 2018. “Country-Level Social Cost of Carbon.” Nature Climate Change 8 (10): 895–900. https://doi.org/10.1038/s41558-018-0282-y."
+  },
+  {
+    "objectID": "tools/1scc.html#footnotes",
+    "href": "tools/1scc.html#footnotes",
+    "title": "Tools of the Trade: Social Cost of Carbon",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nNational Academies of Sciences, Engineering, and Medicine. 2017. Valuing Climate Damages: Updating Estimation of the Social Cost of Carbon Dioxide. Washington, DC: The National Academies Press. https://doi.org/10.17226/24651.↩︎"
+  },
+  {
+    "objectID": "tools/2sam.html",
+    "href": "tools/2sam.html",
+    "title": "Tools of the Trade: Solar Wind Assessment",
+    "section": "",
+    "text": "“The System Advisor Model (SAM) is a free techno-economic software model that facilitates decision-making for people in the renewable energy industry.”1\nRead the model description and instruction: https://samrepo.nrelcloud.org/help/index.html\nDownload and install the current version. It’s free, however, you need register to receive a key by email to use the software."
+  },
+  {
+    "objectID": "tools/2sam.html#nrel-sam-model",
+    "href": "tools/2sam.html#nrel-sam-model",
+    "title": "Tools of the Trade: Solar Wind Assessment",
+    "section": "",
+    "text": "“The System Advisor Model (SAM) is a free techno-economic software model that facilitates decision-making for people in the renewable energy industry.”1\nRead the model description and instruction: https://samrepo.nrelcloud.org/help/index.html\nDownload and install the current version. It’s free, however, you need register to receive a key by email to use the software."
+  },
+  {
+    "objectID": "tools/2sam.html#technologies",
+    "href": "tools/2sam.html#technologies",
+    "title": "Tools of the Trade: Solar Wind Assessment",
+    "section": "Technologies",
+    "text": "Technologies\nThe current version of SAM includes performance models for the following technologies:\n\nPV\nBattery storage\nWind\nConcentrating Solar Power (CSP)\nSolar water heating\nIndustrial process heat\nFuel Cells\nBiomass combustion\nGeothermal power\n\n\nSolar simulation\n\nLocation and resources\nModule\nInverter\nSystem design\nShading and snow\nLosses\nLifetime\nBattery\nSystem costs\nFinancial Incentives\nRates\nLoad\n\n\n\nWind simulation\n\nWind resource: NY\nWind turbine\nWind farm\nSystem costs\nLifetime\nFinancial\nIncentives\nRates\nLoad"
+  },
+  {
+    "objectID": "tools/2sam.html#bulk-simulation",
+    "href": "tools/2sam.html#bulk-simulation",
+    "title": "Tools of the Trade: Solar Wind Assessment",
+    "section": "Bulk simulation",
+    "text": "Bulk simulation\nSAM offers some code-based simulation in the samples: https://github.com/NREL/pysam/blob/main/Examples/PySAMWorkshop.ipynb\nIf you want to learn more about how to write pySAM: https://sam.nrel.gov/software-development-kit-sdk/pysam.html\nUnderstand the weather file: https://sam.nrel.gov/weather-data.html"
+  },
+  {
+    "objectID": "tools/2sam.html#further-readings",
+    "href": "tools/2sam.html#further-readings",
+    "title": "Tools of the Trade: Solar Wind Assessment",
+    "section": "Further readings",
+    "text": "Further readings\n\nU.S. Department of Energy. 2022. Renewable Energy Resource Assessment Information for the United States."
+  },
+  {
+    "objectID": "tools/2sam.html#footnotes",
+    "href": "tools/2sam.html#footnotes",
+    "title": "Tools of the Trade: Solar Wind Assessment",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nNREL, https://sam.nrel.gov/↩︎"
   }
 ]

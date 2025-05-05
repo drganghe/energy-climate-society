@@ -1,0 +1,29 @@
+---
+title: "Tools of the Trade"
+listing:
+
+- id: "tools"
+  contents: tools
+  page-size: 36
+  sort: "date asc"
+  type: grid
+  image-height: 200px
+  categories: false
+  sort-ui: false
+  filter-ui: false
+  feed: false
+  fields: [image, title]
+
+toc: false
+page-layout: full
+page-navigation: true
+title-block-banner: false
+repo-actions: false
+---
+
+<!--This is my personal clarity, please delete or replace with your own clarity-->
+{{< include /files/includes/_msclarity.qmd >}}
+
+
+::: {#tools}
+:::
