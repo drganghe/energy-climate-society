@@ -1,0 +1,133 @@
+    # - path: https://newscenter.baruch.cuny.edu/news/baruch-college-student-wins-fellowship-to-germany/
+    #   image: https://newscenter.baruch.cuny.edu/wp-content/uploads/sites/24/2024/04/Valerie-Chlafer_2024-CBYX-Fellowship.gif
+    #   title: "Valerie Chlafer Wins Fellowship to Germany"
+    #   description: "Valerie Chlafer, a public affairs major and an aspiring Foreign Service Officer, is the fifth Baruch undergraduate to be chosen for U.S. State Department’s Congress-Bundestag Youth Exchange for Young Professionals program."
+    #   date: "2024-04-02"
+    #   categories: [story] 
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Ava A."
+      project: "Congestion Pricing in New York City"
+#      author: 
+#      subtitle: ""
+      semester: "Spring 2025"
+      categories: [project] 
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Roy B."
+      project: "Phasing Out Single-Use Plastic Packaging"
+#      author: 
+#      subtitle: ""
+      semester: "Spring 2025"
+      categories: [project]       
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Tiffany G."
+      project: "Reassessing Guyana's Energy Policy: Balancing Offshore Oil Development with LCDS 2030 Goals"
+#      author: 
+#      subtitle: ""
+      semester: "Spring 2025"
+      categories: [project] 
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Marla H."
+      project: "The Impact of the Fast Fashion Industry on the Environment"
+#      author: 
+#      subtitle: ""
+      semester: "Spring 2025"
+      categories: [project] 
+
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Salinata L."
+      project: "Addressing Climate Anxiety and Environmental Stress Among Youth in the Bronx"
+#      author: 
+#      subtitle: ""
+      semester: "Spring 2025"
+      categories: [project] 
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Noel M."
+      project: "Powering the Future: Electrifying NYC’s Public Bus Fleet"
+#      author: 
+#      subtitle: ""
+      semester: "Spring 2025"
+      categories: [project] 
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Kadeejah R."
+      project: "Advancing Energy Equity in New York City"
+#      author: 
+#      subtitle: ""
+      semester: "Spring 2025"
+      categories: [project] 
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Amanda P."
+      project: "Addressing Rebound and Green Energy in ConEd"
+#      author: 
+#      subtitle: ""
+      semester: "Spring 2025"
+      categories: [project] 
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Umme S."
+      project: "Community-led Agroforestry & Land Restoration"
+#      author: 
+#      subtitle: ""
+      semester: "Spring 2025"
+      categories: [project] 
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Loren S."
+      project: "Reducing Building Emissions in New York City"
+#      author: 
+#      subtitle: ""
+      semester: "Spring 2025"
+      categories: [project]       
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Mokhitobon S."
+      project: "Strengthening Climate Resilience in Uzbekistan"
+#      author: 
+#      subtitle: ""
+      semester: "Spring 2025"
+      categories: [project]        
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Breiny V."
+      project: "Reducing the Energy Burden in Low-Income Communities"
+#      author: 
+#      subtitle: ""
+      semester: "Spring 2025"
+      categories: [project]
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Ilana V."
+      project: "Expanding Access to Home Electrification for Low-Income Households"
+#      author: 
+#      subtitle: ""
+      semester: "Spring 2025"
+      categories: [project]
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Jon Luc Z."
+      project: "Energy-Efficiency in NYC Buildings: Challenges & Solutions"
+#      author: 
+#      subtitle: ""
+      semester: "Spring 2025"
+      categories: [project]

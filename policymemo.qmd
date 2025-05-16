@@ -63,6 +63,13 @@ Your policy will be graded by the following criteria:
 3. Clear writing, presentation, visulization [5]
 4. Overall impression [5pt]
 
+
+## Student Projects
+
+- [Spring 2025](/2025/students.qmd)
+- [Fall 2023](/2023/students.qmd)
+
+
 ## References
 
 [Policy Memo Resources](https://policymemos.hks.harvard.edu/home)

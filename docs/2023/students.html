@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Energy, Climate, and Society (Spring 2025) – Energy, Climate, and Society</title>
+<title>Student Stories &amp; Projects – Energy, Climate, and Society</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,25 +23,27 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b4406b7675125bc2ba204020e191172.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-02caa798fa7aa68ffffba7ba840ce97b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
-<link href="site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-listing/list.min.js"></script>
+<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7b4406b7675125bc2ba204020e191172.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-02caa798fa7aa68ffffba7ba840ce97b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
+<link href="../site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -68,6 +70,63 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-stories .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-image','listing-title','listing-subtitle','listing-description','listing-date',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-image","listing-title","listing-description","listing-date","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-stories'] = new List('listing-stories', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-projects .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-name','listing-project','listing-semester',{ data: ['index'] },{ data: ['categories'] }],
+      
+      searchColumns: ["listing-image","listing-name","listing-project","listing-semester","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-projects'] = new List('listing-projects', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-9ZBRZBEKDN"></script>
 
 <script type="text/javascript">
@@ -78,31 +137,53 @@ gtag('js', new Date());
 gtag('config', 'G-9ZBRZBEKDN', { 'anonymize_ip': true});
 </script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<link rel="stylesheet" href="styles.css">
-<link rel="stylesheet" href="./custom.css">
-<meta property="og:title" content="Energy, Climate, and Society (Spring 2025) – Energy, Climate, and Society">
-<meta property="og:description" content="Energy, Climate, and Society, an undergraduate level energy and climate topic open course developed by Dr.&nbsp;Gang He.">
-<meta property="og:image" content="https://drganghe.github.io/energy-climate-society/files/images/hex-Energy-Climate-Society.png">
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<link rel="stylesheet" href="../styles.css">
+<meta property="og:title" content="Student Stories &amp; Projects – Energy, Climate, and Society">
+<meta property="og:description" content="Stories about Students and Projects by students">
 <meta property="og:site_name" content="Energy, Climate, and Society">
-<meta property="og:image:height" content="1200">
-<meta property="og:image:width" content="1037">
-<meta name="twitter:title" content="Energy, Climate, and Society (Spring 2025) – Energy, Climate, and Society">
-<meta name="twitter:description" content="Energy, Climate, and Society, an undergraduate level energy and climate topic open course developed by Dr.&nbsp;Gang He.">
-<meta name="twitter:image" content="https://drganghe.github.io/energy-climate-society/files/images/hex-Energy-Climate-Society.png">
-<meta name="twitter:image-height" content="1200">
-<meta name="twitter:image-width" content="1037">
-<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Student Stories &amp; Projects – Energy, Climate, and Society">
+<meta name="twitter:description" content="Stories about Students and Projects by students">
+<meta name="twitter:card" content="summary">
 </head>
 
-<body class="nav-fixed fullcontent quarto-light">
+<body class="nav-fixed quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Energy, Climate, and Society</span>
     </a>
   </div>
@@ -113,15 +194,15 @@ gtag('config', 'G-9ZBRZBEKDN', { 'anonymize_ip': true});
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./syllabus.html"> 
+    <a class="nav-link" href="../syllabus.html"> 
 <span class="menu-text">Syllabus</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./2025/schedule.html"> 
+    <a class="nav-link" href="../2025/schedule.html"> 
 <span class="menu-text">Schedule</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./lectures.html"> 
+    <a class="nav-link" href="../lectures.html"> 
 <span class="menu-text">Lectures</span></a>
   </li>  
   <li class="nav-item">
@@ -134,15 +215,15 @@ gtag('config', 'G-9ZBRZBEKDN', { 'anonymize_ip': true});
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-guide">    
         <li>
-    <a class="dropdown-item" href="./mock-climate-negotiation.html">
+    <a class="dropdown-item" href="../mock-climate-negotiation.html">
  <span class="dropdown-text">Mock Climate Negotiation</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./policymemo.html">
+    <a class="dropdown-item" href="../policymemo.html">
  <span class="dropdown-text">Policy Memo</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./resources.html">
+    <a class="dropdown-item" href="../resources.html">
  <span class="dropdown-text">Resources</span></a>
   </li>  
     </ul>
@@ -153,7 +234,7 @@ gtag('config', 'G-9ZBRZBEKDN', { 'anonymize_ip': true});
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-archive">    
         <li>
-    <a class="dropdown-item" href="./2023/schedule.html">
+    <a class="dropdown-item" href="../2023/schedule.html">
  <span class="dropdown-text">Fall 2023</span></a>
   </li>  
     </ul>
@@ -182,21 +263,31 @@ gtag('config', 'G-9ZBRZBEKDN', { 'anonymize_ip': true});
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#student-stories" id="toc-student-stories" class="nav-link active" data-scroll-target="#student-stories">Student Stories</a></li>
+  <li><a href="#student-projects" id="toc-student-projects" class="nav-link" data-scroll-target="#student-projects">Student Projects</a></li>
+  </ul>
+<div class="toc-actions"><ul><li><a href="https://github.com/drganghe/energy-climate-society/edit/main/2023/students.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/drganghe/energy-climate-society/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li><li><a href="https://github.com/drganghe/energy-climate-society/blob/main/2023/students.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li></ul></div></nav>
+    </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content column-page-left" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Energy, Climate, and Society (Spring 2025)</h1>
+<h1 class="title">Student Stories &amp; Projects</h1>
+<p class="subtitle lead">Stories about Students and Projects by students</p>
 </div>
 
 
 
-<div class="quarto-title-meta">
+<div class="quarto-title-meta column-page-left">
 
     
   
@@ -208,7 +299,7 @@ gtag('config', 'G-9ZBRZBEKDN', { 'anonymize_ip': true});
 </header>
 
 
-<!--This is my personal clarity, please delete or replace with your own clarity-->
+<!--Please delete or replace with your own clarity-->
 <!-- 
 https://learn.microsoft.com/en-us/clarity/setup-and-installation/clarity-setup
 -->
@@ -219,43 +310,201 @@ https://learn.microsoft.com/en-us/clarity/setup-and-installation/clarity-setup
         y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
     })(window, document, "clarity", "script", "ktfar1v3c9");
 </script>
-<section id="course-description" class="level2">
-<h2 class="anchored" data-anchor-id="course-description">Course Description</h2>
-<p>Climate change is one of the biggest challenges of our time. This undergraduate-level course offers a comprehensive and interdisciplinary approach to understanding the science behind climate change, the complex technological and policy considerations, and the necessary pathways to transition towards a carbon-neutral future. Over the course of the semester, we will study the fundamental concepts of climate science and explore the latest research on climate change. We will also examine the various energy technologies available and the challenges of transitioning towards a sustainable energy system. In addition, we will explore the policy and economic considerations that underpin energy and climate policy, and the social and cultural dimensions of this complex issue. Ultimately, the goal of this class is to provide students with a broad understanding of the challenges and opportunities associated with the energy and climate crisis. We hope to empower the students with the knowledge and skills needed to make a positive impact on climate solutions.</p>
+<section id="student-stories" class="level2">
+<h2 class="anchored" data-anchor-id="student-stories">Student Stories</h2>
+<div id="listing-stories" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-2">
+<div class="g-col-1" data-index="0" data-categories="c3Rvcnk=" data-listing-date-sort="1712030400000">
+<a href="https://newscenter.baruch.cuny.edu/news/baruch-college-student-wins-fellowship-to-germany/" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://newscenter.baruch.cuny.edu/wp-content/uploads/sites/24/2024/04/Valerie-Chlafer_2024-CBYX-Fellowship.gif" class="thumbnail-image card-img" style="height: 200px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Valerie Chlafer Wins Fellowship to Germany
+</h5>
+<div class="card-text listing-description delink">
+<p>Valerie Chlafer, a public affairs major and an aspiring Foreign Service Officer, is the fifth Baruch undergraduate to be chosen for U.S. State Department’s…</p>
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Apr 2, 2024
+</div>
+</div>
+</div>
+</div></a>
+</div>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div>
 </section>
-<section id="learning-objectives" class="level2">
-<h2 class="anchored" data-anchor-id="learning-objectives">Learning Objectives</h2>
-<ul>
-<li>Acquire the knowledge about the scientific foundation, economic rationale, systems complexity, and policy implications of climate change, energy transition, and human society.<br>
-</li>
-<li>Identify the energy root of climate challenges, and the technology, economic, societal, behavioral transformation needed to enable an energy transition.<br>
-</li>
-<li>Apply energy project economic, energy system analysis, cost benefit analysis, life cycle analysis, and other analytical concepts in energy and climate systems and policy analysis.<br>
-</li>
-<li>Use evidence-based analysis to understand and contribute to effective policy discussion and debate.</li>
-</ul>
-</section>
-<section id="acknowledgment" class="level2">
-<h2 class="anchored" data-anchor-id="acknowledgment">Acknowledgment</h2>
-<p>This class benefits from many similar classes and I cannot credit them enough below:</p>
-<ul>
-<li><p>Daniel Kammen, <a href="http://kammen.berkeley.edu/">Energy and Society</a></p></li>
-<li><p>Severin Borenstein, <a href="http://courses.haas.berkeley.edu/descriptions/Descriptions/EWMBA212-1_Spring14.htm">Energy and Environmental Markets</a></p></li>
-<li><p>Jon Koomey and Ian Monroe, <a href="https://doi.org/10.1088/978-0-7503-4032-8">Solving Climate Change: A guide for learners and leaders</a></p></li>
-<li><p>Paul Shepson, Michael Rubenstein, and Christine Gilbert, <a href="https://news.stonybrook.edu/university/new-course-on-energy-climate-and-society-is-a-cross-college-collaboration/">Energy, Climate and Society</a></p></li>
-</ul>
-</section>
-<section id="reuse-of-material" class="level2">
-<h2 class="anchored" data-anchor-id="reuse-of-material">Reuse of material</h2>
-<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/">Open Course on <a property="dct:title" rel="cc:attributionURL" href="https://drganghe.github.io/energy-climate-society/">Energy, Climate, and Society</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://drganghe.github.io/">Dr. Gang He</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
-<p>Please link my <a href="https://drganghe.github.io">site</a> and this <a href="https://drganghe.github.io/energy-climate-society">course site</a> to use any organized material. Copyrights belong to cited authors/creators. Example language to use:</p>
-<blockquote class="blockquote">
-<p>This course/class benefits from the <a href="https://drganghe.github.io/energy-climate-society">Energy, Climate, and Society</a> class material developed by Dr.&nbsp;<a href="https://drganghe.github.io">Gang He</a>.</p>
-</blockquote>
-</section>
-<section id="how-to-help" class="level2">
-<h2 class="anchored" data-anchor-id="how-to-help">How to help</h2>
-<p>If you like this course, you can <strong>Star</strong> the course <a href="https://github.com/drganghe/energy-climate-society">repository</a> to help more people to see it. If you find any issue, please use the “Report an issue” on the right side of a specific page. You can help more people to access the open-source course by spreading the word. Comments and suggestions are very welcome.</p>
+<section id="student-projects" class="level2">
+<h2 class="anchored" data-anchor-id="student-projects">Student Projects</h2>
+<div id="listing-projects" class="quarto-listing quarto-listing-container-table">
+<div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+    <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+    <select id="listing-projects-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-projects'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+      <option value="" disabled="" selected="" hidden="">Order By</option>
+      <option value="index" data-direction="asc">Default</option>
+      <option value="listing-name" data-direction="asc">
+        Name
+      </option>
+      <option value="listing-project" data-direction="asc">
+        Project
+      </option>
+      <option value="listing-semester" data-direction="asc">
+        Semester
+      </option>
+    </select>
+  </div>
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
+    </div>
+</div>
+<table class="quarto-listing-table table">
+<thead>
+<tr>
+
+<th>
+<a class="sort" data-sort="listing-name" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Name</a>
+</th>
+
+<th>
+<a class="sort" data-sort="listing-project" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Project</a>
+</th>
+
+<th>
+<a class="sort" data-sort="listing-semester" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Semester</a>
+</th>
+
+</tr>
+</thead>
+<tbody class="list">
+
+<tr data-index="0" data-categories="cHJvamVjdA==">
+<td>
+<span class="listing-name">Doreen M.</span>
+</td>
+<td>
+<span class="listing-project">War, Conflict, and the Environmental Justice</span>
+</td>
+<td>
+<span class="listing-semester">Fall 2023</span>
+</td>
+
+</tr>
+
+<tr data-index="1" data-categories="cHJvamVjdA==">
+<td>
+<span class="listing-name">Isil K.</span>
+</td>
+<td>
+<span class="listing-project">Memo on NYC Transit Policy</span>
+</td>
+<td>
+<span class="listing-semester">Fall 2023</span>
+</td>
+
+</tr>
+
+<tr data-index="2" data-categories="cHJvamVjdA==">
+<td>
+<span class="listing-name">Justin W.</span>
+</td>
+<td>
+<span class="listing-project">Memo on USDA to Address Food Waste</span>
+</td>
+<td>
+<span class="listing-semester">Fall 2023</span>
+</td>
+
+</tr>
+
+<tr data-index="3" data-categories="cHJvamVjdA==">
+<td>
+<span class="listing-name">Kyaw K.</span>
+</td>
+<td>
+<span class="listing-project">Alliance for Climate Education</span>
+</td>
+<td>
+<span class="listing-semester">Fall 2023</span>
+</td>
+
+</tr>
+
+<tr data-index="4" data-categories="cHJvamVjdA==">
+<td>
+<span class="listing-name">Massimiliano D.</span>
+</td>
+<td>
+<span class="listing-project">Introducing a Ban on Hydrolic Fracking</span>
+</td>
+<td>
+<span class="listing-semester">Fall 2023</span>
+</td>
+
+</tr>
+
+<tr data-index="5" data-categories="cHJvamVjdA==">
+<td>
+<span class="listing-name">Ngawang N.</span>
+</td>
+<td>
+<span class="listing-project">Environmental Friendly Transportation</span>
+</td>
+<td>
+<span class="listing-semester">Fall 2023</span>
+</td>
+
+</tr>
+
+<tr data-index="6" data-categories="cHJvamVjdA==">
+<td>
+<span class="listing-name">Rettik A.</span>
+</td>
+<td>
+<span class="listing-project">Feasibility of Achieving the Ambitious Goals by Local Law 97</span>
+</td>
+<td>
+<span class="listing-semester">Fall 2023</span>
+</td>
+
+</tr>
+
+<tr data-index="7" data-categories="cHJvamVjdA==">
+<td>
+<span class="listing-name">Selena M.</span>
+</td>
+<td>
+<span class="listing-project">Reinventing the Daylight-Saving Time</span>
+</td>
+<td>
+<span class="listing-semester">Fall 2023</span>
+</td>
+
+</tr>
+
+<tr data-index="8" data-categories="cHJvamVjdA==">
+<td>
+<span class="listing-name">Valerie C.</span>
+</td>
+<td>
+<span class="listing-project">United Mass Transit</span>
+</td>
+<td>
+<span class="listing-semester">Fall 2023</span>
+</td>
+
+</tr>
+
+</tbody>
+</table>
+<div class="listing-no-matching d-none">No matching items</div>
+</div>
 <!--Include social share buttons-->
 <!-- 
 AddToAny check more: https://www.addtoany.com/buttons/for/website 
@@ -266,6 +515,7 @@ https://quarto.org/docs/authoring/includes.html
 <p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_mastodon"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_email"></a></p>
 </div>
 <script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
 
 
 </section>
@@ -684,7 +934,7 @@ https://quarto.org/docs/authoring/includes.html
 </div>   
     <div class="nav-footer-center">
       &nbsp;
-    </div>
+    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/drganghe/energy-climate-society/edit/main/2023/students.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/drganghe/energy-climate-society/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li><li><a href="https://github.com/drganghe/energy-climate-society/blob/main/2023/students.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li></ul></div></div>
     <div class="nav-footer-right">
       <ul class="footer-items list-unstyled">
     <li class="nav-item compact">

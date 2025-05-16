@@ -28,7 +28,7 @@ repo-actions: false
 | 14   | 4/28 | [Uncertainties in policy analysis and review and summary](lecture12.qmd)     | [Ines Benachir](https://drganghe.github.io/climate-guest-speakers/speakers/ines-benachir/)   |         |
 | 15   | 5/5  | Presentations     |                    |           |
 | 16   | 5/12 | Presentations      |              |            |
-| 17   | 5/18 | Policy memo      |              |            |
+| 17   | 5/18 |  [Student Projects](students.qmd)    |              |     Policy memo        |
 
 : {.striped .responsive}
 
