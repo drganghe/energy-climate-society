@@ -42,6 +42,9 @@ listing:
 :::{#projects}
 :::
 
+
+{{< include /files/includes/_studentform.qmd >}}
+
 <!--Include social share buttons-->
 
 {{< include /files/includes/_socialshare.qmd >}}

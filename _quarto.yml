@@ -26,8 +26,10 @@ website:
         menu:                   
         - text: Mock Climate Negotiation
           href: mock-climate-negotiation.qmd        
+        - text: Tools of the Trade
+          href: tools.qmd  
         - text: Policy Memo
-          href: policymemo.qmd 
+          href: policymemo.qmd          
         - text: Resources
           href: resources.qmd
       - text: Archive

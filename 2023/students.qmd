@@ -1,6 +1,6 @@
 ---
 title: "Student Stories & Projects"
-subtitle: "Stories about Students and Projects by students"
+subtitle: "Stories about students and projects by students"
 page-layout: full
 listing: 
 - id: stories
@@ -45,6 +45,8 @@ listing:
 ## Student Projects
 :::{#projects}
 :::
+
+{{< include /files/includes/_studentform.qmd >}}
 
 <!--Include social share buttons-->
 
