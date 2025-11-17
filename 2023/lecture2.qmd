@@ -4,7 +4,7 @@ description-meta: "Make sense of energy and climate numbers and data sources"
 author: "Gang He"
 date: Aug 31, 2023
 date-format: long
-image: "/images/boe-equations.png"
+image: "https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/boe-equations.png"
 #suppress-bibliography: true
 format:
   revealjs:
@@ -22,7 +22,7 @@ format:
     footer: <https://drganghe.github.io/energy-climate-society/>
 ---
 
-## {background-color="black" background-image="/images/one-ton-co2.jpg"}
+## {background-color="black" background-image="https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/one-ton-co2.jpg"}
 
 ::: footer
 Photo by Gang He on the train to UNFCCC CoP15 conference,  Dec 6, 2009.
@@ -31,7 +31,7 @@ Photo by Gang He on the train to UNFCCC CoP15 conference,  Dec 6, 2009.
 
 ## NYC's daily carbon dioxide emissions as one-tonne spheres
 
-![](/images/nyc-daily-carbon-emission.jpeg){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/nyc-daily-carbon-emission.jpeg){fig-align="center"}
 
 ::: footer
 Source: [Carbon Visuals](https://www.flickr.com/photos/carbonquilt/8112404383)
@@ -40,7 +40,7 @@ Source: [Carbon Visuals](https://www.flickr.com/photos/carbonquilt/8112404383)
 
 ## Climate stripes
 
-![](/images/GLOBE-1850-2021-MO-barslabel.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/GLOBE-1850-2021-MO-barslabel.png){fig-align="center"}
 
 ::: footer
 Source: [Ed Hawkins](https://showyourstripes.info/c/globe)
@@ -49,15 +49,15 @@ Source: [Ed Hawkins](https://showyourstripes.info/c/globe)
 
 ## Carbon budget
 
-![](/images/system-carbon-budget.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/system-carbon-budget.png){fig-align="center"}
 
 ::: footer
-Source: [Global Carbon Project](https://www.globalcarbonaproject.org/global/images/carbonbudget/Infographic_Emissions2021.pdf)
+Source: [Global Carbon Project](https://www.globalcarbonaproject.org/globalhttps://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/carbonbudget/Infographic_Emissions2021.pdf)
 :::
 
 ## Emission and concentration
 
-![](/images/emissions_vs_concentrations_1751-2021.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/emissions_vs_concentrations_1751-2021.png){fig-align="center"}
 
 ::: footer
 Source:Rebecca Lindsey, [climate.gov](https://www.climate.gov/news-features/understanding-climate/climate-change-atmospheric-carbon-dioxide)
@@ -66,7 +66,7 @@ Source:Rebecca Lindsey, [climate.gov](https://www.climate.gov/news-features/unde
 
 ## Get comfortable with units
 
-![](/images/energy-units.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/energy-units.png){fig-align="center"}
 
 ::: footer
 Source: [MetricMethods](https://www.metricmethods.com/SIcharts/energy.pdf)
@@ -75,7 +75,7 @@ Source: [MetricMethods](https://www.metricmethods.com/SIcharts/energy.pdf)
 
 ## Scale of numbers
 
-![](/images/energy-units-scale.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/energy-units-scale.png){fig-align="center"}
 
 ::: footer
 Source: IIASA, [Energy Primier](https://previous.iiasa.ac.at/web/home/research/Flagship-Projects/Global-Energy-Assessment/GEA_Chapter1.pdf)
@@ -84,7 +84,7 @@ Source: IIASA, [Energy Primier](https://previous.iiasa.ac.at/web/home/research/F
 
 ## Comparing the world's energy resources
 
-![](/images/perez-planetary-energy.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/perez-planetary-energy.png){fig-align="center"}
 
 ::: footer
 Source: [Richard Perez](http://asrc.albany.edu/people/faculty/perez/)
@@ -93,7 +93,7 @@ Source: [Richard Perez](http://asrc.albany.edu/people/faculty/perez/)
 
 ## Energy stock and flow
 
-![](/images/energy-stock-flow.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/energy-stock-flow.png){fig-align="center"}
 
 ::: footer
 Source: @hermann2006quantifying 
@@ -102,7 +102,7 @@ Source: @hermann2006quantifying
 
 ## Energy vs. power
 
-![](/images/Power-vs-Energy.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/Power-vs-Energy.png){fig-align="center"}
 
 ::: footer
 Source: [ODP](https://www.ourdailyplanet.com/story/explain-it-to-me-energy-vs-power/)
@@ -126,7 +126,7 @@ We need to know what we are talking about!
 
 ## Back-of-the-envelope estimation
 
-![](/images/boe-equations.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/boe-equations.png){fig-align="center"}
 
 ::: footer
 Source: Gang He
@@ -135,7 +135,7 @@ Source: Gang He
 
 ## Art Rosenfeld
 
-![](/images/art-rosenfeld.jpeg){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/art-rosenfeld.jpeg){fig-align="center"}
 
 ::: footer
 Source: [LBL](https://artrosenfeld.lbl.gov/)
@@ -143,7 +143,7 @@ Source: [LBL](https://artrosenfeld.lbl.gov/)
 
 ## Rosenfeld Effect
 
-![](/images/art-rosenfeld-effect.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/art-rosenfeld-effect.png){fig-align="center"}
 
 ::: footer
 Source: [LBL](https://newscenter.lbl.gov/2017/01/27/art-rosenfeld-californias-godfather-energy-efficiency-90/), @koomey2010defining 
@@ -151,7 +151,7 @@ Source: [LBL](https://newscenter.lbl.gov/2017/01/27/art-rosenfeld-californias-go
 
 ## Comparing with the Three Gorges Dam
 
-![](/images/AnnualElectricitySavingsfrom2010-2013MEPS.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/AnnualElectricitySavingsfrom2010-2013MEPS.png){fig-align="center"}
 
 ::: footer
 Source: @fridley2016impacts 

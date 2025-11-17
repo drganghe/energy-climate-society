@@ -4,7 +4,7 @@ description-meta: "Energy access and development"
 author: "Gang He"
 date: April 7, 2025
 date-format: long
-image: "/images/energy-ladder.png"
+image: "https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/energy-ladder.png"
 format:
   revealjs:
     theme: white
@@ -30,7 +30,7 @@ format:
 
 ## Energy poverty and SDG
 
-![](/images/energy-hdi-mdg.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/energy-hdi-mdg.png){fig-align="center"}
 
 ::: footer
 Read more: @alstone2015decentralized
@@ -39,7 +39,7 @@ Read more: @alstone2015decentralized
 
 ## Energy access and HDI
 
-![](/images/energy-hdi.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/energy-hdi.png){fig-align="center"}
 
 ::: footer
 Read more: @alstone2015decentralized
@@ -56,7 +56,7 @@ Read more: @alstone2015decentralized
 
 ## Energy ladder
 
-![](/images/energy-ladder.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/energy-ladder.png){fig-align="center"}
 
 ::: footer
 Read more: [Our World in Data](https://ourworldindata.org/energy-ladder)
@@ -68,15 +68,15 @@ Read more: [Our World in Data](https://ourworldindata.org/energy-ladder)
 ::: columns
 
 ::: {.column width="33%"}
-![](/images/sdg7-progress.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/sdg7-progress.png){fig-align="center"}
 :::
 
 ::: {.column width="33%"}
-![](/images/sdg7-progress-2021.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/sdg7-progress-2021.png){fig-align="center"}
 :::
 
 ::: {.column width="33%"}
-![](/images/sdg7-progress-2022.webp){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/sdg7-progress-2022.webp){fig-align="center"}
 :::
 
 :::
@@ -88,7 +88,7 @@ Read more: Tracking SDG7 The Energy Progress Report [2022](https://www.irena.org
 
 ## Progress on universal access to electricity
 
-![](/images/universal-electricity-access-progress-2022.webp){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/universal-electricity-access-progress-2022.webp){fig-align="center"}
 
 ::: footer
 Read more: [Tracking SDG7 The Energy Progress Report 2024](https://trackingsdg7.esmap.org/data/files/download-documents/sdg7-report2024-0611-v9-highresforweb.pdf)
@@ -97,7 +97,7 @@ Read more: [Tracking SDG7 The Energy Progress Report 2024](https://trackingsdg7.
 
 ## Share of population with clean cooking fuel
 
-![](/images/share-of-population-with-clean-cooking-2022.webp){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/share-of-population-with-clean-cooking-2022.webp){fig-align="center"}
 
 ::: footer
 Read more: [Tracking SDG7 The Energy Progress Report 2024](https://trackingsdg7.esmap.org/data/files/download-documents/sdg7-report2024-0611-v9-highresforweb.pdf)
@@ -109,11 +109,11 @@ Read more: [Tracking SDG7 The Energy Progress Report 2024](https://trackingsdg7.
 ::: columns
 
 ::: {.column width="50%"}
-![](/images/electrification-path.jpg){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/electrification-path.jpg){fig-align="center"}
 :::
 
 ::: {.column width="50%"}
-![](/images/china-efa.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/china-efa.png){fig-align="center"}
 :::
 
 :::
@@ -135,7 +135,7 @@ Read more: [DOE](https://www.energy.gov/diversity/articles/how-energy-justice-pr
 
 ## EJ conceptual questions
 
-![](/images/energy-justice-conceptual.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/energy-justice-conceptual.png){fig-align="center"}
 
 ::: footer
 Source: @jenkins2016energy
@@ -144,7 +144,7 @@ Source: @jenkins2016energy
 
 ## Rooftop solar by race and ethnicity
 
-![](/images/household-income-and-rooftop-solar.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/household-income-and-rooftop-solar.png){fig-align="center"}
 
 ::: footer
 Source: @sunter2019disparities
@@ -153,7 +153,7 @@ Source: @sunter2019disparities
 
 ## The energy equity gap
 
-![](/images/energy-equity-gap.webp){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/energy-equity-gap.webp){fig-align="center"}
 
 ::: footer
 Source: @cong2022unveiling
@@ -162,7 +162,7 @@ Source: @cong2022unveiling
 
 ## Justice 40
 
-![](/images/justice40.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/justice40.png){fig-align="center"}
 
 ::: footer
 Source: [Biden White House](https://bidenwhitehouse.archives.gov/environmentaljustice/justice40/)
@@ -171,7 +171,7 @@ Source: [Biden White House](https://bidenwhitehouse.archives.gov/environmentalju
 
 ## Just transition framework
 
-![](/images/just-transition-framework.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/just-transition-framework.png){fig-align="center"}
 
 ::: footer
 Source: [Climate Justice Alliance](https://climatejusticealliance.org/just-transition/)
@@ -190,7 +190,7 @@ Who bears the burden? Who harvests the benefits? Do we know the injustice? Can p
 
 ## NYS CLCPA disadvantaged communities (DACs)
 
-![](/images/nysclcpa-dac.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/nysclcpa-dac.png){fig-align="center"}
 
 ::: footer
 Read more: [Draft Disadvantaged
@@ -200,7 +200,7 @@ Communities Criteria](https://climate.ny.gov/Our-Climate-Act/Disadvantaged-Commu
 
 ## Land use, cliamte risk, and social vulnerability
 
-![](/images/land-use-climate-risk-social-vulnerability.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/land-use-climate-risk-social-vulnerability.png){fig-align="center"}
 
 ::: footer
 Source: @fosterNPCC4AdvancingClimate2024
@@ -209,7 +209,7 @@ Source: @fosterNPCC4AdvancingClimate2024
 
 ## FEMA National Risk Index (NRI)
 
-![](/images/nyc-climate-risks.jpg){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/nyc-climate-risks.jpg){fig-align="center"}
 
 ::: footer
 Note: (a) coastal flooding, (b) riverine flooding, (c) heatwaves, (d) hurricanes, and (e) winter weather. Source: @fosterNPCC4AdvancingClimate2024, FEMA National Risk Index.

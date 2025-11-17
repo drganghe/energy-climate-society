@@ -1,6 +1,6 @@
 ---
 title: "Tools of the Trade: Social Cost of Carbon"
-image: "/images/social-economic-impacts.png"
+image: "https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/social-economic-impacts.png"
 format: 
   html: 
     theme: cosmo
@@ -38,7 +38,7 @@ Read more about social cost of carbon here: [Social Cost of Carbon 101](https://
 >Step 3: Assess the economic impact that these climatic changes will have on agriculture, health, energy use, and other aspects of the economy (Damage function).
 >Step 4: Convert future damages into their present-day value and add them up to determine total damages (Discounting).
 
-![An integrated, modular framework for estimating the social cost of carbon (SC-CO2)^[National Academies of Sciences, Engineering, and Medicine. 2017. Valuing Climate Damages: Updating Estimation of the Social Cost of Carbon Dioxide. Washington, DC: The National Academies Press. https://doi.org/10.17226/24651.]](/images/scc-framework.jpeg){width=70%}
+![An integrated, modular framework for estimating the social cost of carbon (SC-CO2)^[National Academies of Sciences, Engineering, and Medicine. 2017. Valuing Climate Damages: Updating Estimation of the Social Cost of Carbon Dioxide. Washington, DC: The National Academies Press. https://doi.org/10.17226/24651.]](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/scc-framework.jpeg){width=70%}
 
 
 ## [Social Cost of Carbon Explorer](https://www.rff.org/publications/data-tools/scc-explorer/)

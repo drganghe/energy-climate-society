@@ -4,7 +4,7 @@ description-meta: "Nuclear and hydro technolgies"
 author: "Gang He"
 date: October 17, 2023
 date-format: long
-image: "/images/livermore-fusion-breakthrough.jpg"
+image: "https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/livermore-fusion-breakthrough.jpg"
 format:
   revealjs:
     theme: white
@@ -28,7 +28,7 @@ format:
 
 ::: {.column width="50%"}
 
-![](/images/fission.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/fission.png){fig-align="center"}
 
 <p style="font-size:14pt; color:gray; text-align:center;">
 Nuclear fission
@@ -38,7 +38,7 @@ Nuclear fission
 
 ::: {.column width="50%"}
 
-![](/images/fusion-reactions.jpeg){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/fusion-reactions.jpeg){fig-align="center"}
 
 </br>
 
@@ -56,7 +56,7 @@ Read more: EIA, [Nuclear explained](https://www.eia.gov/energyexplained/nuclear/
 
 ## Nuclear power plants
 
-![](/images/US_nuclear_power_plants_map.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/US_nuclear_power_plants_map.png){fig-align="center"}
 
 ::: footer
 Read more: EIA, [Nuclear explained](https://www.eia.gov/energyexplained/nuclear/)
@@ -69,7 +69,7 @@ Read more: EIA, [Nuclear explained](https://www.eia.gov/energyexplained/nuclear/
 
 ::: {.column width="50%"}
 
-![](/images/small_bwr.jpg){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/small_bwr.jpg){fig-align="center"}
 
 <p style="font-size:14pt; color:gray; text-align:center;">
 Diagram of a boiling-water nuclear reactor
@@ -79,7 +79,7 @@ Diagram of a boiling-water nuclear reactor
 
 ::: {.column width="50%"}
 
-![](/images/small_pwr.jpg){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/small_pwr.jpg){fig-align="center"}
 
 </br>
 
@@ -97,7 +97,7 @@ Read more: EIA, [Nuclear explained](https://www.eia.gov/energyexplained/nuclear/
 
 ## Nuclear fuel cycle
 
-![](/images/nuclear_fuel_cycle.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/nuclear_fuel_cycle.png){fig-align="center"}
 
 ::: footer
 Read more: EIA, [Nuclear explained](https://www.eia.gov/energyexplained/nuclear/)
@@ -109,7 +109,7 @@ Read more: EIA, [Nuclear explained](https://www.eia.gov/energyexplained/nuclear/
 :::columns
 
 ::: {.column width="60%"}
-![](/images/three-island-historical-site.JPG){fig-align="center" width=60%}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/three-island-historical-site.JPG){fig-align="center" width=60%}
 :::
 
 ::: {.column width="40%"}
@@ -131,7 +131,7 @@ Photo credit: Gang He; Read more: [National Academies](https://nap.nationalacade
 :::columns
 
 ::: {.column width="60%"}
-![](/images/next-gen-nuclear.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/next-gen-nuclear.png){fig-align="center"}
 :::
 
 ::: {.column width="40%"}
@@ -152,7 +152,7 @@ Read more: DOE, [Benefits of Small Modular Reactors](https://www.energy.gov/ne/b
 
 ## Livermore Fusion breakthrough
 
-![](/images/livermore-fusion-breakthrough.jpg){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/livermore-fusion-breakthrough.jpg){fig-align="center"}
 
 ::: footer
 Read more: [LLNL](https://www.llnl.gov/archive/news/lawrence-livermore-national-laboratory-achieves-fusion-ignition)
@@ -165,7 +165,7 @@ Read more: [LLNL](https://www.llnl.gov/archive/news/lawrence-livermore-national-
 
 ::: {.column width="50%"}
 
-![](/images/hydro.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/hydro.png){fig-align="center"}
 
 <p style="font-size:14pt; color:gray; text-align:center;">
 Hydropower 
@@ -174,7 +174,7 @@ Hydropower
 :::
 
 ::: {.column width="50%"}
-![](/images/pumped-storage.jpeg){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/pumped-storage.jpeg){fig-align="center"}
 
 <p style="font-size:14pt; color:gray; text-align:center;">
 Pumped storage hydropower (PSH)
@@ -208,7 +208,7 @@ Source: [Union of Concerned Scientists](https://www.ucsusa.org/resources/how-ene
 
 :::columns
 ::: {.column width="50%"}
-![](/images/battery-management-system.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/battery-management-system.png){fig-align="center"}
 :::
 
 ::: {.column width="50%"}
@@ -229,7 +229,7 @@ Read more: NREL, [Grid-scale battery storage](https://www.nrel.gov/docs/fy19osti
 
 ## Long duration storage
 
-![](/images/role-of-long-duration-storage.jpg){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/role-of-long-duration-storage.jpg){fig-align="center"}
 
 ::: footer
 Source: @dowling_role_2020

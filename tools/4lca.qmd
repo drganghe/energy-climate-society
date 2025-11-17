@@ -1,6 +1,6 @@
 ---
 title: "Tools of the Trade: Life Cycle Analysis"
-image: "/images/Lifecycle-of-real-fake-tree.png"
+image: "https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/Lifecycle-of-real-fake-tree.png"
 format: 
   html: 
     theme: cosmo

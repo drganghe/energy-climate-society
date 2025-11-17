@@ -4,7 +4,7 @@ description-meta: "AI and Big Data for Energy and Climate"
 author: "Gang He"
 date: April 21, 2025
 date-format: long
-image: "/images/ai-transformation.webp"
+image: "https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/ai-transformation.webp"
 format:
   revealjs:
     theme: white
@@ -49,7 +49,7 @@ Read more: [ULC Technologies](https://www.stonybrook.edu/commcms/aertc/conferenc
 ::: columns
 
 :::{.column width="40%"}
-![](/images/andrew-ng.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/andrew-ng.png){fig-align="center"}
 :::
 
 :::{.column width="60%"}
@@ -70,7 +70,7 @@ Read more: [Andrew Ng: Why AI Is the New Electricity](https://www.gsb.stanford.e
 ::: columns
 
 :::{.column width="30%"}
-![](/images/pale-blut-dot.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/pale-blut-dot.png){fig-align="center"}
 :::
 
 :::{.column width="30%"}
@@ -130,7 +130,7 @@ Photo: [NASA](https://www.planetary.org/worlds/pale-blue-dot); Read more: [Wikip
 
 ## Aartifitial intelligence, machine learning, and deep learning
 
-![](/images/ai-ml-dl.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/ai-ml-dl.png){fig-align="center"}
 
 ::: footer
 Read more: @lee2021empirical
@@ -139,7 +139,7 @@ Read more: @lee2021empirical
 
 ## AI Algorithms
 
-![](/images/ai-algorithms.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/ai-algorithms.png){fig-align="center"}
 
 ::: footer
 Read more: @lee2021empirical
@@ -148,7 +148,7 @@ Read more: @lee2021empirical
 
 ## How AI has transformed our society
 
-![](/images/ai-transformation.webp){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/ai-transformation.webp){fig-align="center"}
 
 ::: footer
 Figure [source](https://www.techbooky.com/ai-transforming-business/), read more: [GAO](https://www.gao.gov/products/gao-18-142sp)
@@ -169,7 +169,7 @@ professionals
 :::
 
 :::{.column width="50%"}
-![](/images/ai-re.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/ai-re.png){fig-align="center"}
 :::
 
 :::
@@ -181,7 +181,7 @@ Read more: [IRENA](https://www.irena.org/publications/2019/Sep/Artificial-Intell
 
 ## More AI, More Data, More Energy
 
-![](/images/ai-applications-in-electricity-sector.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/ai-applications-in-electricity-sector.png){fig-align="center"}
 
 ::: footer
 Source: IEA, [Energy and AI](https://iea.blob.core.windows.net/assets/86ed1178-4d77-45ac-ab38-28e849f3b93f/EnergyandAI.pdf)
@@ -193,11 +193,11 @@ Source: IEA, [Energy and AI](https://iea.blob.core.windows.net/assets/86ed1178-4
 ::: columns
 
 :::{.column width="50%"}
-![](/images/deep-solar-1.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/deep-solar-1.png){fig-align="center"}
 :::
 
 :::{.column width="50%"}
-![](/images/deep-solar-2.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/deep-solar-2.png){fig-align="center"}
 :::
 
 :::
@@ -209,7 +209,7 @@ Read more: @yu2018deepsolar
 
 ## AI to improve wind perfomance
 
-![](/images/ml-and-wind.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/ml-and-wind.png){fig-align="center"}
 
 ::: footer
 Read more: [Deepmind](https://deepmind.com/blog/machine-learning-can-boost-value-wind-energy)
@@ -218,7 +218,7 @@ Read more: [Deepmind](https://deepmind.com/blog/machine-learning-can-boost-value
 
 ## AI saves data center cooling energy
 
-![](/images/deepmind-data-center-control.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/deepmind-data-center-control.png){fig-align="center"}
 
 ::: footer
 Read more: [Deepmind](https://deepmind.com/blog/deepmind-ai-reduces-google-data-centre-cooling-bill-40)
@@ -227,7 +227,7 @@ Read more: [Deepmind](https://deepmind.com/blog/deepmind-ai-reduces-google-data-
 
 ## Global inventory of solar PV
 
-![](/images/solar-pv-inventory.webp){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/solar-pv-inventory.webp){fig-align="center"}
 
 ::: footer
 Source: @kruitwagen2021global
@@ -236,7 +236,7 @@ Source: @kruitwagen2021global
 
 ## Machine learning for electricity access
 
-![](/images/electrification-asset-wealth.webp){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/electrification-asset-wealth.webp){fig-align="center"}
 
 ::: footer
 Source: @ratledge2022using
@@ -245,7 +245,7 @@ Source: @ratledge2022using
 
 ## AI for climate solutions
 
-![](/images/climate-solution-ai-areas.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/climate-solution-ai-areas.png){fig-align="center"}
 
 ::: footer
 Source: @rolnick2022tackling
@@ -254,7 +254,7 @@ Source: @rolnick2022tackling
 
 ## AI for GHG mitigation
 
-![](/images/ai-ghg-mitigation.webp){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/ai-ghg-mitigation.webp){fig-align="center"}
 
 ::: footer
 Source: @kaack2022aligning
@@ -263,7 +263,7 @@ Source: @kaack2022aligning
 
 ## AI and data center power consumption
 
-![](/images/us-data-center-energy-demand.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/us-data-center-energy-demand.png){fig-align="center"}
 
 ::: footer
 Source: LBL, [2024 Report on U.S. Data Center Energy Use](https://eta-publications.lbl.gov/sites/default/files/2024-12/lbnl-2024-united-states-data-center-energy-usage-report.pdf)
@@ -272,7 +272,7 @@ Source: LBL, [2024 Report on U.S. Data Center Energy Use](https://eta-publicatio
 
 ## More AI, More Data, More Energy
 
-![](/images/global-map-of-large-data-centers.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/global-map-of-large-data-centers.png){fig-align="center"}
 
 ::: footer
 Source: IEA, [Energy and AI](https://iea.blob.core.windows.net/assets/86ed1178-4d77-45ac-ab38-28e849f3b93f/EnergyandAI.pdf)

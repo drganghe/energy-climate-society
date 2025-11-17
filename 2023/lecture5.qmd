@@ -4,7 +4,7 @@ description-meta: "Discuss the mitigation of climate change"
 author: "Gang He"
 date: September 14, 2023
 date-format: long
-image: "/images/kaya-identity-co2.png"
+image: "https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/kaya-identity-co2.png"
 format:
   revealjs:
     theme: white
@@ -34,7 +34,7 @@ format:
 :::
 
 ::: {.column width="50%"}
-![](/images/climate-curriculum.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/climate-curriculum.png){fig-align="center"}
 :::
 :::
 
@@ -81,7 +81,7 @@ And:
 
 ::: {.column width="50%"}
 
-![](/images/kaya-identity-co2.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/kaya-identity-co2.png){fig-align="center"}
 :::
 
 :::
@@ -93,7 +93,7 @@ Source: @kaya_environment_1997, [Kaya Identity: drivers of CO₂ emissions in th
 
 ## Emissions gap
 
-![](/images/emission-gap-2022.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/emission-gap-2022.png){fig-align="center"}
 
 ::: footer
 Source: UNEP, [Emissions Gap Report 2022](https://wedocs.unep.org/bitstream/handle/20.500.11822/40932/EGR2022_ESEN.pdf)
@@ -102,7 +102,7 @@ Source: UNEP, [Emissions Gap Report 2022](https://wedocs.unep.org/bitstream/hand
 
 ## Not on the right trajectory
 
-![](/images/emission-trojectories-ndc.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/emission-trojectories-ndc.png){fig-align="center"}
 
 ::: footer
 Source: UNEP, [Emissions Gap Report 2022](https://wedocs.unep.org/bitstream/handle/20.500.11822/40932/EGR2022_ESEN.pdf)
@@ -111,7 +111,7 @@ Source: UNEP, [Emissions Gap Report 2022](https://wedocs.unep.org/bitstream/hand
 
 ## Climate wedges
 
-![](/images/pacala-socolow-wedges.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/pacala-socolow-wedges.png){fig-align="center"}
 
 ::: footer
 Source: @pacala2004stabilization
@@ -120,7 +120,7 @@ Source: @pacala2004stabilization
 
 ## Energy sector emissions
 
-![](/images/energy-emissions.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/energy-emissions.png){fig-align="center"}
 
 ::: footer
 Source: IPCC, [WG3](https://www.ipcc.ch/report/ar6/wg3/downloads/report/IPCC_AR6_WGIII_Chapter06.pdf)
@@ -129,7 +129,7 @@ Source: IPCC, [WG3](https://www.ipcc.ch/report/ar6/wg3/downloads/report/IPCC_AR6
 
 ## Energy sector mitigation factors
 
-![](/images/energy-mitigation-factors.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/energy-mitigation-factors.png){fig-align="center"}
 
 ::: footer
 Source: IPCC, [WG3](https://www.ipcc.ch/report/ar6/wg3/downloads/report/IPCC_AR6_WGIII_Chapter06.pdf)
@@ -138,7 +138,7 @@ Source: IPCC, [WG3](https://www.ipcc.ch/report/ar6/wg3/downloads/report/IPCC_AR6
 
 ## Renewables are getting cheap
 
-![](/images/ipcc-re-costs.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/ipcc-re-costs.png){fig-align="center"}
 
 ::: footer
 Source: IPCC, [WG3](https://www.ipcc.ch/report/ar6/wg3/downloads/report/IPCC_AR6_WGIII_Chapter06.pdf)
@@ -147,7 +147,7 @@ Source: IPCC, [WG3](https://www.ipcc.ch/report/ar6/wg3/downloads/report/IPCC_AR6
 
 ## Transport sector
 
-![](/images/energy-pathway-low-carbon-transport.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/energy-pathway-low-carbon-transport.png){fig-align="center"}
 
 ::: footer
 Source: IPCC, [WG3](https://www.ipcc.ch/report/ar6/wg3/downloads/report/IPCC_AR6_WGIII_Chapter10.pdf)
@@ -165,7 +165,7 @@ $E = vehicles \times \frac{Miles}{vehicle} \times \frac{gallon}{mile} \times \fr
 
 ## Carbon remove technologies
 
-![](/images/carbon-removal-technologies.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/carbon-removal-technologies.png){fig-align="center"}
 
 ::: footer
 Source: IPCC, [WG3](https://www.ipcc.ch/report/ar6/wg3/downloads/report/IPCC_AR6_WGIII_Chapter12.pdf)
@@ -174,7 +174,7 @@ Source: IPCC, [WG3](https://www.ipcc.ch/report/ar6/wg3/downloads/report/IPCC_AR6
 
 ## Role of CDR
 
-![](/images/role-of-cdr.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/role-of-cdr.png){fig-align="center"}
 
 ::: footer
 Source: IPCC, [WG3](https://www.ipcc.ch/report/ar6/wg3/downloads/report/IPCC_AR6_WGIII_Chapter12.pdf)
@@ -184,7 +184,7 @@ Source: IPCC, [WG3](https://www.ipcc.ch/report/ar6/wg3/downloads/report/IPCC_AR6
 
 ## Non-CO2 by gas
 
-![](/images/non-cos2-sources.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/non-cos2-sources.png){fig-align="center"}
 
 ::: footer
 Source: EPA, [Global Non-CO2 Greenhouse Gas Emission Projections & Mitigation Potential: 2015-2050](https://www.epa.gov/sites/default/files/2019-09/documents/epa_non-co2_greenhouse_gases_rpt-epa430r19010.pdf)
@@ -193,7 +193,7 @@ Source: EPA, [Global Non-CO2 Greenhouse Gas Emission Projections & Mitigation Po
 
 ## Case study: high appliance efficiency standards
 
-![](/images/2/AnnualElectricitySavingsfrom2010-2013MEPS.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/2/AnnualElectricitySavingsfrom2010-2013MEPS.png){fig-align="center"}
 
 ::: footer
 Source: @fridley2016impacts 
@@ -211,7 +211,7 @@ Source: @fridley2016impacts
 :::
 
 ::: {.column width="50%"}
-![](/images/ESB_CaseStudy_2009.jpg){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/ESB_CaseStudy_2009.jpg){fig-align="center"}
 :::
 
 :::

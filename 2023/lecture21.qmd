@@ -4,7 +4,7 @@ description-meta: "Understand the uncertainties and limitations of your analysis
 author: "Gang He"
 date: November 28, 2023
 date-format: long
-image: "/images/iea-underestimate-solarwind.png"
+image: "https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/iea-underestimate-solarwind.png"
 format:
   revealjs:
     theme: white
@@ -33,7 +33,7 @@ format:
 
 ## Projections went off
 
-![](/images/1970s-projections-us-energy.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/1970s-projections-us-energy.png){fig-align="center"}
 
 ::: footer
 Source: @craig2002what
@@ -42,7 +42,7 @@ Source: @craig2002what
 
 ## IEA underestimates solar and wind
 
-![](/images/iea-underestimate-solarwind.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/iea-underestimate-solarwind.png){fig-align="center"}
 
 ::: footer
 Source: [Ecofys](http://energypost.eu/world-energy-outlook-hides-real-potential-renewables/)
@@ -55,11 +55,11 @@ Source: [Ecofys](http://energypost.eu/world-energy-outlook-hides-real-potential-
 ::: columns
 
 ::: {.column width="50%"}
-![](/images/science.abk0063-exxon-vs-historical.jpg){fig-align="center" width="90%"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/science.abk0063-exxon-vs-historical.jpg){fig-align="center" width="90%"}
 :::
 
 ::: {.column width="50%"}
-![](/images/obervation-vs-models.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/obervation-vs-models.png){fig-align="center"}
 :::
 
 :::
@@ -97,7 +97,7 @@ Read more: [Turning Numbers into Knowledge](https://www.koomey.com/books.html)
 
 <center> Shale gas revolution </center>
 
-![](/images/new-power-capacity.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/new-power-capacity.png){fig-align="center"}
 
 ::: footer
 Source: [Head Waters Economics](https://headwaterseconomics.org/economic-development/evolution-electricity-generation/)
@@ -106,7 +106,7 @@ Source: [Head Waters Economics](https://headwaterseconomics.org/economic-develop
 
 ## Renewable costs
 
-![](/images/ipcc-re-costs.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/ipcc-re-costs.png){fig-align="center"}
 
 ::: footer
 Source: [IPCC](https://www.ipcc.ch/report/ar6/wg3/figures/summary-for-policymakers/figure-spm-3/)
@@ -159,7 +159,7 @@ Examples
 :::
 
 ::: {.column width="50%"}
-![](/images/state-level-support-climate.webp){fig-align="center" width="80%"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/state-level-support-climate.webp){fig-align="center" width="80%"}
 :::
 
 :::
@@ -192,7 +192,7 @@ Source: @peng2021climate, @peng2021surprisingly
 
 ## Focusing on structures and relations
 
-![](/images/en-roads-structure.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/en-roads-structure.png){fig-align="center"}
 
 ::: footer
 Source: [Climate Interactive](https://www.climateinteractive.org/en-roads/)

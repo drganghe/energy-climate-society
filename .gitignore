@@ -43,3 +43,5 @@ Backup of *.doc*
 # Visio autosave temporary files
 *.~vsd*
 /.luarc.json
+
+**/*.quarto_ipynb

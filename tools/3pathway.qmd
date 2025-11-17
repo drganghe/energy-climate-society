@@ -1,6 +1,6 @@
 ---
 title: "Tools of the Trade: Pathways to Net-zero"
-image: "/images/iea-net-zero.png"
+image: "https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/iea-net-zero.png"
 format: 
   html: 
     theme: cosmo

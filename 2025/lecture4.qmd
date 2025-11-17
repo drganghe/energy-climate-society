@@ -4,7 +4,7 @@ description-meta: "Mitigation and Adaptation of climate change"
 author: "Gang He"
 date: February 18, 2025
 date-format: long
-image: "/images/3generation-climate-change.png"
+image: "https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/3generation-climate-change.png"
 format:
   revealjs:
     theme: white
@@ -34,7 +34,7 @@ format:
 :::
 
 ::: {.column width="50%"}
-![](/images/climate-curriculum.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/climate-curriculum.png){fig-align="center"}
 :::
 :::
 
@@ -83,7 +83,7 @@ And:
 
 ::: {.column width="50%"}
 
-![](/images/kaya-identity-co2.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/kaya-identity-co2.png){fig-align="center"}
 :::
 
 :::
@@ -95,7 +95,7 @@ Source: @kaya_environment_1997, [Kaya Identity: drivers of CO₂ emissions in th
 
 ## Emissions gap
 
-![](/images/emission-gap-2024.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/emission-gap-2024.png){fig-align="center"}
 
 ::: footer
 Source: UNEP, [Emissions Gap Report 2024](https://www.unep.org/resources/emissions-gap-report-2024)
@@ -104,7 +104,7 @@ Source: UNEP, [Emissions Gap Report 2024](https://www.unep.org/resources/emissio
 
 ## Not on the right trajectory
 
-![](/images/emission-trojectories-ndc.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/emission-trojectories-ndc.png){fig-align="center"}
 
 ::: footer
 Source: UNEP, [Emissions Gap Report 2022](https://wedocs.unep.org/bitstream/handle/20.500.11822/40932/EGR2022_ESEN.pdf)
@@ -113,7 +113,7 @@ Source: UNEP, [Emissions Gap Report 2022](https://wedocs.unep.org/bitstream/hand
 
 ## Climate wedges
 
-![](/images/pacala-socolow-wedges.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/pacala-socolow-wedges.png){fig-align="center"}
 
 ::: footer
 Source: @pacala2004stabilization
@@ -122,7 +122,7 @@ Source: @pacala2004stabilization
 
 ## Energy sector emissions
 
-![](/images/energy-emissions.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/energy-emissions.png){fig-align="center"}
 
 ::: footer
 Source: IPCC, [WG3](https://www.ipcc.ch/report/ar6/wg3/downloads/report/IPCC_AR6_WGIII_Chapter06.pdf)
@@ -131,7 +131,7 @@ Source: IPCC, [WG3](https://www.ipcc.ch/report/ar6/wg3/downloads/report/IPCC_AR6
 
 ## Energy sector mitigation factors
 
-![](/images/energy-mitigation-factors.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/energy-mitigation-factors.png){fig-align="center"}
 
 ::: footer
 Source: IPCC, [WG3](https://www.ipcc.ch/report/ar6/wg3/downloads/report/IPCC_AR6_WGIII_Chapter06.pdf)
@@ -140,7 +140,7 @@ Source: IPCC, [WG3](https://www.ipcc.ch/report/ar6/wg3/downloads/report/IPCC_AR6
 
 ## Renewables are getting cheap
 
-![](/images/ipcc-re-costs.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/ipcc-re-costs.png){fig-align="center"}
 
 ::: footer
 Source: IPCC, [WG3](https://www.ipcc.ch/report/ar6/wg3/downloads/report/IPCC_AR6_WGIII_Chapter06.pdf)
@@ -149,7 +149,7 @@ Source: IPCC, [WG3](https://www.ipcc.ch/report/ar6/wg3/downloads/report/IPCC_AR6
 
 ## Transport sector
 
-![](/images/energy-pathway-low-carbon-transport.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/energy-pathway-low-carbon-transport.png){fig-align="center"}
 
 ::: footer
 Source: IPCC, [WG3](https://www.ipcc.ch/report/ar6/wg3/downloads/report/IPCC_AR6_WGIII_Chapter10.pdf)
@@ -167,7 +167,7 @@ $E = vehicles \times \frac{Miles}{vehicle} \times \frac{gallon}{mile} \times \fr
 
 ## Carbon remove technologies
 
-![](/images/carbon-removal-technologies.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/carbon-removal-technologies.png){fig-align="center"}
 
 ::: footer
 Source: IPCC, [WG3](https://www.ipcc.ch/report/ar6/wg3/downloads/report/IPCC_AR6_WGIII_Chapter12.pdf)
@@ -176,7 +176,7 @@ Source: IPCC, [WG3](https://www.ipcc.ch/report/ar6/wg3/downloads/report/IPCC_AR6
 
 ## Role of CDR
 
-![](/images/role-of-cdr.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/role-of-cdr.png){fig-align="center"}
 
 ::: footer
 Source: IPCC, [WG3](https://www.ipcc.ch/report/ar6/wg3/downloads/report/IPCC_AR6_WGIII_Chapter12.pdf)
@@ -186,7 +186,7 @@ Source: IPCC, [WG3](https://www.ipcc.ch/report/ar6/wg3/downloads/report/IPCC_AR6
 
 ## Non-CO2 by gas
 
-![](/images/non-cos2-sources.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/non-cos2-sources.png){fig-align="center"}
 
 ::: footer
 Source: EPA, [Global Non-CO2 Greenhouse Gas Emission Projections & Mitigation Potential: 2015-2050](https://www.epa.gov/sites/default/files/2019-09/documents/epa_non-co2_greenhouse_gases_rpt-epa430r19010.pdf)
@@ -195,7 +195,7 @@ Source: EPA, [Global Non-CO2 Greenhouse Gas Emission Projections & Mitigation Po
 
 ## Case study: high appliance efficiency standards
 
-![](/images/2/AnnualElectricitySavingsfrom2010-2013MEPS.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/2/AnnualElectricitySavingsfrom2010-2013MEPS.png){fig-align="center"}
 
 ::: footer
 Source: @fridley2016impacts 
@@ -213,7 +213,7 @@ Source: @fridley2016impacts
 :::
 
 ::: {.column width="50%"}
-![](/images/ESB_CaseStudy_2009.jpg){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/ESB_CaseStudy_2009.jpg){fig-align="center"}
 :::
 
 :::
@@ -225,7 +225,7 @@ Source: Read more from RMI [case study](https://rmi.org/wp-content/uploads/2017/
 
 ## Risks and resilience
 
-![](/images/risk-and-resilience.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/risk-and-resilience.png){fig-align="center"}
 
 ::: footer
 Source: IPCC, [WG2](https://www.ipcc.ch/report/ar6/wg2/figures/technical-summary/)
@@ -234,7 +234,7 @@ Source: IPCC, [WG2](https://www.ipcc.ch/report/ar6/wg2/figures/technical-summary
 
 ## Adaptation options
 
-![](/images/climate-response-adapation-options.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/climate-response-adapation-options.png){fig-align="center"}
 
 ::: footer
 Source: IPCC, [WG2](https://www.ipcc.ch/report/ar6/wg2/figures/technical-summary/)
@@ -243,7 +243,7 @@ Source: IPCC, [WG2](https://www.ipcc.ch/report/ar6/wg2/figures/technical-summary
 
 ## Adaptation potential
 
-![](/images/apaptation-potential.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/apaptation-potential.png){fig-align="center"}
 
 ::: footer
 Source: IPCC, [WG2](https://www.ipcc.ch/report/ar6/wg2/figures/technical-summary/)
@@ -252,7 +252,7 @@ Source: IPCC, [WG2](https://www.ipcc.ch/report/ar6/wg2/figures/technical-summary
 
 ## Ecosystem health
 
-![](/images/ecosystem-health-climate-resilience.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/ecosystem-health-climate-resilience.png){fig-align="center"}
 
 ::: footer
 Source: IPCC, [WG2](https://www.ipcc.ch/report/ar6/wg2/figures/technical-summary/)
@@ -261,7 +261,7 @@ Source: IPCC, [WG2](https://www.ipcc.ch/report/ar6/wg2/figures/technical-summary
 
 ## Ecosystem adaptation
 
-![](/images/ecosystem-adaptation.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/ecosystem-adaptation.png){fig-align="center"}
 
 ::: footer
 Source: IPCC, [WG2](https://www.ipcc.ch/report/ar6/wg2/figures/technical-summary/)
@@ -270,7 +270,7 @@ Source: IPCC, [WG2](https://www.ipcc.ch/report/ar6/wg2/figures/technical-summary
 
 ## Food security
 
-![](/images/food-security.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/food-security.png){fig-align="center"}
 
 ::: footer
 Source: IPCC, [WG2](https://www.ipcc.ch/report/ar6/wg2/figures/technical-summary/)
@@ -279,7 +279,7 @@ Source: IPCC, [WG2](https://www.ipcc.ch/report/ar6/wg2/figures/technical-summary
 
 ## Vulnerable groups
 
-![](/images/vulnerable-groups.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/vulnerable-groups.png){fig-align="center"}
 
 ::: footer
 Source: IPCC, [WG2](https://www.ipcc.ch/report/ar6/wg2/figures/technical-summary/)
@@ -288,7 +288,7 @@ Source: IPCC, [WG2](https://www.ipcc.ch/report/ar6/wg2/figures/technical-summary
 
 ## Synthetic adaptation
 
-![](/images/synthesis-adapation.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/synthesis-adapation.png){fig-align="center"}
 
 ::: footer
 Source: IPCC, [WG2](https://www.ipcc.ch/report/ar6/wg2/figures/technical-summary/)
@@ -324,7 +324,7 @@ More resources: [New York City Assesses Extreme Heat Climate Risk](https://www.e
 
 ## Mekong River Basin
 
-![](/images/mekong-river-basin-adaptation.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/mekong-river-basin-adaptation.png){fig-align="center"}
 
 ::: footer
 More resources: UNEP, [Case Studies](https://wedocs.unep.org/handle/20.500.11822/41111;jsessionid=3717F47150FAD2349607FC3904051EB7)

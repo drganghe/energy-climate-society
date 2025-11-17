@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.22">
+<meta name="generator" content="quarto-1.8.25">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -34,14 +34,15 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b4406b7675125bc2ba204020e191172.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-02caa798fa7aa68ffffba7ba840ce97b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-35155b22413c9ef7a79a96887d465071.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <link href="site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
 <link href="site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
@@ -123,7 +124,7 @@ const typesetMath = (el) => {
     var macros = [];
     for (var i = 0; i < mathElements.length; i++) {
       var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
         window.katex.render(texText.data, mathElements[i], {
           displayMode: mathElements[i].classList.contains('display'),
           throwOnError: false,
@@ -141,15 +142,9 @@ window.Quarto = {
 
 <link rel="stylesheet" href="styles.css">
 <meta property="og:title" content="Tools of the Trade – Energy, Climate, and Society">
-<meta property="og:image" content="https://drganghe.github.io/energy-climate-society/images/iea-net-zero.png">
 <meta property="og:site_name" content="Energy, Climate, and Society">
-<meta property="og:image:height" content="371">
-<meta property="og:image:width" content="602">
 <meta name="twitter:title" content="Tools of the Trade – Energy, Climate, and Society">
-<meta name="twitter:image" content="https://drganghe.github.io/energy-climate-society/images/iea-net-zero.png">
-<meta name="twitter:image-height" content="371">
-<meta name="twitter:image-width" content="602">
-<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:card" content="summary">
 </head>
 
 <body class="nav-fixed quarto-light">
@@ -159,6 +154,8 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    </a>
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">Energy, Climate, and Society</span>
     </a>
@@ -282,11 +279,11 @@ https://learn.microsoft.com/en-us/clarity/setup-and-installation/clarity-setup
 </script>
 <div id="listing-tools" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1747656109904" data-listing-reading-time-sort="2" data-listing-word-count-sort="293">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1763304460214" data-listing-reading-time-sort="2" data-listing-word-count-sort="293">
 <a href="./tools/3pathway.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="./images/iea-net-zero.png" class="thumbnail-image card-img" style="height: 200px;">
+<img loading="lazy" src="https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/iea-net-zero.png" class="thumbnail-image card-img" style="height: 200px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -295,11 +292,11 @@ Tools of the Trade: Pathways to Net-zero
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1747656109904" data-listing-reading-time-sort="2" data-listing-word-count-sort="298">
+<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1763305136395" data-listing-reading-time-sort="2" data-listing-word-count-sort="298">
 <a href="./tools/1scc.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="./images/social-economic-impacts.png" class="thumbnail-image card-img" style="height: 200px;">
+<img loading="lazy" src="https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/social-economic-impacts.png" class="thumbnail-image card-img" style="height: 200px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -308,11 +305,11 @@ Tools of the Trade: Social Cost of Carbon
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1747656109904" data-listing-reading-time-sort="1" data-listing-word-count-sort="190">
+<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1763304463831" data-listing-reading-time-sort="1" data-listing-word-count-sort="190">
 <a href="./tools/4lca.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="./images/Lifecycle-of-real-fake-tree.png" class="thumbnail-image card-img" style="height: 200px;">
+<img loading="lazy" src="https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/Lifecycle-of-real-fake-tree.png" class="thumbnail-image card-img" style="height: 200px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -321,11 +318,11 @@ Tools of the Trade: Life Cycle Analysis
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1747656109904" data-listing-reading-time-sort="2" data-listing-word-count-sort="215">
+<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1763304457118" data-listing-reading-time-sort="2" data-listing-word-count-sort="215">
 <a href="./tools/2sam.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="./images/World_PVOUT_map.png" class="thumbnail-image card-img" style="height: 200px;">
+<img loading="lazy" src="https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/World_PVOUT_map.png" class="thumbnail-image card-img" style="height: 200px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -393,13 +390,14 @@ Tools of the Trade: Solar Wind Assessment
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy

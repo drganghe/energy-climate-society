@@ -4,7 +4,7 @@ description-meta: "Understand the uncertainties and limitations of your analysis
 author: "Gang He"
 date: November 30, 2023
 date-format: long
-image: "/images/energy-systems.png"
+image: "https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/energy-systems.png"
 format:
   revealjs:
     theme: white
@@ -24,7 +24,7 @@ draft: true
 
 ## Energy grand challenges: net-zero
 
-![](/images/iea-net-zero.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/iea-net-zero.png){fig-align="center"}
 
 ::: footer
 Source: @iea_net_2021
@@ -43,7 +43,7 @@ Source: @iea_net_2021
 :::
 
 ::: {.column width="50%"}
-![](/images/climate-curriculum.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/climate-curriculum.png){fig-align="center"}
 :::
 :::
 
@@ -99,7 +99,7 @@ Source: @macknick_energy_2011
 
 ## Human component is the major driver of warming
 
-![](/images/drivers-of-warming.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/drivers-of-warming.png){fig-align="center"}
 
 ::: footer
 Source: [Chapter 3](https://science2017.globalchange.gov/chapter/3/) of the Fourth National Climate Assessment (NCA4)
@@ -142,7 +142,7 @@ And:
 
 ::: {.column width="50%"}
 
-![](/images/kaya-identity-co2.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/kaya-identity-co2.png){fig-align="center"}
 :::
 
 :::
@@ -154,7 +154,7 @@ Source: @kaya_environment_1997, [Kaya Identity: drivers of CO₂ emissions in th
 
 ## Risks and resilience
 
-![](/images/risk-and-resilience.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/risk-and-resilience.png){fig-align="center"}
 
 ::: footer
 Source: IPCC, [WG2](https://www.ipcc.ch/report/ar6/wg2/figures/technical-summary/)
@@ -163,7 +163,7 @@ Source: IPCC, [WG2](https://www.ipcc.ch/report/ar6/wg2/figures/technical-summary
 
 ## Energy systems
 
-![](/images/energy-systems.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/energy-systems.png){fig-align="center"}
 
 ::: footer
 Source: IIASA, [Energy Primier](https://previous.iiasa.ac.at/web/home/research/Flagship-Projects/Global-Energy-Assessment/GEA_Chapter1.pdf) 
@@ -219,7 +219,7 @@ Source: @koomey2010defining
 
 ## P-N Junction 
 
-![](/images/p-n-junction.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/p-n-junction.png){fig-align="center"}
 
 ::: footer
 Read more: <https://www.energy.gov/eere/solar/how-does-solar-work>
@@ -231,7 +231,7 @@ Read more: <https://www.energy.gov/eere/solar/how-does-solar-work>
 
 ::: {.column width="50%"}
 
-![](/images/block-island-wind.jpeg){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/block-island-wind.jpeg){fig-align="center"}
 
 :::
 
@@ -259,7 +259,7 @@ Photo by Gang He, Block Island Offshore Wind Farm
 
 ::: {.column width="50%"}
 
-![](/images/fission.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/fission.png){fig-align="center"}
 
 <p style="font-size:14pt; color:gray; text-align:center;">
 Nuclear fission
@@ -269,7 +269,7 @@ Nuclear fission
 
 ::: {.column width="50%"}
 
-![](/images/fusion-reactions.jpeg){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/fusion-reactions.jpeg){fig-align="center"}
 
 </br>
 
@@ -291,7 +291,7 @@ Read more: EIA, [Nuclear explained](https://www.eia.gov/energyexplained/nuclear/
 
 ::: {.column width="50%"}
 
-![](/images/hydro.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/hydro.png){fig-align="center"}
 
 <p style="font-size:14pt; color:gray; text-align:center;">
 Hydropower 
@@ -300,7 +300,7 @@ Hydropower
 :::
 
 ::: {.column width="50%"}
-![](/images/pumped-storage.jpeg){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/pumped-storage.jpeg){fig-align="center"}
 
 <p style="font-size:14pt; color:gray; text-align:center;">
 Pumped storage hydropower (PSH)

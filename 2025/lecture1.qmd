@@ -4,7 +4,7 @@ description-meta: "Introduction to energy, climate, and society"
 author: "Gang He"
 date: Jan 27, 2025
 date-format: long
-image: "/images/424ppm.png"
+image: "https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/424ppm.png"
 format:
   revealjs:
     theme: white
@@ -21,7 +21,7 @@ format:
     footer: <https://drganghe.github.io/energy-climate-society/>
 ---
 
-![](/images/424ppm.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/424ppm.png){fig-align="center"}
 
 ::: footer
 Source: [NOAA](https://gml.noaa.gov/ccgg/trends/gl_trend.html)
@@ -31,7 +31,7 @@ Source: [NOAA](https://gml.noaa.gov/ccgg/trends/gl_trend.html)
 
 ## 2024 is the first year to exceed 1.5°C above pre-industrial level
 
-![](/images/GCH2024_1.5C.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/GCH2024_1.5C.png){fig-align="center"}
 
 ::: footer
 Source: [Copernicus](https://climate.copernicus.eu/copernicus-2024-first-year-exceed-15degc-above-pre-industrial-level)
@@ -54,7 +54,7 @@ Source: [Copernicus](https://climate.copernicus.eu/copernicus-2024-first-year-ex
 
 ::: columns
 ::: {.column width="50%"}
-![](/images/trump-eo-sign.webp){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/trump-eo-sign.webp){fig-align="center"}
 :::
 
 ::: {.column width="50%"}
@@ -74,11 +74,11 @@ Photo source: [NYT](https://www.nytimes.com/2025/01/22/us/politics/trump-executi
 
 ::: columns
 ::: {.column width="50%"}
-![](/images/20240622-economist-cover-solar.avif){fig-align="center" width=50%}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/20240622-economist-cover-solar.avif){fig-align="center" width=50%}
 :::
 
 ::: {.column width="50%"}
-![](/images/green-power-gap.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/green-power-gap.png){fig-align="center"}
 :::
 :::
 
@@ -183,7 +183,7 @@ Using analytic approach to answer questions such as:
 :::
 
 ::: {.column width="50%"}
-![](/images/climate-curriculum.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/climate-curriculum.png){fig-align="center"}
 :::
 :::
 
@@ -194,7 +194,7 @@ Source: [Kimberly A Nicholas](https://www.kimnicholas.com/climate-change-curricu
 
 ## Climate and energy systems are both complicated
 
-![](/images/us-energy-infrastructure.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/us-energy-infrastructure.png){fig-align="center"}
 
 ::: footer
 Source: [EIA](https://www.eia.gov/state/maps.php)
@@ -204,7 +204,7 @@ Source: [EIA](https://www.eia.gov/state/maps.php)
 
 ::: columns
 ::: {.column width="50%"}
-![](/images/world-energy-trilemma-2021.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/world-energy-trilemma-2021.png){fig-align="center"}
 :::
 
 ::: {.column width="50%"}
@@ -228,7 +228,7 @@ Source: [World Energy Council](https://www.worldenergy.org/transition-toolkit/wo
 
 ::: columns
 ::: {.column width="50%"}
-![](/images/economy-environment-energy.jpeg){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/economy-environment-energy.jpeg){fig-align="center"}
 :::
 
 ::: {.column width="50%"}
@@ -246,7 +246,7 @@ Source: [ICMA](https://icma.org/articles/article/growing-green-economy)
 
 ## Energy great achievements
 
-![](/images/energy-great-achievement.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/energy-great-achievement.png){fig-align="center"}
 
 ::: footer
 Source: [National Academies](http://www.greatachievements.org/)
@@ -254,7 +254,7 @@ Source: [National Academies](http://www.greatachievements.org/)
 
 ## Energy grand challenges: SDGs
 
-![](/images/un-sdg.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/un-sdg.png){fig-align="center"}
 
 ::: footer
 Source: [UN](https://www.un.org/sustainabledevelopment/sustainable-development-goals/)
@@ -262,7 +262,7 @@ Source: [UN](https://www.un.org/sustainabledevelopment/sustainable-development-g
 
 ## Energy grand challenges: net-zero
 
-![](/images/iea-net-zero.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/iea-net-zero.png){fig-align="center"}
 
 ::: footer
 Source: @iea_net_2021
@@ -271,7 +271,7 @@ Source: @iea_net_2021
 
 ## Renewables are achieving grid parity
 
-![](/images/irena-re-costs-2021.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/irena-re-costs-2021.png){fig-align="center"}
 
 ::: footer
 Source: @irena_renewable_2021
@@ -281,11 +281,11 @@ Source: @irena_renewable_2021
 
 ::: columns
 ::: {.column width="50%"}
-<br> ![](/images/accelerate-re-china.png){fig-align="center"}
+<br> ![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/accelerate-re-china.png){fig-align="center"}
 :::
 
 ::: {.column width="50%"}
-![](/images/re-costs-and-ccs.jpg){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/re-costs-and-ccs.jpg){fig-align="center"}
 :::
 :::
 

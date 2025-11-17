@@ -4,7 +4,7 @@ description-meta: "Thermal dynamics and fossil technologies"
 author: "Gang He"
 date: September 28, 2023
 date-format: long
-image: "/images/heat_engine.png"
+image: "https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/heat_engine.png"
 format:
   revealjs:
     theme: white
@@ -35,7 +35,7 @@ format:
 
 ## Heat engine
 
-![](/images/heat_engine.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/heat_engine.png){fig-align="center"}
 
 Heat -\> Mechanical energy (work)
 
@@ -77,7 +77,7 @@ Read more: [Sadi Carnot](https://en.wikipedia.org/wiki/Nicolas_L%C3%A9onard_Sadi
 
 ## A gas turbine engine
 
-![](/images/gas-turbine-engine.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/gas-turbine-engine.png){fig-align="center"}
 
 ::: footer
 Source: [Wikipedia](https://upload.wikimedia.org/wikipedia/commons/4/4c/Jet_engine.svg)
@@ -86,7 +86,7 @@ Source: [Wikipedia](https://upload.wikimedia.org/wikipedia/commons/4/4c/Jet_engi
 
 ## A steam coal plant
 
-![](/images/coal_fired_power_plant_diagram.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/coal_fired_power_plant_diagram.png){fig-align="center"}
 
 ::: footer
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Fossil_fuel_power_station)
@@ -96,7 +96,7 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Fossil_fuel_power_station)
 
 ::: columns
 ::: {.column width="50%"}
-![](/images/Brayton_cycle.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/Brayton_cycle.png){fig-align="center"}
 
 <p style="font-size:14pt; color:gray; text-align:center;">
 
@@ -106,7 +106,7 @@ Jet engine, gas turbine
 :::
 
 ::: {.column width="50%"}
-![](/images/Rankine_cycle.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/Rankine_cycle.png){fig-align="center"}
 
 <p style="font-size:14pt; color:gray; text-align:center;">
 
@@ -136,7 +136,7 @@ Read more: Wikipedia [Brayton cycle](https://en.wikipedia.org/wiki/Brayton_cycle
 
 ::: columns
 ::: {.column width="50%"}
-![](/images/georgia_power_plant_scherer.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/georgia_power_plant_scherer.png){fig-align="center"}
 :::
 
 ::: {.column width="50%"}
@@ -174,7 +174,7 @@ Read more: [Tennessee Valley Authority](https://www.tva.com/energy/our-power-sys
 
 ## CCGT Diagram
 
-![](/images/GE-CCGT-diagram.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/GE-CCGT-diagram.png){fig-align="center"}
 
 ::: footer
 Read more: [GE Power](https://www.ge.com/gas-power/resources/education/what-is-a-gas-turbine)

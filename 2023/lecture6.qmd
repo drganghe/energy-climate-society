@@ -4,7 +4,7 @@ description-meta: "Discuss the adaptation of climate change"
 author: "Gang He"
 date: September 19, 2023
 date-format: long
-image: "/images/risk-and-resilience.png"
+image: "https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/risk-and-resilience.png"
 format:
   revealjs:
     theme: white
@@ -34,7 +34,7 @@ format:
 :::
 
 ::: {.column width="50%"}
-![](/images/climate-curriculum.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/climate-curriculum.png){fig-align="center"}
 :::
 :::
 
@@ -45,7 +45,7 @@ Source: [Kimberly A Nicholas](https://www.kimnicholas.com/climate-change-curricu
 
 ## Risks and resilience
 
-![](/images/risk-and-resilience.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/risk-and-resilience.png){fig-align="center"}
 
 ::: footer
 Source: IPCC, [WG2](https://www.ipcc.ch/report/ar6/wg2/figures/technical-summary/)
@@ -54,7 +54,7 @@ Source: IPCC, [WG2](https://www.ipcc.ch/report/ar6/wg2/figures/technical-summary
 
 ## Adaptation options
 
-![](/images/climate-response-adapation-options.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/climate-response-adapation-options.png){fig-align="center"}
 
 ::: footer
 Source: IPCC, [WG2](https://www.ipcc.ch/report/ar6/wg2/figures/technical-summary/)
@@ -63,7 +63,7 @@ Source: IPCC, [WG2](https://www.ipcc.ch/report/ar6/wg2/figures/technical-summary
 
 ## Adaptation potential
 
-![](/images/apaptation-potential.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/apaptation-potential.png){fig-align="center"}
 
 ::: footer
 Source: IPCC, [WG2](https://www.ipcc.ch/report/ar6/wg2/figures/technical-summary/)
@@ -72,7 +72,7 @@ Source: IPCC, [WG2](https://www.ipcc.ch/report/ar6/wg2/figures/technical-summary
 
 ## Ecosystem health
 
-![](/images/ecosystem-health-climate-resilience.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/ecosystem-health-climate-resilience.png){fig-align="center"}
 
 ::: footer
 Source: IPCC, [WG2](https://www.ipcc.ch/report/ar6/wg2/figures/technical-summary/)
@@ -81,7 +81,7 @@ Source: IPCC, [WG2](https://www.ipcc.ch/report/ar6/wg2/figures/technical-summary
 
 ## Ecosystem adaptation
 
-![](/images/ecosystem-adaptation.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/ecosystem-adaptation.png){fig-align="center"}
 
 ::: footer
 Source: IPCC, [WG2](https://www.ipcc.ch/report/ar6/wg2/figures/technical-summary/)
@@ -90,7 +90,7 @@ Source: IPCC, [WG2](https://www.ipcc.ch/report/ar6/wg2/figures/technical-summary
 
 ## Food security
 
-![](/images/food-security.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/food-security.png){fig-align="center"}
 
 ::: footer
 Source: IPCC, [WG2](https://www.ipcc.ch/report/ar6/wg2/figures/technical-summary/)
@@ -99,7 +99,7 @@ Source: IPCC, [WG2](https://www.ipcc.ch/report/ar6/wg2/figures/technical-summary
 
 ## Vulnerable groups
 
-![](/images/vulnerable-groups.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/vulnerable-groups.png){fig-align="center"}
 
 ::: footer
 Source: IPCC, [WG2](https://www.ipcc.ch/report/ar6/wg2/figures/technical-summary/)
@@ -108,7 +108,7 @@ Source: IPCC, [WG2](https://www.ipcc.ch/report/ar6/wg2/figures/technical-summary
 
 ## Synthetic adaptation
 
-![](/images/synthesis-adapation.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/synthesis-adapation.png){fig-align="center"}
 
 ::: footer
 Source: IPCC, [WG2](https://www.ipcc.ch/report/ar6/wg2/figures/technical-summary/)
@@ -144,7 +144,7 @@ More resources: [New York City Assesses Extreme Heat Climate Risk](https://www.e
 
 ## Mekong River Basin
 
-![](/images/mekong-river-basin-adaptation.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/mekong-river-basin-adaptation.png){fig-align="center"}
 
 ::: footer
 More resources: UNEP, [Case Studies](https://wedocs.unep.org/handle/20.500.11822/41111;jsessionid=3717F47150FAD2349607FC3904051EB7)

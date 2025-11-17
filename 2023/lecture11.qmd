@@ -4,7 +4,7 @@ description-meta: "Wind technolgies"
 author: "Gang He"
 date: October 5, 2023
 date-format: long
-image: "/images/block-island-wind.jpeg"
+image: "https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/block-island-wind.jpeg"
 format:
   revealjs:
     theme: white
@@ -24,7 +24,7 @@ format:
 
 ## Sun, the source
 
-![](/images/perez-planetary-energy.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/perez-planetary-energy.png){fig-align="center"}
 
 ::: footer
 Source: [Richard Perez](http://asrc.albany.edu/people/faculty/perez/)
@@ -36,7 +36,7 @@ Source: [Richard Perez](http://asrc.albany.edu/people/faculty/perez/)
 
 ::: {.column width="50%"}
 
-![](/images/block-island-wind.jpeg){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/block-island-wind.jpeg){fig-align="center"}
 
 :::
 
@@ -64,12 +64,12 @@ Photo by Gang He, Block Island Offshore Wind Farm
 
 ::: {.column width="50%"}
 
-![](/images/upwind-downwind.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/upwind-downwind.png){fig-align="center"}
 
 :::
 
 ::: {.column width="50%"}
-![](/images/blade-efficiency.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/blade-efficiency.png){fig-align="center"}
 :::
 
 :::
@@ -85,7 +85,7 @@ Source: @masters2013renewable
 
 ::: {.column width="50%"}
 
-![](/images/wind-distribution.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/wind-distribution.png){fig-align="center"}
 
 :::
 
@@ -108,7 +108,7 @@ Read more: @masters2013renewable
 
 ## Power curve
 
-![](/images/wind-power-curve.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/wind-power-curve.png){fig-align="center"}
 
 ::: footer
 Read more: NREL, [Validation of Power Output for the WIND Toolkit](https://www.nrel.gov/docs/fy14osti/61714.pdf)
@@ -146,7 +146,7 @@ Source: [NREL](https://www.nrc.gov/docs/ML0720/ML072040340.pdf)
 
 ## Global wind power density map
 
-![](/images/global-wind-power-density-map.webp){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/global-wind-power-density-map.webp){fig-align="center"}
 
 ::: footer
 Source: [Global Wind Atlas](https://globalwindatlas.info/en/download/high-resolution-maps/World)
@@ -158,11 +158,11 @@ Source: [Global Wind Atlas](https://globalwindatlas.info/en/download/high-resolu
 :::columns
 
 ::: {.column width="50%"}
-![](/images/turbine-hub-height-rotor-capacity.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/turbine-hub-height-rotor-capacity.png){fig-align="center"}
 :::
 
 ::: {.column width="50%"}
-![](/images/Turbine-Hub-Height-Chart.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/Turbine-Hub-Height-Chart.png){fig-align="center"}
 :::
 
 :::
@@ -174,7 +174,7 @@ Source: [Land-Based Wind Market Report 2023](https://www.energy.gov/sites/defaul
 
 ## Offshore wind
 
-![](/images/US_Wind_Power_Resource_at_100-Meter_Hub_Height.webp){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/US_Wind_Power_Resource_at_100-Meter_Hub_Height.webp){fig-align="center"}
 
 ::: footer
 Source: DOE, [Offshore Wind Energy](https://windexchange.energy.gov/markets/offshore)
@@ -186,11 +186,11 @@ Source: DOE, [Offshore Wind Energy](https://windexchange.energy.gov/markets/offs
 :::columns
 
 ::: {.column width="50%"}
-![](/images/offshore-floating-turbines.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/offshore-floating-turbines.png){fig-align="center"}
 :::
 
 ::: {.column width="50%"}
-![](/images/resources-demand-offshore-us.png){width="70%" fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/resources-demand-offshore-us.png){width="70%" fig-align="center"}
 :::
 
 :::
@@ -226,7 +226,7 @@ Source: [Low Speed Wind Turbines](https://faculty.washington.edu/malte/OldSite/s
 
 ## Unexpected benefits
 
-![](/images/grazing-animals-like-sheep-enjoy-using-the-shadows-of-wind.webp){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/grazing-animals-like-sheep-enjoy-using-the-shadows-of-wind.webp){fig-align="center"}
 
 ::: footer
 Source: [Reddit](https://www.reddit.com/r/interestingasfuck/comments/ubofys/grazing_animals_like_sheep_enjoy_using_the/)
@@ -235,7 +235,7 @@ Source: [Reddit](https://www.reddit.com/r/interestingasfuck/comments/ubofys/graz
 
 ## Hybrid power systems
 
-![](/images/hybrid-power-systems.png){fig-align="center"}
+![](https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/hybrid-power-systems.png){fig-align="center"}
 
 ::: footer
 Source: [Small Wind Guidebook](https://windexchange.energy.gov/small-wind-guidebook#grid)

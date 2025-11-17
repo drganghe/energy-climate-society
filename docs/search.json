@@ -6038,14 +6038,14 @@
     "href": "policymemo.html#presentation",
     "title": "Policy Memo",
     "section": "Presentation",
-    "text": "Presentation\nYour presentation should about 15-20mins long summarizing your work. Please record your presentation with your video on or face visible. Please submit both the video and slides.\nYour presentation will be graded by the following criteria:\n\nNice presence [4pt]\nClear presentation of project ideas and insights [4pt]\nMastery of the subject [4pt]\nPresentation design and style [4pt]\nOverall impression [4pt]"
+    "text": "Presentation\nYour presentation should about 15-20mins long summarizing your work. Please record your presentation with your video on or face visible.\nYour presentation will be graded by the following criteria:\n\nNice presence [4pt]\nClear presentation of project ideas and insights [4pt]\nMastery of the subject [4pt]\nPresentation design and style [4pt]\nOverall impression [4pt]"
   },
   {
     "objectID": "policymemo.html#policy-memo",
     "href": "policymemo.html#policy-memo",
     "title": "Policy Memo",
     "section": "Policy Memo",
-    "text": "Policy Memo\nA typical policy includes an introduction (topic or problem), scope of problem, current approach, proposed approach/policies and evidences, conclusion. Your policy memo should be double spaced, 2-3 pages long, excluding appropriately cited references.\nYour policy will be graded by the following criteria:\n\nCreativity in defifing a topic/problem [5pt]\nRigorous analysis [5]\nClear writing, presentation, visulization [5]\nOverall impression [5pt]"
+    "text": "Policy Memo\nA typical policy includes an introduction (topic or problem), scope of problem, current approach, proposed approach/policies and evidences, conclusion. Your policy memo should be double spaced, 2-3 pages long, excluding appropriately cited references.\nYour policy will be graded by the following criteria:\n\nCreativity in defining a topic/problem [5pt]\nRigorous analysis [5pt]\nClear writing, presentation, visualization [5pt]\nOverall impression [5pt]"
   },
   {
     "objectID": "policymemo.html#student-projects",
@@ -6151,5 +6151,194 @@
     "title": "Syllabus",
     "section": "Grading Scale",
     "text": "Grading Scale\n\n\n\n\nGrade\nRange\nGrade\nRange\n\n\n\n\nA\n93 - 100%\nC\n73 - 76.99%\n\n\nA-\n90 - 92.99%\nC-\n70 - 72.99%\n\n\nB+\n87 - 89.99%\nD+\n67 - 69.99%\n\n\nB\n83 - 86.99%\nD\n63 - 66.99%\n\n\nB-\n80 - 82.99%\nD-\n60 - 62.99%\n\n\nC+\n77 - 79.99%\nF\n&lt; 60%"
+  },
+  {
+    "objectID": "2023/lecture22.html#energy-grand-challenges-net-zero",
+    "href": "2023/lecture22.html#energy-grand-challenges-net-zero",
+    "title": "Lecture 22 Review and Summary",
+    "section": "Energy grand challenges: net-zero",
+    "text": "Energy grand challenges: net-zero\n\n\nSource: IEA (2021)"
+  },
+  {
+    "objectID": "2023/lecture22.html#a-five-points-climate-haiku",
+    "href": "2023/lecture22.html#a-five-points-climate-haiku",
+    "title": "Lecture 22 Review and Summary",
+    "section": "A five points “climate haiku”",
+    "text": "A five points “climate haiku”\n\n\n\nIt’s warming\nIt’s us\nWe’re sure\nIt’s bad\nWe can fix it"
+  },
+  {
+    "objectID": "2023/lecture22.html#energy-vs-power",
+    "href": "2023/lecture22.html#energy-vs-power",
+    "title": "Lecture 22 Review and Summary",
+    "section": "Energy vs power",
+    "text": "Energy vs power\n\n\n\nEnergy is the ability to do work. Energy is power integrated over time.\nBasic unit: joule = watt·second\n\n\n\nPower is the rate at which work is done, or energy is transmitted.\nBasic unit: watt = jourle/second\n\n\nWe need to know what we are talking about!"
+  },
+  {
+    "objectID": "2023/lecture22.html#common-sources-of-energy-and-climate-data",
+    "href": "2023/lecture22.html#common-sources-of-energy-and-climate-data",
+    "title": "Lecture 22 Review and Summary",
+    "section": "Common sources of energy and climate data",
+    "text": "Common sources of energy and climate data\n\n\nEnergy:\n- IEA (OECD)\n- EIA\n- UN\n- WB\n- BP Statistical Review of World Energy\n\nClimate:\n- NASA\n- NCAR\n- EUCCI\n- UNEP\n- NOAA\n\nCarbon:\n- CDIAC (Carbon Dioxide Information Analysis Center)\n- EDGAR (emissions database for global atmospheric research system)\n- Carbon Budget Project\n- Carbon Monitor\n\n\nSource: Macknick (2011)"
+  },
+  {
+    "objectID": "2023/lecture22.html#human-component-is-the-major-driver-of-warming",
+    "href": "2023/lecture22.html#human-component-is-the-major-driver-of-warming",
+    "title": "Lecture 22 Review and Summary",
+    "section": "Human component is the major driver of warming",
+    "text": "Human component is the major driver of warming\n\n\nSource: Chapter 3 of the Fourth National Climate Assessment (NCA4)"
+  },
+  {
+    "objectID": "2023/lecture22.html#social-cost-of-carbon",
+    "href": "2023/lecture22.html#social-cost-of-carbon",
+    "title": "Lecture 22 Review and Summary",
+    "section": "Social cost of carbon",
+    "text": "Social cost of carbon\n\nMarginal cost of carbon\n\nCost included:\n\n\nNet agricultural productivity\n\nHuman health\n\nProperty damage\n\nEnergy system costs\n\n\nCost not included:\n\n\nUnknown impact: physical, ecological, economic\n\nUnknown cost: information"
+  },
+  {
+    "objectID": "2023/lecture22.html#kaya-identify",
+    "href": "2023/lecture22.html#kaya-identify",
+    "title": "Lecture 22 Review and Summary",
+    "section": "Kaya identify",
+    "text": "Kaya identify\n\n\n\\(F=P \\times \\frac{G}{P} \\times \\frac{E}{G} \\times \\frac{F}{E}\\)\n\nWhere:\n\nF: global CO2 emissions from human sources\nP: global population\nG: world GDP\nE: global energy consumption\n\nAnd:\n\nG/P: GDP per capita\nE/G: energy intensity of the GDP\nF/E: emission intensity of energy\n\n\n\n\n\n\n\n\n\n\nSource: Kaya and Yokobori (1997), Kaya Identity: drivers of CO₂ emissions in the World"
+  },
+  {
+    "objectID": "2023/lecture22.html#risks-and-resilience",
+    "href": "2023/lecture22.html#risks-and-resilience",
+    "title": "Lecture 22 Review and Summary",
+    "section": "Risks and resilience",
+    "text": "Risks and resilience\n\n\nSource: IPCC, WG2"
+  },
+  {
+    "objectID": "2023/lecture22.html#energy-systems",
+    "href": "2023/lecture22.html#energy-systems",
+    "title": "Lecture 22 Review and Summary",
+    "section": "Energy systems",
+    "text": "Energy systems\n\n\nSource: IIASA, Energy Primier"
+  },
+  {
+    "objectID": "2023/lecture22.html#energy-project-economics",
+    "href": "2023/lecture22.html#energy-project-economics",
+    "title": "Lecture 22 Review and Summary",
+    "section": "Energy project economics",
+    "text": "Energy project economics\n\nNPV, discounting, LCOE, learning rate\nProject economics is useful for basic cost-benefit analysis\n\nGetting the price (discounting) right\n\nUnderstanding technology dynamics will help to model future projections\n\nAware of the limitations"
+  },
+  {
+    "objectID": "2023/lecture22.html#thermodynamics",
+    "href": "2023/lecture22.html#thermodynamics",
+    "title": "Lecture 22 Review and Summary",
+    "section": "Thermodynamics",
+    "text": "Thermodynamics\n\nThermodynamic efficiency\n\nComparing different technologies\n\nThermodynamics provides physic limits"
+  },
+  {
+    "objectID": "2023/lecture22.html#brayton-cycle-vs.-rankine-cycle",
+    "href": "2023/lecture22.html#brayton-cycle-vs.-rankine-cycle",
+    "title": "Lecture 22 Review and Summary",
+    "section": "Brayton cycle vs. Rankine cycle",
+    "text": "Brayton cycle vs. Rankine cycle\n\n\n\nBrayton Cycle\nRankine Cycle\n\n\n\n\nJet, Gas turbine\nSteam turbine\n\n\nOpen\nOpen/closed circuits\n\n\nWorking fluid in gaseous phase\nWorking fluid phase change\n\n\n\n\nRead more: Wikipedia Brayton cycle and Rankine cycle"
+  },
+  {
+    "objectID": "2023/lecture22.html#defining-a-rosenfeld-plant",
+    "href": "2023/lecture22.html#defining-a-rosenfeld-plant",
+    "title": "Lecture 22 Review and Summary",
+    "section": "Defining a Rosenfeld Plant",
+    "text": "Defining a Rosenfeld Plant\n\n500 MW\nc.f.: 70%\nT&D losss: 7%\n\nResults:\n\n3 TWh/year\n\n3 MtCO2/year\nNYC electricity use: ~4 TWh/year\n\n\nSource: Koomey et al. (2010)"
+  },
+  {
+    "objectID": "2023/lecture22.html#p-n-junction",
+    "href": "2023/lecture22.html#p-n-junction",
+    "title": "Lecture 22 Review and Summary",
+    "section": "P-N Junction",
+    "text": "P-N Junction\n\n\nRead more: https://www.energy.gov/eere/solar/how-does-solar-work"
+  },
+  {
+    "objectID": "2023/lecture22.html#wind",
+    "href": "2023/lecture22.html#wind",
+    "title": "Lecture 22 Review and Summary",
+    "section": "Wind",
+    "text": "Wind\n\n\n\n\n\n\n\n\n\\(P=\\frac{1}{2}\\rho \\pi r^2 v^3\\)\n\nWhere,\n\\(\\rho\\) = Air Density (\\(kg/m^3\\))\n\\(A\\) = Swept Area (m2) = \\(\\pi r^2\\)\n\\(v\\) = Wind Speed (m/s)\n\\(P\\) = Power (W)\n\n\n\nPhoto by Gang He, Block Island Offshore Wind Farm"
+  },
+  {
+    "objectID": "2023/lecture22.html#nuclear",
+    "href": "2023/lecture22.html#nuclear",
+    "title": "Lecture 22 Review and Summary",
+    "section": "Nuclear",
+    "text": "Nuclear\n\n\n\n\n\n\n\n\nNuclear fission\n\n\n\n\n\n\n\n\n\nNuclear fussion\n\n\n\nRead more: EIA, Nuclear explained; DOE, Nuclear fusion reactions"
+  },
+  {
+    "objectID": "2023/lecture22.html#hydro",
+    "href": "2023/lecture22.html#hydro",
+    "title": "Lecture 22 Review and Summary",
+    "section": "Hydro",
+    "text": "Hydro\n\n\n\n\n\n\n\n\nHydropower\n\n\n\n\n\n\n\n\nPumped storage hydropower (PSH)\n\n\n\n\n\\(E=\\rho mg(h_2-h_1)\\)\n\n\nSource: TVA"
+  },
+  {
+    "objectID": "2023/lecture22.html#energy-demand",
+    "href": "2023/lecture22.html#energy-demand",
+    "title": "Lecture 22 Review and Summary",
+    "section": "Energy demand",
+    "text": "Energy demand\n\nEnergy demand is shaped by dynamic factors: populations, GDP, technology, regulation, and human behavior\n\nUnderstanding those drivers will help us learn the magnitude and profile of our demand\n\nLoad forecast integrates all insights to the show"
+  },
+  {
+    "objectID": "2023/lecture22.html#energy-efficiency",
+    "href": "2023/lecture22.html#energy-efficiency",
+    "title": "Lecture 22 Review and Summary",
+    "section": "Energy efficiency",
+    "text": "Energy efficiency\n\nThere are barriers for energy efficiency and inforamtion and standards can help address the energy efficiency gap\n\nHuman behavior is complicated, and understanding it will help us to design policy\n\nRebound is real but might be overplayed, rebound could be good if improve welfare\n\nSustainable consumption and production within the limit"
+  },
+  {
+    "objectID": "2023/lecture22.html#energy-access-and-energy-justice",
+    "href": "2023/lecture22.html#energy-access-and-energy-justice",
+    "title": "Lecture 22 Review and Summary",
+    "section": "Energy access and energy justice",
+    "text": "Energy access and energy justice\n\nElectricity/energy access is fundamental to other modern services: education, health, and information\n\nEnergy access also has gender equity, health cobenefits, and other implications\n\nEnergy justice is important to achieve just transition\n\nAn reflection on our approaches to energy justice"
+  },
+  {
+    "objectID": "2023/lecture22.html#energy-environment-and-human-health",
+    "href": "2023/lecture22.html#energy-environment-and-human-health",
+    "title": "Lecture 22 Review and Summary",
+    "section": "Energy, environment, and human health",
+    "text": "Energy, environment, and human health\n\nEnvironmental and health impacts are the externalities of energy systems\n\nEnergy-air-pollution-human health framework of analysis\n\nEnergy-water-carbon nexus\n\nSystem impacts show the constraint in systems modeling"
+  },
+  {
+    "objectID": "2023/lecture22.html#energy-transition",
+    "href": "2023/lecture22.html#energy-transition",
+    "title": "Lecture 22 Review and Summary",
+    "section": "Energy transition",
+    "text": "Energy transition\n\nDiverse factors that drive energy transition\n\nCommon and differentiated solutions to energy\n\nLeverage the advantages\n\nAddressing uncertainties: geopolitics, wars, pandemic, and more"
+  },
+  {
+    "objectID": "2023/lecture22.html#power-sector-decarbonization",
+    "href": "2023/lecture22.html#power-sector-decarbonization",
+    "title": "Lecture 22 Review and Summary",
+    "section": "Power sector decarbonization",
+    "text": "Power sector decarbonization\n\nPower sector’s central role in decarbonization\n\nCapacity expansion model to analyze the optimized investment decisions\n\nDecisions in the real world is much more complicated\n\nEmerging trends in the power sector"
+  },
+  {
+    "objectID": "2023/lecture22.html#big-data-and-ai",
+    "href": "2023/lecture22.html#big-data-and-ai",
+    "title": "Lecture 22 Review and Summary",
+    "section": "Big data and AI",
+    "text": "Big data and AI\n\nAI and big data has transformed how we live, and how can we save the planet\n\nAI does not automatic add new insights, but it provides powerful tools to analyze increasingly available big data\n\nLearning those new tools and skills becomes necessary to work in the field\n\nThe potential of using AI/big data to analyze our understanding of energy supply/demand and human behavior is enomorous."
+  },
+  {
+    "objectID": "2023/lecture22.html#lca",
+    "href": "2023/lecture22.html#lca",
+    "title": "Lecture 22 Review and Summary",
+    "section": "LCA",
+    "text": "LCA\n\nSystem thinking and LCA thinking\n\nLCA could offer insights\n\nLearning those new tools and skills to do basic LCA\n\nLCA is a system think to address energy and climate challenges."
+  },
+  {
+    "objectID": "2023/lecture22.html#uncertainies-and-limitation",
+    "href": "2023/lecture22.html#uncertainies-and-limitation",
+    "title": "Lecture 22 Review and Summary",
+    "section": "Uncertainies and limitation",
+    "text": "Uncertainies and limitation\n\nKnow the limitation of models\n\nUse model appropriately\n\nInterpret/communicate the results effectively\n\nModels for social good"
+  },
+  {
+    "objectID": "2023/lecture22.html#references",
+    "href": "2023/lecture22.html#references",
+    "title": "Lecture 22 Review and Summary",
+    "section": "",
+    "text": "References\n\n\nIEA. 2021. “Net Zero by 2050.” International Energy Agency. https://www.iea.org/reports/net-zero-by-2050.\n\n\nKaya, Yoichi, and Keiichi Yokobori, eds. 1997. Environment, Energy, and Economy: Strategies for Sustainable. Tokyo: United Nations Univ. https://archive.unu.edu/unupress/unupbooks/uu17ee/uu17ee00.htm.\n\n\nKoomey, Jonathan, Hashem Akbari, Carl Blumstein, Marilyn Brown, Richard Brown, Chris Calwell, Sheryl Carter, et al. 2010. “Defining a Standard Metric for Electricity Savings.” Environmental Research Letters 5 (1): 014017. https://iopscience.iop.org/article/10.1088/1748-9326/5/1/014017.\n\n\nMacknick, Jordan. 2011. “Energy and CO2 Emission Data Uncertainties.” Carbon Management 2 (2): 189–205. https://doi.org/10.4155/cmt.11.10.\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He"
   }
 ]

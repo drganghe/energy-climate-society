@@ -1,6 +1,6 @@
 ---
 title: "Tools of the Trade: Solar Wind Assessment"
-image: "/images/World_PVOUT_map.png"
+image: "https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/World_PVOUT_map.png"
 format: 
   html: 
     theme: cosmo
