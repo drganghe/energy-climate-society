@@ -7,7 +7,7 @@ title: Syllabus
 
 **Marxe School of Public and International Affairs**
 
-**Course Name**: PAF [3195](https://baruch-undergraduate.catalog.cuny.edu/courses/1561701) (54476), Energy, Climate, and Society (Spring 2025)
+**Course Name**: PAF [3195](https://baruch-undergraduate.catalog.cuny.edu/courses/1561701) (54476), Energy, Climate, and Society (Spring 2026)
 
 **Instructor**: Gang He
 
@@ -15,7 +15,7 @@ title: Syllabus
 
 **Time**: Monday 6-9pm
 
-**Location**: Online 
+**Location**: Hybrid (online and in-person) 
 
 
 {{< include /files/includes/_coursedescription.qmd >}}

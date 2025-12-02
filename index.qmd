@@ -1,5 +1,5 @@
 ---
-title: "Energy, Climate, and Society (Spring 2025)"
+title: "Energy, Climate, and Society (Spring 2026)"
 image: "/files/images/hex-Energy-Climate-Society.png"
 sidebar: false
 toc: false

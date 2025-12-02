@@ -1,0 +1,35 @@
+---
+title: Spring 2026 Course Schedule
+page-layout: full
+repo-actions: false
+---
+
+<!--This is my personal clarity, please delete or replace with your own clarity-->
+{{< include /files/includes/_msclarity.qmd >}}
+
+[Readings](readings.qmd)
+
+
+| Week | Date | Lecture    | Guest Speaker   | Assignment |
+| ---- | ---- | -------------------------------------------- | ------------------------------------------- | ------------- |
+| 1    | 1/26 | Introduction: grand challenges      |          |            |
+| 2    | 2/2  | Numbers and project economics    |  |   PR1         |
+| 3    | 2/9  | Climate fundamentals and impact  |    |     PR2      |
+| 4    | 2/16 | **College Closed -- No session**   |       |     PR3       |
+| 5    | 2/23 | Energy systems overview   |      |     HW1      |
+| 6    | 3/2  | Energy conversion technologies |   | PR4        |
+| 7    | 3/9  | Energy demand, energy and economy  |   | HW2       |
+| 8    | 3/16 | Energy efficiency, behavior, and sustainable consumption  |   | PR5   |
+| 9    | 3/23 | Energy, environment, climate, and human health  |   | PR6       |
+| 10   | 3/30 | Energy and power systems transition |  |     PM proposal       |
+| 11   | 4/6  | **Spring Recess -- No session**           |   | HW3  |
+| 12   | 4/13 | Energy access and energy justice   |         |            |
+| 13   | 4/20 | Energy efficiency and behavior  |   | HW4   |
+| 14   | 4/27 | Uncertainties in policy analysis and review and summary     |  |       |
+| 15   | 5/4  | Presentations     |                    |           |
+| 16   | 5/11 | Presentations      |              |            |
+| 17   | 5/18 | Student Projects    |              |     Policy Memo        |
+
+: {.striped .responsive}
+
+Note: PR--Policy Response, HW--Homework Assignment, PM--Policy Memo 

@@ -1,0 +1,431 @@
+---
+title: "Lecture 1 Introduction: Grand Challenges"
+description-meta: "Introduction to energy and climate policy"
+author: "Gang He"
+date: January 26, 2026
+date-format: long
+image: "https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/iea-net-zero.png"
+format:
+  revealjs:
+    theme: white
+ #   embed-resources: true
+    slide-number: true
+    preview-links: auto
+    link-external-newwindow: true
+    citations-hover: true
+    auto-stretch: true
+    r-fit-text: true
+    center: true
+    scrollable: true
+    css: /custom.css
+    footer: <https://drganghe.github.io/energy-climate-society/>
+---
+
+## August 2025:	425.48 ppm
+
+![]({{< var file_path >}}/images/425ppm.png){fig-align="center"}
+
+::: footer
+Source: [NOAA](https://gml.noaa.gov/ccgg/trends/gl_trend.html)
+:::
+
+
+## Welcome and icebreaker
+
+-   Rose: "something that is working well or something positive"
+-   Thorn: "something that isn't working or something negative"
+-   Bud: "an area of opportunity or idea yet to be explored"
+
+## What brings you here?
+
+-   Concerned topics?
+-   Motivations?
+-   Dream jobs?
+
+## Not fast enough
+
+::: columns
+::: {.column width="50%"}
+![]({{< var file_path >}}/images/20240622-economist-cover-solar.avif){fig-align="center" width=50%}
+:::
+
+::: {.column width="50%"}
+![]({{< var file_path >}}/images/green-power-gap.png){fig-align="center"}
+:::
+:::
+
+How the exponential growth of solar will change the energy sector and the economy?
+
+::: footer
+Source: [The Economist](https://www.economist.com/leaders/2024/06/20/the-exponential-growth-of-solar-power-will-change-the-world), [Green Power Gap](https://www.rockefellerfoundation.org/report/the-green-power-gap/)
+:::
+
+
+## ~150 Gt Carbon Budget
+
+![]({{< var file_path >}}/images/1.5-degree-carbon-budget.png){fig-align="center"}
+
+::: footer
+Source: [WRI](https://www.wri.org/insights/1-5-degrees-c-target-explained)
+:::
+
+
+## More renewables than coal
+
+![]({{< var file_path >}}/images/more-renewables-than-coal.png){fig-align="center"}
+
+::: footer
+Source: [EMBER](https://ember-energy.org/latest-insights/global-electricity-mid-year-insights-2025/global-analysis/#renewables-overtake-coal-as-fossil-fuels-fall-slig)
+:::
+
+
+## Why PAF9187?
+
+-   Policy matters
+    -   Technology innovation
+    -   Social change
+    -   Research
+    -   Jobs
+-   Clean energy transition to achieve climate goals
+
+## Organization
+
+-   Syllabus
+-   Brightspace
+-   Course website: <https://drganghe.github.io/energy-climate-policy/>
+-   Policy responses (6): 30%
+-   Assignments (4): 20%
+-   Proposal: 10%
+-   Final presentations: 20%
+-   Policy memo: 20%
+
+## Climate guest speakers{.smaller}
+
+-   9/15 – [Mallory Flowers](https://drganghe.github.io/climate-guest-speakers/speakers/mallory-flowers/index.html): Carbon disclosure--the intersect of public and private climate governance 
+-   9/29 – [Shanru Tian](https://drganghe.github.io/climate-guest-speakers/speakers/shanru-tian/index.html): Optimizing the efficacy of leak detection and quantification for natural gas pipelines 
+-   10/6 – [Karan Bhuwalka](https://drganghe.github.io/climate-guest-speakers/speakers/karan-bhuwalka/index.html): Guiding what to build in the supply chain of energy technologies 
+-   10/14 – [Beia Spiller](https://drganghe.github.io/climate-guest-speakers/speakers/beia-spiller/index.html): The transition to decarbonized transport sector 
+-   11/3 – [Shuchen Cong](https://drganghe.github.io/climate-guest-speakers/speakers/shuchen-cong/index.html): Identifying energy limiting behavior and its implications 
+-   11/17 – [Claudia Villar-Leeman](https://drganghe.github.io/climate-guest-speakers/speakers/claudia-villar-leeman/index.html): NYC's electric grid and role of energy storage 
+-   11/24 – [Cecilia Springer](https://drganghe.github.io/climate-guest-speakers/speakers/cecilia-springer/index.html): U.S. data center energy demand and emissions 
+-   12/1 – [Luo Xu](https://drganghe.github.io/climate-guest-speakers/speakers/luo-xu/index.html): Towards resilient and sustainable electricity grids under climate extremes 
+
+::: footer
+Learn more: <https://drganghe.github.io/climate-guest-speakers/>
+:::
+
+## Contents
+
+::: columns
+::: {.column width="30%"}
+-   Climate change
+    -   Impact
+    -   Mitigation
+    -   Adaption
+    -   Governance
+:::
+
+::: {.column width="40%"}
+-   Energy systems
+    -   Supply
+    -   Demand
+    -   Economics
+    -   Technology
+:::
+
+::: {.column width="30%"}
+-   Tools/skills
+    -   Data analysis
+    -   Economic analysis
+    -   Energy-economy-environment (nexus)
+:::
+:::
+
+## A five points "climate haiku"
+
+::: columns
+::: {.column width="50%"}
+1.  It's warming
+2.  It's us
+3.  We're sure
+4.  It's bad
+5.  **We can fix it**
+:::
+
+::: {.column width="50%"}
+![]({{< var file_path >}}/images/climate-curriculum.png){fig-align="center"}
+:::
+:::
+
+::: footer
+Source: [Kimberly A Nicholas](https://www.kimnicholas.com/climate-change-curriculum.html)
+:::
+
+## An analytical approach
+
+Data-driven, evidence-based, energy and climate policy
+
+Using analytic tool to answer questions such as:
+
+-   What will be the climate future if we do nothing?
+-   What technology to invest to achieve our climate goal?
+-   What will be the impact to carbon emission of IRA?
+-   How NYS/NYC could achieve its climate goals?
+
+## Two quotes about models
+
+::: columns
+::: {.column width="50%"}
+George Box:
+
+>All models are wrong, but some are useful.
+:::
+
+::: {.column width="50%"}
+Albert Einstein:
+
+>Everything should be made as simple as possible, but not simpler.
+:::
+:::
+
+
+## Models can be useful
+
+-   Prediction/Projection
+-   Simulation
+-   Optimization
+-   Control
+-   Stochastic/dynamic
+-   Policy: Scenarios
+
+Models help us think
+
+## Modeling is hard
+
+::: columns
+::: {.column width="50%"}
+![]({{< var file_path >}}/images/EIA-coal-consumption-forecasts.png){fig-align="center"}
+:::
+
+::: {.column width="50%"}
+![]({{< var file_path >}}/images/WEO-PV-projections.png){fig-align="center"}
+:::
+:::
+
+## Why?
+
+-   **Risk**: System structural change could break our core data and assumptions that are based on historical experience. Example: shale gas revolution.
+
+-   **Uncertainty**: The exact timing and character of pivotal events and technology changes is unpredictable. Example: renewables cost changes, fussion.
+
+::: footer
+Read more from [Jon Koomey](https://www.slideshare.net/jgkoomey/past-performance-is-no-guide-to-future-returns-why-we-cant-accurately-forecast-the-future)
+:::
+
+## Why: climate and energy systems are both complicated
+
+![]({{< var file_path >}}/images/us-energy-infrastructure.png){fig-align="center"}
+
+::: footer
+Source: [EIA](https://www.eia.gov/state/maps.php)
+:::
+
+## The Energy Trillemma: Balancing trade-offs
+
+::: columns
+::: {.column width="50%"}
+![]({{< var file_path >}}/images/world-energy-trilemma-2021.png){fig-align="center"}
+:::
+
+::: {.column width="50%"}
+::: r-fit-text
+**Energy security**: Ensure reliable energy supply
+
+**Energy equity**: Provide universal access to reliable, affordable, and abundant energy
+
+**Environmental Sustainability**: Avoid environmental harm or climate impact
+
+Those goals sometimes conflict with each other, and decisions has to make trade-offs between them
+:::
+:::
+:::
+
+::: footer
+Source: [World Energy Council](https://www.worldenergy.org/transition-toolkit/world-energy-trilemma-index)
+:::
+
+## Energy, economy, and environment
+
+::: columns
+::: {.column width="50%"}
+![]({{< var file_path >}}/images/economy-environment-energy.jpeg){fig-align="center"}
+:::
+
+::: {.column width="50%"}
+**Economy**: Decent living? Growth? Degrowth?
+
+**Environment**: Emissions, ecosystems constraints/goals
+
+**Energy**: Work within constraints
+:::
+:::
+
+::: footer
+Source: [ICMA](https://icma.org/articles/article/growing-green-economy)
+:::
+
+## Energy great achievement
+
+![]({{< var file_path >}}/images/energy-great-achievement.png){fig-align="center"}
+
+::: footer
+Source: [National Academies](http://www.greatachievements.org/)
+:::
+
+## Energy and climate grand challenges
+
+::: {style="font-size:16pt; text-align: center;"}
+-   **Make solar energy affordable**
+-   **Provide energy from fusion**
+-   **Develop carbon sequestration methods**
+-   Manage the nitrogen cycle
+-   Provide access to clean water
+-   Restore and improve urban infrastructure
+-   Advance health informatics
+-   Engineer better medicines
+-   Reverse-engineer the brain
+-   Prevent nuclear terror
+-   Secure cyberspace
+-   Enhance virtual reality
+-   Advance personalized learning
+-   Engineer the tools for scientific discovery
+:::
+
+::: footer
+Source: [National Academies](https://www.nationalacademies.org/news/2008/02/21-centurys-grand-engineering-challenges-unveiled)
+:::
+
+
+## Public administration grand challenges
+
+::: {style="font-size:16pt; text-align: center;"}
+- Protect electoral integrity and enhance voter participation
+- Modernize and reinvigorate the public service
+- Develop new approaches to public governance and engagement
+- Advance national interests in a changing global context
+- Foster social equity
+- Connect individuals to meaningful work
+- Build resilient communities
+- Advance the nation’s long-term fiscal health
+- **Steward natural resources and address climate change**
+- Create modern water systems for safe and sustainable use
+- Ensure data security and privacy rights of individuals
+- Make government AI ready
+:::
+
+::: footer
+Source: [National Academy of Public Administration](https://napawash.org/grand-challenges/the-12-grand-challenges)
+:::
+
+## Energy grand challenges: SDGs
+
+![]({{< var file_path >}}/images/un-sdg.png){fig-align="center"}
+
+::: footer
+Source: [UN](https://www.un.org/sustainabledevelopment/sustainable-development-goals/)
+:::
+
+## Energy grand challenges: net-zero
+
+![]({{< var file_path >}}/images/iea-net-zero.png){fig-align="center"}
+
+::: footer
+Source: @iea_net_2021
+:::
+
+## Modeling can be useful/insightful (an example)
+
+-   Build the structure
+-   Demonstrate the relation
+-   Visualize the changes
+-   Inform the impacts
+
+## Renewables are achieving grid parity: a structural change
+
+![]({{< var file_path >}}/images/irena-re-costs-2021.png){fig-align="center"}
+
+::: footer
+Source: @irena_renewable_2021
+:::
+
+## Implications are profound
+
+::: columns
+::: {.column width="50%"}
+<br> ![]({{< var file_path >}}/images/accelerate-re-china.png){fig-align="center"}
+:::
+
+::: {.column width="50%"}
+![]({{< var file_path >}}/images/re-costs-and-ccs.jpg){fig-align="center"}
+:::
+:::
+
+::: footer
+Source: @he_rapid_2020, @grant_cost_2021
+:::
+
+## End with two quotes {.smaller}
+
+::: columns
+::: {.column width="50%"}
+Bill Hogan:
+
+> It is not the individual results of a model that are so important; it is the improved user appreciation of the policy problem that is the greatest contribution of modeling.
+:::
+
+::: {.column width="50%"}
+Huntington, Weyant, Sweeney "Modeling for insights, not numbers":
+
+> The primary goal of policy modeling should be the insights quantitative models can provide, not the precise-looking projections --i.e. numbers -- they can produce for any given scenario.
+:::
+:::
+
+::: footer
+Source: @hogan_energy_2002, @huntington_modeling_1982
+:::
+
+
+## The Anthropocene
+
+::: columns
+::: {.column width="50%"}
+![]({{< var file_path >}}/images/increasing-rates-of-change-in-human-activity.png){fig-align="center"}
+:::
+::: {.column width="50%"}
+![]({{< var file_path >}}/images/global-scale-change-in-earth-systems.png){fig-align="center"}
+:::
+:::
+
+::: footer
+Source: @steffenAnthropoceneGlobalChange2011
+:::
+
+
+## Earth beyond six of nine planetary boundaries
+
+![]({{< var file_path >}}/images/planetary-boundaries-over-time.png){fig-align="center"}
+
+::: footer
+Source: [Stockholm Resilience Center](https://www.stockholmresilience.org/research/planetary-boundaries.html); @richardsonEarthSixNine2023
+:::
+
+
+
+------------------------------------------------------------------------
+
+### References
+
+::: {#refs}
+:::
+
+{{< include /files/includes/_lastslidefooter.qmd >}}

@@ -17,14 +17,6 @@
     ]
   },
   {
-    "listing": "/2023/students.html",
-    "items": []
-  },
-  {
-    "listing": "/2025/students.html",
-    "items": []
-  },
-  {
     "listing": "/tools.html",
     "items": [
       "/tools/3pathway.html",
@@ -32,5 +24,13 @@
       "/tools/4lca.html",
       "/tools/2sam.html"
     ]
+  },
+  {
+    "listing": "/2025/students.html",
+    "items": []
+  },
+  {
+    "listing": "/2023/students.html",
+    "items": []
   }
 ]

@@ -16,7 +16,7 @@ website:
       - text: Syllabus
         href: syllabus.qmd
       - text: Schedule
-        href: 2025/schedule.qmd
+        href: 2026/schedule.qmd
       - text: Lectures
         href: lectures.qmd
       - text: Guest Speakers
@@ -34,8 +34,10 @@ website:
           href: resources.qmd
       - text: Archive
         menu:
+          - text: Spring 2025
+            href: 2025/schedule.qmd         
           - text: Fall 2023
-            href: 2023/schedule.qmd           
+            href: 2023/schedule.qmd                    
       - text: Dr. Gang He
         href: http://drganghe.github.io        
     right: 
@@ -43,13 +45,14 @@ website:
         href: https://github.com/drganghe/energy-climate-society
   page-navigation: true
   page-footer: 
-    left: "[Gang He](http://drganghe.github.io) &copy; <script>document.write(new Date().getFullYear())</script>" 
-    right: 
-      - icon: github
-        href: https://github.com/drganghe/energy-climate-society
-      - text: "{{< fa brands bluesky >}}" 
-        href: https://bsky.app/profile/hegang.bsky.social
-        target: _blank
+    center: "[Energy, Climate, and Society](https://drganghe.github.io/energy-climate-society/) class taught by [Gang He](http://drganghe.github.io) &copy; <script>document.write(new Date().getFullYear())</script>" 
+    # left: "[Gang He](http://drganghe.github.io) &copy; <script>document.write(new Date().getFullYear())</script>" 
+    # right: 
+    #   - icon: github
+    #     href: https://github.com/drganghe/energy-climate-society
+    #   - text: "{{< fa brands bluesky >}}" 
+    #     href: https://bsky.app/profile/hegang.bsky.social
+    #     target: _blank
   search:
     location: navbar
     type: textbox
