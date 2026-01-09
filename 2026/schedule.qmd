@@ -14,9 +14,9 @@ repo-actions: false
 | ---- | ---- | -------------------------------------------- | ------------------------------------------- | ------------- |
 | 1    | 1/26 | Introduction: grand challenges      |          |            |
 | 2    | 2/2  | Numbers and project economics    |  |   PR1         |
-| 3    | 2/9  | Climate fundamentals and impact  | [Dr. Weila Gong](https://drganghe.github.io/climate-guest-speakers/speakers/weila-gong/)   |     PR2      | 
+| 3    | 2/9  | Climate fundamentals and impact  |    |     PR2      | 
 | 4    | 2/16 | **College Closed -- No session**   |       |     PR3       |
-| 5    | 2/23 | Energy systems overview   |      |     HW1      |
+| 5    | 2/23 | Energy systems overview   |   [Dr. Weila Gong](https://drganghe.github.io/climate-guest-speakers/speakers/weila-gong/)   |     HW1      |
 | 6    | 3/2  | Energy conversion technologies |   | PR4        |
 | 7    | 3/9  | Energy demand, energy and economy  |   | HW2       |
 | 8    | 3/16 | Energy efficiency, behavior, and sustainable consumption  |   | PR5   |
