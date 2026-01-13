@@ -30,6 +30,7 @@ title: Syllabus
 This is a restricted list of various interesting and useful books that will be discussed during the course. You need to consult them occasionally, but they are optional.
 
 - Koomey, Jonathan, and Ian Monroe. 2022. Solving Climate Change: A Guide for Learners and Leaders. IOP Publishing. <https://iopscience.iop.org/book/mono/978-0-7503-4032-8>.
+- John Randolph, and Gilbert M. Masters. 2018. [Energy for Sustainability: Foundations for Technology, Planning, and Policy](https://islandpress.org/books/energy-sustainability-second-edition)(Second Edition). Island Press.
 - MacKay, David JC. 2008. [Sustainable Energy without the Hot Air](https://www.withouthotair.com/). UIT Cambridge Ltd.
 - Readings and materials will be posted online.
 
@@ -38,10 +39,12 @@ This is a restricted list of various interesting and useful books that will be d
 Final grades will be calculated as follows:
 
 <div style="width:550px">
+
 Item                           | Weight | Notes
--------------------------------|--------|-------------------------------------
-Weekly policy response         | 30 %   | 6 responses
-Assignments                    | 20 %   | 4 assignments
+-------------------------------------|--------|-----------------
+Weekly policy response         | 18 %   | 6 responses
+Assignments                    | 21 %   | 3 assignments
+Climate negotiation position paper | 10 %   | 
 Project: Proposal              | 10 %   | 
 Project: Presentation          | 20 %   |
 Project: Policy memo           | 20 %   |
