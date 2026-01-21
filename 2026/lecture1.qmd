@@ -1,6 +1,6 @@
 ---
 title: "Lecture 1 Introduction: Grand Challenges"
-description-meta: "Introduction to energy and climate policy"
+description-meta: "Introduction to energy, climate, and society"
 author: "Gang He"
 date: January 26, 2026
 date-format: long
@@ -21,9 +21,9 @@ format:
     footer: <https://drganghe.github.io/energy-climate-society/>
 ---
 
-## August 2025:	425.48 ppm
+## January 2026: 427.15 ppm
 
-![]({{< var file_path >}}/images/425ppm.png){fig-align="center"}
+![]({{< var file_path >}}/images/427ppm.png){fig-align="center"}
 
 ::: footer
 Source: [NOAA](https://gml.noaa.gov/ccgg/trends/gl_trend.html)
@@ -41,6 +41,42 @@ Source: [NOAA](https://gml.noaa.gov/ccgg/trends/gl_trend.html)
 -   Concerned topics?
 -   Motivations?
 -   Dream jobs?
+
+## More renewables than coal
+
+![]({{< var file_path >}}/images/more-renewables-than-coal-2025.png){fig-align="center"}
+
+::: footer
+Source: [EMBER](https://ember-energy.org/latest-insights/global-electricity-mid-year-insights-2025/global-analysis/#renewables-overtake-coal-as-fossil-fuels-fall-slig)
+:::
+
+
+## UK coal history
+
+![]({{< var file_path >}}/images/uk-coal-phase-out.webp){fig-align="center"}
+
+::: footer
+Source: [Carbon Brief](https://interactive.carbonbrief.org/coal-phaseout-UK/index.html)
+:::
+
+
+## Coal power drops in China and India
+
+![]({{< var file_path >}}/images/coal-power-drops-in-china-india.png){fig-align="center"}
+
+::: footer
+Source: [Carbon Brief](https://www.carbonbrief.org/analysis-coal-power-drops-in-china-and-india-for-first-time-in-52-years-after-clean-energy-records)
+:::
+
+
+## US coal rebuncing?
+
+![]({{< var file_path >}}/images/US-coal-rebouncing.png){fig-align="center"}
+
+::: footer
+Source: [New York Times](https://www.nytimes.com/2026/01/13/climate/us-emissions-2025-coal-power.html)
+:::
+
 
 ## Not fast enough
 
@@ -70,16 +106,10 @@ Source: [WRI](https://www.wri.org/insights/1-5-degrees-c-target-explained)
 :::
 
 
-## More renewables than coal
-
-![]({{< var file_path >}}/images/more-renewables-than-coal.png){fig-align="center"}
-
-::: footer
-Source: [EMBER](https://ember-energy.org/latest-insights/global-electricity-mid-year-insights-2025/global-analysis/#renewables-overtake-coal-as-fossil-fuels-fall-slig)
-:::
 
 
-## Why PAF9187?
+
+## Why PAF3195?
 
 -   Policy matters
     -   Technology innovation
@@ -88,27 +118,25 @@ Source: [EMBER](https://ember-energy.org/latest-insights/global-electricity-mid-
     -   Jobs
 -   Clean energy transition to achieve climate goals
 
-## Organization
+## Organization{.smaller}
 
 -   Syllabus
 -   Brightspace
--   Course website: <https://drganghe.github.io/energy-climate-policy/>
--   Policy responses (6): 30%
--   Assignments (4): 20%
+-   Course website: <https://drganghe.github.io/energy-climate-society/>
+-   Policy responses (6): 18%
+-   Assignments (3): 21%
 -   Proposal: 10%
 -   Final presentations: 20%
 -   Policy memo: 20%
+-   Course evaluation: 1%
 
 ## Climate guest speakers{.smaller}
 
--   9/15 – [Mallory Flowers](https://drganghe.github.io/climate-guest-speakers/speakers/mallory-flowers/index.html): Carbon disclosure--the intersect of public and private climate governance 
--   9/29 – [Shanru Tian](https://drganghe.github.io/climate-guest-speakers/speakers/shanru-tian/index.html): Optimizing the efficacy of leak detection and quantification for natural gas pipelines 
--   10/6 – [Karan Bhuwalka](https://drganghe.github.io/climate-guest-speakers/speakers/karan-bhuwalka/index.html): Guiding what to build in the supply chain of energy technologies 
--   10/14 – [Beia Spiller](https://drganghe.github.io/climate-guest-speakers/speakers/beia-spiller/index.html): The transition to decarbonized transport sector 
--   11/3 – [Shuchen Cong](https://drganghe.github.io/climate-guest-speakers/speakers/shuchen-cong/index.html): Identifying energy limiting behavior and its implications 
--   11/17 – [Claudia Villar-Leeman](https://drganghe.github.io/climate-guest-speakers/speakers/claudia-villar-leeman/index.html): NYC's electric grid and role of energy storage 
--   11/24 – [Cecilia Springer](https://drganghe.github.io/climate-guest-speakers/speakers/cecilia-springer/index.html): U.S. data center energy demand and emissions 
--   12/1 – [Luo Xu](https://drganghe.github.io/climate-guest-speakers/speakers/luo-xu/index.html): Towards resilient and sustainable electricity grids under climate extremes 
+-   2/23 – [Dr. Weila Gong](https://drganghe.github.io/climate-guest-speakers/speakers/weila-gong/index.html): Implementing a Low-Carbon Future–Climate Leadership in Chinese Cities
+-   3/2 – [Andrew Rubenbauer](https://drganghe.github.io/climate-guest-speakers/speakers/andrew-rubenbauer/index.html) TBC: Sustainability Operations at Dairy Farmers of America 
+-   3/16 – [Anthony Afriyie](https://drganghe.github.io/climate-guest-speakers/speakers/anthony-afriyie/index.html) TBC: Ocean economy and community engagement 
+-   3/23 – [Dr. Haozhe Yang](https://drganghe.github.io/climate-guest-speakers/speakers/haozhe-yang/index.html): Towards resilient and sustainable electricity grids under climate extremes 
+-   3/30 – [Dr. Luo Xu](https://drganghe.github.io/climate-guest-speakers/speakers/luo-xu/index.html): Towards resilient and sustainable electricity grids under climate extremes 
 
 ::: footer
 Learn more: <https://drganghe.github.io/climate-guest-speakers/>
@@ -343,7 +371,7 @@ Source: [UN](https://www.un.org/sustainabledevelopment/sustainable-development-g
 Source: @iea_net_2021
 :::
 
-## Modeling can be useful/insightful (an example)
+## Modeling can be useful/insightful 
 
 -   Build the structure
 -   Demonstrate the relation
@@ -374,26 +402,6 @@ Source: @irena_renewable_2021
 Source: @he_rapid_2020, @grant_cost_2021
 :::
 
-## End with two quotes {.smaller}
-
-::: columns
-::: {.column width="50%"}
-Bill Hogan:
-
-> It is not the individual results of a model that are so important; it is the improved user appreciation of the policy problem that is the greatest contribution of modeling.
-:::
-
-::: {.column width="50%"}
-Huntington, Weyant, Sweeney "Modeling for insights, not numbers":
-
-> The primary goal of policy modeling should be the insights quantitative models can provide, not the precise-looking projections --i.e. numbers -- they can produce for any given scenario.
-:::
-:::
-
-::: footer
-Source: @hogan_energy_2002, @huntington_modeling_1982
-:::
-
 
 ## The Anthropocene
 
@@ -419,6 +427,25 @@ Source: @steffenAnthropoceneGlobalChange2011
 Source: [Stockholm Resilience Center](https://www.stockholmresilience.org/research/planetary-boundaries.html); @richardsonEarthSixNine2023
 :::
 
+## End with two quotes {.smaller}
+
+::: columns
+::: {.column width="50%"}
+Bill Hogan:
+
+> It is not the individual results of a model that are so important; it is the improved user appreciation of the policy problem that is the greatest contribution of modeling.
+:::
+
+::: {.column width="50%"}
+Huntington, Weyant, Sweeney "Modeling for insights, not numbers":
+
+> The primary goal of policy modeling should be the insights quantitative models can provide, not the precise-looking projections --i.e. numbers -- they can produce for any given scenario.
+:::
+:::
+
+::: footer
+Source: @hogan_energy_2002, @huntington_modeling_1982
+:::
 
 
 ------------------------------------------------------------------------
