@@ -4,7 +4,7 @@ description-meta: "Introduction to energy, climate, and society"
 author: "Gang He"
 date: January 26, 2026
 date-format: long
-image: "https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/iea-net-zero.png"
+image: "https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/more-renewables-than-coal-2025.png"
 format:
   revealjs:
     theme: white
@@ -133,7 +133,7 @@ Source: [WRI](https://www.wri.org/insights/1-5-degrees-c-target-explained)
 ## Climate guest speakers{.smaller}
 
 -   2/23 – [Dr. Weila Gong](https://drganghe.github.io/climate-guest-speakers/speakers/weila-gong/index.html): Implementing a Low-Carbon Future–Climate Leadership in Chinese Cities
--   3/2 – [Andrew Rubenbauer](https://drganghe.github.io/climate-guest-speakers/speakers/andrew-rubenbauer/index.html) TBC: Sustainability Operations at Dairy Farmers of America 
+-   3/2 – [Andrew Rubenbauer](https://drganghe.github.io/climate-guest-speakers/speakers/andrew-rubenbauer/index.html): Sustainability Operations at Dairy Farmers of America 
 -   3/16 – [Anthony Afriyie](https://drganghe.github.io/climate-guest-speakers/speakers/anthony-afriyie/index.html) TBC: Ocean economy and community engagement 
 -   3/23 – [Dr. Haozhe Yang](https://drganghe.github.io/climate-guest-speakers/speakers/haozhe-yang/index.html): Towards resilient and sustainable electricity grids under climate extremes 
 -   3/30 – [Dr. Luo Xu](https://drganghe.github.io/climate-guest-speakers/speakers/luo-xu/index.html): Towards resilient and sustainable electricity grids under climate extremes 

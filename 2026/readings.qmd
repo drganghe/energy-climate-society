@@ -18,7 +18,7 @@ citations-hover: false
 - @he_rapid_2020 
 - @grant_cost_2021
 
-<!--
+
 ## Lecture 2
 
 - @hermann2006quantifying 
@@ -34,6 +34,7 @@ citations-hover: false
 - @GRUBLER20105174
 - @helveston_he_davidson_2022
 
+<!--
 
 ## Lecture 3
 

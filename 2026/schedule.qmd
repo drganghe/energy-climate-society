@@ -12,12 +12,12 @@ repo-actions: false
 
 | Week | Date | Lecture    | Guest Speaker   | Assignment |
 | ---- | ---- | -------------------------------------------- | ------------------------------------------- | ------------- |
-| 1    | 1/26 | Introduction: grand challenges      |          |            |
-| 2    | 2/2  | Numbers and project economics    |  |   PR1         |
+| 1    | 1/26 | [Introduction: Grand Challenges](/2026/lecture1.qmd)      |          |            |
+| 2    | 2/2  | [Numbers and Project Economics](/2026/lecture2.qmd)    |  |   PR1         |
 | 3    | 2/9  | Climate fundamentals and impact  |    |     PR2      | 
 | 4    | 2/16 | **College Closed -- No session**   |       |     PR3       |
 | 5    | 2/23 | Energy systems overview   |   [Dr. Weila Gong](https://drganghe.github.io/climate-guest-speakers/speakers/weila-gong/)   |     HW1      |
-| 6    | 3/2  | Energy conversion technologies | [Andrew Rubenbauer](https://drganghe.github.io/climate-guest-speakers/speakers/andrew-rubenbauer/) TBC | PR4        |
+| 6    | 3/2  | Energy conversion technologies | [Andrew Rubenbauer](https://drganghe.github.io/climate-guest-speakers/speakers/andrew-rubenbauer/) | PR4        |
 | 7    | 3/9  | Energy demand, energy and economy  |   | HW2       |
 | 8    | 3/16 | Energy efficiency, behavior, and sustainable consumption  | [Anthony Afriyie](https://drganghe.github.io/climate-guest-speakers/speakers/anthony-afriyie/) TBC | PR5   |
 | 9    | 3/23 | Energy, environment, climate, and human health  | [Dr. Haozhe Yang](https://drganghe.github.io/climate-guest-speakers/speakers/haozhe-yang/)  | PR6       |
