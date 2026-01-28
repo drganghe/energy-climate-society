@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Lectures – Energy, Climate, and Society</title>
+<title>Assignment 1 Carbon Footprint Calculation – Energy, Climate, and Society</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,26 +23,24 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-35155b22413c9ef7a79a96887d465071.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-35155b22413c9ef7a79a96887d465071.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -69,35 +67,6 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-2026-lectures .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-image','listing-date','listing-title','listing-author',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-2026-lectures'] = new List('listing-2026-lectures', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-9ZBRZBEKDN"></script>
 
 <script type="text/javascript">
@@ -108,47 +77,14 @@ gtag('js', new Date());
 gtag('config', 'G-9ZBRZBEKDN', { 'anonymize_ip': true});
 </script>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="styles.css">
-<meta property="og:title" content="Lectures – Energy, Climate, and Society">
-<meta property="og:image" content="https://drganghe.github.io/energy-climate-society/files/images/hex-Energy-Climate-Society.png">
+<link rel="stylesheet" href="../styles.css">
+<meta property="og:title" content="Assignment 1 Carbon Footprint Calculation – Energy, Climate, and Society">
+<meta property="og:description" content="Energy, Climate, and Society, an undergraduate level energy and climate topic open course developed by Dr.&nbsp;Gang He.">
 <meta property="og:site_name" content="Energy, Climate, and Society">
-<meta property="og:image:height" content="1200">
-<meta property="og:image:width" content="1037">
-<meta name="twitter:title" content="Lectures – Energy, Climate, and Society">
-<meta name="twitter:image" content="https://drganghe.github.io/energy-climate-society/files/images/hex-Energy-Climate-Society.png">
-<meta name="twitter:image-height" content="1200">
-<meta name="twitter:image-width" content="1037">
-<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Assignment 1 Carbon Footprint Calculation – Energy, Climate, and Society">
+<meta name="twitter:description" content="Energy, Climate, and Society, an undergraduate level energy and climate topic open course developed by Dr.&nbsp;Gang He.">
+<meta name="twitter:card" content="summary">
 </head>
 
 <body class="nav-fixed quarto-light">
@@ -158,7 +94,7 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Energy, Climate, and Society</span>
     </a>
   </div>
@@ -169,15 +105,15 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./syllabus.html"> 
+    <a class="nav-link" href="../syllabus.html"> 
 <span class="menu-text">Syllabus</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./2026/schedule.html"> 
+    <a class="nav-link" href="../2026/schedule.html"> 
 <span class="menu-text">Schedule</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./lectures.html" aria-current="page"> 
+    <a class="nav-link" href="../lectures.html"> 
 <span class="menu-text">Lectures</span></a>
   </li>  
   <li class="nav-item">
@@ -190,19 +126,19 @@ window.Quarto = {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-guide">    
         <li>
-    <a class="dropdown-item" href="./mock-climate-negotiation.html">
+    <a class="dropdown-item" href="../mock-climate-negotiation.html">
  <span class="dropdown-text">Mock Climate Negotiation</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./tools.html">
+    <a class="dropdown-item" href="../tools.html">
  <span class="dropdown-text">Tools of the Trade</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./policymemo.html">
+    <a class="dropdown-item" href="../policymemo.html">
  <span class="dropdown-text">Policy Memo</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./resources.html">
+    <a class="dropdown-item" href="../resources.html">
  <span class="dropdown-text">Resources</span></a>
   </li>  
     </ul>
@@ -213,11 +149,11 @@ window.Quarto = {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-archive">    
         <li>
-    <a class="dropdown-item" href="./2025/schedule.html">
+    <a class="dropdown-item" href="../2025/schedule.html">
  <span class="dropdown-text">Spring 2025</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./2023/schedule.html">
+    <a class="dropdown-item" href="../2023/schedule.html">
  <span class="dropdown-text">Fall 2023</span></a>
   </li>  
     </ul>
@@ -246,21 +182,31 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#instructions" id="toc-instructions" class="nav-link active" data-scroll-target="#instructions">Instructions</a></li>
+  <li><a href="#carbon-footprint-calculators" id="toc-carbon-footprint-calculators" class="nav-link" data-scroll-target="#carbon-footprint-calculators">Carbon footprint calculators</a></li>
+  <li><a href="#further-readings" id="toc-further-readings" class="nav-link" data-scroll-target="#further-readings">Further readings</a></li>
+  </ul>
+<div class="toc-actions"><ul><li><a href="https://github.com/drganghe/energy-climate-society/edit/main/2026/hw1.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/drganghe/energy-climate-society/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li><li><a href="https://github.com/drganghe/energy-climate-society/blob/main/2026/hw1.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li></ul></div><div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="hw1.pdf"><i class="bi bi-file-pdf"></i>PDF</a></li></ul></div></nav>
+    </div>
 <!-- main -->
-<main class="content column-page" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Lectures</h1>
+<h1 class="title">Assignment 1 Carbon Footprint Calculation</h1>
 </div>
 
 
 
-<div class="quarto-title-meta column-page">
+<div class="quarto-title-meta">
 
     
   
@@ -272,100 +218,55 @@ window.Quarto = {
 </header>
 
 
-<!--This is my personal clarity, please delete or replace with your own clarity-->
-<!-- 
-https://learn.microsoft.com/en-us/clarity/setup-and-installation/clarity-setup
--->
-<script type="text/javascript">
-    (function(c,l,a,r,i,t,y){
-        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
-        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
-    })(window, document, "clarity", "script", "ktfar1v3c9");
-</script>
-<section id="lectures" class="level2">
-<h2 class="anchored" data-anchor-id="lectures">2026 Lectures</h2>
-<div id="listing-2026-lectures" class="quarto-listing quarto-listing-container-grid">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-date-sort="1769403600000" data-listing-file-modified-sort="1769709031196" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1089">
-<a href="./2026/lecture1.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/more-renewables-than-coal-2025.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Lecture 1 Introduction: Grand Challenges
-</h5>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Gang He
-</div>
-<div class="listing-date">
-Jan 26, 2026
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="1" data-listing-date-sort="1770008400000" data-listing-file-modified-sort="1769453741997" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="904">
-<a href="./2026/lecture2.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/boe-equations.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Lecture 2 Energy and Climate Numbers and Project Economics
-</h5>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Gang He
-</div>
-<div class="listing-date">
-Feb 2, 2026
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="2" data-listing-date-sort="1770613200000" data-listing-file-modified-sort="1770420364123" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1008">
-<a href="./2026/lecture3.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/co2_historical.jpeg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Lecture 3 Climate Fundamentals and Impacts
-</h5>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Gang He
-</div>
-<div class="listing-date">
-Feb 9, 2026
-</div>
-</div>
-</div>
-</div></a>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div>
-<!--
-
-## 2025 Lectures
-::: {#2025-lectures}
-:::
-
-## 2023 Lectures
-
-::: {#2023-lectures}
-:::
-
--->
-
+<p>Understanding your <strong>carbon footprint</strong> is the first step toward reducing it. This assignment will help you quantify the carbon emission associated with your daily activities, analyze the factors that drive your emissions, and connect them to the broad issue of global climate change.</p>
+<section id="instructions" class="level2">
+<h2 class="anchored" data-anchor-id="instructions">Instructions</h2>
+<ol type="1">
+<li>Create a detailed inventory of your energy consuming activities (2pt)</li>
+</ol>
+<ul>
+<li>Catergorize them into travel (e.g., driving, flights, public transit), home energy use(e.g.,lighting, cooking, heating, cooling), food choices, shopping habits, and other relevant categories.</li>
+<li>Aim for as complete a list as possible to ensure an accurate assessment</li>
+</ul>
+<ol start="2" type="1">
+<li>Calculate your energy consumption (2pt)</li>
+</ol>
+<ul>
+<li>For each activity, estimate the amount of energy used (e.g., electricity in kWh, gasoline in gallons, natural gas in therms).<br>
+</li>
+<li>Use utility bills, travel distances, or online references to guide your estimates.</li>
+</ul>
+<ol start="3" type="1">
+<li>Determin your carbon footprint (2pts)</li>
+</ol>
+<ul>
+<li>Find appropriate emission factors for each energy source (e.g., kgCO<sub>2</sub> per kWh of electricity, kgCO<sub>2</sub> per gallon of gasoline).</li>
+<li>If exact data is unavailable, make reasonable assumptions and document them.</li>
+<li>Calculate your daily and annual carbon footprint based on your energy consumption and emission factors.</li>
+</ul>
+<ol start="4" type="1">
+<li>Analysis &amp; mitigation strategies (1 pt)</li>
+</ol>
+<ul>
+<li>Identify areas where you can reduce your carbon footprint and propose practical steps to lower emissions.<br>
+</li>
+<li>Discuss potential barriers to reducing emissions (e.g., financial constraints, infrastructure limitations, lifestyle habits).</li>
+</ul>
+</section>
+<section id="carbon-footprint-calculators" class="level2">
+<h2 class="anchored" data-anchor-id="carbon-footprint-calculators">Carbon footprint calculators</h2>
+<p>You may use these online tools to assist your calculations:</p>
+<ul>
+<li>Cool Climate Network <a href="https://coolclimate.org/calculator">household calculator</a><br>
+</li>
+<li>EPA <a href="https://www.epa.gov/ghgemissions/carbon-footprint-calculator">carbon footprint calculator</a></li>
+</ul>
+</section>
+<section id="further-readings" class="level2">
+<h2 class="anchored" data-anchor-id="further-readings">Further readings</h2>
+<ul>
+<li>Jones, Christopher M., and Daniel M. Kammen. 2011. “Quantifying Carbon Footprint Reduction Opportunities for U.S. Households and Communities.” <em>Environmental Science &amp; Technology</em> 45 (9): 4088–95. <a href="https://doi.org/10.1021/es102221h" class="uri">https://doi.org/10.1021/es102221h</a>.</li>
+</ul>
 
 
 </section>
@@ -785,7 +686,7 @@ Feb 9, 2026
     <div class="nav-footer-center">
 <a href="https://drganghe.github.io/energy-climate-society/">Energy, Climate, and Society</a> class taught by <a href="http://drganghe.github.io">Gang He</a> ©
 <script>document.write(new Date().getFullYear())</script>
-</div>
+<div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/drganghe/energy-climate-society/edit/main/2026/hw1.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/drganghe/energy-climate-society/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li><li><a href="https://github.com/drganghe/energy-climate-society/blob/main/2026/hw1.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li></ul></div></div>
     <div class="nav-footer-right">
       &nbsp;
     </div>

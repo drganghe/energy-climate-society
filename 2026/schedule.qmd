@@ -14,18 +14,18 @@ repo-actions: false
 | ---- | ---- | -------------------------------------------- | ------------------------------------------- | ------------- |
 | 1    | 1/26 | [Introduction: Grand Challenges](/2026/lecture1.qmd)      |          |            |
 | 2    | 2/2  | [Numbers and Project Economics](/2026/lecture2.qmd)    |  |   PR1         |
-| 3    | 2/9  | Climate fundamentals and impact  |    |     PR2      | 
+| 3    | 2/9  | [Climate Fundamentals and Impacts](/2026/lecture3.qmd)  |    |     PR2      | 
 | 4    | 2/16 | **College Closed -- No session**   |       |     PR3       |
-| 5    | 2/23 | Energy systems overview   |   [Dr. Weila Gong](https://drganghe.github.io/climate-guest-speakers/speakers/weila-gong/)   |     HW1      |
-| 6    | 3/2  | Energy conversion technologies | [Andrew Rubenbauer](https://drganghe.github.io/climate-guest-speakers/speakers/andrew-rubenbauer/) | PR4        |
-| 7    | 3/9  | Energy demand, energy and economy  |   | HW2       |
-| 8    | 3/16 | Energy efficiency, behavior, and sustainable consumption  | [Anthony Afriyie](https://drganghe.github.io/climate-guest-speakers/speakers/anthony-afriyie/) TBC | PR5   |
-| 9    | 3/23 | Energy, environment, climate, and human health  | [Dr. Haozhe Yang](https://drganghe.github.io/climate-guest-speakers/speakers/haozhe-yang/)  | PR6       |
-| 10   | 3/30 | Energy and power systems transition | [Dr. Luo Xu](https://drganghe.github.io/climate-guest-speakers/speakers/luo-xu/) |     PM proposal       |
+| 5    | 2/23 | Energy Systems Overview   |   [Dr. Weila Gong](https://drganghe.github.io/climate-guest-speakers/speakers/weila-gong/)   |     HW1      |
+| 6    | 3/2  | Energy Conversion Technologies | [Andrew Rubenbauer](https://drganghe.github.io/climate-guest-speakers/speakers/andrew-rubenbauer/) | PR4        |
+| 7    | 3/9  | Energy Demand, Energy and Economy  |   | HW2       |
+| 8    | 3/16 | Energy Efficiency, Behavior, and Sustainable Consumption  | [Anthony Afriyie](https://drganghe.github.io/climate-guest-speakers/speakers/anthony-afriyie/) | PR5   |
+| 9    | 3/23 | Energy, Environment, Climate, and Human Health  | [Dr. Haozhe Yang](https://drganghe.github.io/climate-guest-speakers/speakers/haozhe-yang/)  | PR6       |
+| 10   | 3/30 | Energy and Power Systems Transition | [Dr. Luo Xu](https://drganghe.github.io/climate-guest-speakers/speakers/luo-xu/) |     PM proposal       |
 | 11   | 4/6  | **Spring Recess -- No session**           |   | HW3  |
-| 12   | 4/13 | Climate instruments and policies   |         |            |
-| 13   | 4/20 | Energy access and energy justice  |   | HW4   |
-| 14   | 4/27 | Uncertainties in policy analysis and review and summary     |  |       |
+| 12   | 4/13 | Climate Instruments and Policies   |         |            |
+| 13   | 4/20 | Energy Access and Energy Justice  |   | HW4   |
+| 14   | 4/27 | Uncertainties in Policy Analysis and Review and Summary     |  |       |
 | 15   | 5/4  | Presentations     |                    |           |
 | 16   | 5/11 | Presentations      |              |            |
 | 17   | 5/18 | Student Projects    |              |     Policy Memo        |

@@ -1,0 +1,67 @@
+---
+title: Assignment 1 Carbon Footprint Calculation
+
+format: 
+  html: 
+    theme: cosmo
+#    css: styles.css
+    toc: true
+    link-external-icon: false
+    link-external-newwindow: true
+  pdf: 
+    documentclass: article
+    #classoption: [landscape]
+    lof: false
+    lot: false
+    geometry:
+      - top=1in
+      - bottom=1in
+      - left=1in
+      - right=1in
+      - heightrounded
+    #fontfamily: xelatex
+    colorlinks: true
+#draft: true
+---
+
+Understanding your **carbon footprint** is the first step toward reducing it. This assignment will help you quantify the carbon emission associated with your daily activities, analyze the factors that drive your emissions, and connect them to the broad issue of global climate change.
+
+
+## Instructions
+
+1. Create a detailed inventory of your energy consuming activities (2pt)  
+
+  - Catergorize them into travel (e.g., driving, flights, public transit), home energy use(e.g.,lighting, cooking, heating, cooling), food choices, shopping habits, and other relevant categories. 
+  - Aim for as complete a list as possible to ensure an accurate assessment 
+
+2. Calculate your energy consumption (2pt)  
+
+  -	For each activity, estimate the amount of energy used (e.g., electricity in kWh, gasoline in gallons, natural gas in therms).  
+  -	Use utility bills, travel distances, or online references to guide your estimates.  
+
+3. Determin your carbon footprint (2pts) 
+
+  - Find appropriate emission factors for each energy source (e.g., kgCO~2~ per kWh of electricity, kgCO~2~ per gallon of gasoline). 
+  -	If exact data is unavailable, make reasonable assumptions and document them.
+  -	Calculate your daily and annual carbon footprint based on your energy consumption and emission factors.  
+
+4.	Analysis & mitigation strategies (1 pt)  
+
+  -	Identify areas where you can reduce your carbon footprint and propose practical steps to lower emissions.  
+  -	Discuss potential barriers to reducing emissions (e.g., financial constraints, infrastructure limitations, lifestyle habits).  
+
+
+## Carbon footprint calculators
+
+You may use these online tools to assist your calculations:
+
+- Cool Climate Network [household calculator](https://coolclimate.org/calculator)  
+- EPA [carbon footprint calculator](https://www.epa.gov/ghgemissions/carbon-footprint-calculator)
+
+
+## Further readings
+
+- Jones, Christopher M., and Daniel M. Kammen. 2011. “Quantifying Carbon Footprint Reduction Opportunities for U.S. Households and Communities.” *Environmental Science & Technology* 45 (9): 4088–95. <https://doi.org/10.1021/es102221h>.  
+
+
+

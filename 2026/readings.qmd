@@ -34,7 +34,7 @@ citations-hover: false
 - @GRUBLER20105174
 - @helveston_he_davidson_2022
 
-<!--
+
 
 ## Lecture 3
 
@@ -50,7 +50,7 @@ citations-hover: false
 - @pacala2004stabilization
 - @rennert2022comprehensive
 
-
+<!--
 ## Lecture 4
 
 - @ehrlich_impact_1971
