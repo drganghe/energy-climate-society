@@ -19,7 +19,7 @@ repo-actions: false
 | 5    | 2/23 | Energy systems overview   |   [Dr. Weila Gong](https://drganghe.github.io/climate-guest-speakers/speakers/weila-gong/)   |     HW1      |
 | 6    | 3/2  | Energy conversion technologies | [Andrew Rubenbauer](https://drganghe.github.io/climate-guest-speakers/speakers/andrew-rubenbauer/) | PR4        |
 | 7    | 3/9  | Energy demand, energy and economy  |   | HW2       |
-| 8    | 3/16 | Energy efficiency, behavior, and sustainable consumption  | [Anthony Afriyie](https://drganghe.github.io/climate-guest-speakers/speakers/anthony-afriyie/) TBC | PR5   |
+| 8    | 3/16 | Energy efficiency, behavior, and sustainable consumption  | [Anthony Afriyie](https://drganghe.github.io/climate-guest-speakers/speakers/anthony-afriyie/) | PR5   |
 | 9    | 3/23 | Energy, environment, climate, and human health  | [Dr. Haozhe Yang](https://drganghe.github.io/climate-guest-speakers/speakers/haozhe-yang/)  | PR6       |
 | 10   | 3/30 | Energy and power systems transition | [Dr. Luo Xu](https://drganghe.github.io/climate-guest-speakers/speakers/luo-xu/) |     PM proposal       |
 | 11   | 4/6  | **Spring Recess -- No session**           |   | HW3  |
