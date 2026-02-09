@@ -50,6 +50,19 @@ citations-hover: false
 - @pacala2004stabilization
 - @rennert2022comprehensive
 
+
+## Lecture 4
+
+- @ehrlich_impact_1971
+- @kaya_environment_1997
+- @pacala2004stabilization
+- @fridley2016impacts
+- @masters2013renewable 
+- @bergin2017large
+- @rennert2022comprehensive
+- @armitage_innovation_2023
+- @stechemesserClimatePoliciesThat2024
+
 <!--
 ## Lecture 4
 
