@@ -62,6 +62,7 @@ citations-hover: false
 - @rennert2022comprehensive
 - @armitage_innovation_2023
 - @stechemesserClimatePoliciesThat2024
+- @quagraineWeBreach152026
 
 <!--
 ## Lecture 4

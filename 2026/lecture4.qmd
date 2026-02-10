@@ -164,6 +164,19 @@ Source: @armitage_innovation_2023
 Source: @stechemesserClimatePoliciesThat2024
 :::
 
+
+## Temperature limits vs clean energy targets
+
+- Breach 1.5°C: 1.55°C (2024)
+- The clean energy transition
+- Short-term milestones vs long-term goals
+- Phasing out fossil fuels vs clean energy targets
+
+::: footer
+Source: @quagraineWeBreach152026
+:::
+
+
 ## What works what's not
 
 - Carbon tax vs. subsides\
