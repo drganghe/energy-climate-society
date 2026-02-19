@@ -15,16 +15,16 @@ repo-actions: false
 | 1    | 1/26 | [Introduction: Grand Challenges](/2026/lecture1.qmd)      |          |            |
 | 2    | 2/2  | [Numbers and Project Economics](/2026/lecture2.qmd)    |  |   PR1         |
 | 3    | 2/9  | [Climate Fundamentals and Impacts](/2026/lecture3.qmd)  |    |     PR2      | 
-| 4    | 2/16 | **College Closed -- No session**   |       |     PR3       |
-| 5    | 2/23 | [Climate Instruments and Policies](/2026/lecture4.qmd)  |   [Dr. Weila Gong](https://drganghe.github.io/climate-guest-speakers/speakers/weila-gong/)   |     HW1      |
-| 6    | 3/2  | Energy Systems Overview  | [Andrew Rubenbauer](https://drganghe.github.io/climate-guest-speakers/speakers/andrew-rubenbauer/) | PR4        |
-| 7    | 3/9  | Energy Conversion Technologies  |   | HW2       |
-| 8    | 3/16 | Energy Demand, Energy and Economy   | [Anthony Afriyie](https://drganghe.github.io/climate-guest-speakers/speakers/anthony-afriyie/) | PR5   |
+| 4    | 2/16 | **College Closed -- No session**   |       |     HW1       |
+| 5    | 2/23 | [Climate Instruments and Policies](/2026/lecture4.qmd)  |   [Dr. Weila Gong](https://drganghe.github.io/climate-guest-speakers/speakers/weila-gong/)   |     PR3      |
+| 6    | 3/2  | [Energy Systems Overview](/2026/lecture5.qmd)  | [Andrew Rubenbauer](https://drganghe.github.io/climate-guest-speakers/speakers/andrew-rubenbauer/) | PR4        |
+| 7    | 3/9  | [Energy Conversion Technologies](/2026/lecture6.qmd)  |   | PR5       |
+| 8    | 3/16 | Energy Demand, Energy and Economy   | [Anthony Afriyie](https://drganghe.github.io/climate-guest-speakers/speakers/anthony-afriyie/) | HW2   |
 | 9    | 3/23 | Energy, Environment, Climate, and Human Health  | [Dr. Haozhe Yang](https://drganghe.github.io/climate-guest-speakers/speakers/haozhe-yang/)  | PR6       |
 | 10   | 3/30 | Energy and Power Systems Transition | [Dr. Luo Xu](https://drganghe.github.io/climate-guest-speakers/speakers/luo-xu/) |     PM proposal       |
 | 11   | 4/6  | **Spring Recess -- No session**           |   | HW3  |
 | 12   | 4/13 |  Energy Efficiency, Behavior, and Sustainable Consumption  |         |            |
-| 13   | 4/20 | Energy Access and Energy Justice  |   | HW4   |
+| 13   | 4/20 | Energy Access and Energy Justice  |   |    |
 | 14   | 4/27 | Uncertainties in Policy Analysis and Review and Summary     |  |       |
 | 15   | 5/4  | Presentations     |                    |           |
 | 16   | 5/11 | Presentations      |              |            |
