@@ -199,6 +199,14 @@ Source: Read more: @armitage_innovation_2023
 </center>
 
 
+## Carbon bathtub
+
+![]({{< var file_path >}}/images/atmosphere-bathtub.png){fig-align="center"}
+
+::: footer
+Source: [Understand Energy](https://understand-energy.stanford.edu/news/understand-climate-change)
+:::
+
 ## Energy sector emissions
 
 ![]({{< var file_path >}}/images/energy-emissions.png){fig-align="center"}

@@ -64,6 +64,15 @@ Source: [IEA](https://www.iea.org/sankey/)
 Source: [LLNL](https://flowcharts.llnl.gov/) 
 :::
 
+---
+
+![]({{< var file_path >}}/images/us-energy-consumption-by-source-sector-2024.webp){fig-align="center"}
+
+::: footer
+Source: [EIA](https://www.eia.gov/energyexplained/us-energy-facts/images/consumption-by-source-and-sector.pdf) 
+:::
+
+
 ## Energy by supply
 
 ![]({{< var file_path >}}/images/global-energy-supply-2024.svg){fig-align="center"}
