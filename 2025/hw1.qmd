@@ -30,12 +30,12 @@ Understanding your **carbon footprint** is the first step toward reducing it. Th
 ## Instructions
 
 1. Create a detailed inventory of your energy consuming activities (1pt)  
-  - Catergorize them into travel (e.g., driving, flights, public transit), home energy use(e.g.,lighting, cooking, heating, cooling), food choices, shopping habits, and other relevant categories. 
+  - Categorize them into travel (e.g., driving, flights, public transit), home energy use(e.g.,lighting, cooking, heating, cooling), food choices, shopping habits, and other relevant categories. 
   - Aim for as complete a list as possible to ensure an accurate assessment 
 2. Calculate your energy consumption (1pt)  
   -	For each activity, estimate the amount of energy used (e.g., electricity in kWh, gasoline in gallons, natural gas in therms).  
   -	Use utility bills, travel distances, or online references to guide your estimates.  
-3. Determin your carbon footprint (2pts) 
+3. Determine your carbon footprint (2pts) 
   - Find appropriate emission factors for each energy source (e.g., kgCO₂ per kWh of electricity, kgCO₂ per gallon of gasoline). 
   -	If exact data is unavailable, make reasonable assumptions and document them.
   -	Calculate your daily and annual carbon footprint based on your energy consumption and emission factors.  

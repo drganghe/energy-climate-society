@@ -84,7 +84,7 @@ Source: Source: [Secretory Jennifer Granholm](https://twitter.com/SecGranholm/st
 -   Climate change
     -   Impact
     -   Mitigation
-    -   Adaption
+    -   Adaptation
     -   Governance
 :::
 
@@ -133,7 +133,7 @@ Source: [Kimberly A Nicholas](https://www.kimnicholas.com/climate-change-curricu
 Source: [EIA](https://www.eia.gov/state/maps.php)
 :::
 
-## The Energy Trillemma: Balancing trade-offs
+## The Energy Trilemma: Balancing trade-offs
 
 ::: columns
 ::: {.column width="50%"}

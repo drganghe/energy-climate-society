@@ -27,7 +27,7 @@ title: Syllabus
 
 ## Class Readings
 
-This is a restricted list of various interesting and useful books that will be discussed during the course. You need to consult them occasionally, but they are optional.
+This is a selected list of interesting and useful books that will be discussed during the course. You may consult them occasionally; they are optional.
 
 - Koomey, Jonathan, and Ian Monroe. 2022. Solving Climate Change: A Guide for Learners and Leaders. IOP Publishing. <https://iopscience.iop.org/book/mono/978-0-7503-4032-8>.
 - John Randolph, and Gilbert M. Masters. 2018. [Energy for Sustainability: Foundations for Technology, Planning, and Policy](https://islandpress.org/books/energy-sustainability-second-edition)(Second Edition). Island Press.

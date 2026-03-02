@@ -24,24 +24,24 @@ format:
 
 ## Introduction
 
-Your final project is a demonstration of your master of the concepts and skills discussed in the class. You can choose an energy related topic of your own interest. In each lecture, I listed sample analytic questions of the chapter and I hope that offers you some inspiration. I also post below sample topics.
+Your final project is a demonstration of your mastery of the concepts and skills discussed in the class. You can choose an energy-related topic of your own interest. In each lecture, I listed sample analytic questions of the chapter and I hope that offers you some inspiration. I also list some sample topics below.
 
 ### Sample policy memo topics
 
-- What would be an opitimal congestion price in NYC?
+- What would be an optimal congestion price in NYC?
 - Policies to enhance supply chains of offshore wind in NYS?
 - What NYSERDA should do to promote heat pump installations?
-- How to help disadvantaged communities to adapt climate change?
+- How to help disadvantaged communities adapt to climate change?
 
 
 ## Proposal
 
-Please submit an one-page proposal letting me know your topic, briefly explain why the topic, what data and analytic methods you plan to use, and any potential challenges and how would you address them.
+Please submit a one-page proposal letting me know your topic, briefly explaining why you chose it, what data and analytic methods you plan to use, and any potential challenges and how you would address them.
 
 
 ## Presentation
 
-Your presentation should about 15-20mins long summarizing your work. Please record your presentation with your video on or face visible. 
+Your presentation should be about 15–20 minutes long, summarizing your work. Please record your presentation with your video on or face visible. 
 
 Your presentation will be graded by the following criteria:
 
@@ -54,7 +54,7 @@ Your presentation will be graded by the following criteria:
 
 ## Policy Memo
 
-A typical policy includes an introduction (topic or problem), scope of problem, current approach, **proposed approach/policies and evidences**, conclusion. Your policy memo should be double spaced, 2-3 pages long, excluding appropriately cited references. 
+A typical policy memo includes an introduction (topic or problem), scope of problem, current approach, **proposed approach/policies and evidences**, and conclusion. Your policy memo should be double-spaced and 2–3 pages long, excluding appropriately cited references. 
 
 Your policy will be graded by the following criteria:
 

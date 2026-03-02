@@ -24,22 +24,22 @@ format:
 #draft: true
 ---
 
-Understanding your **carbon footprint** is the first step toward reducing it. This assignment will help you quantify the carbon emission associated with your daily activities, analyze the factors that drive your emissions, and connect them to the broad issue of global climate change.
+Understanding your **carbon footprint** is the first step toward reducing it. This assignment will help you quantify the carbon emissions associated with your daily activities, analyze the factors that drive your emissions, and connect them to the broad issue of global climate change.
 
 
 ## Instructions
 
-1. Create a detailed inventory of your energy consuming activities (2pt)  
+1. Create a detailed inventory of your energy-consuming activities (2 pt)  
 
-  - Catergorize them into travel (e.g., driving, flights, public transit), home energy use(e.g.,lighting, cooking, heating, cooling), food choices, shopping habits, and other relevant categories. 
-  - Aim for as complete a list as possible to ensure an accurate assessment 
+  - Categorize them into travel (e.g., driving, flights, public transit), home energy use (e.g., lighting, cooking, heating, cooling), food choices, shopping habits, and other relevant categories. 
+  - Aim for as complete a list as possible to ensure an accurate assessment. 
 
-2. Calculate your energy consumption (2pt)  
+2. Calculate your energy consumption (2 pt)  
 
   -	For each activity, estimate the amount of energy used (e.g., electricity in kWh, gasoline in gallons, natural gas in therms).  
   -	Use utility bills, travel distances, or online references to guide your estimates.  
 
-3. Determin your carbon footprint (2pts) 
+3. Determine your carbon footprint (2 pt) 
 
   - Find appropriate emission factors for each energy source (e.g., kgCO~2~ per kWh of electricity, kgCO~2~ per gallon of gasoline). 
   -	If exact data is unavailable, make reasonable assumptions and document them.

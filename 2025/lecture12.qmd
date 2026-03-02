@@ -125,7 +125,7 @@ Source: [IPCC](https://www.ipcc.ch/report/ar6/wg3/figures/summary-for-policymake
 - List all uncertain parameters  
 - Specify maximum range of values  
 - Specify subjective probability distribution for values within the range  
-- Determin and account for correlations  
+- Determine and account for correlations  
 - Probability distribution of model predictions  
 - Derive quantitative uncertainties 
 - Obtain additional data and repeat analysis if needed  
@@ -508,7 +508,7 @@ Nuclear fission
 </br>
 
 <p style="font-size:14pt; color:gray; text-align:center;">
-Nuclear fussion
+Nuclear fusion
 </p>
 :::
 

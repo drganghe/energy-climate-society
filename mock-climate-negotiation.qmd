@@ -102,7 +102,7 @@ Students write a short essay (1-2 pages) discussing their experiences, including
 1. Nationally Determined Contributions (NDCs): Ambition levels and timeline commitments.  
 2. Climate Finance: Funding mechanisms to support developing nations in mitigation and adaptation.  
 3. Loss and Damage: Compensation for climate-related damages in vulnerable nations.  
-4. Technological Transfers: Strategies for sharing clean energy technologies.  
+4. Technology Transfer: Strategies for sharing clean energy technologies.  
 5. Global Stocktake: Review and accountability mechanisms.  
 6. Adaptation: Strategies for responding to climate change.
 
@@ -113,7 +113,7 @@ Students write a short essay (1-2 pages) discussing their experiences, including
   - Nameplates for country/stakeholder delegations.
   - Access to a whiteboard or digital tool for drafting agreements.
 
-- Room Setup: Arrange desks in a U-shaped configuration to encourage discussion and create a formal negotiation atmosphere. Online Zoom virtual negotiation room background.
+- Room Setup: Arrange desks in a U-shaped configuration to encourage discussion and create a formal negotiation atmosphere. For online sessions, use a Zoom virtual negotiation room background.
 
 - Role of Instructor:
 
@@ -122,7 +122,7 @@ Students write a short essay (1-2 pages) discussing their experiences, including
 
 ## Learning Outcomes
 
-Students will learn:
+By the end of this activity, students will be able to:
 
 1. Understand the complexity of international climate negotiations and the importance of consensus-building.
 2. Develop skills in public speaking, negotiation, and teamwork.

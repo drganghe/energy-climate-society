@@ -69,7 +69,7 @@ Source: [Carbon Brief](https://www.carbonbrief.org/analysis-coal-power-drops-in-
 :::
 
 
-## US coal rebuncing?
+## US coal rebouncing?
 
 ![]({{< var file_path >}}/images/US-coal-rebouncing.png){fig-align="center"}
 
@@ -149,7 +149,7 @@ Learn more: <https://drganghe.github.io/climate-guest-speakers/>
 -   Climate change
     -   Impact
     -   Mitigation
-    -   Adaption
+    -   Adaptation
     -   Governance
 :::
 
@@ -193,11 +193,11 @@ Source: [Kimberly A Nicholas](https://www.kimnicholas.com/climate-change-curricu
 
 Data-driven, evidence-based, energy and climate policy
 
-Using analytic tool to answer questions such as:
+Using analytic tools to answer questions such as:
 
 -   What will be the climate future if we do nothing?
--   What technology to invest to achieve our climate goal?
--   What will be the impact to carbon emission of IRA?
+-   What technology to invest in to achieve our climate goals?
+-   What will be the impact of the IRA on carbon emissions?
 -   How NYS/NYC could achieve its climate goals?
 
 ## Two quotes about models
@@ -244,7 +244,7 @@ Models help us think
 
 -   **Risk**: System structural change could break our core data and assumptions that are based on historical experience. Example: shale gas revolution.
 
--   **Uncertainty**: The exact timing and character of pivotal events and technology changes is unpredictable. Example: renewables cost changes, fussion.
+-   **Uncertainty**: The exact timing and character of pivotal events and technology changes is unpredictable. Example: renewables cost changes, fusion.
 
 ::: footer
 Read more from [Jon Koomey](https://www.slideshare.net/jgkoomey/past-performance-is-no-guide-to-future-returns-why-we-cant-accurately-forecast-the-future)
@@ -258,7 +258,7 @@ Read more from [Jon Koomey](https://www.slideshare.net/jgkoomey/past-performance
 Source: [EIA](https://www.eia.gov/state/maps.php)
 :::
 
-## The Energy Trillemma: Balancing trade-offs
+## The Energy Trilemma: Balancing trade-offs
 
 ::: columns
 ::: {.column width="50%"}
@@ -273,7 +273,7 @@ Source: [EIA](https://www.eia.gov/state/maps.php)
 
 **Environmental Sustainability**: Avoid environmental harm or climate impact
 
-Those goals sometimes conflict with each other, and decisions has to make trade-offs between them
+Those goals sometimes conflict with each other, and decision-makers have to make trade-offs between them
 :::
 :::
 :::
@@ -302,7 +302,7 @@ Source: [World Energy Council](https://www.worldenergy.org/transition-toolkit/wo
 Source: [ICMA](https://icma.org/articles/article/growing-green-economy)
 :::
 
-## Energy great achievement
+## Energy: great achievements
 
 ![]({{< var file_path >}}/images/energy-great-achievement.png){fig-align="center"}
 
