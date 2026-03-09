@@ -64,6 +64,33 @@ citations-hover: false
 - @stechemesserClimatePoliciesThat2024
 - @quagraineWeBreach152026
 
+
+## Lecture 5
+
+- @smil2017energy 
+- @iea_net_2021
+- @bmwi_electricity_2015
+
+
+## Lecture 6
+
+- @masters2013renewable
+- @koomey2010defining
+- @liu_climate_2023
+- @chen2023deploying
+
+
+## Lecture 7
+
+- @swan2009modeling
+- @ehrlich1971impact
+- @lin2016economic
+- @borenstein2015microeconomic
+- @brockway2021energy
+- @meadows2018limits
+- @rao2018decent
+- @hong2016probabilistic
+
 <!--
 ## Lecture 4
 
