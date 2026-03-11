@@ -1,1 +1,4 @@
     file_path: "https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main"
+    course_name: "Energy, Climate, and Society"
+    course_link: "<https://drganghe.github.io/energy-climate-society/>"  #clickable with markdown <>
+    course_url: "https://drganghe.github.io/energy-climate-society/"

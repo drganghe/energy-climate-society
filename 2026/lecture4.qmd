@@ -18,7 +18,7 @@ format:
     center: true
     scrollable: true
     css: /custom.css
-    footer: <https://drganghe.github.io/energy-climate-society/>
+    footer: "{{< var course_link >}}"
 #draft: true    
 ---
 
@@ -117,6 +117,15 @@ Source: UNEP, [Emissions Gap Report 2025](https://www.unep.org/resources/emissio
 
 ::: footer
 Source: @pacala2004stabilization
+:::
+
+
+## Modernized stabilization wedges
+
+![]({{< var file_path >}}/images/modernized-stabilization-wedges.jpg){fig-align="center"}
+
+::: footer
+Source: @johnsonDemocratizingClimateChange2026
 :::
 
 
