@@ -18,7 +18,7 @@ format:
     center: true
     scrollable: true
     css: /custom.css
-    footer: <https://drganghe.github.io/energy-climate-society/>
+    footer: "{{< var course_url >}}"
 #draft: true
 ---
 
@@ -61,7 +61,7 @@ Source: IIASA, [Energy Primier](https://previous.iiasa.ac.at/web/home/research/F
 ![]({{< var file_path >}}/images/NREL-energy-air-quality-health-framework.jpg){fig-align="center"}
 
 ::: footer
-Source: [NREL](https://www.nrel.gov/analysis/air-quality.html) 
+Source: [NREL](https://www.nlr.gov/analysis/air-quality) 
 :::
 
 

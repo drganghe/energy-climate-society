@@ -19,7 +19,7 @@ format:
     center: true
     scrollable: true
     css: /custom.css
-    footer: <https://drganghe.github.io/energy-climate-society/>
+    footer: "{{< var course_url >}}"
 ---
 
 ## {background-color="black" background-image="https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/one-ton-co2.jpg"}

@@ -91,6 +91,20 @@ citations-hover: false
 - @rao2018decent
 - @hong2016probabilistic
 
+
+## Lecture 8
+
+- @iea2016airpollution
+- @lelieveld2015contribution
+- @zhang2017transboundary
+- @iea2016energywater
+- @zhang2021long
+- @loveringa2022land
+- @matteNPCC4ClimateChange2024
+- @romanello2024ReportLancet2024
+- @tipaldoFrameworkAgeingHealth2024
+
+
 <!--
 ## Lecture 4
 

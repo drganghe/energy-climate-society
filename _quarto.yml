@@ -45,7 +45,7 @@ website:
         href: https://github.com/drganghe/energy-climate-society
   page-navigation: true
   page-footer: 
-    center: "[Energy, Climate, and Society](https://drganghe.github.io/energy-climate-society/) class taught by [Gang He](http://drganghe.github.io) &copy; <script>document.write(new Date().getFullYear())</script>" 
+    center: "[Energy, Climate, and Society](https://drganghe.github.io/energy-climate-society/) open class taught by [Gang He](http://drganghe.github.io) &copy; <script>document.write(new Date().getFullYear())</script>" 
     # left: "[Gang He](http://drganghe.github.io) &copy; <script>document.write(new Date().getFullYear())</script>" 
     # right: 
     #   - icon: github
