@@ -21,10 +21,10 @@ repo-actions: false
 | 7    | 3/9  | [Energy Conversion Technologies](/2026/lecture6.qmd)  |   | PR5       |
 | 8    | 3/16 | [Energy, Economy, and Demand](/2026/lecture7.qmd)   | [Anthony Afriyie](https://drganghe.github.io/climate-guest-speakers/speakers/anthony-afriyie/) | HW2   |
 | 9    | 3/23 | [Energy, Environment, Climate, and Human Health](/2026/lecture8.qmd)  | [Dr. Haozhe Yang](https://drganghe.github.io/climate-guest-speakers/speakers/haozhe-yang/)  | PR6       |
-| 10   | 3/30 | Energy and Power Systems Transition |  |     PM proposal       |
-| 11   | 4/6  | **Spring Recess -- No session**           |   | HW3  |
+| 10   | 3/30 | [Energy and Power Systems Transition](/2026/lecture9.qmd) |  |    Climate position paper        |
+| 11   | 4/6  | **Spring Recess -- No session**           |   | PM proposal  |
 | 12   | 4/13 |  Energy Efficiency, Behavior, and Sustainable Consumption  |  [Elisabeth Cohen](https://drganghe.github.io/climate-guest-speakers/speakers/elisabeth-cohen/)    |            |
-| 13   | 4/20 | Energy Access and Energy Justice  |   |    |
+| 13   | 4/20 | Energy Access and Energy Justice  |   |   HW3 |
 | 14   | 4/27 | Uncertainties in Policy Analysis and Review and Summary     | [Dr. Luo Xu](https://drganghe.github.io/climate-guest-speakers/speakers/luo-xu/) |       |
 | 15   | 5/4  | Presentations     |                    |           |
 | 16   | 5/11 | Presentations      |              |            |
