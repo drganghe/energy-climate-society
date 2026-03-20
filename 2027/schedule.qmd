@@ -1,0 +1,33 @@
+---
+title: Spring 2027 Course Schedule
+page-layout: full
+repo-actions: false
+---
+
+<!--This is my personal clarity, please delete or replace with your own clarity-->
+{{< include /files/includes/_msclarity.qmd >}}
+
+
+| Week | Date | Lecture | Topics | Assignment |
+| - | - | ------------- | -------------- | --- |
+| 1    | 2/1  | Introduction: Grand Challenges | | |
+| 2    | 2/8  | Numbers and Project Economics | | PR1 |
+| 3    | 2/15 | **College Closed -- No session** | | PR2 |
+| 4    | 2/22 | Climate Fundamentals and Impacts | | HW1 |
+| 5    | 3/1  | Climate Instruments and Policies | | PR3 |
+| 6    | 3/8  | Energy Systems Overview | | PR4 |
+| 7    | 3/15 | Energy Conversion Technologies | | PR5 |
+| 8    | 3/22 | Energy, Economy, and Demand | | HW2 |
+| 9    | 3/29 | Energy, Environment, Climate, and Human Health | | PR6 |
+| 10   | 4/5  | Energy and Power Systems Transition | | CPP |
+| 11   | 4/12 | Energy Efficiency, Behavior, and Sustainable Consumption | | PMP |
+| 12   | 4/19 | Energy Access and Energy Justice | | |
+| 13   | 4/26 | **Spring Recess -- No session** | | HW3 |
+| 14   | 5/3  | Uncertainties in Policy Analysis and Review and Summary | | |
+| 15   | 5/10 | Presentations | | |
+| 16   | 5/17 | Presentations | | |
+| 17   | 5/24 | Student Projects | | PM |
+
+: {.striped .responsive}
+
+Note: PR--Policy Response, HW--Homework Assignment, PM--Policy Memo, CPP--Climate Position Paper, PMP--Policy Memo Proposal
