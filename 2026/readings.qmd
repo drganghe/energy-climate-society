@@ -1,10 +1,21 @@
 ---
 title: Readings
 bibliography: ../readings.bib
-csl: chicago-syllabus.csl
-suppress-bibliography: true
-link-citations: false
-citations-hover: false
+csl: ../files/chicago-author-date.csl   # any CSL style
+nocite: "@*"                   # make all entries available to citeproc
+filters:
+  - full-citation
+
+# https://petrbouchal.xyz/quarto-full-citation/
+# Extension options (defaults shown):
+full-citation-suppress-bibliography: true
+full-citation-attachments: false
+full-citation-all: true
+
+# csl: chicago-syllabus.csl
+# suppress-bibliography: true
+# link-citations: false
+# citations-hover: false
 ---
 
 <!--This is my personal clarity, please delete or replace with your own clarity-->
@@ -118,6 +129,7 @@ citations-hover: false
 - @mulugetta2022africa
 - @johnston2019switch
 - @he_rapid_2020
+- @nijsseMomentumSolarEnergy2023
 
 <!--
 ## Lecture 4
