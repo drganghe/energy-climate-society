@@ -66,7 +66,7 @@ Source: [LBL](https://newscenter.lbl.gov/wp-content/uploads/sites/2/2021/04/Half
 
 ## Soft path vs. hard path{.smaller}
 
-![]({{< var file_path >}}/images/hard-soft-path.png){fig-align="center"}
+![]({{< var file_path >}}/images/hard-soft-path-2025.png){fig-align="center"}
 
 ::: columns
 
