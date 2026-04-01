@@ -131,6 +131,15 @@ full-citation-all: true
 - @he_rapid_2020
 - @nijsseMomentumSolarEnergy2023
 
+
+## Lecture 10
+
+- @gillingham2009energy
+- @gillingham2013energy
+- @iea_net_2021
+- @thalerNudge2021
+
+
 <!--
 ## Lecture 4
 
