@@ -148,6 +148,7 @@ full-citation-all: true
 - @sunter2019disparities
 - @cong2022unveiling
 - @fosterNPCC4AdvancingClimate2024
+- @bakerMetricsDecisionMakingEnergy2023
 
 
 <!--

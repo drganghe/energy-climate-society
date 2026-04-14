@@ -159,7 +159,13 @@ Source: @sunter2019disparities
 Source: @cong2022unveiling
 :::
 
+## Metrics for decision-making in energy justice
 
+![]({{< var file_path >}}/images/energy-justice-decision-metrics.png){fig-align="center"}
+
+::: footer
+Source: @bakerMetricsDecisionMakingEnergy2023
+:::
 
 ## Just transition framework
 
@@ -190,7 +196,7 @@ Communities Criteria](https://climate.ny.gov/Our-Climate-Act/Disadvantaged-Commu
 :::
 
 
-## Land use, cliamte risk, and social vulnerability
+## Land use, climate risk, and social vulnerability
 
 ![]({{< var file_path >}}/images/land-use-climate-risk-social-vulnerability.png){fig-align="center"}
 
