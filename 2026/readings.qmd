@@ -151,6 +151,27 @@ full-citation-all: true
 - @bakerMetricsDecisionMakingEnergy2023
 
 
+## Lecture 12
+
+- @lee2021empirical
+- @yu2018deepsolar
+- @kruitwagen2021global
+- @ratledge2022using
+- @rolnick2022tackling
+- @kaack2022aligning
+
+
+## Lecture 13
+
+- @craig2002what
+- @supran_assessing_2023
+- @hausfather2020evaluating
+- @macknick_energy_2011
+- @hodges1992you
+- @peng2021climate
+- @peng2021surprisingly
+- @saltelli2020five
+
 <!--
 ## Lecture 4
 

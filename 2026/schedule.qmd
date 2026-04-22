@@ -25,8 +25,8 @@ repo-actions: false
 | 11   | 4/6  | **Spring Recess -- No session**           |   | PM proposal  |
 | 12   | 4/13 | [Energy Efficiency, Behavior, and Sustainable Consumption](/2026/lecture10.qmd)  |  [Elisabeth Cohen](https://drganghe.github.io/climate-guest-speakers/speakers/elisabeth-cohen/)    |            |
 | 13   | 4/20 | [Energy Access and Energy Justice](/2026/lecture11.qmd)  |   |  HW3 |
-| 14   | 4/27 | Uncertainties in Policy Analysis and Review and Summary     | [Dr. Luo Xu](https://drganghe.github.io/climate-guest-speakers/speakers/luo-xu/) |       |
-| 15   | 5/4  | Presentations     |                    |           |
+| 14   | 4/27 | [AI and Big Data for Energy and Climate](/2026/lecture12.qmd)     | [Dr. Luo Xu](https://drganghe.github.io/climate-guest-speakers/speakers/luo-xu/) |       |
+| 15   | 5/4  | [Uncertainties in Policy Analysis and Review and Summary](/2026/lecture13.qmd)     |                    |           |
 | 16   | 5/11 | Presentations      |              |            |
 | 17   | 5/18 | Student Projects    |              |     Policy Memo        |
 
