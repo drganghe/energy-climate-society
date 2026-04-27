@@ -115,9 +115,10 @@ Perspective:
 - 2017: AlphaZero, Capsule Networks
 - 2018: AlphaFold 1, BERT
 - 2021: AlphaFold 2
-- 2023: ChatGPT
+- 2022: ChatGPT
+- 2023: ChatGPT-4, Meta LLaMA
 - 2024: Deepseek
-- 2025: Gemini Deep Research 
+- 2025: Gemini Deep Research, Claude Code
 :::
 :::
 
@@ -267,6 +268,15 @@ Source: @kaack2022aligning
 
 ::: footer
 Source: LBL, [2024 Report on U.S. Data Center Energy Use](https://eta-publications.lbl.gov/sites/default/files/2024-12/lbnl-2024-united-states-data-center-energy-usage-report.pdf)
+:::
+
+
+## Regional distribution
+
+![]({{< var file_path >}}/images/data-center-electricity-share-by-states.jpeg){fig-align="center"}
+
+::: footer
+Source: EPRI, [Powering Intelligence 2026: Updated Scenarios of U.S. Data Center Electricity Use and Power Strategies](https://www.epri.com/research/products/000000003002034696)
 :::
 
 
