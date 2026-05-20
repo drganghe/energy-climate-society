@@ -1,0 +1,67 @@
+---
+title: "Student Projects"
+subtitle: "Projects by students"
+page-layout: full
+listing: 
+# - id: stories
+#   sort: "date desc"
+#   type: grid
+#   fields: [image, title, subtitle, description, date]
+#   grid-item-align: left
+#   grid-columns: 2
+#   image-height: 200px
+# #  categories: true
+# #  sort-ui: true
+# #  filter-ui: true
+#   contents: students.yml
+#   include: 
+#     categories: "story"   #only include students with this category
+- id: projects
+  sort: "name asc"
+  type: table
+  fields: [name, project, semester]
+  field-display-names: 
+    name: "Name"
+    project: "Project"
+    semester: "Semester"
+#  grid-item-align: left
+#  grid-columns: 3
+#  image-height: 200px
+#  categories: true
+  sort-ui: true
+  filter-ui: true
+  contents: 
+    - students.yml
+  include: 
+    categories: "project"   #only include students with this category
+format:
+  html:
+    include-after-body:
+      text: |
+        <style>
+          /* Target the listing table columns specifically */
+          .quarto-listing-table th:nth-child(1), 
+          .quarto-listing-table td:nth-child(1) { width: 15%; } /* Name */
+          
+          .quarto-listing-table th:nth-child(2), 
+          .quarto-listing-table td:nth-child(2) { width: 70%; } /* Project */
+          
+          .quarto-listing-table th:nth-child(3), 
+          .quarto-listing-table td:nth-child(3) { width: 15%; } /* Semester */
+
+        </style>
+
+---
+
+<!--Please delete or replace with your own clarity-->
+{{< include /files/includes/_msclarity.qmd >}}
+
+:::{#projects}
+:::
+
+
+{{< include /files/includes/_studentform.qmd >}}
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

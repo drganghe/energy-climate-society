@@ -1,0 +1,106 @@
+    # - path: https://newscenter.baruch.cuny.edu/news/baruch-college-student-wins-fellowship-to-germany/
+    #   image: https://newscenter.baruch.cuny.edu/wp-content/uploads/sites/24/2024/04/Valerie-Chlafer_2024-CBYX-Fellowship.gif
+    #   title: "Valerie Chlafer Wins Fellowship to Germany"
+    #   description: "Valerie Chlafer, a public affairs major and an aspiring Foreign Service Officer, is the fifth Baruch undergraduate to be chosen for U.S. State Department’s Congress-Bundestag Youth Exchange for Young Professionals program."
+    #   date: "2024-04-02"
+    #   categories: [story] 
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Anthony A."
+      project: "Strengthening Puerto Rico’s Energy Grid Through Solar Microgrids"
+#      author: 
+#      subtitle: ""
+      semester: "Spring 2026"
+      categories: [project] 
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Tahir A."
+      project: "Restructuring Climate Finance to Bangladesh: From Debt Trap to Development Partnership"
+#      author: 
+#      subtitle: ""
+      semester: "Spring 2026"
+      categories: [project]       
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Emmanuel A."
+      project: "Climate Negotiation Position Memo for Ghana"
+#      author: 
+#      subtitle: ""
+      semester: "Spring 2026"
+      categories: [project] 
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Christopher C."
+      project: "Expanding Energy Storage and Grid Infrastructure to Improve Morocco's Solar Reliability and Reduce Fossil Fuel Dependency by 2030"
+#      author: 
+#      subtitle: ""
+      semester: "Spring 2026"
+      categories: [project] 
+
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Ammar E."
+      project: "Building Bangladesh's Grid for the Rooppur Nuclear Era"
+#      author: 
+#      subtitle: ""
+      semester: "Spring 2026"
+      categories: [project] 
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "J. L. J."
+      project: "Balancing Coal Phase-Down and Energy Security in China"
+#      author: 
+#      subtitle: ""
+      semester: "Spring 2026"
+      categories: [project] 
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Giacomo M."
+      project: "Enhancing Clean Energy in New Jersey: Transitioning to 100% Clean Energy by 2035"
+#      author: 
+#      subtitle: ""
+      semester: "Spring 2026"
+      categories: [project] 
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Eva S."
+      project: "Electrifying NYC’s Ambulance Fleet"
+#      author: 
+#      subtitle: ""
+      semester: "Spring 2026"
+      categories: [project] 
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Giannica C."
+      project: "Scaling Offshore Wind Energy on the U.S. East Coast to Advance Decarbonization, Grid Reliability, and Economic Growth"
+#      author: 
+#      subtitle: ""
+      semester: "Spring 2026"
+      categories: [project] 
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Beelen G."
+      project: "From Fossil Fuels to Clean Heat: A Path Forward for New York City"
+#      author: 
+#      subtitle: ""
+      semester: "Spring 2026"
+      categories: [project]       
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Laia C."
+      project: "Preventing a Cost and Reliability Spiral in New York’s Gas Distribution Transition"
+#      author: 
+#      subtitle: ""
+      semester: "Spring 2026"
+      categories: [project]       

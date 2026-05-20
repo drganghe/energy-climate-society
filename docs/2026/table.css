@@ -1,0 +1,18 @@
+
+/* Limit overall table size or columns */
+.quarto-listing-table {
+  width: 100%;
+}
+
+/* Force specific column widths */
+.listing-name {
+  width: 20%;
+}
+
+.listing-project {
+  width: 60%;
+}
+
+.listing-semester {
+  width: 20%;
+}

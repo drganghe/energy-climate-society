@@ -8,6 +8,7 @@ repo-actions: false
 {{< include /files/includes/_msclarity.qmd >}}
 
 - [Readings](readings.qmd)
+- [Students](students.qmd)
 
 
 | Week | Date | Lecture    | Guest Speaker   | Assignment |
@@ -28,7 +29,7 @@ repo-actions: false
 | 14   | 4/27 | [AI and Big Data for Energy and Climate](/2026/lecture12.qmd)     | [Dr. Luo Xu](https://drganghe.github.io/climate-guest-speakers/speakers/luo-xu/) |       |
 | 15   | 5/4  | [Uncertainties in Policy Analysis and Review and Summary](/2026/lecture13.qmd)     |                    |           |
 | 16   | 5/11 | Presentations      |              |            |
-| 17   | 5/18 | Student Projects    |              |     Policy Memo        |
+| 17   | 5/18 | [Student Projects](students.qmd)    |              |     Policy Memo        |
 
 : {.striped .responsive}
 
