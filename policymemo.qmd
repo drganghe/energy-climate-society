@@ -66,6 +66,7 @@ Your policy will be graded by the following criteria:
 
 ## Student Projects
 
+- [Spring 2026](/2026/students.qmd)
 - [Spring 2025](/2025/students.qmd)
 - [Fall 2023](/2023/students.qmd)
 
